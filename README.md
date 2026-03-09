@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📊 SWAT-Bench
+# SWAT-Bench
 
-**Structured Data Analysis Benchmark for Local LLMs**
+**Social Work Analysis Tasks Benchmark for Evaluating Local LLMs on Structured Data Analysis**
 
 [![Tasks](https://img.shields.io/badge/Tasks-55-blue?style=for-the-badge)](#exam-structure)
 [![Points](https://img.shields.io/badge/Points-435-green?style=for-the-badge)](#exam-structure)
@@ -62,6 +62,7 @@ Before recommending these tools to practitioners, we need rigorous evidence of t
 - **Subjective interpretation** — Every task has objectively verifiable correct answers
 - **Internet access or APIs** — All data is provided as local files
 - **Data visualization** — Chart quality cannot be auto-scored deterministically
+- **Unstructured text analysis** — NLP tasks (Domain 6) operate on structured/semi-structured text fields within tabular data, not on free-form documents or unstructured corpora
 
 ### 🎯 Scoring
 
