@@ -40,8 +40,8 @@ Before recommending these tools to practitioners, we need rigorous evidence of t
 <tr><td><strong>Total tasks</strong></td><td><code>55</code></td></tr>
 <tr><td><strong>Total points</strong></td><td><code>435</code></td></tr>
 <tr><td><strong>Domains</strong></td><td><code>7</code></td></tr>
-<tr><td><strong>Standard library only</strong></td><td>46 tasks</td></tr>
-<tr><td><strong>External libraries</strong></td><td>9 tasks (pandas, numpy, scipy, statsmodels, sklearn, pingouin)</td></tr>
+<tr><td><strong>Standard library only</strong></td><td>45 tasks</td></tr>
+<tr><td><strong>External libraries</strong></td><td>10 tasks (pandas, numpy, scipy, statsmodels, sklearn, pingouin)</td></tr>
 <tr><td><strong>Completion time</strong></td><td>~30–90 min (model-dependent)</td></tr>
 </table>
 
@@ -57,12 +57,12 @@ Before recommending these tools to practitioners, we need rigorous evidence of t
 
 ### ❌ What We Do NOT Test
 
-- **Package installation** — 46 of 55 tasks use only the Python standard library; the remaining 9 use pre-installed libraries
+- **Package installation** — 45 of 55 tasks use only the Python standard library; the remaining 10 use pre-installed libraries
 - **Predictive modeling / ML** — Regression tasks examine associations; no classifiers or forecasting
 - **Subjective interpretation** — Every task has objectively verifiable correct answers
 - **Internet access or APIs** — All data is provided as local files
 - **Data visualization** — Chart quality cannot be auto-scored deterministically
-- **Unstructured text analysis** — NLP tasks (Domain 6) operate on structured/semi-structured text fields within tabular data, not on free-form documents or unstructured corpora
+- **LLM-based text extraction or classification** — NLP tasks (Domain 6) test the model's ability to *write code* that performs pattern matching, tokenization, and lexicon lookup on structured text fields within tabular data. We do not test the LLM's own language understanding to extract or classify free-form text
 
 ### 🎯 Scoring
 
@@ -115,30 +115,30 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 
 ### 📊 Score Breakdown
 
-| Model | D1–6 Mean / 352 | D1–6 SD | D7 Mean / 83 | D7 SD | Combined / 435 |
-|:------|:---:|:---:|:---:|:---:|:---:|
-| Qwen3.5-27B | 349.9 | ±1.1 | **83.0** | ±0.0 | **432.9** |
-| Qwen3.5-122B-A10B | 349.5 | ±1.5 | 81.7 | ±1.2 | 431.2 |
-| Qwen3-Coder-Next | 347.8 | ±1.5 | 81.0 | ±2.6 | 428.8 |
-| Qwen3.5-35B-A3B | 343.8 | ±3.4 | 81.0 | ±2.0 | 424.8 |
-| Qwen3-Coder-30B | 331.0 | ±2.8 | 77.3 | ±4.6 | 408.3 |
-| Qwen3.5-9B Q8 | 328.8 | ±12.3 | 78.0 | ±5.2 | 406.8 |
-| Qwen3.5-9B Q4 | 313.5 | ±6.4 | 73.3 | ±6.4 | 386.8 |
+| Model | D1–6 Mean / 352 | D1–6 SD | D7 Mean / 83 | D7 SD | Combined / 435 | **%** |
+|:------|:---:|:---:|:---:|:---:|:---:|:---:|
+| Qwen3.5-27B | 349.9 | ±1.1 | **83.0** | ±0.0 | **432.9** | **99.5%** |
+| Qwen3.5-122B-A10B | 349.5 | ±1.5 | 81.7 | ±1.2 | 431.2 | 99.1% |
+| Qwen3-Coder-Next | 347.8 | ±1.5 | 81.0 | ±2.6 | 428.8 | 98.6% |
+| Qwen3.5-35B-A3B | 343.8 | ±3.4 | 81.0 | ±2.0 | 424.8 | 97.6% |
+| Qwen3-Coder-30B | 331.0 | ±2.8 | 77.3 | ±4.6 | 408.3 | 93.9% |
+| Qwen3.5-9B Q8 | 328.8 | ±12.3 | 78.0 | ±5.2 | 406.8 | 93.5% |
+| Qwen3.5-9B Q4 | 313.5 | ±6.4 | 73.3 | ±6.4 | 386.8 | 88.9% |
 
 > [!TIP]
 > **Qwen3.5-27B Q4** achieved a perfect 83/83 on all 3 Domain 7 runs — the only model to do so — and had the lowest overall variability (SD ±1.1). The 9B models show the highest run-to-run variance (SD ±9–13), suggesting smaller models are more sensitive to prompt framing and random seed effects.
 
 ### ⚡ Efficiency (Domains 1–6, single representative run)
 
-| Model | D1–6 Score | Time | Tokens | Tokens/Point | Tool Calls |
-|:------|------:|-----:|-------:|-------------:|-----------:|
-| Qwen3.5-27B | 99.4% | 2h 43m | 9.6M | 26,934 | 421 |
-| Qwen3.5-122B-A10B | 99.3% | 3h 27m | 6.3M | 17,799 | 323 |
-| Qwen3-Coder-Next | 98.8% | 3h 53m | 9.3M | 26,015 | 430 |
-| Qwen3.5-35B-A3B | 97.7% | 1h 18m | 10.0M | 28,515 | 404 |
-| Qwen3-Coder-30B | 94.0% | 1h 03m | 16.4M | 48,314 | 666 |
-| Qwen3.5-9B Q8 | 93.4% | 1h 53m | 15.0M | 46,645 | 597 |
-| Qwen3.5-9B Q4 | 89.1% | 1h 56m | 16.9M | 52,026 | 598 |
+| Model | Overall **%** | D1–6 Score | Time | Tokens | Tokens/Point | Tool Calls |
+|:------|:---:|------:|-----:|-------:|-------------:|-----------:|
+| Qwen3.5-27B | **99.5%** | 99.4% | 2h 43m | 9.6M | 26,934 | 421 |
+| Qwen3.5-122B-A10B | 99.1% | 99.3% | 3h 27m | 6.3M | 17,799 | 323 |
+| Qwen3-Coder-Next | 98.6% | 98.8% | 3h 53m | 9.3M | 26,015 | 430 |
+| Qwen3.5-35B-A3B | 97.6% | 97.7% | 1h 18m | 10.0M | 28,515 | 404 |
+| Qwen3-Coder-30B | 93.9% | 94.0% | 1h 03m | 16.4M | 48,314 | 666 |
+| Qwen3.5-9B Q8 | 93.5% | 93.4% | 1h 53m | 15.0M | 46,645 | 597 |
+| Qwen3.5-9B Q4 | 88.9% | 89.1% | 1h 56m | 16.9M | 52,026 | 598 |
 
 ### 🚧 Hardest Tasks (Failed by 3+ Models)
 
@@ -170,8 +170,8 @@ The constraints below ensure the exam measures **analytical capability** and not
 
 When a model fails because `pip install scipy` didn't work, the benchmark has measured the test environment — not the model's statistical knowledge. SWAT-Bench eliminates this variable:
 
-- **46 of 55 tasks** use only the Python standard library (`csv`, `math`, `statistics`, `re`, `json`, `datetime`). The model must implement procedures from formulas, testing comprehension of the underlying mathematics.
-- **9 tasks** permit pre-installed libraries for analyses where from-scratch implementation would be unreasonable.
+- **45 of 55 tasks** use only the Python standard library (`csv`, `math`, `statistics`, `re`, `json`, `datetime`). The model must implement procedures from formulas, testing comprehension of the underlying mathematics.
+- **10 tasks** permit pre-installed libraries for analyses where from-scratch implementation would be unreasonable.
 - **No task requires matplotlib, seaborn, or any visualization library.**
 
 This constraint also has a pedagogical benefit: a model that implements the Mann-Whitney U test from the formula demonstrates deeper statistical reasoning than one that calls `scipy.stats.mannwhitneyu()`.
@@ -350,7 +350,7 @@ This matters for:
 | [5-04](tasks/task-5-04-cost-effectiveness/) | **Cost-Effectiveness Analysis** | 10 | pandas |
 | [5-05](tasks/task-5-05-racial-disproportionality/) | **Racial Disproportionality** | 7 | stdlib |
 | [5-06](tasks/task-5-06-risk-assessment/) | **Risk Assessment Validation** | 7 | stdlib |
-| [5-07](tasks/task-5-07-cronbachs-alpha/) | **Cronbach's Alpha** | 8 | stdlib |
+| [5-07](tasks/task-5-07-cronbachs-alpha/) | **Cronbach's Alpha** | 8 | pandas/numpy/scipy |
 | [5-08](tasks/task-5-08-state-level-trend-analysis/) | **State-Level Trend Analysis** | 8 | stdlib |
 
 <details>
@@ -362,7 +362,7 @@ This matters for:
 - **5-04 — Cost-Effectiveness Analysis.** Calculate total and per-client costs, cost per outcome unit, and ICERs.
 - **5-05 — Racial Disproportionality.** Compute referral rates by race, disproportionality indices, and relative risk ratios.
 - **5-06 — Risk Assessment Validation.** Compute confusion matrix metrics, AUC via trapezoidal rule, and optimal cutoff using Youden's J.
-- **5-07 — Cronbach's Alpha.** Parse a two-row header survey, identify reverse-coded items, compute alpha, item-total correlations, and alpha-if-deleted.
+- **5-07 — Cronbach's Alpha.** Parse a two-row header survey, apply reverse coding to specified items, compute alpha, item-total correlations, and alpha-if-deleted.
 - **5-08 — State-Level Trend Analysis.** Analyze geographic and temporal trends in fatal police shootings.
 
 </details>

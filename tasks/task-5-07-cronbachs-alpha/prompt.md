@@ -2,7 +2,7 @@ A faculty member is validating a test anxiety instrument and needs to compute re
 
 # Task: Compute Scale Reliability and Score a Survey Instrument
 
-Compute Cronbach's alpha for a test anxiety survey instrument. The survey contains both positively and negatively worded items on a 4-point Likert scale that must be identified and reverse-coded before computing reliability and total scores.
+Compute Cronbach's alpha for a test anxiety survey instrument. The survey contains both positively and negatively worded items on a 4-point Likert scale. Positively worded items must be reverse-coded before computing reliability and total scores.
 
 ## Input Files
 
@@ -33,10 +33,23 @@ Compute Cronbach's alpha for a test anxiety survey instrument. The survey contai
    - Key findings and results  
    - A verification section with intermediate values or sample outputs that allows a human reviewer to confirm correctness
 
+## Reverse-Coded Items
+
+The following 9 items are positively worded and must be reverse-scored on the 4-point scale (1↔4, 2↔3) before computing reliability and total scores:
+
+- **Q15** — "I have less difficulty than the average college student in getting test instructions straight."
+- **Q17** — "I am less nervous about tests than the average college student."
+- **Q20** — "The prospect of taking a test is one of my courses would not cause me to worry."
+- **Q21** — "I am more calm in test situations than the average college student."
+- **Q22** — "I have less difficulty than the average college student in learning assigned chapters in textbooks."
+- **Q25** — "I will do well in speed tests in which there are time limits."
+- **Q29** — "Before taking a test, I feel confident and relaxed."
+- **Q30** — "While taking a test, I feel confident and relaxed."
+- **Q33** — "Finding unexpected questions on a test causes me to feel challenged rather than panicky."
+
 ## Constraints
 
-- Use only the Python standard library (no pandas, scipy, numpy, etc.)
-- Identify reverse-coded items by reading the question text — positively worded items should be reverse-scored. Positive wording includes expressions of calmness, confidence, competence, lack of difficulty, lack of worry, or positive coping (e.g., "I feel confident," "I have less difficulty," "does not cause me to worry," "feel challenged rather than panicky"). There are approximately 8-10 such items in this instrument.
+- You may use pandas, numpy, and/or scipy if helpful
 - Handle the two-row header structure
 - Exclude respondents with missing Likert data from reliability calculations
 - Do not hardcode file paths — read from the current directory
@@ -45,7 +58,7 @@ Compute Cronbach's alpha for a test anxiety survey instrument. The survey contai
 ## Evaluation Criteria
 
 - Correct identification of the two-row header structure
-- Correct identification of which items need reverse coding
+- Correct application of reverse coding to the specified items
 - Accurate Cronbach's alpha computation (raw and with reverse coding)
 - Corrected item-total correlations computed for each item
 - Alpha-if-item-deleted computed for each item

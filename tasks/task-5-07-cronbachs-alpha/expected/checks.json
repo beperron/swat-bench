@@ -24,10 +24,9 @@
     },
     {
       "label": "reverse_coded_items",
-      "type": "numeric",
+      "type": "exact",
       "pattern": "Reverse-coded items: (\\d+)",
       "expected": 9,
-      "tolerance": 1,
       "points": 1.0
     },
     {
