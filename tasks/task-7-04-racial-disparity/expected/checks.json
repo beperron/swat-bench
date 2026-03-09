@@ -2,7 +2,6 @@
   "test_id": "task-7-04",
   "task_name": "Racial Disparity in Substantiation",
   "domain": "Multi-Step Data Analysis",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

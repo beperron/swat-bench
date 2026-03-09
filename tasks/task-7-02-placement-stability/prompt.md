@@ -1,6 +1,8 @@
 # Task 7-02: Placement Stability by Child Age and Race
 
-**Difficulty:** Advanced | **Points:** 18
+**Points:** 18
+
+> **Date format:** All date columns in these files use **US format: MM/DD/YYYY** (month/day/year). For example, `01/25/2019` is January 25, 2019.
 
 ## Context
 

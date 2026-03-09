@@ -2,7 +2,6 @@
   "test_id": "task-2-01",
   "task_name": "Data Filtering",
   "domain": "Data Preparation & Transformation",
-  "difficulty": "Foundational",
   "checks": [
     {
       "type": "execution",

@@ -2,7 +2,6 @@
   "test_id": "task-5-02",
   "task_name": "Pearson Correlation Matrix",
   "domain": "Applied Social Work Analytics",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

@@ -81,6 +81,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "Missing Data Mechanisms",
-  "domain": "Data Cleaning & Validation",
-  "difficulty": "Intermediate"
+  "domain": "Data Cleaning & Validation"
 }

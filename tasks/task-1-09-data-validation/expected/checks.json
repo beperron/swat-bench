@@ -2,7 +2,6 @@
   "test_id": "task-1-09",
   "task_name": "Data Validation",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Advanced",
   "checks": [
     {
       "label": "code_runs",

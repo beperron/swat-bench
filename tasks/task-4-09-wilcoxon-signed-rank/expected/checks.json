@@ -2,7 +2,6 @@
   "test_id": "task-4-09",
   "task_name": "Wilcoxon Signed Rank",
   "domain": "Inferential Statistics",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

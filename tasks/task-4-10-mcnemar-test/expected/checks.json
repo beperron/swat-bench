@@ -2,7 +2,6 @@
   "test_id": "task-4-10",
   "task_name": "Mcnemar Test",
   "domain": "Inferential Statistics",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

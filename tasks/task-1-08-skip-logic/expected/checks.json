@@ -2,7 +2,6 @@
   "test_id": "task-1-08",
   "task_name": "Skip Logic",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Advanced",
   "checks": [
     {
       "label": "code_runs",

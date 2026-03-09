@@ -83,6 +83,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "ANOVA with Post-Hoc Tests",
-  "domain": "Inferential Statistics",
-  "difficulty": "Intermediate"
+  "domain": "Inferential Statistics"
 }

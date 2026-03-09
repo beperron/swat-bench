@@ -2,7 +2,6 @@
   "test_id": "task-4-06",
   "task_name": "Mann Whitney U",
   "domain": "Inferential Statistics",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "type": "execution",

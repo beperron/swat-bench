@@ -2,7 +2,6 @@
   "test_id": "task-1-03",
   "task_name": "Outlier Detection",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

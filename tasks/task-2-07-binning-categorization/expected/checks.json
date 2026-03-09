@@ -2,7 +2,6 @@
   "test_id": "task-2-07",
   "task_name": "Binning Categorization",
   "domain": "Data Preparation & Transformation",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

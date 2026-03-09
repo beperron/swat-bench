@@ -2,7 +2,6 @@
   "test_id": "task-3-02",
   "task_name": "Percentiles Quartiles",
   "domain": "Descriptive Statistics & Measurement",
-  "difficulty": "Foundational",
   "checks": [
     {
       "type": "execution",

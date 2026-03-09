@@ -2,7 +2,6 @@
   "test_id": "task-7-02",
   "task_name": "Placement Stability by Age & Race",
   "domain": "Multi-Step Data Analysis",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

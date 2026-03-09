@@ -82,6 +82,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "Weighted Disparity Analysis",
-  "domain": "Descriptive Statistics & Measurement",
-  "difficulty": "Intermediate"
+  "domain": "Descriptive Statistics & Measurement"
 }

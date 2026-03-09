@@ -2,7 +2,6 @@
   "test_id": "task-5-05",
   "task_name": "Racial Disproportionality",
   "domain": "Applied Social Work Analytics",
-  "difficulty": "Advanced",
   "checks": [
     {
       "label": "code_runs",

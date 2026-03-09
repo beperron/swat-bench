@@ -78,6 +78,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "Long-to-Wide Reshape",
-  "domain": "Data Preparation & Transformation",
-  "difficulty": "Intermediate"
+  "domain": "Data Preparation & Transformation"
 }

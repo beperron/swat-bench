@@ -2,7 +2,6 @@
   "test_id": "task-2-02",
   "task_name": "Wide To Long",
   "domain": "Data Preparation & Transformation",
-  "difficulty": "Foundational",
   "checks": [
     {
       "label": "code_runs",

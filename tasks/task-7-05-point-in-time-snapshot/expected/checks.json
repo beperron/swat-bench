@@ -2,7 +2,6 @@
   "test_id": "task-7-05",
   "task_name": "Point-in-Time Foster Care Snapshot",
   "domain": "Multi-Step Data Analysis",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

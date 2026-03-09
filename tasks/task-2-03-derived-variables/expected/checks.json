@@ -2,7 +2,6 @@
   "test_id": "task-2-03",
   "task_name": "Derived Variables",
   "domain": "Data Preparation & Transformation",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

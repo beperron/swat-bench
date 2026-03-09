@@ -2,7 +2,6 @@
   "test_id": "task-5-06",
   "task_name": "Risk Assessment",
   "domain": "Applied Social Work Analytics",
-  "difficulty": "Advanced",
   "checks": [
     {
       "label": "code_runs",

@@ -2,7 +2,6 @@
   "test_id": "task-7-01",
   "task_name": "Allegation-to-Removal Funnel",
   "domain": "Multi-Step Data Analysis",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

@@ -2,7 +2,6 @@
   "test_id": "task-4-11",
   "task_name": "Fisher Exact Test",
   "domain": "Inferential Statistics",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

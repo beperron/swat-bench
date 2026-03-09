@@ -83,6 +83,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "Multiple Regression",
-  "domain": "Inferential Statistics",
-  "difficulty": "Intermediate"
+  "domain": "Inferential Statistics"
 }

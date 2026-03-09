@@ -1,6 +1,8 @@
 # Task 7-03: Time-to-Permanency with Re-entry Flagging
 
-**Difficulty:** Advanced | **Points:** 16
+**Points:** 16
+
+> **Date format:** All date columns in these files use **US format: MM/DD/YYYY** (month/day/year). For example, `01/25/2019` is January 25, 2019.
 
 ## Context
 

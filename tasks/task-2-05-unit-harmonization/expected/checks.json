@@ -2,7 +2,6 @@
   "test_id": "task-2-05",
   "task_name": "Unit Harmonization",
   "domain": "Data Preparation & Transformation",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

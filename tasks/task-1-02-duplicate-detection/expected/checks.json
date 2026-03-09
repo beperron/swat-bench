@@ -2,7 +2,6 @@
   "test_id": "task-1-02",
   "task_name": "Duplicate Detection",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Foundational",
   "checks": [
     {
       "label": "code_runs",

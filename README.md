@@ -176,6 +176,14 @@ When a model fails because `pip install scipy` didn't work, the benchmark has me
 
 This constraint also has a pedagogical benefit: a model that implements the Mann-Whitney U test from the formula demonstrates deeper statistical reasoning than one that calls `scipy.stats.mannwhitneyu()`.
 
+### Unambiguous Prompts
+
+SWAT-Bench is designed to test analytical capability, not a model's ability to resolve ambiguous instructions. Every prompt fully specifies the method, output format, and data conventions needed to produce the correct answer. Where conventions vary across locales or disciplines, the prompt states which convention to use.
+
+For example, all date columns explicitly specify `(MM/DD/YYYY)` — US month/day/year format — with a worked example (`01/25/2019` = January 25, 2019). This is particularly important because many open-weight models are trained on multilingual corpora where DD/MM/YYYY is the dominant convention. A model that misparses a date due to prompt ambiguity has failed because of an unclear task description, not because of a capability gap — and that is not what this benchmark measures.
+
+Similarly, where statistical methods have variant implementations (e.g., Welch's vs. Student's t-test, linear interpolation vs. nearest-rank for percentiles), the prompt specifies which method to use so that the correct answer is deterministic.
+
 ### One Task, One Analytical Question
 
 Each task asks one coherent analytical question. A task may involve multiple computational steps, but it does not bundle unrelated analyses into a single prompt. (Domain 7 is the exception — see [Multi-Step Tasks](#-domain-7-multi-step-data-analysis--5-tasks-83-points).)

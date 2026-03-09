@@ -2,7 +2,6 @@
   "test_id": "task-4-04",
   "task_name": "One Way Anova",
   "domain": "Inferential Statistics",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

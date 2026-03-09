@@ -2,7 +2,6 @@
   "test_id": "task-7-03",
   "task_name": "Time-to-Permanency with Re-entry",
   "domain": "Multi-Step Data Analysis",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

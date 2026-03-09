@@ -2,7 +2,6 @@
   "test_id": "task-1-07",
   "task_name": "Codebook Application",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Advanced",
   "checks": [
     {
       "label": "code_runs",

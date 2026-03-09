@@ -2,7 +2,6 @@
   "test_id": "task-5-03",
   "task_name": "Effect Sizes",
   "domain": "Applied Social Work Analytics",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

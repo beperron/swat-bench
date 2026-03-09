@@ -81,6 +81,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "Keyword Frequency with Wildcard Matching",
-  "domain": "Text & Natural Language Processing",
-  "difficulty": "Advanced"
+  "domain": "Text & Natural Language Processing"
 }

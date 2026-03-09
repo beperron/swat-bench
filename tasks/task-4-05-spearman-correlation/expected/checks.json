@@ -2,7 +2,6 @@
   "test_id": "task-4-05",
   "task_name": "Spearman Correlation",
   "domain": "Inferential Statistics",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "type": "execution",

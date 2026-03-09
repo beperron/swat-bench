@@ -83,6 +83,5 @@
   "auto_points": 10,
   "human_points": 0,
   "task_name": "Intraclass Correlation",
-  "domain": "Inferential Statistics",
-  "difficulty": "Advanced"
+  "domain": "Inferential Statistics"
 }

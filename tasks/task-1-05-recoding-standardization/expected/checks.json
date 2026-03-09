@@ -2,7 +2,6 @@
   "test_id": "task-1-05",
   "task_name": "Recoding Standardization",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "label": "code_runs",

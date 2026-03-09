@@ -2,7 +2,6 @@
   "test_id": "task-2-04",
   "task_name": "Multi File Merge",
   "domain": "Data Preparation & Transformation",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "type": "execution",

@@ -76,6 +76,5 @@
   "auto_points": 9,
   "human_points": 0,
   "task_name": "Interrupted Time Series",
-  "domain": "Inferential Statistics",
-  "difficulty": "Advanced"
+  "domain": "Inferential Statistics"
 }

@@ -2,7 +2,6 @@
   "test_id": "task-1-01",
   "task_name": "Missing Data",
   "domain": "Data Cleaning & Validation",
-  "difficulty": "Foundational",
   "checks": [
     {
       "label": "code_runs",

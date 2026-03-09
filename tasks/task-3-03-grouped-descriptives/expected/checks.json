@@ -2,7 +2,6 @@
   "test_id": "task-3-03",
   "task_name": "Grouped Descriptives",
   "domain": "Descriptive Statistics & Measurement",
-  "difficulty": "Intermediate",
   "checks": [
     {
       "type": "execution",

@@ -2,7 +2,6 @@
   "test_id": "task-3-06",
   "task_name": "Confidence Intervals",
   "domain": "Descriptive Statistics & Measurement",
-  "difficulty": "Advanced",
   "checks": [
     {
       "type": "execution",

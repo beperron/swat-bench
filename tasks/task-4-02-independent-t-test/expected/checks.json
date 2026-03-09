@@ -2,7 +2,6 @@
   "test_id": "task-4-02",
   "task_name": "Independent T Test",
   "domain": "Inferential Statistics",
-  "difficulty": "Foundational",
   "checks": [
     {
       "label": "code_runs",
