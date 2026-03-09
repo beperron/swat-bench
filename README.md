@@ -7,7 +7,7 @@
 [![Tasks](https://img.shields.io/badge/Tasks-55-blue?style=for-the-badge)](#exam-structure)
 [![Points](https://img.shields.io/badge/Points-435-green?style=for-the-badge)](#exam-structure)
 [![Domains](https://img.shields.io/badge/Domains-7-orange?style=for-the-badge)](#domain-distribution)
-[![Top Score](https://img.shields.io/badge/Top_Score-99.3%25-brightgreen?style=for-the-badge)](#-leaderboard)
+[![Top Score](https://img.shields.io/badge/Top_Score-99.5%25-brightgreen?style=for-the-badge)](#-leaderboard)
 
 *Can a locally-hosted LLM produce correct Python code for structured data analysis tasks?*
 
