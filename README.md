@@ -1,28 +1,53 @@
-# SWAT-Bench
+<div align="center">
 
-**Structured Data Analysis Benchmark for Local LLMs in Social Work Research**
+# 📊 SWAT-Bench
 
-<p align="center">
-<strong>55 tasks</strong> · <strong>435 points</strong> · <strong>7 domains</strong>
-</p>
+**Structured Data Analysis Benchmark for Local LLMs**
+
+[![Tasks](https://img.shields.io/badge/Tasks-55-blue?style=for-the-badge)](#exam-structure)
+[![Points](https://img.shields.io/badge/Points-435-green?style=for-the-badge)](#exam-structure)
+[![Domains](https://img.shields.io/badge/Domains-7-orange?style=for-the-badge)](#domain-distribution)
+[![Top Score](https://img.shields.io/badge/Top_Score-99.3%25-brightgreen?style=for-the-badge)](#-leaderboard)
+
+*Can a locally-hosted LLM produce correct Python code for structured data analysis tasks?*
+
+</div>
 
 ---
 
-SWAT-Bench (Social Work Analysis Tasks Benchmark) evaluates whether locally-hosted large language models can serve as reliable research assistants for structured data analysis tasks commonly encountered in social work practice and research settings.
+## 🎯 Overview
 
-> **Can a local LLM, given a structured dataset and a clear analytical task description, produce correct Python code that executes successfully and returns accurate results?**
+**SWAT-Bench** (Social Work Analysis Tasks Benchmark) evaluates whether locally-hosted large language models can serve as reliable research assistants for structured data analysis. Each task provides a dataset and a clear analytical prompt — the model must write Python code that executes correctly and returns accurate, auto-scored results.
 
-## Why This Benchmark?
+> [!NOTE]
+> **Domain-general by design.** While every task is framed within a social work context (child welfare, mental health, substance use, housing, criminal justice, health equity), the benchmark deliberately avoids requiring domain expertise. The analytical tasks — data cleaning, statistical tests, rate calculations, multi-file merges — are skills that could be formulated in any applied research setting. Social work provides realistic data structures, but the computational requirements are entirely self-contained in the prompt.
 
-Social work agencies, researchers, and doctoral students increasingly rely on data analysis for program evaluation, clinical outcome tracking, needs assessments, and policy research. However, many social work professionals lack advanced programming skills, and access to commercial AI tools raises data privacy concerns when working with protected client information (HIPAA, FERPA, 42 CFR Part 2).
+### 🔒 Why Local LLMs?
 
-Locally-hosted LLMs offer a compelling solution: an AI coding assistant that runs entirely on institutional hardware, never transmitting sensitive client data to external servers. But before recommending these tools to practitioners, we need rigorous evidence of their capabilities and limitations on the specific types of data tasks social workers actually perform.
+Social work agencies, researchers, and doctoral students increasingly rely on data analysis for program evaluation, clinical outcome tracking, and policy research. However:
 
-**Important design note:** While every task is framed within a social work context (child welfare, mental health, substance use treatment, housing, criminal justice, health equity), the benchmark deliberately avoids requiring domain expertise to produce correct answers. The analytical tasks — data cleaning, statistical tests, rate calculations, multi-file merges — are domain-general skills that could be formulated in any applied research setting. Social work provides the contextual scaffolding and realistic data structures, but the computational requirements are entirely self-contained in the prompt. This makes SWAT-Bench's task designs readily adaptable to other fields.
+- Many social work professionals lack advanced programming skills
+- Protected client information (HIPAA, FERPA, 42 CFR Part 2) raises data privacy concerns with cloud AI
+- Locally-hosted LLMs run entirely on institutional hardware, never transmitting sensitive data externally
 
-### What We Test
+Before recommending these tools to practitioners, we need rigorous evidence of their capabilities and limitations.
 
-| # | Capability | Description |
+---
+
+## 🏗️ Exam Structure
+
+<table>
+<tr><td><strong>Total tasks</strong></td><td><code>55</code></td></tr>
+<tr><td><strong>Total points</strong></td><td><code>435</code></td></tr>
+<tr><td><strong>Domains</strong></td><td><code>7</code></td></tr>
+<tr><td><strong>Standard library only</strong></td><td>46 tasks</td></tr>
+<tr><td><strong>External libraries</strong></td><td>9 tasks (pandas, numpy, scipy, statsmodels, sklearn, pingouin)</td></tr>
+<tr><td><strong>Completion time</strong></td><td>~30–90 min (model-dependent)</td></tr>
+</table>
+
+### ✅ What We Test
+
+| | Capability | Description |
 |:-:|:-----------|:------------|
 | 1 | **Data Comprehension** | Read a CSV, understand structure, identify variables, types, and record counts |
 | 2 | **Statistical Reasoning** | Select the correct procedure for a research question (e.g., non-parametric when skewed) |
@@ -30,28 +55,15 @@ Locally-hosted LLMs offer a compelling solution: an AI coding assistant that run
 | 4 | **Output Formatting** | Produce results in a specified format for automated scoring |
 | 5 | **Result Extraction** | Correctly compute and report numerical results (effect sizes, p-values, cutoffs) |
 
-### What We Do NOT Test
+### ❌ What We Do NOT Test
 
-- **Package installation** — 46 of 55 tasks use only the Python standard library; the remaining 9 use pre-installed libraries the model is told are available
+- **Package installation** — 46 of 55 tasks use only the Python standard library; the remaining 9 use pre-installed libraries
 - **Predictive modeling / ML** — Regression tasks examine associations; no classifiers or forecasting
 - **Subjective interpretation** — Every task has objectively verifiable correct answers
 - **Internet access or APIs** — All data is provided as local files
 - **Data visualization** — Chart quality cannot be auto-scored deterministically
 
----
-
-## Exam Structure
-
-| Metric | Value |
-|:-------|:------|
-| Total tasks | **55** |
-| Total points | **435** |
-| Domains | **7** |
-| Standard library only | 46 tasks |
-| External libraries | 9 tasks (pandas, numpy, scipy, statsmodels, sklearn, pingouin) |
-| Completion time | ~30–90 min (model-dependent) |
-
-### Scoring
+### 🎯 Scoring
 
 Each task is scored automatically by `score_test.py`, which executes the model's `solution.py`, captures stdout, and checks output against expected values:
 
@@ -68,53 +80,53 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 
 | | Domain | Tasks | Points |
 |:-:|:-------|------:|-------:|
-| 1 | Data Cleaning & Validation | 9 | 57 |
-| 2 | Data Preparation & Transformation | 8 | 52 |
-| 3 | Descriptive Statistics & Measurement | 7 | 45 |
-| 4 | Inferential Statistics | 15 | 113 |
-| 5 | Applied Social Work Analytics | 8 | 56 |
-| 6 | Text & Natural Language Processing | 3 | 29 |
-| 7 | Multi-Step Data Analysis | 5 | 83 |
+| 🧹 | Data Cleaning & Validation | 9 | 57 |
+| 🔄 | Data Preparation & Transformation | 8 | 52 |
+| 📏 | Descriptive Statistics & Measurement | 7 | 45 |
+| 📐 | Inferential Statistics | 15 | 113 |
+| 🏛️ | Applied Social Work Analytics | 8 | 56 |
+| 💬 | Text & Natural Language Processing | 3 | 29 |
+| 🔗 | Multi-Step Data Analysis | 5 | 83 |
 | | **Total** | **55** | **435** |
 
 ---
 
-## Benchmark Results
+## 📈 Benchmark Results
 
-> **Run 1** — March 2026 · Qwen Code CLI v0.10.6 + Ollama · Temp 0.3 · All 7 domains (55 tasks, 435 pts)
+> [!IMPORTANT]
+> **Run 1** — March 2026 · Qwen Code CLI v0.10.6 + Ollama · Temperature 0.3 · All 7 domains
 >
-> *Domains 1–6 scored from a single run per model. Domain 7 scored as the mean of 3 independent runs per model to account for cascade variance in multi-step tasks.*
+> Domains 1–6 scored from a single run per model. Domain 7 scored as the mean of 3 independent runs per model to account for cascade variance in multi-step tasks. All models ran locally on **2x NVIDIA RTX A6000** (98 GB VRAM) via llama.cpp / Ollama — no cloud APIs.
 
-### Leaderboard
+### 🏆 Leaderboard
 
-| Rank | Model | Total Params | Active Params | Quant | D1–6 | D7 (mean of 3) | Combined | % |
-|:----:|:------|-------------:|-------------:|:-----:|-----:|------:|------:|--:|
-| 1 | **Qwen3.5-27B** | 27.8B | 27.8B | Q4 | 349.0 | 83.0 | **432.0 / 435** | **99.3%** |
-| 2 | **Qwen3-Coder-Next** | 79.7B | 3.0B | Q4 | 349.5 | 81.0 | **430.5 / 435** | **99.0%** |
-| 3 | **Qwen3.5-122B-A10B** | 125.1B | 10.0B | Q4 | 348.0 | 81.7 | **429.7 / 435** | **98.8%** |
+| Rank | Model | Params | Active | Quant | D1–6 | D7 (×3) | **Combined** | **%** |
+|:----:|:------|-------:|-------:|:-----:|-----:|--------:|-----------:|------:|
+| 🥇 | **Qwen3.5-27B** | 27.8B | 27.8B | Q4 | 349.0 | 83.0 | **432.0 / 435** | **99.3%** |
+| 🥈 | **Qwen3-Coder-Next** | 79.7B | 3.0B | Q4 | 349.5 | 81.0 | **430.5 / 435** | **99.0%** |
+| 🥉 | **Qwen3.5-122B-A10B** | 125.1B | 10.0B | Q4 | 348.0 | 81.7 | **429.7 / 435** | **98.8%** |
 | 4 | Qwen3.5-35B-A3B | 36.0B | 3.0B | Q4 | 344.0 | 81.0 | 425.0 / 435 | 97.7% |
 | 5 | Qwen3-Coder-30B | 30.5B | 3.3B | Q4 | 333.0 | 77.3 | 410.3 / 435 | 94.3% |
 | 6 | Qwen3.5-9B Q8 | 9.7B | 9.7B | Q8 | 317.0 | 78.0 | 395.0 / 435 | 90.8% |
 | 7 | Qwen3.5-9B Q4 | 9.7B | 9.7B | Q4 | 319.5 | 73.3 | 392.8 / 435 | 90.3% |
 
-> All models ran locally on 2x NVIDIA RTX A6000 (98 GB VRAM total) via llama.cpp / Ollama. No cloud APIs were used.
-
-### Performance by Domain
+### 📊 Performance by Domain
 
 | Domain | Pts | Q3.5-27B | Q3-Coder-Next | Q3.5-122B | Q3.5-35B | Q3-Coder-30B | Q3.5-9B Q8 | Q3.5-9B Q4 |
 |:-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 — Cleaning | 57 | 98.2% | 97.4% | 96.5% | 97.4% | 93.9% | 93.9% | 93.9% |
-| 2 — Preparation | 52 | 100.0% | 100.0% | 100.0% | 99.0% | 100.0% | 76.9% | 95.2% |
-| 3 — Descriptive | 45 | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 81.1% |
-| 4 — Inferential | 113 | 96.7% | 97.5% | 97.5% | 98.4% | 91.4% | 93.0% | 91.0% |
-| 5 — Applied | 56 | 100.0% | 100.0% | 100.0% | 91.1% | 89.3% | 89.3% | 87.5% |
-| 6 — NLP | 29 | 100.0% | 100.0% | 100.0% | 100.0% | 93.1% | 69.0% | 89.7% |
-| 7 — Multi-Step | 83 | **100.0%** | 97.6% | 98.4% | 97.6% | 93.2% | 94.0% | 88.4% |
-| **Overall** | **435** | **99.3%** | **99.0%** | **98.8%** | **97.7%** | **94.3%** | **90.8%** | **90.3%** |
+| 🧹 Cleaning | 57 | 98.2% | 97.4% | 96.5% | 97.4% | 93.9% | 93.9% | 93.9% |
+| 🔄 Preparation | 52 | 100.0% | 100.0% | 100.0% | 99.0% | 100.0% | 76.9% | 95.2% |
+| 📏 Descriptive | 45 | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 81.1% |
+| 📐 Inferential | 113 | 96.7% | 97.5% | 97.5% | 98.4% | 91.4% | 93.0% | 91.0% |
+| 🏛️ Applied | 56 | 100.0% | 100.0% | 100.0% | 91.1% | 89.3% | 89.3% | 87.5% |
+| 💬 NLP | 29 | 100.0% | 100.0% | 100.0% | 100.0% | 93.1% | 69.0% | 89.7% |
+| 🔗 Multi-Step | 83 | **100.0%** | 97.6% | 98.4% | 97.6% | 93.2% | 94.0% | 88.4% |
+| | **435** | **99.3%** | **99.0%** | **98.8%** | **97.7%** | **94.3%** | **90.8%** | **90.3%** |
 
-> Domain 7 percentages reflect the mean across 3 independent runs. Qwen3.5-27B Q4 achieved a perfect 83/83 on all 3 runs.
+> [!TIP]
+> **Qwen3.5-27B Q4** achieved a perfect 83/83 on all 3 Domain 7 runs — the only model to do so. Domain 7 proved most discriminative: the 11.6 pp gap between best (100.0%) and worst (88.4%) exceeds the 9.2 pp gap on Domains 1–6, confirming that cascade-dependent multi-step tasks amplify capability differences.
 
-### Efficiency (Domains 1–6)
+### ⚡ Efficiency (Domains 1–6)
 
 | Model | D1–6 Score | Time | Tokens | Tokens/Point | Tool Calls |
 |:------|------:|-----:|-------:|-------------:|-----------:|
@@ -126,31 +138,33 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 | Qwen3.5-9B Q8 | 90.1% | 1h 53m | 15.0M | 46,645 | 597 |
 | Qwen3.5-9B Q4 | 90.8% | 1h 56m | 16.9M | 52,026 | 598 |
 
-### Hardest Tasks (Failed by 3+ Models)
+### 🚧 Hardest Tasks (Failed by 3+ Models)
 
 | Task | Domain | Pts | Models Failed | Score Range |
 |:-----|:------:|:---:|:-------------:|:------------|
-| Date Cleaning | D1 | 6 | 5/7 | 67–92% |
-| One-Way ANOVA | D4 | 7 | 4/7 | 71–86% |
-| Intraclass Correlation | D4 | 10 | 4/7 | 80–90% |
-| Cronbach's Alpha | D5 | 8 | 4/7 | 25–62% |
-| Outlier Detection | D1 | 6 | 3/7 | 92% |
-| Missing Data Mechanisms | D1 | 10 | 3/7 | 90% |
-| Wide to Long | D2 | 6 | 3/7 | 0–92% |
-| Mann-Whitney U | D4 | 6 | 3/7 | 75–83% |
-| Keyword Frequency | D6 | 9 | 3/7 | 67–78% |
+| Date Cleaning | 🧹 D1 | 6 | 5/7 | 67–92% |
+| One-Way ANOVA | 📐 D4 | 7 | 4/7 | 71–86% |
+| Intraclass Correlation | 📐 D4 | 10 | 4/7 | 80–90% |
+| Cronbach's Alpha | 🏛️ D5 | 8 | 4/7 | 25–62% |
+| Outlier Detection | 🧹 D1 | 6 | 3/7 | 92% |
+| Missing Data Mechanisms | 🧹 D1 | 10 | 3/7 | 90% |
+| Wide to Long | 🔄 D2 | 6 | 3/7 | 0–92% |
+| Mann-Whitney U | 📐 D4 | 6 | 3/7 | 75–83% |
+| Keyword Frequency | 💬 D6 | 9 | 3/7 | 67–78% |
 
-> **Key insight:** The hardest single-step tasks involve date parsing edge cases, p-value approximation for hand-coded statistical tests, and psychometric analyses (ICC confidence intervals, reverse-coded Cronbach's alpha). Domain 7 multi-step tasks proved more discriminative at the lower end of the capability spectrum: the gap between the top model (100.0%) and the bottom model (88.4%) is 11.6 percentage points, compared to 9.2 points on Domains 1–6 alone. This confirms that cascade-dependent multi-step tasks amplify capability differences.
+> [!NOTE]
+> **Key insight:** The hardest single-step tasks involve date parsing edge cases, p-value approximation for hand-coded statistical tests, and psychometric analyses (ICC confidence intervals, reverse-coded Cronbach's alpha). These patterns suggest that smaller models struggle most with precision requirements in multi-step mathematical derivations.
 
 ---
 
-## Design Constraints
+## 🛡️ Design Constraints
 
-The constraints below ensure the exam measures analytical capability and nothing else.
+The constraints below ensure the exam measures **analytical capability** and nothing else.
 
 ### No Dependency Installation
 
-**No task may require the model to install a Python package.** This is the single most important design constraint.
+> [!IMPORTANT]
+> **No task may require the model to install a Python package.** This is the single most important design constraint.
 
 When a model fails because `pip install scipy` didn't work, the benchmark has measured the test environment — not the model's statistical knowledge. SWAT-Bench eliminates this variable:
 
@@ -162,26 +176,31 @@ This constraint also has a pedagogical benefit: a model that implements the Mann
 
 ### One Task, One Analytical Question
 
-Each task asks one coherent analytical question. A task may involve multiple computational steps, but it does not bundle unrelated analyses into a single prompt. (Domain 7 is the exception — see [Multi-Step Tasks](#domain-7-multi-step-data-analysis--5-tasks-83-points).)
+Each task asks one coherent analytical question. A task may involve multiple computational steps, but it does not bundle unrelated analyses into a single prompt. (Domain 7 is the exception — see [Multi-Step Tasks](#-domain-7-multi-step-data-analysis--5-tasks-83-points).)
 
-This matters for **diagnostic precision** (if a compound task scores 6/10, which capability failed?), **fair scoring** (one early error shouldn't cascade through unrelated checks), and **prompt clarity** (focused instructions produce fewer formatting errors).
+This matters for:
+- **Diagnostic precision** — if a compound task scores 6/10, which capability failed?
+- **Fair scoring** — one early error shouldn't cascade through unrelated checks
+- **Prompt clarity** — focused instructions produce fewer formatting errors
 
 ### Additional Constraints
 
-1. **Structured data only.** CSV, JSON, or similar tabular/semi-structured files. No images, audio, or video.
-2. **Deterministic correct answers.** Every scored check has an objectively correct answer. Where methods could produce different valid answers, the prompt specifies which method to use.
-3. **Output format is fully specified.** The prompt includes an exact stdout format template.
-4. **Social work context.** Each task provides a brief scenario (child welfare, mental health, substance use, housing, criminal justice, health equity) that frames the analysis.
-5. **Reproducibility.** All input data is deterministically generated (`random.seed(42)`) or sourced from stable public datasets.
-6. **Reasonable tolerances.** Numeric checks account for legitimate implementation differences (e.g., different OLS solvers).
-7. **Task independence.** Each task is self-contained. No task depends on the output of another.
-8. **Required output files.** Every task requires `solution.py` and stdout in the specified format.
+| | Constraint | Detail |
+|:-:|:-----------|:-------|
+| 1 | **Structured data only** | CSV, JSON, or similar tabular/semi-structured files. No images, audio, or video |
+| 2 | **Deterministic answers** | Every scored check has an objectively correct answer. Ambiguous methods are specified |
+| 3 | **Output format specified** | Each prompt includes an exact stdout format template |
+| 4 | **Social work context** | Each task provides a brief scenario framing the analysis |
+| 5 | **Reproducibility** | All input data is deterministically generated (`random.seed(42)`) or from stable public datasets |
+| 6 | **Reasonable tolerances** | Numeric checks account for legitimate implementation differences |
+| 7 | **Task independence** | Each task is self-contained — no task depends on another |
+| 8 | **Required outputs** | Every task requires `solution.py` and stdout in the specified format |
 
 ---
 
-## Task Catalog
+## 📋 Task Catalog
 
-### Domain 1: Data Cleaning & Validation — 9 tasks, 57 points
+### 🧹 Domain 1: Data Cleaning & Validation — 9 tasks, 57 points
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -196,7 +215,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 | [1-09](tasks/task-1-09-data-validation/) | **Comprehensive Data Validation** | 6 | stdlib |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **1-01 — Missing Data Assessment.** Compute total records, missing values per column, complete vs. incomplete case counts, the column with the most missing data, and overall percent complete.
 - **1-02 — Duplicate Detection.** Identify exact duplicate rows and conflicting records, produce deduplication counts, and output a cleaned CSV.
@@ -212,7 +231,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 
 ---
 
-### Domain 2: Data Preparation & Transformation — 8 tasks, 52 points
+### 🔄 Domain 2: Data Preparation & Transformation — 8 tasks, 52 points
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -226,7 +245,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 | [2-08](tasks/task-2-08-aggregation/) | **Aggregation** | 7 | stdlib |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **2-01 — Data Filtering.** Apply four sequential filters, report intermediate counts, and compute summary statistics.
 - **2-02 — Wide to Long Reshape.** Reshape longitudinal foster care data to long format, handle missing values, compute mean scores by time point.
@@ -241,7 +260,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 
 ---
 
-### Domain 3: Descriptive Statistics & Measurement — 7 tasks, 45 points
+### 📏 Domain 3: Descriptive Statistics & Measurement — 7 tasks, 45 points
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -254,7 +273,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 | [3-07](tasks/task-3-07-inter-rater-reliability/) | **Inter-Rater Reliability** | 7 | stdlib |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **3-01 — Frequency Distributions.** Produce frequency tables with counts and percentages, compute mode and median.
 - **3-02 — Percentiles and Quartiles.** Compute quartiles (linear interpolation), IQR, fences, potential outliers, and subscale means.
@@ -268,7 +287,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 
 ---
 
-### Domain 4: Inferential Statistics — 15 tasks, 113 points
+### 📐 Domain 4: Inferential Statistics — 15 tasks, 113 points
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -289,7 +308,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 | [4-15](tasks/task-4-15-intraclass-correlation/) | **Intraclass Correlation** | 10 | pandas/scipy/pingouin |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **4-01 — Paired t-Test.** Implement a paired-samples t-test from scratch (pre/post means, SD of differences, t-statistic, Cohen's d).
 - **4-02 — Independent t-Test.** Implement Welch's t-test with Welch-Satterthwaite degrees of freedom and Cohen's d.
@@ -311,7 +330,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 
 ---
 
-### Domain 5: Applied Social Work Analytics — 8 tasks, 56 points
+### 🏛️ Domain 5: Applied Social Work Analytics — 8 tasks, 56 points
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -325,7 +344,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 | [5-08](tasks/task-5-08-state-level-trend-analysis/) | **State-Level Trend Analysis** | 8 | stdlib |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **5-01 — Caseload Analysis.** Compute per-worker caseload counts, success rates, average days to closure, and satisfaction.
 - **5-02 — Pearson Correlation Matrix.** Compute a full pairwise Pearson correlation matrix and identify the strongest correlations.
@@ -340,7 +359,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 
 ---
 
-### Domain 6: Text & Natural Language Processing — 3 tasks, 29 points
+### 💬 Domain 6: Text & Natural Language Processing — 3 tasks, 29 points
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -349,7 +368,7 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 | [6-03](tasks/task-6-03-term-pattern-matching/) | **Term Pattern Matching** | 10 | stdlib |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **6-01 — Keyword Frequency Analysis.** Use regex patterns to count comments mentioning social work and nursing terms and produce daily counts.
 - **6-02 — Lexicon-Based Sentiment Analysis.** Tokenize text, match against a 200-word lexicon, classify sentiment, compute mean by program.
@@ -359,11 +378,12 @@ This matters for **diagnostic precision** (if a compound task scores 6/10, which
 
 ---
 
-### Domain 7: Multi-Step Data Analysis — 5 tasks, 83 points
+### 🔗 Domain 7: Multi-Step Data Analysis — 5 tasks, 83 points
 
-Unlike Domains 1–6 which follow a "one task, one analytical question" design, these tasks require **4–10 sequential analytical steps** that mirror the real-world complexity of child welfare administrative data analysis.
+> [!WARNING]
+> Unlike Domains 1–6 which follow a "one task, one analytical question" design, these tasks require **4–10 sequential analytical steps** that mirror the real-world complexity of child welfare administrative data analysis. An error in an early step (e.g., incorrect deduplication, wrong merge key) causes all downstream checks to fail — the **cascade effect** makes these tasks highly discriminative.
 
-All five tasks use synthetic data modeled on the MISACWIS child welfare information system. A key property is the **cascade effect**: an error in an early step (e.g., incorrect deduplication, wrong merge key) causes all downstream checks to fail, making these tasks highly discriminative between models of different capability levels.
+All five tasks use synthetic data modeled on the MISACWIS child welfare information system.
 
 | ID | Task | Pts | Constraint |
 |:---|:-----|:---:|:----------:|
@@ -374,7 +394,7 @@ All five tasks use synthetic data modeled on the MISACWIS child welfare informat
 | [7-05](tasks/task-7-05-point-in-time-snapshot/) | **Point-in-Time Foster Care Snapshot** | 18 | stdlib |
 
 <details>
-<summary>Task descriptions</summary>
+<summary>📝 Task descriptions</summary>
 
 - **7-01 — Allegation-to-Removal Funnel Analysis.** Deduplicate allegation records, compute screening-in and substantiation rates through a multi-stage funnel, merge with a bridge table to link to removals, and produce county-level conversion rates.
 - **7-02 — Placement Stability by Child Age and Race.** Merge four CSV files, compute age at removal with floor logic, bin into age groups, count placements per episode, and produce two-dimensional stability metrics.
@@ -386,7 +406,7 @@ All five tasks use synthetic data modeled on the MISACWIS child welfare informat
 
 ---
 
-## Running the Benchmark
+## 🔧 Running the Benchmark
 
 ```bash
 # From the scripts/ directory:
@@ -402,7 +422,7 @@ Results are saved to `results/<framework>/<run_id>/` with per-task transcripts, 
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```
 swat-bench/
@@ -430,7 +450,7 @@ swat-bench/
 
 ---
 
-## Contributing a New Task
+## 🤝 Contributing a New Task
 
 To propose a new task, provide:
 
@@ -439,11 +459,14 @@ To propose a new task, provide:
 3. **`expected/checks.json`** — Automated scoring rubric with check types, patterns, expected values, and tolerances
 4. **Input data files** — Generated by the data script, placed in the `input/` subdirectory
 
-The task will be reviewed against the [design constraints](#design-constraints) listed above before inclusion.
+The task will be reviewed against the [design constraints](#-design-constraints) listed above before inclusion.
 
 ---
 
-<p align="center">
-<strong>SWAT-Bench</strong> — 55 tasks · 435 points · 7 domains<br>
-<em>Evaluating local LLMs for social work research data analysis</em>
-</p>
+<div align="center">
+
+**📊 SWAT-Bench** — 55 tasks · 435 points · 7 domains
+
+*Evaluating local LLMs for social work research data analysis*
+
+</div>
