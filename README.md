@@ -95,49 +95,50 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 ## 📈 Benchmark Results
 
 > [!IMPORTANT]
-> **Run 1** — March 2026 · Qwen Code CLI v0.10.6 + Ollama · Temperature 0.3 · All 7 domains
+> **Run 1** — March 2026 · Qwen Code CLI v0.10.6 + Ollama · Temperature 0.3 · All 7 domains (55 tasks, 435 pts)
 >
-> Domains 1–6 scored from a single run per model. Domain 7 scored as the mean of 3 independent runs per model to account for cascade variance in multi-step tasks. All models ran locally on **2x NVIDIA RTX A6000** (98 GB VRAM) via llama.cpp / Ollama — no cloud APIs.
+> Each model was evaluated across **3–4 independent runs** with different random seeds. Scores below report the **mean ± SD** across runs. Domain 7 used 3 dedicated multi-step runs per model. All models ran locally on **2x NVIDIA RTX A6000** (98 GB VRAM) via llama.cpp / Ollama — no cloud APIs.
 
 ### 🏆 Leaderboard
 
-| Rank | Model | Params | Active | Quant | D1–6 | D7 (×3) | **Combined** | **%** |
-|:----:|:------|-------:|-------:|:-----:|-----:|--------:|-----------:|------:|
-| 🥇 | **Qwen3.5-27B** | 27.8B | 27.8B | Q4 | 349.0 | 83.0 | **432.0 / 435** | **99.3%** |
-| 🥈 | **Qwen3-Coder-Next** | 79.7B | 3.0B | Q4 | 349.5 | 81.0 | **430.5 / 435** | **99.0%** |
-| 🥉 | **Qwen3.5-122B-A10B** | 125.1B | 10.0B | Q4 | 348.0 | 81.7 | **429.7 / 435** | **98.8%** |
-| 4 | Qwen3.5-35B-A3B | 36.0B | 3.0B | Q4 | 344.0 | 81.0 | 425.0 / 435 | 97.7% |
-| 5 | Qwen3-Coder-30B | 30.5B | 3.3B | Q4 | 333.0 | 77.3 | 410.3 / 435 | 94.3% |
-| 6 | Qwen3.5-9B Q8 | 9.7B | 9.7B | Q8 | 317.0 | 78.0 | 395.0 / 435 | 90.8% |
-| 7 | Qwen3.5-9B Q4 | 9.7B | 9.7B | Q4 | 319.5 | 73.3 | 392.8 / 435 | 90.3% |
+| Rank | Model | Params | Active | Quant | Mean Score | SD | **%** | Runs |
+|:----:|:------|-------:|-------:|:-----:|-----------:|---:|------:|:----:|
+| 🥇 | **Qwen3.5-27B** | 27.8B | 27.8B | Q4 | **432.9 / 435** | ±1.1 | **99.5%** | 4+3 |
+| 🥈 | **Qwen3.5-122B-A10B** | 125.1B | 10.0B | Q4 | **431.2 / 435** | ±1.9 | **99.1%** | 3+3 |
+| 🥉 | **Qwen3-Coder-Next** | 79.7B | 3.0B | Q4 | **428.8 / 435** | ±3.1 | **98.6%** | 3+3 |
+| 4 | Qwen3.5-35B-A3B | 36.0B | 3.0B | Q4 | 424.8 / 435 | ±4.0 | 97.6% | 4+3 |
+| 5 | Qwen3-Coder-30B | 30.5B | 3.3B | Q4 | 408.3 / 435 | ±5.4 | 93.9% | 4+3 |
+| 6 | Qwen3.5-9B Q8 | 9.7B | 9.7B | Q8 | 406.8 / 435 | ±13.4 | 93.5% | 4+3 |
+| 7 | Qwen3.5-9B Q4 | 9.7B | 9.7B | Q4 | 386.8 / 435 | ±9.0 | 88.9% | 4+3 |
 
-### 📊 Performance by Domain
+> **Runs** column shows D1–6 runs + D7 runs. SD is propagated as √(SD²_D1-6 + SD²_D7).
 
-| Domain | Pts | Q3.5-27B | Q3-Coder-Next | Q3.5-122B | Q3.5-35B | Q3-Coder-30B | Q3.5-9B Q8 | Q3.5-9B Q4 |
-|:-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🧹 Cleaning | 57 | 98.2% | 97.4% | 96.5% | 97.4% | 93.9% | 93.9% | 93.9% |
-| 🔄 Preparation | 52 | 100.0% | 100.0% | 100.0% | 99.0% | 100.0% | 76.9% | 95.2% |
-| 📏 Descriptive | 45 | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 81.1% |
-| 📐 Inferential | 113 | 96.7% | 97.5% | 97.5% | 98.4% | 91.4% | 93.0% | 91.0% |
-| 🏛️ Applied | 56 | 100.0% | 100.0% | 100.0% | 91.1% | 89.3% | 89.3% | 87.5% |
-| 💬 NLP | 29 | 100.0% | 100.0% | 100.0% | 100.0% | 93.1% | 69.0% | 89.7% |
-| 🔗 Multi-Step | 83 | **100.0%** | 97.6% | 98.4% | 97.6% | 93.2% | 94.0% | 88.4% |
-| | **435** | **99.3%** | **99.0%** | **98.8%** | **97.7%** | **94.3%** | **90.8%** | **90.3%** |
+### 📊 Score Breakdown
+
+| Model | D1–6 Mean / 352 | D1–6 SD | D7 Mean / 83 | D7 SD | Combined / 435 |
+|:------|:---:|:---:|:---:|:---:|:---:|
+| Qwen3.5-27B | 349.9 | ±1.1 | **83.0** | ±0.0 | **432.9** |
+| Qwen3.5-122B-A10B | 349.5 | ±1.5 | 81.7 | ±1.2 | 431.2 |
+| Qwen3-Coder-Next | 347.8 | ±1.5 | 81.0 | ±2.6 | 428.8 |
+| Qwen3.5-35B-A3B | 343.8 | ±3.4 | 81.0 | ±2.0 | 424.8 |
+| Qwen3-Coder-30B | 331.0 | ±2.8 | 77.3 | ±4.6 | 408.3 |
+| Qwen3.5-9B Q8 | 328.8 | ±12.3 | 78.0 | ±5.2 | 406.8 |
+| Qwen3.5-9B Q4 | 313.5 | ±6.4 | 73.3 | ±6.4 | 386.8 |
 
 > [!TIP]
-> **Qwen3.5-27B Q4** achieved a perfect 83/83 on all 3 Domain 7 runs — the only model to do so. Domain 7 proved most discriminative: the 11.6 pp gap between best (100.0%) and worst (88.4%) exceeds the 9.2 pp gap on Domains 1–6, confirming that cascade-dependent multi-step tasks amplify capability differences.
+> **Qwen3.5-27B Q4** achieved a perfect 83/83 on all 3 Domain 7 runs — the only model to do so — and had the lowest overall variability (SD ±1.1). The 9B models show the highest run-to-run variance (SD ±9–13), suggesting smaller models are more sensitive to prompt framing and random seed effects.
 
-### ⚡ Efficiency (Domains 1–6)
+### ⚡ Efficiency (Domains 1–6, single representative run)
 
 | Model | D1–6 Score | Time | Tokens | Tokens/Point | Tool Calls |
 |:------|------:|-----:|-------:|-------------:|-----------:|
-| Qwen3.5-27B | 99.1% | 2h 43m | 9.6M | 26,934 | 421 |
-| Qwen3-Coder-Next | 99.3% | 3h 53m | 9.3M | 26,015 | 430 |
-| Qwen3.5-122B-A10B | 98.9% | 3h 27m | 6.3M | 17,799 | 323 |
+| Qwen3.5-27B | 99.4% | 2h 43m | 9.6M | 26,934 | 421 |
+| Qwen3.5-122B-A10B | 99.3% | 3h 27m | 6.3M | 17,799 | 323 |
+| Qwen3-Coder-Next | 98.8% | 3h 53m | 9.3M | 26,015 | 430 |
 | Qwen3.5-35B-A3B | 97.7% | 1h 18m | 10.0M | 28,515 | 404 |
-| Qwen3-Coder-30B | 94.6% | 1h 03m | 16.4M | 48,314 | 666 |
-| Qwen3.5-9B Q8 | 90.1% | 1h 53m | 15.0M | 46,645 | 597 |
-| Qwen3.5-9B Q4 | 90.8% | 1h 56m | 16.9M | 52,026 | 598 |
+| Qwen3-Coder-30B | 94.0% | 1h 03m | 16.4M | 48,314 | 666 |
+| Qwen3.5-9B Q8 | 93.4% | 1h 53m | 15.0M | 46,645 | 597 |
+| Qwen3.5-9B Q4 | 89.1% | 1h 56m | 16.9M | 52,026 | 598 |
 
 ### 🚧 Hardest Tasks (Failed by 3+ Models)
 
@@ -154,7 +155,7 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 | Keyword Frequency | 💬 D6 | 9 | 3/7 | 67–78% |
 
 > [!NOTE]
-> **Key insight:** The hardest single-step tasks involve date parsing edge cases, p-value approximation for hand-coded statistical tests, and psychometric analyses (ICC confidence intervals, reverse-coded Cronbach's alpha). These patterns suggest that smaller models struggle most with precision requirements in multi-step mathematical derivations.
+> **Key insight:** The hardest single-step tasks involve date parsing edge cases, psychometric analyses (ICC confidence intervals, reverse-coded Cronbach's alpha), and hand-coded statistical tests requiring precise intermediate computations. These failure patterns suggest that smaller models struggle most with precision requirements in multi-step mathematical derivations.
 
 ---
 

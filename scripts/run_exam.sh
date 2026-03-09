@@ -5,6 +5,7 @@
 # Includes retry logic (up to 3 attempts) for stream errors and timeouts
 # Usage: ./run_exam.sh [model_name] [run_id_to_resume]
 # Set TASK_FILTER env var to restrict which tasks run (e.g. "task-7-*")
+# Set OLLAMA_HEALTH_PORT to override the Ollama health-check port (default: 11434)
 # =============================================================================
 
 MODEL="${1:-gpt-oss:20b}"
@@ -89,7 +90,8 @@ for T in "$TASKS_DIR"/$TASK_GLOB/; do
     # Health check: wait for Ollama before launching qwen
     # Always check Ollama directly (not the proxy) for health
     HEALTH_WAITED=0
-    while ! curl -sf "http://127.0.0.1:11435/api/tags" > /dev/null 2>&1; do
+    HEALTH_PORT="${OLLAMA_HEALTH_PORT:-11434}"
+    while ! curl -sf "http://127.0.0.1:$HEALTH_PORT/api/tags" > /dev/null 2>&1; do
         if [ $HEALTH_WAITED -ge 120 ]; then
             echo "  SKIP: Ollama not responding after 120s"
             echo ""

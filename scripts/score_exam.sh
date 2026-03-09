@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # SWAT-Bench Exam — Score All Tasks
-# Runs auto-scoring for all 51 exam tasks and prints a summary with metrics
+# Runs auto-scoring for all 55 exam tasks and prints a summary with metrics
 # Usage: ./score_exam.sh <run_id> [framework]
 #   framework: "qwen" (default) or "goose"
 # Example: ./score_exam.sh gpt-oss-20b_2026-03-01_1430 qwen
@@ -193,7 +193,7 @@ for domain, tasks in domains.items():
 print('=' * 85)
 print(f'           {\"TOTAL\":<39} {grand_auto}/{grand_possible}  {grand_time:>6.1f}s {grand_tokens:>10,} {grand_tools:>6} {grand_lines:>6}')
 print()
-print(f'Overall: {grand_auto} / {grand_possible} (out of 361 total points)')
+print(f'Overall: {grand_auto} / {grand_possible} (out of 435 total points)')
 if grand_possible > 0:
     print(f'Percentage: {grand_auto/grand_possible*100:.1f}%')
 "

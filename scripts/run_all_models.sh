@@ -2,7 +2,7 @@
 # =============================================================================
 # SWAT-Bench — Run all models sequentially
 # All models are pre-pulled. For each model: creates Ollama config,
-# starts nothink proxy, runs all 51 tasks, scores, then moves to next.
+# starts nothink proxy, runs all 55 tasks, scores, then moves to next.
 # Ordered smallest → largest for fastest results first.
 # Usage: ./run_all_models.sh [start_from_model_number]
 # =============================================================================
@@ -132,7 +132,7 @@ for entry in "${MODELS[@]}"; do
     start_proxy || continue
 
     # Step 5: Run the benchmark
-    echo "  Running 51 tasks..."
+    echo "  Running 55 tasks..."
     export OPENAI_BASE_URL="http://127.0.0.1:$PROXY_PORT/v1"
     export OPENAI_API_KEY="ollama"
     export TASK_TIMEOUT=900

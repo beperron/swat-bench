@@ -160,7 +160,7 @@ for SEED in "${SEEDS[@]}"; do
         wait_for_ollama || continue
         start_proxy || continue
 
-        echo "  Running 51 tasks..."
+        echo "  Running 55 tasks..."
         export OPENAI_BASE_URL="http://127.0.0.1:$PROXY_PORT/v1"
         export OPENAI_API_KEY="ollama"
         export TASK_TIMEOUT=900

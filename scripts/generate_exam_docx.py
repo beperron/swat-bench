@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a human-readable .docx of the SWAT-Bench exam (51 tasks)."""
+"""Generate a human-readable .docx of the SWAT-Bench exam (55 tasks)."""
 
 import json
 import os
@@ -272,7 +272,7 @@ def build_document():
 
     summary = doc.add_paragraph()
     summary.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = summary.add_run("51 Tasks  |  361 Points  |  6 Domains")
+    run = summary.add_run("55 Tasks  |  435 Points  |  7 Domains")
     run.font.size = Pt(14)
     run.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
 

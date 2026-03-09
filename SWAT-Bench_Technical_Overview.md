@@ -2,7 +2,7 @@
 
 ## What SWAT-Bench Measures
 
-SWAT-Bench evaluates whether a local language model, operating as an autonomous coding agent, can independently complete structured data analysis tasks drawn from social work research. The benchmark contains 51 tasks across six domains (data cleaning, transformation, descriptive statistics, inferential statistics, applied analytics, and NLP), worth a combined 361 points.
+SWAT-Bench evaluates whether a local language model, operating as an autonomous coding agent, can independently complete structured data analysis tasks drawn from social work research. The benchmark contains 55 tasks across seven domains (data cleaning, transformation, descriptive statistics, inferential statistics, applied analytics, NLP, and multi-step data analysis), worth a combined 435 points.
 
 Each task requires the model to read a natural-language research prompt, write a complete Python solution, execute it against real data, and produce output in a specified format. The entire process is fully automated with no human interaction at any stage: no prompt engineering, no manual correction, no evaluation rubrics. Scoring is deterministic.
 
@@ -36,7 +36,7 @@ OPENAI_API_KEY=ollama
 
 ## What the Agent Receives
 
-For each of the 51 tasks, the pipeline constructs an isolated workspace from scratch. The agent receives exactly three things:
+For each of the 55 tasks, the pipeline constructs an isolated workspace from scratch. The agent receives exactly three things:
 
 ### 1. System Context (`QWEN.md`)
 
@@ -260,7 +260,7 @@ Auto-Scorer (score_test.py)
     |  Produces: auto_score.json (per-check pass/fail + points)
     |
     v
-Results: deterministic score out of 361 points
+Results: deterministic score out of 435 points
 ```
 
 No human touches the pipeline between pressing "start" and reading the final scores.
