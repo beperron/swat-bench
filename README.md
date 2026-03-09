@@ -81,46 +81,50 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 
 ## Benchmark Results
 
-> **Run 1** — March 2026 · Qwen Code CLI v0.10.6 + Ollama · Temp 0.3 · Domains 1–6 (51 tasks, 352 pts)
+> **Run 1** — March 2026 · Qwen Code CLI v0.10.6 + Ollama · Temp 0.3 · All 7 domains (55 tasks, 435 pts)
 >
-> *Domain 7 scoring pending. Results below cover the 51 single-step tasks that were available at time of testing.*
+> *Domains 1–6 scored from a single run per model. Domain 7 scored as the mean of 3 independent runs per model to account for cascade variance in multi-step tasks.*
 
 ### Leaderboard
 
-| Rank | Model | Total Params | Active Params | Quant | Score | % | Perfect Tasks |
-|:----:|:------|-------------:|-------------:|:-----:|------:|--:|:-------------:|
-| 1 | **Qwen3-Coder-Next** | 79.7B | 3.0B | Q4 | 349.5 / 352 | **99.3%** | 47 / 50 |
-| 2 | **Qwen3.5-27B** | 27.8B | 27.8B | Q4 | 349.0 / 352 | **99.1%** | 47 / 50 |
-| 3 | **Qwen3.5-122B-A10B** | 125.1B | 10.0B | Q4 | 348.0 / 352 | **98.9%** | 47 / 50 |
-| 4 | Qwen3.5-35B-A3B | 36.0B | 3.0B | Q4 | 344.0 / 352 | 97.7% | 45 / 50 |
-| 5 | Qwen3-Coder-30B | 30.5B | 3.3B | Q4 | 333.0 / 352 | 94.6% | 37 / 50 |
-| 6 | Qwen3.5-9B Q4 | 9.7B | 9.7B | Q4 | 319.5 / 352 | 90.8% | 34 / 50 |
-| 7 | Qwen3.5-9B Q8 | 9.7B | 9.7B | Q8 | 317.0 / 352 | 90.1% | 37 / 50 |
+| Rank | Model | Total Params | Active Params | Quant | D1–6 | D7 (mean of 3) | Combined | % |
+|:----:|:------|-------------:|-------------:|:-----:|-----:|------:|------:|--:|
+| 1 | **Qwen3.5-27B** | 27.8B | 27.8B | Q4 | 349.0 | 83.0 | **432.0 / 435** | **99.3%** |
+| 2 | **Qwen3-Coder-Next** | 79.7B | 3.0B | Q4 | 349.5 | 81.0 | **430.5 / 435** | **99.0%** |
+| 3 | **Qwen3.5-122B-A10B** | 125.1B | 10.0B | Q4 | 348.0 | 81.7 | **429.7 / 435** | **98.8%** |
+| 4 | Qwen3.5-35B-A3B | 36.0B | 3.0B | Q4 | 344.0 | 81.0 | 425.0 / 435 | 97.7% |
+| 5 | Qwen3-Coder-30B | 30.5B | 3.3B | Q4 | 333.0 | 77.3 | 410.3 / 435 | 94.3% |
+| 6 | Qwen3.5-9B Q8 | 9.7B | 9.7B | Q8 | 317.0 | 78.0 | 395.0 / 435 | 90.8% |
+| 7 | Qwen3.5-9B Q4 | 9.7B | 9.7B | Q4 | 319.5 | 73.3 | 392.8 / 435 | 90.3% |
 
 > All models ran locally on 2x NVIDIA RTX A6000 (98 GB VRAM total) via llama.cpp / Ollama. No cloud APIs were used.
 
 ### Performance by Domain
 
-| Domain | Q3-Coder-Next | Q3.5-27B | Q3.5-122B | Q3.5-35B | Q3-Coder-30B | Q3.5-9B Q4 | Q3.5-9B Q8 |
-|:-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 — Cleaning | 97.4% | 98.2% | 96.5% | 97.4% | 93.9% | 93.9% | 93.9% |
-| 2 — Preparation | 100.0% | 100.0% | 100.0% | 99.0% | 100.0% | 95.2% | 76.9% |
-| 3 — Descriptive | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 81.1% | 100.0% |
-| 4 — Inferential | 97.5% | 96.7% | 97.5% | 98.4% | 91.4% | 91.0% | 93.0% |
-| 5 — Applied | 100.0% | 100.0% | 100.0% | 91.1% | 89.3% | 87.5% | 89.3% |
-| 6 — NLP | 100.0% | 100.0% | 100.0% | 100.0% | 93.1% | 89.7% | 69.0% |
+| Domain | Pts | Q3.5-27B | Q3-Coder-Next | Q3.5-122B | Q3.5-35B | Q3-Coder-30B | Q3.5-9B Q8 | Q3.5-9B Q4 |
+|:-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 — Cleaning | 57 | 98.2% | 97.4% | 96.5% | 97.4% | 93.9% | 93.9% | 93.9% |
+| 2 — Preparation | 52 | 100.0% | 100.0% | 100.0% | 99.0% | 100.0% | 76.9% | 95.2% |
+| 3 — Descriptive | 45 | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 81.1% |
+| 4 — Inferential | 113 | 96.7% | 97.5% | 97.5% | 98.4% | 91.4% | 93.0% | 91.0% |
+| 5 — Applied | 56 | 100.0% | 100.0% | 100.0% | 91.1% | 89.3% | 89.3% | 87.5% |
+| 6 — NLP | 29 | 100.0% | 100.0% | 100.0% | 100.0% | 93.1% | 69.0% | 89.7% |
+| 7 — Multi-Step | 83 | **100.0%** | 97.6% | 98.4% | 97.6% | 93.2% | 94.0% | 88.4% |
+| **Overall** | **435** | **99.3%** | **99.0%** | **98.8%** | **97.7%** | **94.3%** | **90.8%** | **90.3%** |
 
-### Efficiency
+> Domain 7 percentages reflect the mean across 3 independent runs. Qwen3.5-27B Q4 achieved a perfect 83/83 on all 3 runs.
 
-| Model | Score | Time | Tokens | Tokens/Point | Tool Calls |
+### Efficiency (Domains 1–6)
+
+| Model | D1–6 Score | Time | Tokens | Tokens/Point | Tool Calls |
 |:------|------:|-----:|-------:|-------------:|-----------:|
-| Qwen3-Coder-Next | 99.3% | 3h 53m | 9.3M | 26,015 | 430 |
 | Qwen3.5-27B | 99.1% | 2h 43m | 9.6M | 26,934 | 421 |
+| Qwen3-Coder-Next | 99.3% | 3h 53m | 9.3M | 26,015 | 430 |
 | Qwen3.5-122B-A10B | 98.9% | 3h 27m | 6.3M | 17,799 | 323 |
 | Qwen3.5-35B-A3B | 97.7% | 1h 18m | 10.0M | 28,515 | 404 |
 | Qwen3-Coder-30B | 94.6% | 1h 03m | 16.4M | 48,314 | 666 |
-| Qwen3.5-9B Q4 | 90.8% | 1h 56m | 16.9M | 52,026 | 598 |
 | Qwen3.5-9B Q8 | 90.1% | 1h 53m | 15.0M | 46,645 | 597 |
+| Qwen3.5-9B Q4 | 90.8% | 1h 56m | 16.9M | 52,026 | 598 |
 
 ### Hardest Tasks (Failed by 3+ Models)
 
@@ -136,7 +140,7 @@ Each task is scored automatically by `score_test.py`, which executes the model's
 | Mann-Whitney U | D4 | 6 | 3/7 | 75–83% |
 | Keyword Frequency | D6 | 9 | 3/7 | 67–78% |
 
-> **Key insight:** The hardest tasks involve date parsing edge cases, p-value approximation for hand-coded statistical tests, and psychometric analyses (ICC confidence intervals, reverse-coded Cronbach's alpha). These failure patterns suggest that smaller models struggle most with precision requirements in multi-step mathematical derivations.
+> **Key insight:** The hardest single-step tasks involve date parsing edge cases, p-value approximation for hand-coded statistical tests, and psychometric analyses (ICC confidence intervals, reverse-coded Cronbach's alpha). Domain 7 multi-step tasks proved more discriminative at the lower end of the capability spectrum: the gap between the top model (100.0%) and the bottom model (88.4%) is 11.6 percentage points, compared to 9.2 points on Domains 1–6 alone. This confirms that cascade-dependent multi-step tasks amplify capability differences.
 
 ---
 
