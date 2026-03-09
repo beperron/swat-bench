@@ -1,0 +1,91 @@
+record_id,site,participant_id,age,gender,race_ethnicity,education,employment,substance_primary,treatment_type,satisfaction_score,days_in_treatment,completed_treatment
+1,Site A,A001,58,Male,Hispanic,HS diploma/GED,Part-time,Opioids,Residential,5,29,Yes
+2,Site A,A002,20,Male,White,Bachelor's degree,Retired,Alcohol,Detox,2,173,No
+3,Site A,A003,44,Male,Black,Less than HS,Part-time,Benzodiazepines,Medication-Assisted,3,78,Yes
+4,Site A,A004,39,Male,Black,Some college,Unemployed,Cannabis,Intensive Outpatient,1,124,Yes
+5,Site A,A005,42,Male,White,Graduate degree,Retired,Methamphetamine,Detox,2,24,Yes
+6,Site A,A006,32,Female,Other,HS diploma/GED,Full-time,Cocaine,Intensive Outpatient,4,169,No
+7,Site A,A007,28,Male,White,Some college,Student,Benzodiazepines,Residential,5,169,Yes
+8,Site A,A008,64,Male,Black,Some college,Student,Benzodiazepines,Detox,2,90,No
+9,Site A,A009,21,Male,White,Some college,Disabled,Methamphetamine,Residential,2,152,No
+10,Site A,A010,38,Male,Black,Graduate degree,Disabled,Opioids,Intensive Outpatient,2,70,No
+11,Site A,A011,52,Male,Black,Bachelor's degree,Disabled,Methamphetamine,Outpatient,2,137,Yes
+12,Site A,A012,21,Female,White,HS diploma/GED,Student,Cocaine,Detox,1,105,Yes
+13,Site A,A013,47,Male,Other,Less than HS,Student,Benzodiazepines,Residential,5,75,No
+14,Site A,A014,39,Male,Black,Associate degree,Full-time,Benzodiazepines,Intensive Outpatient,5,52,Yes
+15,Site A,A015,24,Female,White,Graduate degree,Retired,Cannabis,Outpatient,2,102,No
+16,Site A,A016,52,Non-binary,Other,Less than HS,Retired,Methamphetamine,Medication-Assisted,1,35,No
+17,Site A,A017,37,Male,White,Bachelor's degree,Full-time,Alcohol,Medication-Assisted,1,143,No
+18,Site A,A018,26,Female,Other,HS diploma/GED,Unemployed,Cannabis,Detox,4,61,No
+19,Site A,A019,64,Female,Hispanic,Associate degree,Student,Benzodiazepines,Intensive Outpatient,4,139,Yes
+20,Site A,A020,33,Male,White,Bachelor's degree,Retired,Opioids,Detox,2,8,Yes
+21,Site A,A021,58,Male,White,Less than HS,Unemployed,Alcohol,Detox,2,78,No
+22,Site A,A022,31,Male,Hispanic,Bachelor's degree,Retired,Cocaine,Outpatient,4,111,Yes
+23,Site A,A023,24,Female,Black,Associate degree,Disabled,Benzodiazepines,Residential,1,22,Yes
+24,Site A,A024,39,Female,White,HS diploma/GED,Part-time,Cannabis,Medication-Assisted,2,115,Yes
+25,Site A,A025,47,Male,Other,Associate degree,Retired,Alcohol,Residential,5,10,No
+26,Site A,A026,33,Male,Black,HS diploma/GED,Disabled,Alcohol,Outpatient,4,7,No
+27,Site A,A027,34,Non-binary,Hispanic,Some college,Disabled,Benzodiazepines,Detox,4,46,Yes
+28,Site A,A028,31,Non-binary,Black,Bachelor's degree,Full-time,Benzodiazepines,Intensive Outpatient,1,19,Yes
+29,Site A,A029,50,Non-binary,Black,Less than HS,Retired,Alcohol,Outpatient,1,159,Yes
+30,Site A,A030,33,Male,Other,Bachelor's degree,Part-time,Cannabis,Detox,1,165,Yes
+31,Site B,B001,60,F,African American,Some college,Part-time,Benzodiazepines,Intensive Outpatient,1,74,1
+32,Site B,B002,60,F,African American,Less than HS,Full-time,Cocaine,Detox,4,32,1
+33,Site B,B003,31,M,Caucasian,Some college,Full-time,Opioids,Intensive Outpatient,2,47,1
+34,Site B,B004,52,F,Latino/a,Graduate degree,Retired,Alcohol,Detox,2,176,1
+35,Site B,B005,26,M,Asian American,Graduate degree,Retired,Opioids,Intensive Outpatient,2,161,1
+36,Site B,B006,39,M,Latino/a,Some college,Retired,Cocaine,Intensive Outpatient,0,30,1
+37,Site B,B007,35,M,Caucasian,HS diploma/GED,Student,Methamphetamine,Outpatient,3,148,0
+38,Site B,B008,53,M,Caucasian,Graduate degree,Part-time,Cannabis,Residential,2,156,1
+39,Site B,B009,45,M,Caucasian,Less than HS,Unemployed,Opioids,Outpatient,0,97,0
+40,Site B,B010,44,NB,Latino/a,HS diploma/GED,Part-time,Opioids,Medication-Assisted,0,52,0
+41,Site B,B011,39,F,African American,Graduate degree,Student,Opioids,Intensive Outpatient,1,34,1
+42,Site B,B012,20,F,Caucasian,Associate degree,Unemployed,Methamphetamine,Outpatient,1,13,0
+43,Site B,B013,43,M,Asian American,Some college,Unemployed,Benzodiazepines,Detox,3,180,0
+44,Site B,B014,52,M,Caucasian,Some college,Part-time,Cannabis,Intensive Outpatient,0,34,1
+45,Site B,B015,40,F,Caucasian,Bachelor's degree,Retired,Alcohol,Medication-Assisted,4,55,1
+46,Site B,B016,63,M,African American,Bachelor's degree,Student,Benzodiazepines,Outpatient,2,117,1
+47,Site B,B017,60,NB,Latino/a,Graduate degree,Full-time,Benzodiazepines,Intensive Outpatient,4,86,0
+48,Site B,B018,38,M,Caucasian,HS diploma/GED,Part-time,Cocaine,Medication-Assisted,1,164,1
+49,Site B,B019,43,M,Caucasian,Some college,Part-time,Cocaine,Detox,4,174,1
+50,Site B,B020,46,M,Caucasian,Associate degree,Student,Opioids,Residential,2,138,0
+51,Site B,B021,57,M,Asian American,HS diploma/GED,Student,Methamphetamine,Outpatient,1,44,1
+52,Site B,B022,33,NB,Latino/a,Less than HS,Disabled,Cocaine,Detox,1,105,1
+53,Site B,B023,33,M,Latino/a,Less than HS,Disabled,Opioids,Outpatient,4,125,1
+54,Site B,B024,33,NB,Caucasian,HS diploma/GED,Disabled,Benzodiazepines,Detox,4,159,1
+55,Site B,B025,46,F,Latino/a,Bachelor's degree,Disabled,Cannabis,Medication-Assisted,1,128,1
+56,Site B,B026,33,F,Caucasian,Bachelor's degree,Disabled,Benzodiazepines,Outpatient,2,119,1
+57,Site B,B027,36,M,Caucasian,Bachelor's degree,Full-time,Opioids,Outpatient,1,105,0
+58,Site B,B028,63,M,African American,Some college,Retired,Cocaine,Medication-Assisted,0,59,0
+59,Site B,B029,42,NB,African American,Graduate degree,Full-time,Cannabis,Medication-Assisted,3,8,0
+60,Site B,B030,37,F,Asian American,Associate degree,Retired,Benzodiazepines,Detox,4,63,1
+61,Site C,C001,35,male,white,Some college,Student,Benzodiazepines,Medication-Assisted,2,126,FALSE
+62,Site C,C002,57,male,other/multiracial,Bachelor's degree,Retired,Benzodiazepines,Residential,1,171,TRUE
+63,Site C,C003,47,male,white,Some college,Part-time,Cocaine,Intensive Outpatient,5,104,TRUE
+64,Site C,C004,44,male,white,Less than HS,Student,Cannabis,Residential,5,64,FALSE
+65,Site C,C005,59,male,white,HS diploma/GED,Part-time,Alcohol,Detox,2,68,TRUE
+66,Site C,C006,60,male,other/multiracial,Associate degree,Student,Methamphetamine,Intensive Outpatient,2,162,TRUE
+67,Site C,C007,65,female,hispanic/latino,HS diploma/GED,Unemployed,Alcohol,Detox,0,86,TRUE
+68,Site C,C008,42,male,hispanic/latino,Less than HS,Retired,Benzodiazepines,Outpatient,1,84,FALSE
+69,Site C,C009,56,female,hispanic/latino,Bachelor's degree,Full-time,Methamphetamine,Detox,6,176,TRUE
+70,Site C,C010,50,female,white,Associate degree,Disabled,Alcohol,Medication-Assisted,5,169,FALSE
+71,Site C,C011,47,female,black/african american,Graduate degree,Retired,Benzodiazepines,Intensive Outpatient,9,144,FALSE
+72,Site C,C012,47,male,hispanic/latino,Some college,Unemployed,Opioids,Residential,4,122,TRUE
+73,Site C,C013,47,female,hispanic/latino,Some college,Full-time,Cocaine,Intensive Outpatient,2,131,TRUE
+74,Site C,C014,34,male,asian/pacific islander,Graduate degree,Unemployed,Cannabis,Residential,8,55,TRUE
+75,Site C,C015,64,male,black/african american,HS diploma/GED,Student,Cocaine,Medication-Assisted,7,11,TRUE
+76,Site C,C016,32,male,white,Graduate degree,Retired,Methamphetamine,Medication-Assisted,8,142,TRUE
+77,Site C,C017,65,female,black/african american,Associate degree,Unemployed,Methamphetamine,Intensive Outpatient,3,37,FALSE
+78,Site C,C018,38,male,black/african american,Graduate degree,Part-time,Opioids,Outpatient,7,77,FALSE
+79,Site C,C019,51,female,other/multiracial,HS diploma/GED,Unemployed,Opioids,Intensive Outpatient,2,84,TRUE
+80,Site C,C020,52,male,white,Less than HS,Retired,Methamphetamine,Outpatient,10,132,TRUE
+81,Site C,C021,18,female,black/african american,Associate degree,Unemployed,Opioids,Residential,4,129,TRUE
+82,Site C,C022,22,male,white,Graduate degree,Student,Alcohol,Outpatient,2,151,FALSE
+83,Site C,C023,23,nonbinary,white,Associate degree,Retired,Cannabis,Detox,3,140,TRUE
+84,Site C,C024,46,male,black/african american,Associate degree,Unemployed,Cannabis,Detox,0,163,FALSE
+85,Site C,C025,24,nonbinary,white,HS diploma/GED,Unemployed,Benzodiazepines,Residential,2,68,TRUE
+86,Site C,C026,22,male,black/african american,Graduate degree,Retired,Cocaine,Intensive Outpatient,0,66,TRUE
+87,Site C,C027,36,female,black/african american,Graduate degree,Part-time,Methamphetamine,Detox,10,57,TRUE
+88,Site C,C028,52,male,white,Some college,Part-time,Alcohol,Residential,2,85,TRUE
+89,Site C,C029,54,nonbinary,black/african american,Associate degree,Student,Methamphetamine,Medication-Assisted,4,135,TRUE
+90,Site C,C030,46,male,white,Associate degree,Student,Methamphetamine,Detox,4,13,TRUE

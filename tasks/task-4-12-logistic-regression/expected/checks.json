@@ -1,0 +1,89 @@
+{
+  "test_id": "task-4-12",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_clients",
+      "type": "exact",
+      "pattern": "Total clients: (\\d+)",
+      "expected": 1000,
+      "points": 1
+    },
+    {
+      "label": "completion_rate",
+      "type": "numeric",
+      "pattern": "Completion rate: ([\\d.]+)%",
+      "expected": 65.1,
+      "tolerance": 2.0,
+      "points": 1
+    },
+    {
+      "label": "accuracy",
+      "type": "range",
+      "pattern": "Accuracy: ([\\d.]+)%",
+      "min": 55,
+      "max": 80,
+      "points": 1
+    },
+    {
+      "label": "pseudo_r_squared",
+      "type": "range",
+      "pattern": "Pseudo R-squared: ([\\d.]+)",
+      "min": 0.05,
+      "max": 0.4,
+      "points": 1
+    },
+    {
+      "label": "employment_or",
+      "type": "range",
+      "pattern": "employment odds ratio: ([\\d.]+)",
+      "min": 1.5,
+      "max": 6.0,
+      "points": 1
+    },
+    {
+      "label": "prior_arrests_or",
+      "type": "range",
+      "pattern": "prior_arrests odds ratio: ([\\d.]+)",
+      "min": 0.3,
+      "max": 0.9,
+      "points": 1
+    },
+    {
+      "label": "predicted_prob",
+      "type": "range",
+      "pattern": "(?:Predicted|Estimated) probability.*: ([\\d.]+)",
+      "min": 0.3,
+      "max": 0.95,
+      "points": 1
+    },
+    {
+      "label": "results_csv_exists",
+      "type": "file_exists",
+      "filename": "logistic_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "logistic_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Logistic Regression — Associations",
+  "domain": "Inferential Statistics",
+  "difficulty": "Advanced"
+}

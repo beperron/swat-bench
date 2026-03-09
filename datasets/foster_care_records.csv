@@ -1,0 +1,101 @@
+case_id,child_name,dob,age_at_entry,entry_date,exit_date,placement_type,caseworker,review_date,permanency_goal,status
+FC-1000,Savannah Davis,2005-07-24,10,2015-09-22,2016-02-03,Therapeutic Foster Care,Sarah Mitchell,2015-12-21,Reunification,Closed
+FC-1001,Mia Wilson,2010-03-21,10,2020-08-19,2021-04-09,Therapeutic Foster Care,Christopher Lee,2020-10-29,Guardianship,Transferred
+FC-1002,Jayden Carter,31-07-2008,13,13-11-2021,21-05-2022,Foster Family Home,James Rodriguez,22-02-2022,Long-term Foster Care,Closed
+FC-1003,Lucas Thompson,2012-09-18,11,2023-11-22,,Emergency Shelter,James Rodriguez,2024-08-13,Long-term Foster Care,Active
+FC-1004,Caden Scott,2011-07-30,12,2024-01-01,,Emergency Shelter,Marcus Williams,2024-08-03,Reunification,Active
+FC-1005,Olivia Nelson,2010-02-10,14,2024-04-21,,Foster Family Home,Jennifer Martinez,2024-09-17,Guardianship,Active
+FC-1006,Charles Green,2013-03-08,4,2017-06-09,2019-05-26,Pre-Adoptive Home,James Rodriguez,2019-05-24,Independent Living,Transferred
+FC-1007,Savannah Hernandez,2016-12-24,7,2024-02-23,2025-04-16,Pre-Adoptive Home,Tamika Johnson,2025-01-30,Adoption,Transferred
+FC-1008,Bella Lee,2006-04-04,9,2015-04-10,,Group Home,James Rodriguez,2015-12-01,Adoption,Active
+FC-1009,Carter Rivera,2012-01-22,5,2017-07-06,2019-05-25,Group Home,Angela Thompson,2017-12-14,Adoption,Transferred
+FC-1010,Paisley Scott,2017-02-02,4,2021-06-30,2023-03-19,Kinship Care,Angela Thompson,2022-07-20,Independent Living,Transferred
+FC-1011,Aubrey Garcia,2006-01-21,5,2011-02-28,2013-02-23,Foster Family Home,Jennifer Martinez,2012-11-14,Long-term Foster Care,Transferred
+FC-1012,Jaylen Robinson,2016-11-13,4,2021-04-02,,Pre-Adoptive Home,Brian Wallace,2021-05-07,Reunification,Active
+FC-1013,Bella Wright,12/26/2010,13,06/15/2024,05/11/2025,Therapeutic Foster Care,Sarah Mitchell,09/18/2024,Guardianship,Transferred
+FC-1014,Andrew Carter,2009-01-03,10,2019-01-28,,Pre-Adoptive Home,Tamika Johnson,2019-07-29,Independent Living,Active
+FC-1015,Ella Martinez,2013-05-22,4,2017-10-06,,Foster Family Home,Christopher Lee,2018-08-03,Guardianship,Active
+FC-1016,Joshua Johnson,2007-07-06,13,2020-09-18,2021-06-21,Pre-Adoptive Home,Robert Kim,2020-11-15,Reunification,Closed
+FC-1017,Anna Wright,2007-10-28,6,2014-04-12,2015-11-25,Emergency Shelter,Christopher Lee,2024-02-30,Long-term Foster Care,Closed
+FC-1018,Scarlett Wright,2009-07-06,13,2022-09-20,2024-09-06,Emergency Shelter,Robert Kim,2023-12-27,Reunification,Transferred
+FC-1019,Chloe Anderson,2006-06-09,12,2018-06-11,2019-03-03,Foster Family Home,Brian Wallace,2018-06-27,Reunification,Closed
+FC-1020,Grace Jones,15-09-2005,12,30-09-2017,11-08-2018,Emergency Shelter,Angela Thompson,01-02-2018,Independent Living,Transferred
+FC-1021,Leah Walker,2010-06-14,14,2024-10-09,,Foster Family Home,James Rodriguez,2025-02-13,Long-term Foster Care,Active
+FC-1022,Penelope Ramirez,2014-03-22,9,2023-04-02,2025-02-21,Therapeutic Foster Care,Brian Wallace,2023-06-18,Guardianship,Closed
+FC-1023,Isabella Thomas,2009-04-19,5,2014-09-02,2015-12-08,Therapeutic Foster Care,Marcus Williams,2015-02-06,Reunification,Closed
+FC-1024,Thomas Scott,2007-03-14,3,2010-08-26,,Foster Family Home,Marcus Williams,2010-10-02,Adoption,Active
+FC-1025,Adrian Young,"October 19, 2015",5,"January 27, 2021",,Therapeutic Foster Care,Sarah Mitchell,"May 21, 2021",Long-term Foster Care,Active
+FC-1026,Victoria Robinson,2011-05-26,8,2019-11-18,,Pre-Adoptive Home,Brian Wallace,2020-09-27,Long-term Foster Care,Active
+FC-1027,Evelyn Gonzalez,2011-08-28,5,2016-09-09,2018-04-17,Foster Family Home,Sarah Mitchell,2017-08-11,Independent Living,Closed
+FC-1028,Addison Allen,2016-11-29,3,2019-12-13,,Kinship Care,James Rodriguez,2020-02-22,Independent Living,Active
+FC-1029,Aiden Baker,2010-04-11,8,2018-05-09,,Kinship Care,Christopher Lee,2019-03-26,Independent Living,Active
+FC-1030,Olivia Flores,2006-11-03,15,2022-04-16,2023-11-02,Kinship Care,Maria Santos,2023-01-23,Guardianship,Transferred
+FC-1031,Alexander Taylor,2013-11-17,4,2018-05-06,2019-09-16,Foster Family Home,Sarah Mitchell,2019-09-08,Long-term Foster Care,Transferred
+FC-1032,Aurora Torres,2007-03-31,4,2011-08-14,2012-06-10,Foster Family Home,Marcus Williams,2012-02-23,Guardianship,Closed
+FC-1033,Sebastian Hernandez,10/30/2014,9,06/15/2024,05/15/2026,Emergency Shelter,Patricia Chen,05/14/2026,Reunification,Closed
+FC-1034,Harper Taylor,2007-08-04,5,2012-12-21,2013-11-04,Kinship Care,Maria Santos,2013-06-29,Guardianship,Closed
+FC-1035,Andrew Young,08/20/2010,2,09/11/2012,07/21/2013,Group Home,Angela Thompson,09/27/2012,Guardianship,Closed
+FC-1036,Elijah Mitchell,2014-11-29,9,2024-06-15,2024-07-24,Pre-Adoptive Home,Angela Thompson,2024-07-02,Independent Living,Closed
+FC-1037,Liam White,2018-01-24,6,2024-02-29,2024-05-11,Foster Family Home,David Okafor,2024-04-07,Adoption,Transferred
+FC-1038,Bella Thomas,2007-04-23,13,2020-09-09,,Emergency Shelter,Brian Wallace,2021-05-05,Adoption,Active
+FC-1039,Alexander Hernandez,2008-12-21,11,2024-06-15,2025-06-20,Pre-Adoptive Home,Marcus Williams,2025-06-07,Guardianship,Transferred
+FC-1040,Elijah Hall,2007-06-05,14,2021-06-10,,Kinship Care,Robert Kim,2021-10-31,Guardianship,Active
+FC-1041,Luna Anderson,2010-01-01,2,2012-06-17,2013-06-18,Group Home,David Okafor,2012-08-06,Independent Living,Transferred
+FC-1042,Nora Baker,2017-01-10,4,2021-01-16,2021-11-09,Foster Family Home,James Rodriguez,2021-06-15,Independent Living,Closed
+FC-1043,Eleanor Thompson,2012-01-14,8,2020-06-15,,Therapeutic Foster Care,Christopher Lee,2020-09-12,Adoption,Active
+FC-1044,Daniel Williams,2014-10-13,2,2017-02-22,,Pre-Adoptive Home,Brian Wallace,2017-12-24,Adoption,Active
+FC-1045,Caleb Ramirez,2006-07-28,12,2018-12-31,2019-06-06,Group Home,Maria Santos,2019-05-24,Long-term Foster Care,Transferred
+FC-1046,Camila Sanchez,2011-08-20,10,2021-09-18,2023-08-29,Pre-Adoptive Home,Angela Thompson,2023-08-27,Independent Living,Transferred
+FC-1047,Carter Martin,2014-02-09,10,2024-02-07,2024-10-09,Emergency Shelter,Christopher Lee,2024-09-10,Guardianship,Transferred
+FC-1048,Lillian Lewis,2014-12-02,5,2020-04-09,2020-10-29,Emergency Shelter,Maria Santos,2020-07-05,Independent Living,Closed
+FC-1049,Owen Garcia,2010-04-09,12,2022-06-24,2022-04-09,Foster Family Home,Marcus Williams,2022-07-15,Long-term Foster Care,Closed
+FC-1050,Dylan Roberts,2006-08-20,12,2022-11-30,,Kinship Care,Brian Wallace,2023-10-20,Long-term Foster Care,Active
+FC-1051,Aubrey Sanchez,2010-06-22,4,2014-12-05,2015-04-23,Kinship Care,Brian Wallace,2015-01-17,Independent Living,Transferred
+FC-1052,Lillian Brown,2017-07-03,3,2020-08-02,2021-12-20,Therapeutic Foster Care,Christopher Lee,2021-12-16,Independent Living,Transferred
+FC-1053,Isaiah Scott,2015-01-01,4,2019-05-01,2020-02-08,Therapeutic Foster Care,Maria Santos,2020-02-06,Adoption,Transferred
+FC-1054,Riley Lewis,2006-09-27,7,2017-11-23,2018-11-15,Kinship Care,Marcus Williams,2018-02-16,Long-term Foster Care,Closed
+FC-1055,Lincoln Martinez,2009-10-19,3,2013-02-01,2014-09-09,Foster Family Home,Marcus Williams,2014-04-17,Long-term Foster Care,Transferred
+FC-1056,Zoey Roberts,2018-02-06,2,2020-07-02,2020-08-07,Therapeutic Foster Care,Jennifer Martinez,2020-07-26,Independent Living,Transferred
+FC-1057,Paisley Mitchell,2017-04-01,6,2023-05-26,2024-03-30,Foster Family Home,Jennifer Martinez,2024-02-13,Guardianship,Transferred
+FC-1058,Brooklyn Baker,2014-01-26,4,2018-05-24,,Emergency Shelter,Sarah Mitchell,2019-05-07,Long-term Foster Care,Active
+FC-1059,Hazel Torres,2005-08-11,4,2010-01-21,2011-06-07,Group Home,Jennifer Martinez,2010-03-02,Guardianship,Closed
+FC-1060,Scarlett Robinson,2012-05-01,7,2019-08-05,2020-11-08,Foster Family Home,Robert Kim,2020-10-20,Reunification,Transferred
+FC-1061,Paisley Wright,2006-03-03,13,2019-04-26,2021-03-23,Kinship Care,Marcus Williams,2019-06-11,Reunification,Closed
+FC-1062,Aurora Martinez,2023-00-15,4,2014-09-06,2016-05-05,Pre-Adoptive Home,Patricia Chen,2016-01-10,Guardianship,Closed
+FC-1063,Abigail Hill,2018-08-15,2,2020-09-24,,Emergency Shelter,Sarah Mitchell,2020-12-18,Guardianship,Active
+FC-1064,Leah Baker,2013-06-02,8,2021-07-20,2023-05-23,Pre-Adoptive Home,Patricia Chen,2021-11-16,Independent Living,Closed
+FC-1065,Amelia Torres,2005-12-03,13,2019-04-15,2020-05-28,Pre-Adoptive Home,David Okafor,2020-01-14,Reunification,Closed
+FC-1066,Lily Young,2007-05-15,15,2024-13-45,2023-12-24,Kinship Care,Brian Wallace,2023-04-05,Independent Living,Closed
+FC-1067,Audrey Moore,2018-10-25,5,2024-06-15,2026-03-13,Kinship Care,James Rodriguez,2025-05-26,Guardianship,Transferred
+FC-1068,Hannah Thomas,2015-06-04,8,2023-08-27,2024-08-23,Kinship Care,David Okafor,2024-05-17,Guardianship,Closed
+FC-1069,Gianna Moore,2018-05-16,4,2022-10-04,2023-05-17,Pre-Adoptive Home,Jennifer Martinez,2022-12-19,Long-term Foster Care,Closed
+FC-1070,Zoe Carter,"May 23, 2010",13,"September 18, 2023","March 03, 2025",Foster Family Home,Patricia Chen,"October 20, 2023",Adoption,Transferred
+FC-1071,Nora Hall,2010-06-17,6,2016-12-01,2018-04-29,Pre-Adoptive Home,Tamika Johnson,2017-07-21,Guardianship,Transferred
+FC-1072,Penelope Hall,2015-03-07,6,2021-05-22,2021-10-22,Foster Family Home,Brian Wallace,2021-08-25,Independent Living,Closed
+FC-1073,Anna Hall,2009-02-25,5,2014-04-20,,Pre-Adoptive Home,Christopher Lee,2014-10-08,Independent Living,Active
+FC-1074,Jaylen Jackson,2007-04-04,8,2015-06-16,2016-01-15,Pre-Adoptive Home,Tamika Johnson,2015-07-04,Adoption,Transferred
+FC-1075,Riley Williams,2006-03-23,11,2017-09-14,,Therapeutic Foster Care,James Rodriguez,2018-09-05,Reunification,Active
+FC-1076,Leah Jackson,2015-07-13,9,2024-10-30,2025-01-20,Foster Family Home,James Rodriguez,2025-01-14,Long-term Foster Care,Transferred
+FC-1077,Joshua Jones,2017-12-10,6,2024-06-15,2024-12-14,Kinship Care,James Rodriguez,2024-07-21,Independent Living,Transferred
+FC-1078,Anna Clark,2018-08-07,5,2024-06-15,2026-01-01,Therapeutic Foster Care,Patricia Chen,2025-10-04,Independent Living,Transferred
+FC-1079,Isaiah Martin,2017-10-03,6,2023-10-17,2024-02-25,Kinship Care,Patricia Chen,2024-01-20,Reunification,Closed
+FC-1080,Elijah Thomas,2008-11-24,10,2018-12-11,2020-03-03,Emergency Shelter,Robert Kim,2019-12-13,Guardianship,Transferred
+FC-1081,Liam Anderson,2011-06-19,13,2024-08-26,,Foster Family Home,Maria Santos,2025-05-15,Adoption,Active
+FC-1082,Victoria Green,2018-03-25,3,2021-07-10,2021-01-10,Group Home,Angela Thompson,2022-03-14,Reunification,Closed
+FC-1083,Emma Hernandez,2011-11-25,11,2023-04-16,,Foster Family Home,Robert Kim,2023-12-26,Guardianship,Active
+FC-1084,Claire Sanchez,2011-02-09,10,2021-06-24,2021-10-14,Pre-Adoptive Home,David Okafor,2021-09-02,Independent Living,Closed
+FC-1085,Daniel Johnson,2007-01-19,9,2016-07-07,,Emergency Shelter,Sarah Mitchell,2017-05-27,Guardianship,Active
+FC-1086,Leah Williams,2008-12-06,9,2018-04-15,2019-02-23,Therapeutic Foster Care,Maria Santos,2019-02-23,Long-term Foster Care,Closed
+FC-1087,Mia Walker,2012-10-21,8,2021-01-12,2021-05-29,Therapeutic Foster Care,Brian Wallace,2021-03-10,Long-term Foster Care,Closed
+FC-1088,Sebastian Nelson,2013-12-25,10,2024-01-01,2024-12-18,Foster Family Home,Jennifer Martinez,2024-06-29,Independent Living,Transferred
+FC-1089,Jayden Nelson,2017-03-03,5,2022-06-15,2023-12-27,Pre-Adoptive Home,Robert Kim,2023-11-22,Reunification,Transferred
+FC-1090,Michael Moore,2017-04-27,3,2020-07-08,2019-12-24,Pre-Adoptive Home,Christopher Lee,2020-08-21,Adoption,Closed
+FC-1091,Julian Hernandez,2011-12-21,10,2021-12-21,2022-04-25,Foster Family Home,Robert Kim,2022-04-22,Reunification,Closed
+FC-1092,Gabriel Martinez,"March 06, 2016",7,"May 18, 2023","March 22, 2024",Therapeutic Foster Care,Marcus Williams,"February 04, 2024",Long-term Foster Care,Transferred
+FC-1093,Samuel Martinez,08/09/2013,5,01/08/2019,06/26/2019,Therapeutic Foster Care,David Okafor,04/03/2019,Independent Living,Closed
+FC-1094,Henry Smith,05/07/2011,13,07/18/2024,,Pre-Adoptive Home,Robert Kim,06/09/2025,Adoption,Active
+FC-1095,Hannah Wright,2015-11-12,7,2023-02-03,2024-09-11,Group Home,Marcus Williams,2024-05-29,Adoption,Transferred
+FC-1096,Leah Harris,2010-03-29,14,2024-07-08,2025-12-04,Pre-Adoptive Home,Maria Santos,2025-02-05,Adoption,Transferred
+FC-1097,Aubrey Williams,2007-11-01,12,2019-11-23,2019-03-26,Foster Family Home,Tamika Johnson,2020-08-04,Long-term Foster Care,Closed
+FC-1098,Aaliyah Campbell,2008-03-26,8,2016-09-07,,Therapeutic Foster Care,Patricia Chen,2016-11-14,Guardianship,Active
+FC-1099,Aurora Hall,2013-12-01,3,2017-02-22,,Therapeutic Foster Care,David Okafor,2017-12-22,Long-term Foster Care,Active

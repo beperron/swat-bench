@@ -1,0 +1,74 @@
+{
+  "test_id": "task-2-08",
+  "task_name": "Aggregation",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 366,
+      "pattern": "Total days: (\\d+)",
+      "label": "check_1"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 35809,
+      "pattern": "Total calls: (\\d+)",
+      "label": "check_2"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 13.8,
+      "tolerance": 0.2,
+      "pattern": "Overall abandonment rate: ([\\d.]+)%",
+      "label": "check_3"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "pattern": "Busiest month: (.+)",
+      "expected_pattern": "(?i)january",
+      "label": "check_4"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 9520,
+      "pattern": "Q1 total calls: (\\d+)",
+      "label": "check_5"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 8283,
+      "pattern": "Q3 total calls: (\\d+)",
+      "label": "check_6"
+    },
+    {
+      "type": "numeric",
+      "points": 1.0,
+      "expected": 97.8,
+      "tolerance": 0.1,
+      "pattern": "Mean daily calls: ([\\d.]+)",
+      "label": "check_7"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 161,
+      "pattern": "Peak day calls: (\\d+)",
+      "label": "check_8"
+    }
+  ],
+  "total_points": 7,
+  "auto_points": 7,
+  "human_points": 0
+}

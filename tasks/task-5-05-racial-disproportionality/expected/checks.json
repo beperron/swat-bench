@@ -1,0 +1,70 @@
+{
+  "test_id": "task-5-05",
+  "task_name": "Racial Disproportionality",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_referrals",
+      "type": "exact",
+      "pattern": "Total referrals: (\\d+)",
+      "expected": 500,
+      "points": 0.5
+    },
+    {
+      "label": "referral_rate_black",
+      "type": "numeric",
+      "pattern": "Black referral rate per 1000: ([\\d.]+)",
+      "expected": 12.0,
+      "tolerance": 0.5,
+      "points": 0.5
+    },
+    {
+      "label": "di_black",
+      "type": "numeric",
+      "pattern": "Black disproportionality index: ([\\d.]+)",
+      "expected": 2.4,
+      "tolerance": 0.05,
+      "points": 1.0
+    },
+    {
+      "label": "substantiation_rate_black",
+      "type": "numeric",
+      "pattern": "Black substantiation rate: ([\\d.]+)%",
+      "expected": 26.0,
+      "tolerance": 1.0,
+      "points": 1.0
+    },
+    {
+      "label": "rr_referral",
+      "type": "numeric",
+      "pattern": "Relative Risk Ratio \\(Black vs White referral rate\\): ([\\d.]+)",
+      "expected": 3.0,
+      "tolerance": 0.1,
+      "points": 1.0
+    },
+    {
+      "label": "rr_substantiation",
+      "type": "numeric",
+      "pattern": "Relative Risk Ratio \\(Black vs White substantiation rate\\): ([\\d.]+)",
+      "expected": 1.82,
+      "tolerance": 0.1,
+      "points": 1.0
+    },
+    {
+      "label": "most_overrepresented",
+      "type": "regex",
+      "pattern": "Most overrepresented group: (.+)",
+      "expected_pattern": "(?i)black",
+      "points": 1.0
+    }
+  ],
+  "total_points": 7,
+  "auto_points": 7,
+  "human_points": 0
+}

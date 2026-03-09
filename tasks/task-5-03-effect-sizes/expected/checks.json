@@ -1,0 +1,68 @@
+{
+  "test_id": "task-5-03",
+  "task_name": "Effect Sizes",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_studies",
+      "type": "exact",
+      "pattern": "Total studies: (\\d+)",
+      "expected": 12,
+      "points": 1.0
+    },
+    {
+      "label": "mean_cohens_d",
+      "type": "numeric",
+      "pattern": "Mean Cohen's d: ([\\d.]+)",
+      "expected": 0.624,
+      "tolerance": 0.02,
+      "points": 1.0
+    },
+    {
+      "label": "mean_hedges_g",
+      "type": "numeric",
+      "pattern": "Mean Hedges' g: ([\\d.]+)",
+      "expected": 0.618,
+      "tolerance": 0.02,
+      "points": 1.0
+    },
+    {
+      "label": "median_d",
+      "type": "numeric",
+      "pattern": "Median effect size \\(d\\): ([\\d.]+)",
+      "expected": 0.634,
+      "tolerance": 0.02,
+      "points": 0.5
+    },
+    {
+      "label": "large_effects",
+      "type": "exact",
+      "pattern": "Studies with large effect \\(d > 0\\.8\\): (\\d+)",
+      "expected": 3,
+      "points": 0.5
+    },
+    {
+      "label": "medium_effects",
+      "type": "exact",
+      "pattern": "Studies with medium effect \\(0\\.5 <= d <= 0\\.8\\): (\\d+)",
+      "expected": 5,
+      "points": 0.5
+    },
+    {
+      "label": "small_effects",
+      "type": "exact",
+      "pattern": "Studies with small effect \\(d < 0\\.5\\): (\\d+)",
+      "expected": 4,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

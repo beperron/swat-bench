@@ -1,0 +1,51 @@
+case_id,maltreatment_type,child_age,case_outcome,time_to_decision_days,prior_cps_contact
+CW-001,Physical Abuse,15,Foster Care,150,0
+CW-002,Neglect,16,Foster Care,145,1
+CW-003,Neglect,7,Foster Care,262,0
+CW-004,Neglect,1,Foster Care,288,1
+CW-005,Physical Abuse,4,Foster Care,227,1
+CW-006,Physical Abuse,13,Foster Care,166,0
+CW-007,Physical Abuse,16,Reunification,347,0
+CW-008,Neglect,4,Reunification,194,1
+CW-009,Neglect,14,Reunification,254,1
+CW-010,Neglect,5,Reunification,336,0
+CW-011,Physical Abuse,7,Reunification,263,0
+CW-012,Neglect,7,Reunification,201,1
+CW-013,Neglect,13,Foster Care,181,1
+CW-014,Physical Abuse,15,Reunification,344,0
+CW-015,Physical Abuse,11,Reunification,189,0
+CW-016,Physical Abuse,13,Foster Care,125,1
+CW-017,Physical Abuse,4,Reunification,262,0
+CW-018,Neglect,13,Foster Care,209,0
+CW-019,Physical Abuse,16,Reunification,142,1
+CW-020,Physical Abuse,7,Foster Care,347,1
+CW-021,Neglect,11,Foster Care,81,1
+CW-022,Physical Abuse,3,Reunification,297,0
+CW-023,Physical Abuse,6,Reunification,324,0
+CW-024,Physical Abuse,12,Foster Care,142,1
+CW-025,Neglect,2,Foster Care,130,0
+CW-026,Neglect,10,Foster Care,142,0
+CW-027,Physical Abuse,13,Foster Care,110,1
+CW-028,Neglect,14,Reunification,216,0
+CW-029,Neglect,9,Reunification,142,0
+CW-030,Physical Abuse,5,Reunification,31,1
+CW-031,Neglect,6,Foster Care,159,1
+CW-032,Physical Abuse,12,Foster Care,249,1
+CW-033,Physical Abuse,12,Reunification,83,1
+CW-034,Neglect,12,Reunification,253,0
+CW-035,Neglect,12,Reunification,254,0
+CW-036,Neglect,4,Reunification,155,1
+CW-037,Physical Abuse,14,Foster Care,159,1
+CW-038,Physical Abuse,14,Foster Care,82,1
+CW-039,Neglect,11,Foster Care,201,0
+CW-040,Neglect,16,Reunification,247,1
+CW-041,Physical Abuse,10,Reunification,189,1
+CW-042,Neglect,7,Foster Care,227,1
+CW-043,Physical Abuse,12,Foster Care,276,1
+CW-044,Neglect,9,Reunification,353,1
+CW-045,Physical Abuse,7,Foster Care,232,1
+CW-046,Neglect,14,Reunification,213,0
+CW-047,Physical Abuse,1,Foster Care,152,1
+CW-048,Neglect,1,Reunification,284,1
+CW-049,Neglect,9,Reunification,323,0
+CW-050,Physical Abuse,11,Reunification,309,0

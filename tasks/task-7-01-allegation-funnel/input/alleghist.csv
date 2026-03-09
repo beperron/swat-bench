@@ -1,0 +1,359 @@
+intake_id,src_intake_id,screeningdecision,county_name,complaint_date,investigation_caseid,srcongoingcase,allegationtypedesc,intakechildpartyid,intakeperppartyid,findingdesc,abuseneglect,relationtypeperptovictim,child_role
+300001,1300001,Screen Out,Oakland,01/26/2022,,496531,Physical Abuse,100036,200095,,A,Other Caregiver,Victim
+300001,1300001,Screen Out,Oakland,01/26/2022,,496531,Emotional Abuse,100036,200095,,A,Parent,Victim
+300002,1300002,Investigate,Wayne,08/12/2022,585182,493851,Physical Abuse,100144,200076,No Evidence,A,Step-Parent,Victim
+300002,1300002,Investigate,Wayne,08/12/2022,585182,493851,Sexual Abuse,100051,200028,No Evidence,A,Parent,Victim
+300002,1300002,Investigate,Wayne,08/12/2022,585182,493851,Physical Abuse,100051,200028,No Evidence,A,Other Caregiver,Victim
+300003,1300003,Investigate,Wayne,12/19/2022,516362,470285,Emotional Abuse,100187,200038,No Evidence,A,Mother's Paramour,Victim
+300003,1300003,Investigate,Wayne,12/19/2022,516362,470285,Sexual Abuse,100187,200038,No Evidence,A,Step-Parent,Victim
+300003,1300003,Investigate,Wayne,12/19/2022,516362,470285,Physical Abuse,100118,200099,No Preponderance,A,Step-Parent,Victim
+300004,1300004,Investigate,Genesee,01/25/2023,546567,448521,Physical Abuse,100094,200120,Preponderance,A,Mother's Paramour,Victim
+300004,1300004,Investigate,Genesee,01/25/2023,546567,448521,Medical Neglect,100042,200049,No Preponderance,N,Father's Paramour,Victim
+300005,1300005,Screen Out,Oakland,11/29/2022,,441348,Emotional Abuse,100059,200009,,A,Father's Paramour,Victim
+300005,1300005,Screen Out,Oakland,11/29/2022,,441348,Medical Neglect,100009,200084,,N,Other Caregiver,Victim
+300006,1300006,Investigate,Wayne,05/23/2022,576623,497913,Physical Abuse,100068,200018,No Evidence,A,Parent,Victim
+300007,1300007,Investigate,Genesee,06/06/2022,550433,408327,Physical Abuse,100109,200068,Preponderance,A,Father's Paramour,Victim
+300007,1300007,Investigate,Genesee,06/06/2022,550433,408327,Medical Neglect,100109,200068,Preponderance,A,Mother's Paramour,Victim
+300007,1300007,Investigate,Genesee,06/06/2022,550433,408327,Medical Neglect,100109,200033,Preponderance,N,Parent,Victim
+300007,1300007,Investigate,Genesee,06/06/2022,550433,408327,Sexual Abuse,100109,200033,Preponderance,N,Relative,Victim
+300007,1300007,Investigate,Genesee,06/06/2022,550433,408327,Emotional Abuse,100153,200108,Preponderance,A,Step-Parent,Victim
+300008,1300008,Screen Out,Wayne,01/07/2023,,407593,Physical Abuse,100079,200073,,A,Parent,Victim
+300008,1300008,Screen Out,Wayne,01/07/2023,,407593,Neglect - Failure to Provide,100079,200073,,A,Mother's Paramour,Victim
+300008,1300008,Screen Out,Wayne,01/07/2023,,407593,Emotional Abuse,100062,200017,,A,Step-Parent,Victim
+300008,1300008,Screen Out,Wayne,01/07/2023,,407593,Emotional Abuse,100062,200085,,A,Other Caregiver,Victim
+300009,1300009,Screen Out,Ingham,07/07/2023,,452297,Emotional Abuse,100183,200084,,A,Other Caregiver,Victim
+300009,1300009,Screen Out,Ingham,07/07/2023,,452297,Neglect - Failure to Protect,100183,200048,,N,Parent,Victim
+300009,1300009,Screen Out,Ingham,07/07/2023,,452297,Emotional Abuse,100080,200076,,A,Step-Parent,Victim
+300010,1300010,Investigate,Wayne,10/09/2023,509288,443310,Medical Neglect,100009,200028,No Evidence,N,Mother's Paramour,Victim
+300011,1300011,Screen Out,Oakland,09/06/2022,,412705,Neglect - Failure to Provide,100049,200046,,N,Father's Paramour,Victim
+300011,1300011,Screen Out,Oakland,09/06/2022,,412705,Physical Abuse,100025,200084,,A,Other Caregiver,Victim
+300011,1300011,Screen Out,Oakland,09/06/2022,,412705,Medical Neglect,100025,200084,,A,Father's Paramour,Victim
+300012,1300012,Investigate,Wayne,04/22/2022,555297,418374,Neglect - Failure to Provide,100115,200112,Preponderance,N,Parent,Victim
+300012,1300012,Investigate,Wayne,04/22/2022,555297,418374,Emotional Abuse,100115,200112,Preponderance,N,Parent,Victim
+300013,1300013,Transfer,Kent,01/16/2022,,463654,Physical Abuse,100061,200111,,A,Step-Parent,Victim
+300013,1300013,Transfer,Kent,01/16/2022,,463654,Neglect - Failure to Provide,100043,200050,,N,Relative,Victim
+300013,1300013,Transfer,Kent,01/16/2022,,463654,Emotional Abuse,100105,200094,,A,Step-Parent,Victim
+300013,1300013,Transfer,Kent,01/16/2022,,463654,Neglect - Failure to Provide,100105,200094,,A,Step-Parent,Victim
+300014,1300014,Investigate,Wayne,03/01/2022,507493,441105,Neglect - Failure to Protect,100192,200118,Preponderance,N,Mother's Paramour,Victim
+300014,1300014,Investigate,Wayne,03/01/2022,507493,441105,Physical Abuse,100192,200118,Preponderance,N,Parent,Victim
+300015,1300015,Screen Out,Wayne,03/11/2022,,474669,Physical Abuse,100031,200077,,A,Other Caregiver,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Sexual Abuse,100053,200083,Preponderance,A,Parent,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Sexual Abuse,100172,200113,No Preponderance,A,Step-Parent,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Medical Neglect,100172,200113,No Preponderance,A,Other Caregiver,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Medical Neglect,100172,200009,No Preponderance,N,Mother's Paramour,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Sexual Abuse,100172,200009,No Preponderance,N,Father's Paramour,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Physical Abuse,100184,200014,No Evidence,A,Parent,Victim
+300016,1300016,Investigate,Oakland,08/02/2023,531286,441181,Neglect - Failure to Protect,100184,200113,No Evidence,N,Relative,Victim
+300017,1300017,Screen Out,Wayne,08/04/2022,,434601,Physical Abuse,100163,200033,,A,Father's Paramour,Victim
+300017,1300017,Screen Out,Wayne,08/04/2022,,434601,Medical Neglect,100163,200033,,A,Other Caregiver,Victim
+300018,1300018,Investigate,Genesee,02/15/2022,597155,421179,Medical Neglect,100164,200015,No Evidence,N,Step-Parent,Victim
+300018,1300018,Investigate,Genesee,02/15/2022,597155,421179,Physical Abuse,100068,200019,No Evidence,A,Relative,Victim
+300019,1300019,Screen Out,Kent,02/10/2022,,487417,Neglect - Failure to Provide,100064,200100,,N,Mother's Paramour,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Medical Neglect,100046,200043,,N,Relative,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Neglect - Failure to Protect,100046,200043,,N,Step-Parent,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Physical Abuse,100046,200101,,A,Parent,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Neglect - Failure to Provide,100046,200101,,A,Other Caregiver,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Sexual Abuse,100106,200105,,A,Step-Parent,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Medical Neglect,100106,200105,,A,Step-Parent,Victim
+300020,1300020,Screen Out,Oakland,08/31/2022,,423510,Sexual Abuse,100007,200025,,A,Parent,Victim
+300021,1300021,Investigate,Ingham,10/13/2022,543405,470283,Sexual Abuse,100174,200034,No Preponderance,A,Parent,Victim
+300021,1300021,Investigate,Ingham,10/13/2022,543405,470283,Neglect - Failure to Provide,100174,200023,No Preponderance,N,Relative,Victim
+300022,1300022,Investigate,Oakland,11/18/2022,533387,424915,Emotional Abuse,100030,200067,Preponderance,A,Relative,Victim
+300022,1300022,Investigate,Oakland,11/18/2022,533387,424915,Neglect - Failure to Protect,100030,200067,Preponderance,A,Other Caregiver,Victim
+300022,1300022,Investigate,Oakland,11/18/2022,533387,424915,Sexual Abuse,100099,200065,Preponderance,A,Other Caregiver,Victim
+300022,1300022,Investigate,Oakland,11/18/2022,533387,424915,Emotional Abuse,100099,200040,Preponderance,A,Step-Parent,Victim
+300022,1300022,Investigate,Oakland,11/18/2022,533387,424915,Emotional Abuse,100148,200027,No Preponderance,A,Mother's Paramour,Victim
+300023,1300023,Investigate,Oakland,04/22/2023,522242,496464,Physical Abuse,100131,200082,No Evidence,A,Step-Parent,Victim
+300023,1300023,Investigate,Oakland,04/22/2023,522242,496464,Neglect - Failure to Provide,100122,200019,No Preponderance,N,Mother's Paramour,Victim
+300023,1300023,Investigate,Oakland,04/22/2023,522242,496464,Physical Abuse,100122,200004,No Preponderance,A,Other Caregiver,Victim
+300023,1300023,Investigate,Oakland,04/22/2023,522242,496464,Neglect - Failure to Provide,100122,200004,No Preponderance,A,Father's Paramour,Victim
+300024,1300024,Investigate,Oakland,01/29/2023,500727,490129,Medical Neglect,100168,200029,No Preponderance,N,Other Caregiver,Victim
+300024,1300024,Investigate,Oakland,01/29/2023,500727,490129,Emotional Abuse,100168,200029,No Preponderance,N,Parent,Victim
+300024,1300024,Investigate,Oakland,01/29/2023,500727,490129,Physical Abuse,100168,200023,No Preponderance,A,Other Caregiver,Victim
+300025,1300025,Screen Out,Wayne,04/21/2023,,458009,Neglect - Failure to Provide,100153,200093,,N,Other Caregiver,Victim
+300025,1300025,Screen Out,Wayne,04/21/2023,,458009,Emotional Abuse,100153,200093,,N,Step-Parent,Victim
+300025,1300025,Screen Out,Wayne,04/21/2023,,458009,Neglect - Failure to Protect,100082,200061,,N,Father's Paramour,Victim
+300025,1300025,Screen Out,Wayne,04/21/2023,,458009,Emotional Abuse,100082,200058,,A,Other Caregiver,Victim
+300025,1300025,Screen Out,Wayne,04/21/2023,,458009,Medical Neglect,100194,200036,,N,Relative,Victim
+300026,1300026,Investigate,Wayne,12/10/2022,530312,419770,Emotional Abuse,100036,200009,No Preponderance,A,Other Caregiver,Victim
+300026,1300026,Investigate,Wayne,12/10/2022,530312,419770,Neglect - Failure to Protect,100036,200054,No Preponderance,N,Other Caregiver,Victim
+300027,1300027,Screen Out,Kent,08/22/2023,,475457,Sexual Abuse,100196,200001,,A,Other Caregiver,Victim
+300027,1300027,Screen Out,Kent,08/22/2023,,475457,Neglect - Failure to Provide,100196,200001,,A,Mother's Paramour,Victim
+300028,1300028,Screen Out,Oakland,07/14/2023,,435775,Medical Neglect,100125,200004,,N,Father's Paramour,Victim
+300028,1300028,Screen Out,Oakland,07/14/2023,,435775,Neglect - Failure to Protect,100057,200093,,N,Mother's Paramour,Victim
+300028,1300028,Screen Out,Oakland,07/14/2023,,435775,Emotional Abuse,100057,200093,,N,Parent,Victim
+300028,1300028,Screen Out,Oakland,07/14/2023,,435775,Emotional Abuse,100057,200022,,A,Father's Paramour,Victim
+300028,1300028,Screen Out,Oakland,07/14/2023,,435775,Medical Neglect,100057,200022,,A,Parent,Victim
+300029,1300029,Investigate,Wayne,03/15/2023,549690,434100,Sexual Abuse,100013,200098,No Evidence,A,Relative,Victim
+300029,1300029,Investigate,Wayne,03/15/2023,549690,434100,Neglect - Failure to Provide,100013,200098,No Evidence,A,Parent,Victim
+300030,1300030,Investigate,Kent,07/07/2023,505277,485427,Neglect - Failure to Protect,100058,200003,No Preponderance,N,Step-Parent,Victim
+300030,1300030,Investigate,Kent,07/07/2023,505277,485427,Sexual Abuse,100167,200028,No Preponderance,A,Relative,Victim
+300030,1300030,Investigate,Kent,07/07/2023,505277,485427,Neglect - Failure to Protect,100018,200096,Preponderance,N,Relative,Victim
+300031,1300031,Screen Out,Oakland,03/19/2022,,491383,Physical Abuse,100063,200109,,A,Mother's Paramour,Victim
+300031,1300031,Screen Out,Oakland,03/19/2022,,491383,Sexual Abuse,100063,200088,,A,Other Caregiver,Victim
+300031,1300031,Screen Out,Oakland,03/19/2022,,491383,Emotional Abuse,100063,200088,,A,Father's Paramour,Victim
+300031,1300031,Screen Out,Oakland,03/19/2022,,491383,Physical Abuse,100027,200065,,A,Other Caregiver,Victim
+300032,1300032,Investigate,Genesee,04/19/2022,520053,492709,Neglect - Failure to Provide,100118,200118,No Evidence,N,Other Caregiver,Victim
+300033,1300033,Investigate,Kent,08/30/2023,531964,459088,Neglect - Failure to Protect,100023,200064,No Evidence,N,Step-Parent,Victim
+300033,1300033,Investigate,Kent,08/30/2023,531964,459088,Neglect - Failure to Provide,100023,200064,No Evidence,N,Relative,Victim
+300033,1300033,Investigate,Kent,08/30/2023,531964,459088,Sexual Abuse,100072,200077,No Evidence,A,Mother's Paramour,Victim
+300034,1300034,Investigate,Wayne,07/15/2022,531500,499375,Neglect - Failure to Protect,100126,200003,No Evidence,N,Other Caregiver,Victim
+300034,1300034,Investigate,Wayne,07/15/2022,531500,499375,Emotional Abuse,100143,200048,No Evidence,A,Relative,Victim
+300035,1300035,Investigate,Kent,07/18/2023,530218,432952,Medical Neglect,100070,200016,Preponderance,N,Step-Parent,Victim
+300035,1300035,Investigate,Kent,07/18/2023,530218,432952,Medical Neglect,100079,200023,No Evidence,N,Mother's Paramour,Victim
+300036,1300036,Transfer,Wayne,02/16/2022,,416552,Physical Abuse,100179,200097,,A,Mother's Paramour,Victim
+300037,1300037,Investigate,Wayne,05/06/2023,562617,433093,Medical Neglect,100014,200063,Preponderance,N,Father's Paramour,Victim
+300038,1300038,Investigate,Wayne,03/03/2023,549857,468495,Sexual Abuse,100058,200076,No Evidence,A,Mother's Paramour,Victim
+300038,1300038,Investigate,Wayne,03/03/2023,549857,468495,Emotional Abuse,100058,200076,No Evidence,A,Parent,Victim
+300038,1300038,Investigate,Wayne,03/03/2023,549857,468495,Medical Neglect,100199,200027,No Preponderance,N,Parent,Victim
+300038,1300038,Investigate,Wayne,03/03/2023,549857,468495,Neglect - Failure to Protect,100199,200081,No Preponderance,N,Mother's Paramour,Victim
+300039,1300039,Investigate,Wayne,01/03/2022,530341,404279,Sexual Abuse,100121,200059,No Evidence,A,Father's Paramour,Victim
+300039,1300039,Investigate,Wayne,01/03/2022,530341,404279,Neglect - Failure to Protect,100121,200010,No Evidence,N,Other Caregiver,Victim
+300039,1300039,Investigate,Wayne,01/03/2022,530341,404279,Neglect - Failure to Protect,100075,200020,Preponderance,N,Parent,Victim
+300039,1300039,Investigate,Wayne,01/03/2022,530341,404279,Physical Abuse,100075,200020,Preponderance,N,Step-Parent,Victim
+300040,1300040,Screen Out,Oakland,08/06/2023,,490267,Emotional Abuse,100120,200052,,A,Other Caregiver,Victim
+300040,1300040,Screen Out,Oakland,08/06/2023,,490267,Medical Neglect,100120,200052,,A,Other Caregiver,Victim
+300041,1300041,Screen Out,Wayne,02/10/2022,,403391,Emotional Abuse,100155,200087,,A,Parent,Victim
+300041,1300041,Screen Out,Wayne,02/10/2022,,403391,Medical Neglect,100155,200087,,A,Father's Paramour,Victim
+300041,1300041,Screen Out,Wayne,02/10/2022,,403391,Neglect - Failure to Protect,100065,200074,,N,Mother's Paramour,Victim
+300041,1300041,Screen Out,Wayne,02/10/2022,,403391,Neglect - Failure to Provide,100065,200074,,N,Father's Paramour,Victim
+300041,1300041,Screen Out,Wayne,02/10/2022,,403391,Sexual Abuse,100065,200006,,A,Step-Parent,Victim
+300042,1300042,Screen Out,Ingham,03/23/2023,,461606,Physical Abuse,100024,200043,,A,Step-Parent,Victim
+300043,1300043,Investigate,Wayne,05/23/2023,511543,459615,Emotional Abuse,100195,200099,No Evidence,A,Parent,Victim
+300043,1300043,Investigate,Wayne,05/23/2023,511543,459615,Emotional Abuse,100141,200025,No Evidence,A,Other Caregiver,Victim
+300043,1300043,Investigate,Wayne,05/23/2023,511543,459615,Sexual Abuse,100010,200071,No Preponderance,A,Other Caregiver,Victim
+300044,1300044,Investigate,Genesee,05/12/2023,540731,420759,Neglect - Failure to Provide,100156,200108,No Evidence,N,Father's Paramour,Victim
+300044,1300044,Investigate,Genesee,05/12/2023,540731,420759,Physical Abuse,100156,200108,No Evidence,N,Step-Parent,Victim
+300044,1300044,Investigate,Genesee,05/12/2023,540731,420759,Neglect - Failure to Provide,100062,200035,No Evidence,N,Other Caregiver,Victim
+300044,1300044,Investigate,Genesee,05/12/2023,540731,420759,Emotional Abuse,100182,200050,Preponderance,A,Mother's Paramour,Victim
+300045,1300045,Investigate,Wayne,03/13/2022,535019,466551,Medical Neglect,100107,200108,No Evidence,N,Other Caregiver,Victim
+300045,1300045,Investigate,Wayne,03/13/2022,535019,466551,Neglect - Failure to Provide,100107,200076,No Evidence,N,Other Caregiver,Victim
+300045,1300045,Investigate,Wayne,03/13/2022,535019,466551,Emotional Abuse,100107,200076,No Evidence,N,Relative,Victim
+300045,1300045,Investigate,Wayne,03/13/2022,535019,466551,Medical Neglect,100088,200042,No Evidence,N,Mother's Paramour,Victim
+300045,1300045,Investigate,Wayne,03/13/2022,535019,466551,Neglect - Failure to Protect,100088,200042,No Evidence,N,Other Caregiver,Victim
+300046,1300046,Investigate,Wayne,02/25/2023,586992,450605,Emotional Abuse,100181,200005,No Preponderance,A,Relative,Victim
+300046,1300046,Investigate,Wayne,02/25/2023,586992,450605,Medical Neglect,100098,200117,No Evidence,N,Step-Parent,Victim
+300047,1300047,Transfer,Kent,11/02/2023,,444376,Sexual Abuse,100068,200051,,A,Father's Paramour,Victim
+300048,1300048,Transfer,Genesee,01/25/2023,,470913,Medical Neglect,100195,200009,,N,Relative,Victim
+300048,1300048,Transfer,Genesee,01/25/2023,,470913,Physical Abuse,100125,200096,,A,Father's Paramour,Victim
+300048,1300048,Transfer,Genesee,01/25/2023,,470913,Physical Abuse,100125,200012,,A,Other Caregiver,Victim
+300049,1300049,Screen Out,Wayne,11/03/2022,,438453,Emotional Abuse,100015,200056,,A,Other Caregiver,Victim
+300050,1300050,Investigate,Oakland,07/04/2022,589540,481227,Sexual Abuse,100098,200019,Preponderance,A,Other Caregiver,Victim
+300050,1300050,Investigate,Oakland,07/04/2022,589540,481227,Physical Abuse,100098,200030,Preponderance,A,Other Caregiver,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Physical Abuse,100151,200026,Preponderance,A,Other Caregiver,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Neglect - Failure to Protect,100151,200026,Preponderance,A,Mother's Paramour,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Sexual Abuse,100151,200050,Preponderance,A,Father's Paramour,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Neglect - Failure to Protect,100077,200030,No Evidence,N,Mother's Paramour,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Medical Neglect,100077,200030,No Evidence,N,Relative,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Medical Neglect,100077,200078,No Evidence,N,Father's Paramour,Victim
+300051,1300051,Investigate,Oakland,06/11/2022,590481,455616,Physical Abuse,100164,200116,No Preponderance,A,Relative,Victim
+300052,1300052,Investigate,Genesee,02/04/2022,597974,442824,Sexual Abuse,100024,200070,No Preponderance,A,Mother's Paramour,Victim
+300052,1300052,Investigate,Genesee,02/04/2022,597974,442824,Emotional Abuse,100024,200070,No Preponderance,A,Relative,Victim
+300052,1300052,Investigate,Genesee,02/04/2022,597974,442824,Sexual Abuse,100076,200062,No Evidence,A,Parent,Victim
+300052,1300052,Investigate,Genesee,02/04/2022,597974,442824,Physical Abuse,100076,200104,No Evidence,A,Step-Parent,Victim
+300053,1300053,Screen Out,Genesee,08/20/2022,,447943,Emotional Abuse,100102,200051,,A,Parent,Victim
+300053,1300053,Screen Out,Genesee,08/20/2022,,447943,Sexual Abuse,100143,200087,,A,Mother's Paramour,Victim
+300054,1300054,Screen Out,Kent,10/16/2023,,461798,Sexual Abuse,100060,200114,,A,Step-Parent,Victim
+300054,1300054,Screen Out,Kent,10/16/2023,,461798,Emotional Abuse,100060,200114,,A,Father's Paramour,Victim
+300055,1300055,Screen Out,Wayne,04/21/2023,,415293,Neglect - Failure to Provide,100105,200005,,N,Parent,Victim
+300056,1300056,Investigate,Wayne,07/05/2023,591290,497405,Neglect - Failure to Provide,100172,200094,No Evidence,N,Father's Paramour,Victim
+300057,1300057,Investigate,Wayne,05/17/2023,528478,448567,Medical Neglect,100072,200013,No Preponderance,N,Relative,Victim
+300057,1300057,Investigate,Wayne,05/17/2023,528478,448567,Sexual Abuse,100072,200088,No Preponderance,A,Step-Parent,Victim
+300057,1300057,Investigate,Wayne,05/17/2023,528478,448567,Emotional Abuse,100009,200028,No Evidence,A,Parent,Victim
+300057,1300057,Investigate,Wayne,05/17/2023,528478,448567,Neglect - Failure to Protect,100177,200017,Preponderance,N,Mother's Paramour,Victim
+300057,1300057,Investigate,Wayne,05/17/2023,528478,448567,Physical Abuse,100177,200017,Preponderance,N,Step-Parent,Victim
+300058,1300058,Investigate,Genesee,08/27/2022,536343,400372,Physical Abuse,100153,200070,No Preponderance,A,Step-Parent,Victim
+300058,1300058,Investigate,Genesee,08/27/2022,536343,400372,Medical Neglect,100153,200070,No Preponderance,A,Parent,Victim
+300058,1300058,Investigate,Genesee,08/27/2022,536343,400372,Neglect - Failure to Protect,100153,200033,No Preponderance,N,Mother's Paramour,Victim
+300059,1300059,Investigate,Wayne,06/28/2022,514897,468956,Physical Abuse,100108,200047,No Evidence,A,Other Caregiver,Victim
+300060,1300060,Investigate,Kent,09/22/2023,560037,439536,Neglect - Failure to Provide,100169,200062,No Preponderance,N,Other Caregiver,Victim
+300060,1300060,Investigate,Kent,09/22/2023,560037,439536,Physical Abuse,100169,200062,No Preponderance,N,Father's Paramour,Victim
+300060,1300060,Investigate,Kent,09/22/2023,560037,439536,Neglect - Failure to Protect,100134,200042,No Preponderance,N,Relative,Victim
+300060,1300060,Investigate,Kent,09/22/2023,560037,439536,Emotional Abuse,100134,200078,No Preponderance,A,Mother's Paramour,Victim
+300061,1300061,Transfer,Oakland,01/26/2023,,466264,Physical Abuse,100117,200013,,A,Father's Paramour,Victim
+300061,1300061,Transfer,Oakland,01/26/2023,,466264,Emotional Abuse,100117,200013,,A,Step-Parent,Victim
+300062,1300062,Investigate,Kent,08/22/2022,512464,495632,Neglect - Failure to Protect,100103,200033,Preponderance,N,Father's Paramour,Victim
+300062,1300062,Investigate,Kent,08/22/2022,512464,495632,Medical Neglect,100107,200012,Preponderance,N,Relative,Victim
+300062,1300062,Investigate,Kent,08/22/2022,512464,495632,Emotional Abuse,100107,200056,Preponderance,A,Mother's Paramour,Victim
+300062,1300062,Investigate,Kent,08/22/2022,512464,495632,Physical Abuse,100107,200056,Preponderance,A,Mother's Paramour,Victim
+300063,1300063,Investigate,Oakland,02/25/2023,506744,494511,Neglect - Failure to Protect,100193,200074,No Evidence,N,Father's Paramour,Victim
+300063,1300063,Investigate,Oakland,02/25/2023,506744,494511,Sexual Abuse,100109,200072,No Preponderance,A,Mother's Paramour,Victim
+300064,1300064,Screen Out,Wayne,03/16/2023,,484240,Medical Neglect,100160,200078,,N,Parent,Victim
+300064,1300064,Screen Out,Wayne,03/16/2023,,484240,Sexual Abuse,100160,200078,,N,Step-Parent,Victim
+300064,1300064,Screen Out,Wayne,03/16/2023,,484240,Sexual Abuse,100158,200098,,A,Relative,Victim
+300064,1300064,Screen Out,Wayne,03/16/2023,,484240,Medical Neglect,100173,200112,,N,Other Caregiver,Victim
+300065,1300065,Transfer,Wayne,10/11/2023,,428198,Sexual Abuse,100136,200059,,A,Relative,Victim
+300066,1300066,Screen Out,Oakland,08/05/2023,,498886,Neglect - Failure to Provide,100040,200087,,N,Father's Paramour,Victim
+300066,1300066,Screen Out,Oakland,08/05/2023,,498886,Sexual Abuse,100041,200078,,A,Step-Parent,Victim
+300067,1300067,Investigate,Genesee,04/27/2022,577744,488931,Physical Abuse,100174,200051,No Evidence,A,Step-Parent,Victim
+300067,1300067,Investigate,Genesee,04/27/2022,577744,488931,Medical Neglect,100174,200051,No Evidence,A,Relative,Victim
+300068,1300068,Screen Out,Ingham,05/21/2022,,401014,Neglect - Failure to Provide,100031,200056,,N,Mother's Paramour,Victim
+300069,1300069,Screen Out,Oakland,05/28/2023,,452045,Physical Abuse,100091,200006,,A,Relative,Victim
+300069,1300069,Screen Out,Oakland,05/28/2023,,452045,Emotional Abuse,100091,200056,,A,Other Caregiver,Victim
+300069,1300069,Screen Out,Oakland,05/28/2023,,452045,Physical Abuse,100019,200054,,A,Relative,Victim
+300069,1300069,Screen Out,Oakland,05/28/2023,,452045,Emotional Abuse,100019,200038,,A,Other Caregiver,Victim
+300070,1300070,Investigate,Genesee,01/06/2023,552488,477185,Neglect - Failure to Protect,100063,200096,No Evidence,N,Parent,Victim
+300070,1300070,Investigate,Genesee,01/06/2023,552488,477185,Physical Abuse,100063,200044,No Evidence,A,Mother's Paramour,Victim
+300070,1300070,Investigate,Genesee,01/06/2023,552488,477185,Neglect - Failure to Protect,100112,200105,No Evidence,N,Step-Parent,Victim
+300071,1300071,Investigate,Wayne,09/20/2022,523219,409877,Neglect - Failure to Provide,100195,200073,No Evidence,N,Father's Paramour,Victim
+300071,1300071,Investigate,Wayne,09/20/2022,523219,409877,Emotional Abuse,100195,200073,No Evidence,N,Father's Paramour,Victim
+300071,1300071,Investigate,Wayne,09/20/2022,523219,409877,Physical Abuse,100168,200081,No Evidence,A,Other Caregiver,Victim
+300071,1300071,Investigate,Wayne,09/20/2022,523219,409877,Sexual Abuse,100168,200041,No Evidence,A,Relative,Victim
+300072,1300072,Investigate,Oakland,12/27/2022,507457,404930,Physical Abuse,100116,200111,No Evidence,A,Mother's Paramour,Victim
+300072,1300072,Investigate,Oakland,12/27/2022,507457,404930,Emotional Abuse,100116,200111,No Evidence,A,Mother's Paramour,Victim
+300073,1300073,Investigate,Kent,08/18/2023,585438,474929,Physical Abuse,100011,200065,Preponderance,A,Other Caregiver,Victim
+300073,1300073,Investigate,Kent,08/18/2023,585438,474929,Sexual Abuse,100116,200079,No Evidence,A,Relative,Victim
+300074,1300074,Screen Out,Kent,12/13/2022,,484844,Medical Neglect,100162,200043,,N,Other Caregiver,Victim
+300075,1300075,Transfer,Wayne,11/04/2023,,410683,Sexual Abuse,100039,200019,,A,Step-Parent,Victim
+300075,1300075,Transfer,Wayne,11/04/2023,,410683,Neglect - Failure to Provide,100039,200019,,A,Mother's Paramour,Victim
+300075,1300075,Transfer,Wayne,11/04/2023,,410683,Medical Neglect,100086,200011,,N,Relative,Victim
+300075,1300075,Transfer,Wayne,11/04/2023,,410683,Medical Neglect,100086,200040,,N,Parent,Victim
+300075,1300075,Transfer,Wayne,11/04/2023,,410683,Emotional Abuse,100086,200040,,N,Father's Paramour,Victim
+300076,1300076,Investigate,Oakland,06/05/2023,544792,428075,Sexual Abuse,100047,200018,No Evidence,A,Parent,Victim
+300077,1300077,Screen Out,Kent,07/07/2023,,444141,Neglect - Failure to Protect,100010,200080,,N,Step-Parent,Victim
+300077,1300077,Screen Out,Kent,07/07/2023,,444141,Medical Neglect,100010,200017,,N,Mother's Paramour,Victim
+300077,1300077,Screen Out,Kent,07/07/2023,,444141,Neglect - Failure to Provide,100170,200022,,N,Relative,Victim
+300077,1300077,Screen Out,Kent,07/07/2023,,444141,Neglect - Failure to Protect,100170,200093,,N,Other Caregiver,Victim
+300078,1300078,Investigate,Oakland,04/05/2023,548214,425431,Emotional Abuse,100121,200037,No Evidence,A,Other Caregiver,Victim
+300078,1300078,Investigate,Oakland,04/05/2023,548214,425431,Medical Neglect,100121,200037,No Evidence,A,Step-Parent,Victim
+300079,1300079,Investigate,Genesee,09/12/2023,548656,462992,Physical Abuse,100165,200067,No Preponderance,A,Step-Parent,Victim
+300079,1300079,Investigate,Genesee,09/12/2023,548656,462992,Emotional Abuse,100165,200109,No Preponderance,A,Step-Parent,Victim
+300080,1300080,Screen Out,Genesee,04/04/2022,,445821,Sexual Abuse,100116,200054,,A,Step-Parent,Victim
+300080,1300080,Screen Out,Genesee,04/04/2022,,445821,Physical Abuse,100116,200007,,A,Relative,Victim
+300081,1300081,Screen Out,Wayne,11/23/2022,,419143,Neglect - Failure to Provide,100167,200037,,N,Father's Paramour,Victim
+300081,1300081,Screen Out,Wayne,11/23/2022,,419143,Neglect - Failure to Protect,100167,200037,,N,Other Caregiver,Victim
+300081,1300081,Screen Out,Wayne,11/23/2022,,419143,Physical Abuse,100086,200001,,A,Step-Parent,Victim
+300081,1300081,Screen Out,Wayne,11/23/2022,,419143,Sexual Abuse,100086,200001,,A,Step-Parent,Victim
+300082,1300082,Investigate,Kent,09/16/2023,539473,431148,Neglect - Failure to Provide,100074,200082,Preponderance,N,Parent,Victim
+300082,1300082,Investigate,Kent,09/16/2023,539473,431148,Physical Abuse,100074,200082,Preponderance,N,Other Caregiver,Victim
+300083,1300083,Investigate,Wayne,06/12/2023,580585,400206,Sexual Abuse,100075,200086,No Evidence,A,Parent,Victim
+300083,1300083,Investigate,Wayne,06/12/2023,580585,400206,Neglect - Failure to Provide,100110,200061,No Preponderance,N,Relative,Victim
+300084,1300084,Investigate,Wayne,01/17/2022,586128,496069,Medical Neglect,100062,200046,No Evidence,N,Step-Parent,Victim
+300085,1300085,Transfer,Genesee,04/21/2023,,417676,Physical Abuse,100047,200100,,A,Step-Parent,Victim
+300085,1300085,Transfer,Genesee,04/21/2023,,417676,Sexual Abuse,100047,200100,,A,Parent,Victim
+300086,1300086,Investigate,Genesee,02/12/2022,562050,471177,Physical Abuse,100102,200025,Preponderance,A,Father's Paramour,Victim
+300086,1300086,Investigate,Genesee,02/12/2022,562050,471177,Physical Abuse,100102,200037,Preponderance,A,Relative,Victim
+300087,1300087,Investigate,Kent,05/25/2023,555641,495301,Sexual Abuse,100069,200106,Preponderance,A,Relative,Victim
+300087,1300087,Investigate,Kent,05/25/2023,555641,495301,Emotional Abuse,100022,200112,No Evidence,A,Relative,Victim
+300087,1300087,Investigate,Kent,05/25/2023,555641,495301,Neglect - Failure to Provide,100022,200112,No Evidence,A,Father's Paramour,Victim
+300088,1300088,Investigate,Ingham,02/28/2022,589052,498291,Neglect - Failure to Provide,100094,200109,Preponderance,N,Parent,Victim
+300088,1300088,Investigate,Ingham,02/28/2022,589052,498291,Physical Abuse,100132,200048,No Preponderance,A,Mother's Paramour,Victim
+300089,1300089,Investigate,Wayne,01/11/2023,596427,403397,Sexual Abuse,100064,200117,Preponderance,A,Relative,Victim
+300089,1300089,Investigate,Wayne,01/11/2023,596427,403397,Neglect - Failure to Provide,100030,200089,Preponderance,N,Parent,Victim
+300089,1300089,Investigate,Wayne,01/11/2023,596427,403397,Neglect - Failure to Protect,100030,200089,Preponderance,N,Step-Parent,Victim
+300090,1300090,Transfer,Kent,04/01/2023,,445538,Sexual Abuse,100082,200071,,A,Step-Parent,Victim
+300090,1300090,Transfer,Kent,04/01/2023,,445538,Medical Neglect,100082,200070,,N,Father's Paramour,Victim
+300090,1300090,Transfer,Kent,04/01/2023,,445538,Physical Abuse,100171,200047,,A,Step-Parent,Victim
+300091,1300091,Screen Out,Genesee,08/31/2022,,475010,Neglect - Failure to Protect,100142,200103,,N,Parent,Victim
+300091,1300091,Screen Out,Genesee,08/31/2022,,475010,Emotional Abuse,100142,200103,,N,Parent,Victim
+300092,1300092,Investigate,Wayne,05/06/2023,541554,416427,Emotional Abuse,100148,200067,No Evidence,A,Father's Paramour,Victim
+300092,1300092,Investigate,Wayne,05/06/2023,541554,416427,Physical Abuse,100019,200117,No Preponderance,A,Step-Parent,Victim
+300092,1300092,Investigate,Wayne,05/06/2023,541554,416427,Emotional Abuse,100019,200117,No Preponderance,A,Relative,Victim
+300093,1300093,Screen Out,Wayne,11/27/2022,,437231,Emotional Abuse,100133,200033,,A,Relative,Victim
+300093,1300093,Screen Out,Wayne,11/27/2022,,437231,Sexual Abuse,100133,200026,,A,Mother's Paramour,Victim
+300094,1300094,Screen Out,Kent,05/30/2023,,420211,Emotional Abuse,100149,200080,,A,Relative,Victim
+300095,1300095,Investigate,Genesee,08/01/2023,575599,484077,Medical Neglect,100021,200074,Preponderance,N,Parent,Victim
+300095,1300095,Investigate,Genesee,08/01/2023,575599,484077,Neglect - Failure to Provide,100012,200089,No Evidence,N,Other Caregiver,Victim
+300096,1300096,Investigate,Kent,07/28/2022,596234,441854,Emotional Abuse,100184,200017,No Evidence,A,Parent,Victim
+300096,1300096,Investigate,Kent,07/28/2022,596234,441854,Neglect - Failure to Provide,100184,200098,No Evidence,N,Parent,Victim
+300097,1300097,Investigate,Wayne,09/11/2022,554806,480659,Emotional Abuse,100099,200021,Preponderance,A,Father's Paramour,Victim
+300097,1300097,Investigate,Wayne,09/11/2022,554806,480659,Neglect - Failure to Protect,100099,200105,Preponderance,N,Other Caregiver,Victim
+300098,1300098,Investigate,Kent,11/12/2022,559931,466250,Neglect - Failure to Provide,100101,200007,No Preponderance,N,Mother's Paramour,Victim
+300099,1300099,Investigate,Genesee,11/01/2023,556483,414090,Sexual Abuse,100003,200047,Preponderance,A,Other Caregiver,Victim
+300099,1300099,Investigate,Genesee,11/01/2023,556483,414090,Physical Abuse,100003,200047,Preponderance,A,Parent,Victim
+300100,1300100,Investigate,Wayne,07/21/2023,536664,472071,Sexual Abuse,100116,200013,No Preponderance,A,Mother's Paramour,Victim
+300101,1300101,Investigate,Ingham,05/28/2022,505939,405277,Neglect - Failure to Protect,100129,200103,Preponderance,N,Mother's Paramour,Victim
+300101,1300101,Investigate,Ingham,05/28/2022,505939,405277,Neglect - Failure to Protect,100129,200061,Preponderance,N,Mother's Paramour,Victim
+300101,1300101,Investigate,Ingham,05/28/2022,505939,405277,Sexual Abuse,100129,200061,Preponderance,N,Relative,Victim
+300102,1300102,Screen Out,Kent,05/17/2023,,448282,Emotional Abuse,100005,200015,,A,Father's Paramour,Victim
+300102,1300102,Screen Out,Kent,05/17/2023,,448282,Sexual Abuse,100005,200015,,A,Father's Paramour,Victim
+300103,1300103,Investigate,Oakland,09/04/2023,594556,429825,Emotional Abuse,100199,200068,Preponderance,A,Other Caregiver,Victim
+300103,1300103,Investigate,Oakland,09/04/2023,594556,429825,Emotional Abuse,100149,200027,No Preponderance,A,Other Caregiver,Victim
+300103,1300103,Investigate,Oakland,09/04/2023,594556,429825,Medical Neglect,100148,200067,No Preponderance,N,Other Caregiver,Victim
+300103,1300103,Investigate,Oakland,09/04/2023,594556,429825,Sexual Abuse,100148,200027,No Preponderance,A,Step-Parent,Victim
+300104,1300104,Investigate,Kent,06/30/2023,589227,494494,Sexual Abuse,100198,200025,No Evidence,A,Relative,Victim
+300104,1300104,Investigate,Kent,06/30/2023,589227,494494,Emotional Abuse,100198,200025,No Evidence,A,Step-Parent,Victim
+300105,1300105,Screen Out,Ingham,11/01/2022,,464095,Medical Neglect,100177,200045,,N,Relative,Victim
+300105,1300105,Screen Out,Ingham,11/01/2022,,464095,Neglect - Failure to Provide,100181,200074,,N,Other Caregiver,Victim
+300106,1300106,Investigate,Genesee,05/30/2022,545399,410359,Sexual Abuse,100183,200028,No Evidence,A,Father's Paramour,Victim
+300106,1300106,Investigate,Genesee,05/30/2022,545399,410359,Emotional Abuse,100183,200028,No Evidence,A,Relative,Victim
+300106,1300106,Investigate,Genesee,05/30/2022,545399,410359,Emotional Abuse,100183,200026,No Evidence,A,Father's Paramour,Victim
+300107,1300107,Investigate,Oakland,09/06/2022,513134,406881,Emotional Abuse,100058,200099,No Evidence,A,Step-Parent,Victim
+300107,1300107,Investigate,Oakland,09/06/2022,513134,406881,Sexual Abuse,100164,200026,No Evidence,A,Relative,Victim
+300107,1300107,Investigate,Oakland,09/06/2022,513134,406881,Medical Neglect,100164,200026,No Evidence,A,Father's Paramour,Victim
+300107,1300107,Investigate,Oakland,09/06/2022,513134,406881,Medical Neglect,100060,200084,Preponderance,N,Father's Paramour,Victim
+300107,1300107,Investigate,Oakland,09/06/2022,513134,406881,Physical Abuse,100060,200074,Preponderance,A,Other Caregiver,Victim
+300107,1300107,Investigate,Oakland,09/06/2022,513134,406881,Neglect - Failure to Protect,100060,200074,Preponderance,A,Step-Parent,Victim
+300108,1300108,Screen Out,Wayne,02/11/2023,,437942,Physical Abuse,100192,200002,,A,Relative,Victim
+300108,1300108,Screen Out,Wayne,02/11/2023,,437942,Medical Neglect,100192,200039,,N,Mother's Paramour,Victim
+300109,1300109,Screen Out,Kent,05/18/2022,,414765,Sexual Abuse,100050,200094,,A,Father's Paramour,Victim
+300110,1300110,Screen Out,Wayne,12/12/2022,,425319,Neglect - Failure to Provide,100194,200110,,N,Other Caregiver,Victim
+300111,1300111,Investigate,Kent,03/30/2022,542416,462581,Sexual Abuse,100036,200031,No Preponderance,A,Relative,Victim
+300112,1300112,Investigate,Wayne,08/10/2023,587529,408143,Medical Neglect,100178,200052,Preponderance,N,Relative,Victim
+300112,1300112,Investigate,Wayne,08/10/2023,587529,408143,Neglect - Failure to Protect,100061,200029,No Evidence,N,Other Caregiver,Victim
+300113,1300113,Investigate,Wayne,09/13/2023,587045,470454,Physical Abuse,100121,200077,No Preponderance,A,Other Caregiver,Victim
+300113,1300113,Investigate,Wayne,09/13/2023,587045,470454,Emotional Abuse,100121,200077,No Preponderance,A,Mother's Paramour,Victim
+300113,1300113,Investigate,Wayne,09/13/2023,587045,470454,Emotional Abuse,100194,200015,No Preponderance,A,Mother's Paramour,Victim
+300113,1300113,Investigate,Wayne,09/13/2023,587045,470454,Neglect - Failure to Protect,100194,200015,No Preponderance,A,Mother's Paramour,Victim
+300113,1300113,Investigate,Wayne,09/13/2023,587045,470454,Sexual Abuse,100194,200008,No Preponderance,A,Mother's Paramour,Victim
+300114,1300114,Investigate,Kent,11/28/2023,558391,466896,Physical Abuse,100024,200054,No Evidence,A,Mother's Paramour,Victim
+300115,1300115,Screen Out,Kent,11/12/2022,,497755,Sexual Abuse,100001,200010,,A,Father's Paramour,Victim
+300116,1300116,Screen Out,Wayne,03/03/2022,,404160,Medical Neglect,100121,200024,,N,Relative,Victim
+300116,1300116,Screen Out,Wayne,03/03/2022,,404160,Neglect - Failure to Provide,100121,200024,,N,Other Caregiver,Victim
+300117,1300117,Investigate,Kent,01/22/2023,585661,417432,Neglect - Failure to Protect,100170,200069,No Preponderance,N,Father's Paramour,Victim
+300117,1300117,Investigate,Kent,01/22/2023,585661,417432,Emotional Abuse,100139,200039,No Preponderance,A,Other Caregiver,Victim
+300117,1300117,Investigate,Kent,01/22/2023,585661,417432,Neglect - Failure to Protect,100139,200060,No Preponderance,N,Step-Parent,Victim
+300118,1300118,Investigate,Kent,06/08/2022,586534,404223,Physical Abuse,100186,200009,No Preponderance,A,Other Caregiver,Victim
+300118,1300118,Investigate,Kent,06/08/2022,586534,404223,Neglect - Failure to Protect,100196,200006,No Preponderance,N,Mother's Paramour,Victim
+300118,1300118,Investigate,Kent,06/08/2022,586534,404223,Sexual Abuse,100029,200008,Preponderance,A,Step-Parent,Victim
+300118,1300118,Investigate,Kent,06/08/2022,586534,404223,Medical Neglect,100029,200018,Preponderance,N,Relative,Victim
+300118,1300118,Investigate,Kent,06/08/2022,586534,404223,Emotional Abuse,100029,200018,Preponderance,N,Mother's Paramour,Victim
+300119,1300119,Investigate,Oakland,11/25/2022,554207,428973,Neglect - Failure to Protect,100170,200076,No Preponderance,N,Mother's Paramour,Victim
+300119,1300119,Investigate,Oakland,11/25/2022,554207,428973,Neglect - Failure to Provide,100170,200076,No Preponderance,N,Other Caregiver,Victim
+300119,1300119,Investigate,Oakland,11/25/2022,554207,428973,Emotional Abuse,100134,200083,Preponderance,A,Relative,Victim
+300120,1300120,Investigate,Kent,11/04/2022,539419,429537,Neglect - Failure to Provide,100122,200118,No Preponderance,N,Mother's Paramour,Victim
+300120,1300120,Investigate,Kent,11/04/2022,539419,429537,Neglect - Failure to Provide,100122,200008,No Preponderance,N,Step-Parent,Victim
+300120,1300120,Investigate,Kent,11/04/2022,539419,429537,Sexual Abuse,100062,200011,Preponderance,A,Mother's Paramour,Victim
+300120,1300120,Investigate,Kent,11/04/2022,539419,429537,Physical Abuse,100062,200011,Preponderance,A,Father's Paramour,Victim
+300121,1300121,Screen Out,Wayne,01/22/2023,,499838,Neglect - Failure to Provide,100019,200086,,N,Step-Parent,Victim
+300121,1300121,Screen Out,Wayne,01/22/2023,,499838,Physical Abuse,100049,200043,,A,Step-Parent,Victim
+300121,1300121,Screen Out,Wayne,01/22/2023,,499838,Neglect - Failure to Protect,100049,200043,,A,Father's Paramour,Victim
+300121,1300121,Screen Out,Wayne,01/22/2023,,499838,Neglect - Failure to Provide,100049,200039,,N,Step-Parent,Victim
+300122,1300122,Investigate,Oakland,07/29/2022,549895,437102,Neglect - Failure to Provide,100083,200047,No Evidence,N,Other Caregiver,Victim
+300123,1300123,Screen Out,Wayne,04/26/2023,,448590,Neglect - Failure to Protect,100053,200006,,N,Father's Paramour,Victim
+300124,1300124,Investigate,Wayne,09/25/2022,538692,454733,Neglect - Failure to Protect,100185,200049,Preponderance,N,Other Caregiver,Victim
+300125,1300125,Investigate,Ingham,12/12/2022,564304,496941,Neglect - Failure to Protect,100186,200093,No Evidence,N,Mother's Paramour,Victim
+300125,1300125,Investigate,Ingham,12/12/2022,564304,496941,Medical Neglect,100165,200108,No Preponderance,N,Parent,Victim
+300125,1300125,Investigate,Ingham,12/12/2022,564304,496941,Physical Abuse,100165,200108,No Preponderance,N,Other Caregiver,Victim
+300126,1300126,Investigate,Wayne,10/08/2023,559771,466288,Emotional Abuse,100003,200003,No Evidence,A,Other Caregiver,Victim
+300126,1300126,Investigate,Wayne,10/08/2023,559771,466288,Sexual Abuse,100056,200036,Preponderance,A,Parent,Victim
+300127,1300127,Screen Out,Oakland,03/17/2023,,419517,Sexual Abuse,100028,200080,,A,Relative,Victim
+300127,1300127,Screen Out,Oakland,03/17/2023,,419517,Neglect - Failure to Provide,100025,200011,,N,Step-Parent,Victim
+300127,1300127,Screen Out,Oakland,03/17/2023,,419517,Emotional Abuse,100025,200011,,N,Father's Paramour,Victim
+300127,1300127,Screen Out,Oakland,03/17/2023,,419517,Medical Neglect,100025,200048,,N,Parent,Victim
+300127,1300127,Screen Out,Oakland,03/17/2023,,419517,Physical Abuse,100135,200110,,A,Parent,Victim
+300128,1300128,Investigate,Kent,01/22/2023,522464,492124,Physical Abuse,100003,200083,Preponderance,A,Mother's Paramour,Victim
+300128,1300128,Investigate,Kent,01/22/2023,522464,492124,Neglect - Failure to Protect,100003,200101,Preponderance,N,Father's Paramour,Victim
+300128,1300128,Investigate,Kent,01/22/2023,522464,492124,Medical Neglect,100003,200101,Preponderance,N,Mother's Paramour,Victim
+300129,1300129,Screen Out,Wayne,03/18/2022,,473861,Sexual Abuse,100140,200023,,A,Step-Parent,Victim
+300129,1300129,Screen Out,Wayne,03/18/2022,,473861,Physical Abuse,100140,200023,,A,Mother's Paramour,Victim
+300130,1300130,Screen Out,Wayne,02/12/2023,,431520,Emotional Abuse,100145,200109,,A,Relative,Victim
+300131,1300131,Screen Out,Kent,05/24/2022,,497709,Physical Abuse,100021,200007,,A,Relative,Victim
+300131,1300131,Screen Out,Kent,05/24/2022,,497709,Emotional Abuse,100021,200013,,A,Mother's Paramour,Victim
+300131,1300131,Screen Out,Kent,05/24/2022,,497709,Medical Neglect,100129,200100,,N,Relative,Victim
+300132,1300132,Investigate,Genesee,04/07/2023,524346,456604,Neglect - Failure to Protect,100097,200080,No Evidence,N,Father's Paramour,Victim
+300133,1300133,Investigate,Wayne,10/02/2022,551069,496949,Sexual Abuse,100163,200040,No Preponderance,A,Parent,Victim
+300133,1300133,Investigate,Wayne,10/02/2022,551069,496949,Emotional Abuse,100040,200058,Preponderance,A,Other Caregiver,Victim
+300134,1300134,Screen Out,Kent,03/28/2022,,474968,Neglect - Failure to Protect,100063,200088,,N,Relative,Victim
+300135,1300135,Investigate,Wayne,05/20/2023,539290,455195,Neglect - Failure to Provide,100071,200032,No Preponderance,N,Mother's Paramour,Victim
+300136,1300136,Investigate,Oakland,04/14/2023,581290,443545,Medical Neglect,100102,200056,No Evidence,N,Step-Parent,Victim
+300136,1300136,Investigate,Oakland,04/14/2023,581290,443545,Emotional Abuse,100102,200056,No Evidence,N,Relative,Victim
+300137,1300137,Investigate,Wayne,07/25/2022,538201,441831,Sexual Abuse,100102,200101,No Evidence,A,Other Caregiver,Victim
+300137,1300137,Investigate,Wayne,07/25/2022,538201,441831,Emotional Abuse,100102,200032,No Evidence,A,Step-Parent,Victim
+300138,1300138,Investigate,Oakland,07/13/2023,592848,460506,Neglect - Failure to Provide,100007,200107,Preponderance,N,Father's Paramour,Victim
+300138,1300138,Investigate,Oakland,07/13/2023,592848,460506,Medical Neglect,100007,200089,Preponderance,N,Relative,Victim
+300138,1300138,Investigate,Oakland,07/13/2023,592848,460506,Medical Neglect,100187,200119,No Evidence,N,Mother's Paramour,Victim
+300138,1300138,Investigate,Oakland,07/13/2023,592848,460506,Neglect - Failure to Provide,100187,200119,No Evidence,N,Parent,Victim
+300139,1300139,Screen Out,Genesee,01/04/2023,,411139,Sexual Abuse,100153,200032,,A,Step-Parent,Victim
+300139,1300139,Screen Out,Genesee,01/04/2023,,411139,Medical Neglect,100164,200006,,N,Father's Paramour,Victim
+300140,1300140,Transfer,Oakland,12/06/2022,,412925,Emotional Abuse,100003,200066,,A,Mother's Paramour,Victim

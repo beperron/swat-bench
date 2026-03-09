@@ -1,0 +1,19 @@
+childpartyid,ongoing_cse_id,ongoing_src_cse_id,rmvl_dt,dschrg_dt,dischargereasondesc,removal_county_name,responsible_county_name,plcmnt_episode_id,cust_start_date,cust_end_date,agency_type,agency_name
+100109,408327,1408327,07/10/2022,08/13/2023,Emancipation,Genesee,Genesee,634523,07/10/2022,08/13/2023,DHS County Office,Genesee DHS
+100153,408327,1408327,07/29/2022,09/30/2023,Transfer to Another Agency,Genesee,Genesee,600075,07/29/2022,09/30/2023,Private Agency,Genesee DHS
+100053,441181,1441181,09/15/2023,,,Oakland,Oakland,613105,09/15/2023,,DHS County Office,Oakland DHS
+100030,424915,1424915,01/04/2023,,,Oakland,Oakland,681679,01/04/2023,,Private Agency,Oakland Family Services
+100099,424915,1424915,01/04/2023,,,Oakland,Oakland,688778,01/04/2023,,DHS County Office,Oakland Family Services
+100018,485427,1485427,07/13/2023,,,Kent,Kent,675471,07/13/2023,,Private Agency,Kent DHS
+100070,432952,1432952,09/08/2023,10/12/2024,Adoption,Kent,Kent,699642,09/08/2023,10/12/2024,Private Agency,Kent Family Services
+100014,433093,1433093,05/20/2023,,,Wayne,Wayne,639825,05/20/2023,,DHS County Office,Wayne Family Services
+100151,455616,1455616,08/08/2022,01/25/2023,Reunification,Oakland,Oakland,689890,08/08/2022,01/25/2023,DHS County Office,Oakland Family Services
+100011,474929,1474929,10/15/2023,11/13/2024,Reunification,Kent,Kent,684690,10/15/2023,11/13/2024,DHS County Office,Kent DHS
+100102,471177,1471177,03/14/2022,,,Genesee,Genesee,650679,03/14/2022,,Private Agency,Genesee Family Services
+100069,495301,1495301,06/19/2023,12/22/2023,Reunification,Kent,Kent,694066,06/19/2023,12/22/2023,Private Agency,Kent DHS
+100094,498291,1498291,03/20/2022,,,Ingham,Ingham,648016,03/20/2022,,Private Agency,Ingham DHS
+100021,484077,1484077,09/15/2023,09/07/2024,Transfer to Another Agency,Genesee,Genesee,663301,09/15/2023,09/07/2024,DHS County Office,Genesee Family Services
+100129,405277,1405277,07/11/2022,,,Ingham,Ingham,639222,07/11/2022,,Private Agency,Ingham DHS
+100199,429825,1429825,10/22/2023,09/09/2024,Transfer to Another Agency,Oakland,Oakland,614405,10/22/2023,09/09/2024,DHS County Office,Oakland DHS
+100040,496949,1496949,10/12/2022,12/28/2022,Adoption,Wayne,Wayne,642524,10/12/2022,12/28/2022,Private Agency,Wayne DHS
+100007,460506,1460506,08/29/2023,05/01/2024,Guardianship,Oakland,Oakland,609695,08/29/2023,05/01/2024,Private Agency,Oakland Family Services

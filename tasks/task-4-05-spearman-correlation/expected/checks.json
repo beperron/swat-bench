@@ -1,0 +1,61 @@
+{
+  "test_id": "task-4-05",
+  "task_name": "Spearman Correlation",
+  "domain": "Inferential Statistics",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1,
+      "expected": 60,
+      "label": "total_students",
+      "pattern": "Total students:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 1,
+      "expected": -0.3234,
+      "tolerance": 0.03,
+      "label": "spearman_r",
+      "pattern": "Spearman correlation \\(income rank vs incidents\\):\\s*(-?[\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 0.0117,
+      "tolerance": 0.02,
+      "label": "p_value",
+      "pattern": "p-value:\\s*([\\d.]+)"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "expected_pattern": "(?i)yes",
+      "label": "significant",
+      "pattern": "Significant \\(p < 0\\.05\\):\\s*(\\w+)"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "expected_pattern": "(?i)negative",
+      "label": "direction",
+      "pattern": "Direction:\\s*(\\w+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 6.92,
+      "tolerance": 0.1,
+      "label": "mean_incidents",
+      "pattern": "Mean incidents:\\s*([\\d.]+)"
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}

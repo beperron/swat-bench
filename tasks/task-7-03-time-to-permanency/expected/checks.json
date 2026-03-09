@@ -1,0 +1,126 @@
+{
+  "test_id": "task-7-03",
+  "task_name": "Time-to-Permanency with Re-entry",
+  "domain": "Multi-Step Data Analysis",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "pattern": "Total removal records:\\s*(\\d+)",
+      "expected": 192,
+      "points": 1,
+      "label": "total_removal_records"
+    },
+    {
+      "type": "exact",
+      "pattern": "Unique children:\\s*(\\d+)",
+      "expected": 150,
+      "points": 1,
+      "label": "unique_children"
+    },
+    {
+      "type": "exact",
+      "pattern": "Discharged episodes:\\s*(\\d+)",
+      "expected": 145,
+      "points": 1,
+      "label": "discharged_episodes"
+    },
+    {
+      "type": "exact",
+      "pattern": "Still in care:\\s*(\\d+)",
+      "expected": 47,
+      "points": 1,
+      "label": "still_in_care"
+    },
+    {
+      "type": "exact",
+      "pattern": "Children with multiple removals:\\s*(\\d+)",
+      "expected": 35,
+      "points": 1,
+      "label": "children_with_multiple_removals"
+    },
+    {
+      "type": "exact",
+      "pattern": "Re-entries within 12 months:\\s*(\\d+)",
+      "expected": 24,
+      "points": 1,
+      "label": "reentries_within_12_months"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Re-entry rate.*?:\\s*([\\d.]+)%",
+      "expected": 16.6,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "reentry_rated"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Median days in care.*?:\\s*([\\d.]+)",
+      "expected": 240,
+      "tolerance": 5.0,
+      "points": 1,
+      "label": "median_days_in_cared"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Mean days in care.*?:\\s*([\\d.]+)",
+      "expected": 281.1,
+      "tolerance": 5.0,
+      "points": 1,
+      "label": "mean_days_in_cared"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Reunification:\\s*median=([\\d.]+)",
+      "expected": 193.5,
+      "tolerance": 10.0,
+      "points": 1,
+      "label": "reunificationmediand"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Adoption:\\s*median=([\\d.]+)",
+      "expected": 368,
+      "tolerance": 15.0,
+      "points": 1,
+      "label": "adoptionmediand"
+    },
+    {
+      "type": "regex",
+      "pattern": "Shortest median time:\\s*(.+)",
+      "expected_pattern": "(?i)Transfer to Another Agency",
+      "points": 1,
+      "label": "shortest_median_time"
+    },
+    {
+      "type": "regex",
+      "pattern": "Longest median time:\\s*(.+)",
+      "expected_pattern": "(?i)Emancipation",
+      "points": 1,
+      "label": "longest_median_time"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Mean age at first removal:\\s*([\\d.]+)",
+      "expected": 7.6,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "mean_age_at_first_removald"
+    },
+    {
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1,
+      "label": "summary_md"
+    }
+  ],
+  "total_points": 16,
+  "auto_points": 16,
+  "human_points": 0
+}

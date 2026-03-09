@@ -1,0 +1,412 @@
+childpartyid,placementepisodeid,provbegindt,provenddate,livingarrangedesc,fc_placement_sequence,providerctgydesc
+100170,600001,08/03/2021,05/12/2022,Family Foster Care,1,Family Provider
+100170,600001,05/12/2022,03/01/2023,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100054,600002,08/04/2020,12/25/2020,Family Foster Care,1,Family Provider
+100054,600002,12/25/2020,05/21/2021,Family Foster Care,2,Family Provider
+100054,600002,05/21/2021,10/16/2021,Relative Foster Care,3,Relative Provider
+100016,600003,01/08/2020,02/06/2020,Group Home,1,Group Provider
+100016,600003,02/06/2020,03/10/2020,Family Foster Care,2,Family Provider
+100043,600004,08/07/2021,,Relative Foster Care,1,Relative Provider
+100014,600005,06/03/2022,08/19/2023,Family Foster Care,1,Family Provider
+100037,600006,03/08/2021,07/06/2021,Family Foster Care,1,Family Provider
+100037,600006,07/06/2021,11/20/2021,Institutional Care,2,Institutional Provider
+100037,600006,11/20/2021,,Trial Home Visit,3,Trial Provider
+100061,600007,05/19/2022,12/23/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100061,600007,12/23/2022,08/02/2023,Institutional Care,2,Institutional Provider
+100124,600008,12/14/2021,03/08/2022,Family Foster Care,1,Family Provider
+100124,600008,03/08/2022,06/08/2022,Relative Foster Care,2,Relative Provider
+100124,600008,06/08/2022,08/23/2022,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100062,600009,02/28/2020,05/13/2020,Family Foster Care,1,Family Provider
+100062,600009,05/13/2020,07/26/2020,Family Foster Care,2,Family Provider
+100062,600009,07/26/2020,09/16/2020,Relative Foster Care,3,Relative Provider
+100062,600009,09/16/2020,11/24/2020,Relative Foster Care,4,Relative Provider
+100020,600010,09/24/2020,03/07/2021,Institutional Care,1,Institutional Provider
+100066,600011,04/14/2021,06/27/2021,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100066,600011,06/27/2021,09/23/2021,Family Foster Care,2,Family Provider
+100066,600011,09/23/2021,12/18/2021,Relative Foster Care,3,Relative Provider
+100031,600012,11/05/2020,03/28/2021,Family Foster Care,1,Family Provider
+100031,600012,03/28/2021,08/19/2021,Group Home,2,Group Provider
+100031,600012,08/19/2021,01/15/2022,Family Foster Care,3,Family Provider
+100031,600012,01/15/2022,06/25/2022,Group Home,4,Group Provider
+100150,600013,07/27/2020,08/07/2020,Family Foster Care,1,Family Provider
+100150,600013,08/07/2020,08/24/2020,Group Home,2,Group Provider
+100150,600013,08/24/2020,09/18/2020,Family Foster Care,3,Family Provider
+100150,600013,09/18/2020,10/17/2020,Relative Foster Care,4,Relative Provider
+100003,600014,07/28/2021,09/20/2021,Relative Foster Care,1,Relative Provider
+100003,600014,09/20/2021,11/14/2021,Family Foster Care,2,Family Provider
+100003,600014,11/14/2021,01/26/2022,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100119,600015,05/31/2022,07/06/2022,Trial Home Visit,1,Trial Provider
+100119,600015,07/06/2022,08/02/2022,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100119,600015,08/02/2022,09/04/2022,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100119,600015,09/04/2022,10/13/2022,Trial Home Visit,4,Trial Provider
+100128,600016,02/26/2021,04/21/2021,Family Foster Care,1,Family Provider
+100128,600016,04/21/2021,06/10/2021,Relative Foster Care,2,Relative Provider
+100128,600016,06/10/2021,08/01/2021,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100128,600016,08/01/2021,,Family Foster Care,4,Family Provider
+100120,600017,04/16/2021,05/05/2021,Trial Home Visit,1,Trial Provider
+100120,600017,05/05/2021,06/09/2021,Family Foster Care,2,Family Provider
+100161,600018,02/13/2021,05/01/2021,Family Foster Care,1,Family Provider
+100161,600018,05/01/2021,07/29/2021,Relative Foster Care,2,Relative Provider
+100161,600018,07/29/2021,10/14/2021,Relative Foster Care,3,Relative Provider
+100161,600018,10/14/2021,01/05/2022,Family Foster Care,4,Family Provider
+100161,600018,01/05/2022,,Pre-Adoptive Home,5,Pre-Adoptive Provider
+100171,600019,02/15/2020,07/07/2020,Family Foster Care,1,Family Provider
+100171,600019,07/07/2020,,Institutional Care,2,Institutional Provider
+100067,600020,11/03/2020,04/13/2021,Group Home,1,Group Provider
+100067,600020,04/13/2021,10/01/2021,Family Foster Care,2,Family Provider
+100096,600021,01/01/2020,05/04/2020,Institutional Care,1,Institutional Provider
+100096,600021,05/04/2020,08/24/2020,Group Home,2,Group Provider
+100096,600021,08/24/2020,12/25/2020,Family Foster Care,3,Family Provider
+100175,600022,09/26/2021,09/08/2022,Family Foster Care,1,Family Provider
+100026,600023,09/17/2021,11/14/2022,Group Home,1,Group Provider
+100095,600024,02/07/2022,,Family Foster Care,1,Family Provider
+100122,600025,04/12/2021,10/01/2021,Institutional Care,1,Institutional Provider
+100122,600025,10/01/2021,,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100145,600026,07/15/2021,10/31/2021,Family Foster Care,1,Family Provider
+100145,600026,10/31/2021,02/05/2022,Family Foster Care,2,Family Provider
+100145,600026,02/05/2022,05/06/2022,Family Foster Care,3,Family Provider
+100176,600027,11/23/2020,05/28/2021,Family Foster Care,1,Family Provider
+100075,600028,03/04/2020,07/15/2020,Relative Foster Care,1,Relative Provider
+100075,600028,07/15/2020,11/23/2020,Family Foster Care,2,Family Provider
+100075,600028,11/23/2020,,Relative Foster Care,3,Relative Provider
+100143,600029,05/05/2022,08/19/2022,Relative Foster Care,1,Relative Provider
+100143,600029,08/19/2022,12/20/2022,Group Home,2,Group Provider
+100143,600029,12/20/2022,,Institutional Care,3,Institutional Provider
+100147,600030,09/29/2021,11/25/2021,Relative Foster Care,1,Relative Provider
+100015,600031,01/23/2021,,Family Foster Care,1,Family Provider
+100053,600032,01/20/2020,02/18/2020,Institutional Care,1,Institutional Provider
+100053,600032,02/18/2020,04/02/2020,Family Foster Care,2,Family Provider
+100053,600032,04/02/2020,04/29/2020,Family Foster Care,3,Family Provider
+100163,600033,07/31/2021,12/25/2021,Family Foster Care,1,Family Provider
+100106,600034,11/24/2021,02/17/2022,Institutional Care,1,Institutional Provider
+100106,600034,02/17/2022,06/01/2022,Institutional Care,2,Institutional Provider
+100106,600034,06/01/2022,08/29/2022,Family Foster Care,3,Family Provider
+100045,600035,01/14/2021,,Group Home,1,Group Provider
+100100,600036,12/25/2021,04/23/2022,Relative Foster Care,1,Relative Provider
+100100,600036,04/23/2022,08/23/2022,Family Foster Care,2,Family Provider
+100100,600036,08/23/2022,,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100070,600037,03/29/2020,10/24/2020,Family Foster Care,1,Family Provider
+100070,600037,10/24/2020,05/21/2021,Family Foster Care,2,Family Provider
+100081,600038,12/14/2020,01/23/2021,Relative Foster Care,1,Relative Provider
+100156,600039,05/02/2021,10/22/2021,Relative Foster Care,1,Relative Provider
+100156,600039,10/22/2021,03/29/2022,Relative Foster Care,2,Relative Provider
+100001,600040,02/02/2022,05/15/2022,Trial Home Visit,1,Trial Provider
+100001,600040,05/15/2022,08/10/2022,Family Foster Care,2,Family Provider
+100001,600040,08/10/2022,11/16/2022,Group Home,3,Group Provider
+100117,600041,08/26/2021,,Family Foster Care,1,Family Provider
+100017,600042,05/09/2020,06/25/2020,Family Foster Care,1,Family Provider
+100017,600042,06/25/2020,08/06/2020,Relative Foster Care,2,Relative Provider
+100017,600042,08/06/2020,09/05/2020,Trial Home Visit,3,Trial Provider
+100017,600042,09/05/2020,10/15/2020,Family Foster Care,4,Family Provider
+100138,600043,04/26/2020,05/16/2020,Family Foster Care,1,Family Provider
+100138,600043,05/16/2020,06/03/2020,Family Foster Care,2,Family Provider
+100138,600043,06/03/2020,06/29/2020,Group Home,3,Group Provider
+100138,600043,06/29/2020,07/19/2020,Institutional Care,4,Institutional Provider
+100127,600044,06/19/2021,,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100102,600045,08/04/2020,11/18/2020,Group Home,1,Group Provider
+100065,600046,02/03/2020,06/09/2020,Relative Foster Care,1,Relative Provider
+100065,600046,06/09/2020,,Institutional Care,2,Institutional Provider
+100141,600047,04/27/2020,10/19/2020,Family Foster Care,1,Family Provider
+100084,600048,08/05/2021,03/23/2022,Family Foster Care,1,Family Provider
+100084,600048,03/23/2022,10/21/2022,Relative Foster Care,2,Relative Provider
+100039,600049,09/13/2020,11/05/2020,Relative Foster Care,1,Relative Provider
+100039,600049,11/05/2020,,Institutional Care,2,Institutional Provider
+100132,600050,06/15/2021,11/29/2021,Relative Foster Care,1,Relative Provider
+100132,600050,11/29/2021,,Relative Foster Care,2,Relative Provider
+100044,600051,04/17/2020,11/16/2020,Trial Home Visit,1,Trial Provider
+100044,600051,11/16/2020,07/01/2021,Relative Foster Care,2,Relative Provider
+100074,600052,01/02/2020,06/27/2020,Family Foster Care,1,Family Provider
+100074,600052,06/27/2020,01/11/2021,Family Foster Care,2,Family Provider
+100074,600052,01/11/2021,07/15/2021,Family Foster Care,3,Family Provider
+100123,600053,05/11/2021,08/13/2021,Family Foster Care,1,Family Provider
+100123,600053,08/13/2021,11/21/2021,Relative Foster Care,2,Relative Provider
+100123,600053,11/21/2021,,Family Foster Care,3,Family Provider
+100077,600054,05/25/2021,,Family Foster Care,1,Family Provider
+100103,600055,09/05/2021,12/03/2022,Family Foster Care,1,Family Provider
+100157,600056,05/07/2022,11/21/2022,Relative Foster Care,1,Relative Provider
+100157,600056,11/21/2022,,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100146,600057,12/15/2021,06/06/2022,Relative Foster Care,1,Relative Provider
+100146,600057,06/06/2022,,Group Home,2,Group Provider
+100004,600058,06/04/2020,08/17/2020,Relative Foster Care,1,Relative Provider
+100004,600058,08/17/2020,11/12/2020,Family Foster Care,2,Family Provider
+100004,600058,11/12/2020,01/27/2021,Relative Foster Care,3,Relative Provider
+100004,600058,01/27/2021,,Group Home,4,Group Provider
+100142,600059,04/25/2021,10/30/2021,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100142,600059,10/30/2021,04/26/2022,Family Foster Care,2,Family Provider
+100006,600060,10/08/2021,01/25/2023,Group Home,1,Group Provider
+100125,600061,02/17/2020,05/11/2020,Family Foster Care,1,Family Provider
+100125,600061,05/11/2020,08/14/2020,Family Foster Care,2,Family Provider
+100033,600062,09/26/2021,05/25/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100033,600062,05/25/2022,02/10/2023,Relative Foster Care,2,Relative Provider
+100080,600063,07/13/2021,12/16/2021,Relative Foster Care,1,Relative Provider
+100080,600063,12/16/2021,,Family Foster Care,2,Family Provider
+100091,600064,05/23/2022,07/30/2022,Family Foster Care,1,Family Provider
+100091,600064,07/30/2022,10/12/2022,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100091,600064,10/12/2022,12/05/2022,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100091,600064,12/05/2022,02/16/2023,Institutional Care,4,Institutional Provider
+100091,600064,02/16/2023,04/20/2023,Pre-Adoptive Home,5,Pre-Adoptive Provider
+100113,600065,08/23/2020,11/12/2020,Family Foster Care,1,Family Provider
+100113,600065,11/12/2020,01/23/2021,Family Foster Care,2,Family Provider
+100113,600065,01/23/2021,03/31/2021,Group Home,3,Group Provider
+100113,600065,03/31/2021,06/05/2021,Family Foster Care,4,Family Provider
+100158,600066,02/04/2022,03/15/2023,Institutional Care,1,Institutional Provider
+100055,600067,04/05/2022,05/12/2022,Trial Home Visit,1,Trial Provider
+100055,600067,05/12/2022,06/23/2022,Relative Foster Care,2,Relative Provider
+100055,600067,06/23/2022,07/21/2022,Institutional Care,3,Institutional Provider
+100177,600068,07/03/2021,02/07/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100177,600068,02/07/2022,08/27/2022,Relative Foster Care,2,Relative Provider
+100134,600069,08/14/2020,09/30/2020,Family Foster Care,1,Family Provider
+100134,600069,09/30/2020,11/16/2020,Family Foster Care,2,Family Provider
+100134,600069,11/16/2020,,Relative Foster Care,3,Relative Provider
+100129,600070,07/04/2021,,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100034,600071,05/03/2022,11/20/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100034,600071,11/20/2022,06/16/2023,Family Foster Care,2,Family Provider
+100019,600072,07/11/2021,09/10/2021,Group Home,1,Group Provider
+100019,600072,09/10/2021,10/17/2021,Family Foster Care,2,Family Provider
+100019,600072,10/17/2021,12/13/2021,Family Foster Care,3,Family Provider
+100116,600073,03/16/2022,06/16/2022,Family Foster Care,1,Family Provider
+100116,600073,06/16/2022,08/28/2022,Trial Home Visit,2,Trial Provider
+100116,600073,08/28/2022,11/22/2022,Relative Foster Care,3,Relative Provider
+100159,600074,04/22/2020,01/20/2021,Family Foster Care,1,Family Provider
+100064,600075,06/22/2021,09/10/2021,Family Foster Care,1,Family Provider
+100064,600075,09/10/2021,11/21/2021,Family Foster Care,2,Family Provider
+100064,600075,11/21/2021,,Group Home,3,Group Provider
+100079,600076,05/05/2021,09/01/2022,Family Foster Care,1,Family Provider
+100104,600077,10/01/2021,04/27/2023,Institutional Care,1,Institutional Provider
+100073,600078,11/01/2021,03/21/2022,Relative Foster Care,1,Relative Provider
+100073,600078,03/21/2022,,Group Home,2,Group Provider
+100028,600079,11/16/2020,07/23/2021,Relative Foster Care,1,Relative Provider
+100028,600079,07/23/2021,04/15/2022,Group Home,2,Group Provider
+100168,600080,05/13/2020,07/06/2020,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100168,600080,07/06/2020,08/16/2020,Trial Home Visit,2,Trial Provider
+100168,600080,08/16/2020,10/15/2020,Group Home,3,Group Provider
+100131,600081,08/14/2021,10/31/2021,Family Foster Care,1,Family Provider
+100131,600081,10/31/2021,01/01/2022,Relative Foster Care,2,Relative Provider
+100052,600082,02/24/2022,12/24/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100154,600083,07/04/2020,09/03/2020,Family Foster Care,1,Family Provider
+100005,600084,01/08/2022,01/20/2022,Family Foster Care,1,Family Provider
+100005,600084,01/20/2022,02/15/2022,Relative Foster Care,2,Relative Provider
+100005,600084,02/15/2022,03/13/2022,Relative Foster Care,3,Relative Provider
+100005,600084,03/13/2022,04/01/2022,Family Foster Care,4,Family Provider
+100121,600085,12/19/2020,07/11/2022,Family Foster Care,1,Family Provider
+100167,600086,08/04/2020,01/25/2022,Relative Foster Care,1,Relative Provider
+100042,600087,07/26/2021,,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100105,600088,08/12/2021,09/14/2021,Relative Foster Care,1,Relative Provider
+100105,600088,09/14/2021,10/07/2021,Family Foster Care,2,Family Provider
+100105,600088,10/07/2021,10/22/2021,Family Foster Care,3,Family Provider
+100105,600088,10/22/2021,11/24/2021,Relative Foster Care,4,Relative Provider
+100105,600088,11/24/2021,12/07/2021,Relative Foster Care,5,Relative Provider
+100105,600088,12/07/2021,01/06/2022,Family Foster Care,6,Family Provider
+100179,600089,12/07/2020,03/25/2021,Family Foster Care,1,Family Provider
+100179,600089,03/25/2021,07/23/2021,Family Foster Care,2,Family Provider
+100148,600090,09/08/2021,06/10/2022,Group Home,1,Group Provider
+100148,600090,06/10/2022,02/25/2023,Trial Home Visit,2,Trial Provider
+100139,600091,10/04/2021,09/09/2022,Relative Foster Care,1,Relative Provider
+100101,600092,04/07/2021,05/29/2021,Relative Foster Care,1,Relative Provider
+100101,600092,05/29/2021,08/07/2021,Institutional Care,2,Institutional Provider
+100114,600093,11/25/2020,01/26/2021,Family Foster Care,1,Family Provider
+100114,600093,01/26/2021,04/09/2021,Group Home,2,Group Provider
+100136,600094,06/20/2021,11/12/2021,Family Foster Care,1,Family Provider
+100136,600094,11/12/2021,,Group Home,2,Group Provider
+100180,600095,12/03/2020,02/26/2021,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100180,600095,02/26/2021,06/04/2021,Family Foster Care,2,Family Provider
+100112,600096,11/09/2021,04/02/2022,Family Foster Care,1,Family Provider
+100112,600096,04/02/2022,08/18/2022,Relative Foster Care,2,Relative Provider
+100112,600096,08/18/2022,12/29/2022,Family Foster Care,3,Family Provider
+100135,600097,08/07/2020,01/24/2021,Relative Foster Care,1,Relative Provider
+100094,600098,01/26/2022,04/20/2022,Family Foster Care,1,Family Provider
+100094,600098,04/20/2022,,Group Home,2,Group Provider
+100069,600099,06/18/2020,10/15/2021,Family Foster Care,1,Family Provider
+100022,600100,03/14/2022,08/27/2022,Relative Foster Care,1,Relative Provider
+100022,600100,08/27/2022,01/26/2023,Institutional Care,2,Institutional Provider
+100022,600100,01/26/2023,07/08/2023,Institutional Care,3,Institutional Provider
+100162,600101,09/13/2020,01/26/2021,Family Foster Care,1,Family Provider
+100078,600102,06/09/2021,07/19/2021,Family Foster Care,1,Family Provider
+100078,600102,07/19/2021,08/30/2021,Relative Foster Care,2,Relative Provider
+100078,600102,08/30/2021,,Relative Foster Care,3,Relative Provider
+100010,600103,08/17/2020,08/25/2021,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100083,600104,05/01/2022,07/04/2022,Relative Foster Care,1,Relative Provider
+100083,600104,07/04/2022,08/20/2022,Family Foster Care,2,Family Provider
+100149,600105,11/04/2020,,Relative Foster Care,1,Relative Provider
+100090,600106,06/11/2021,07/07/2022,Group Home,1,Group Provider
+100035,600107,01/04/2021,,Family Foster Care,1,Family Provider
+100086,600108,01/17/2021,04/19/2021,Family Foster Care,1,Family Provider
+100086,600108,04/19/2021,07/21/2021,Relative Foster Care,2,Relative Provider
+100086,600108,07/21/2021,10/20/2021,Institutional Care,3,Institutional Provider
+100160,600109,03/08/2022,05/27/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100160,600109,05/27/2022,08/23/2022,Family Foster Care,2,Family Provider
+100046,600110,02/11/2021,05/29/2021,Family Foster Care,1,Family Provider
+100046,600110,05/29/2021,09/14/2021,Relative Foster Care,2,Relative Provider
+100046,600110,09/14/2021,12/30/2021,Relative Foster Care,3,Relative Provider
+100048,600111,01/30/2021,06/28/2021,Trial Home Visit,1,Trial Provider
+100048,600111,06/28/2021,11/07/2021,Relative Foster Care,2,Relative Provider
+100048,600111,11/07/2021,03/27/2022,Family Foster Care,3,Family Provider
+100048,600111,03/27/2022,08/14/2022,Family Foster Care,4,Family Provider
+100133,600112,04/01/2021,12/03/2021,Family Foster Care,1,Family Provider
+100133,600112,12/03/2021,08/01/2022,Trial Home Visit,2,Trial Provider
+100047,600113,03/17/2020,04/29/2020,Group Home,1,Group Provider
+100047,600113,04/29/2020,06/04/2020,Family Foster Care,2,Family Provider
+100047,600113,06/04/2020,06/27/2020,Family Foster Care,3,Family Provider
+100047,600113,06/27/2020,08/11/2020,Relative Foster Care,4,Relative Provider
+100047,600113,08/11/2020,,Relative Foster Care,5,Relative Provider
+100107,600114,09/11/2021,11/04/2021,Group Home,1,Group Provider
+100107,600114,11/04/2021,12/28/2021,Family Foster Care,2,Family Provider
+100082,600115,01/23/2022,11/17/2022,Group Home,1,Group Provider
+100059,600116,05/17/2021,10/17/2021,Relative Foster Care,1,Relative Provider
+100059,600116,10/17/2021,03/31/2022,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100059,600116,03/31/2022,09/14/2022,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100174,600117,12/18/2021,02/24/2022,Relative Foster Care,1,Relative Provider
+100174,600117,02/24/2022,05/26/2022,Relative Foster Care,2,Relative Provider
+100174,600117,05/26/2022,08/10/2022,Institutional Care,3,Institutional Provider
+100049,600118,09/18/2021,03/02/2022,Family Foster Care,1,Family Provider
+100049,600118,03/02/2022,08/26/2022,Group Home,2,Group Provider
+100049,600118,08/26/2022,02/20/2023,Relative Foster Care,3,Relative Provider
+100013,600119,12/18/2020,03/27/2021,Institutional Care,1,Institutional Provider
+100013,600119,03/27/2021,07/22/2021,Relative Foster Care,2,Relative Provider
+100111,600120,06/14/2020,07/28/2020,Family Foster Care,1,Family Provider
+100111,600120,07/28/2020,09/21/2020,Family Foster Care,2,Family Provider
+100111,600120,09/21/2020,,Group Home,3,Group Provider
+100126,600121,04/05/2020,10/27/2020,Family Foster Care,1,Family Provider
+100110,600122,02/28/2022,03/29/2022,Relative Foster Care,1,Relative Provider
+100110,600122,03/29/2022,04/30/2022,Institutional Care,2,Institutional Provider
+100011,600123,10/31/2020,07/14/2021,Family Foster Care,1,Family Provider
+100011,600123,07/14/2021,04/09/2022,Group Home,2,Group Provider
+100038,600124,05/31/2022,08/06/2022,Relative Foster Care,1,Relative Provider
+100038,600124,08/06/2022,10/16/2022,Family Foster Care,2,Family Provider
+100099,600125,01/28/2021,04/20/2021,Institutional Care,1,Institutional Provider
+100099,600125,04/20/2021,07/23/2021,Trial Home Visit,2,Trial Provider
+100099,600125,07/23/2021,,Relative Foster Care,3,Relative Provider
+100030,600126,05/24/2021,09/30/2021,Family Foster Care,1,Family Provider
+100030,600126,09/30/2021,02/24/2022,Relative Foster Care,2,Relative Provider
+100085,600127,11/19/2021,01/14/2022,Family Foster Care,1,Family Provider
+100085,600127,01/14/2022,03/01/2022,Relative Foster Care,2,Relative Provider
+100085,600127,03/01/2022,05/05/2022,Family Foster Care,3,Family Provider
+100137,600128,03/16/2020,05/30/2020,Relative Foster Care,1,Relative Provider
+100137,600128,05/30/2020,08/14/2020,Relative Foster Care,2,Relative Provider
+100018,600129,09/08/2021,09/14/2022,Group Home,1,Group Provider
+100050,600130,12/01/2020,03/30/2021,Relative Foster Care,1,Relative Provider
+100050,600130,03/30/2021,07/24/2021,Family Foster Care,2,Family Provider
+100050,600130,07/24/2021,11/02/2021,Institutional Care,3,Institutional Provider
+100093,600131,11/20/2021,04/09/2022,Family Foster Care,1,Family Provider
+100093,600131,04/09/2022,08/06/2022,Relative Foster Care,2,Relative Provider
+100093,600131,08/06/2022,,Family Foster Care,3,Family Provider
+100076,600132,09/26/2021,12/09/2021,Group Home,1,Group Provider
+100076,600132,12/09/2021,02/15/2022,Relative Foster Care,2,Relative Provider
+100021,600133,04/27/2021,08/15/2021,Family Foster Care,1,Family Provider
+100021,600133,08/15/2021,11/26/2021,Group Home,2,Group Provider
+100021,600133,11/26/2021,03/18/2022,Institutional Care,3,Institutional Provider
+100021,600133,03/18/2022,06/21/2022,Group Home,4,Group Provider
+100021,600133,06/21/2022,09/28/2022,Family Foster Care,5,Family Provider
+100097,600134,07/25/2021,06/15/2022,Family Foster Care,1,Family Provider
+100032,600135,03/25/2022,08/08/2022,Family Foster Care,1,Family Provider
+100032,600135,08/08/2022,01/08/2023,Group Home,2,Group Provider
+100032,600135,01/08/2023,06/02/2023,Group Home,3,Group Provider
+100118,600136,04/27/2022,09/15/2022,Family Foster Care,1,Family Provider
+100012,600137,04/12/2020,06/03/2020,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100012,600137,06/03/2020,07/17/2020,Relative Foster Care,2,Relative Provider
+100012,600137,07/17/2020,08/19/2020,Institutional Care,3,Institutional Provider
+100012,600137,08/19/2020,09/29/2020,Family Foster Care,4,Family Provider
+100068,600138,03/01/2020,03/18/2020,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100068,600138,03/18/2020,04/03/2020,Trial Home Visit,2,Trial Provider
+100068,600138,04/03/2020,05/08/2020,Relative Foster Care,3,Relative Provider
+100089,600139,02/05/2022,04/25/2022,Relative Foster Care,1,Relative Provider
+100089,600139,04/25/2022,06/24/2022,Relative Foster Care,2,Relative Provider
+100092,600140,05/21/2022,07/15/2022,Group Home,1,Group Provider
+100092,600140,07/15/2022,09/22/2022,Relative Foster Care,2,Relative Provider
+100092,600140,09/22/2022,12/03/2022,Institutional Care,3,Institutional Provider
+100025,600141,05/26/2022,09/21/2022,Family Foster Care,1,Family Provider
+100098,600142,09/11/2020,,Family Foster Care,1,Family Provider
+100166,600143,12/10/2021,05/06/2022,Relative Foster Care,1,Relative Provider
+100166,600143,05/06/2022,09/29/2022,Family Foster Care,2,Family Provider
+100166,600143,09/29/2022,02/28/2023,Family Foster Care,3,Family Provider
+100173,600144,02/04/2022,06/06/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100173,600144,06/06/2022,,Family Foster Care,2,Family Provider
+100087,600145,12/21/2021,07/11/2022,Relative Foster Care,1,Relative Provider
+100087,600145,07/11/2022,01/17/2023,Group Home,2,Group Provider
+100087,600145,01/17/2023,08/03/2023,Relative Foster Care,3,Relative Provider
+100165,600146,04/01/2021,04/20/2021,Group Home,1,Group Provider
+100165,600146,04/20/2021,06/02/2021,Family Foster Care,2,Family Provider
+100165,600146,06/02/2021,06/29/2021,Relative Foster Care,3,Relative Provider
+100040,600147,07/08/2021,10/06/2021,Institutional Care,1,Institutional Provider
+100040,600147,10/06/2021,,Trial Home Visit,2,Trial Provider
+100153,600148,03/06/2021,09/04/2021,Group Home,1,Group Provider
+100153,600148,09/04/2021,,Family Foster Care,2,Family Provider
+100088,600149,07/04/2021,08/06/2021,Relative Foster Care,1,Relative Provider
+100169,600150,08/23/2020,10/24/2020,Family Foster Care,1,Family Provider
+100169,600150,10/24/2020,01/15/2021,Family Foster Care,2,Family Provider
+100041,600151,04/02/2021,06/16/2021,Family Foster Care,1,Family Provider
+100002,600152,02/27/2020,07/05/2020,Family Foster Care,1,Family Provider
+100002,600152,07/05/2020,,Family Foster Care,2,Family Provider
+100072,600153,08/14/2020,12/05/2020,Relative Foster Care,1,Relative Provider
+100072,600153,12/05/2020,03/18/2021,Pre-Adoptive Home,2,Pre-Adoptive Provider
+100072,600153,03/18/2021,,Group Home,3,Group Provider
+100151,600154,11/22/2020,04/15/2021,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100151,600154,04/15/2021,09/01/2021,Institutional Care,2,Institutional Provider
+100151,600154,09/01/2021,01/18/2022,Relative Foster Care,3,Relative Provider
+100151,600154,01/18/2022,06/25/2022,Trial Home Visit,4,Trial Provider
+100115,600155,05/17/2020,01/13/2021,Family Foster Care,1,Family Provider
+100115,600155,01/13/2021,09/19/2021,Relative Foster Care,2,Relative Provider
+100057,600156,02/10/2020,05/04/2020,Family Foster Care,1,Family Provider
+100057,600156,05/04/2020,07/17/2020,Family Foster Care,2,Family Provider
+100057,600156,07/17/2020,10/19/2020,Family Foster Care,3,Family Provider
+100108,600157,02/03/2022,07/02/2022,Relative Foster Care,1,Relative Provider
+100108,600157,07/02/2022,11/23/2022,Family Foster Care,2,Family Provider
+100108,600157,11/23/2022,04/15/2023,Relative Foster Care,3,Relative Provider
+100172,600158,04/22/2021,06/29/2021,Relative Foster Care,1,Relative Provider
+100172,600158,06/29/2021,09/15/2021,Group Home,2,Group Provider
+100172,600158,09/15/2021,11/26/2021,Family Foster Care,3,Family Provider
+100172,600158,11/26/2021,,Pre-Adoptive Home,4,Pre-Adoptive Provider
+100051,600159,03/03/2021,07/21/2021,Family Foster Care,1,Family Provider
+100051,600159,07/21/2021,12/09/2021,Institutional Care,2,Institutional Provider
+100144,600160,10/19/2021,12/11/2021,Trial Home Visit,1,Trial Provider
+100144,600160,12/11/2021,01/26/2022,Family Foster Care,2,Family Provider
+100144,600160,01/26/2022,02/24/2022,Pre-Adoptive Home,3,Pre-Adoptive Provider
+100144,600160,02/24/2022,04/10/2022,Group Home,4,Group Provider
+100178,600161,02/26/2021,03/08/2021,Group Home,1,Group Provider
+100178,600161,03/08/2021,04/06/2021,Group Home,2,Group Provider
+100155,600162,05/09/2021,05/30/2021,Trial Home Visit,1,Trial Provider
+100155,600162,05/30/2021,06/09/2021,Relative Foster Care,2,Relative Provider
+100155,600162,06/09/2021,06/20/2021,Group Home,3,Group Provider
+100130,600163,07/02/2020,01/22/2022,Relative Foster Care,1,Relative Provider
+100060,600164,08/01/2021,09/28/2021,Relative Foster Care,1,Relative Provider
+100060,600164,09/28/2021,11/21/2021,Family Foster Care,2,Family Provider
+100056,600165,06/24/2020,10/16/2020,Family Foster Care,1,Family Provider
+100056,600165,10/16/2020,03/01/2021,Relative Foster Care,2,Relative Provider
+100056,600165,03/01/2021,,Family Foster Care,3,Family Provider
+100024,600166,10/14/2020,,Relative Foster Care,1,Relative Provider
+100008,600167,12/30/2021,05/15/2022,Institutional Care,1,Institutional Provider
+100008,600167,05/15/2022,09/30/2022,Relative Foster Care,2,Relative Provider
+100008,600167,09/30/2022,03/03/2023,Trial Home Visit,3,Trial Provider
+100009,600168,03/23/2021,,Family Foster Care,1,Family Provider
+100109,600169,04/06/2021,06/15/2021,Group Home,1,Group Provider
+100109,600169,06/15/2021,08/21/2021,Family Foster Care,2,Family Provider
+100109,600169,08/21/2021,11/12/2021,Relative Foster Care,3,Relative Provider
+100152,600170,06/06/2020,09/22/2020,Family Foster Care,1,Family Provider
+100152,600170,09/22/2020,01/13/2021,Relative Foster Care,2,Relative Provider
+100152,600170,01/13/2021,05/17/2021,Relative Foster Care,3,Relative Provider
+100023,600171,04/15/2020,04/12/2021,Family Foster Care,1,Family Provider
+100140,600172,09/05/2020,12/18/2020,Family Foster Care,1,Family Provider
+100140,600172,12/18/2020,03/27/2021,Relative Foster Care,2,Relative Provider
+100140,600172,03/27/2021,07/07/2021,Family Foster Care,3,Family Provider
+100027,600173,09/09/2020,11/13/2020,Relative Foster Care,1,Relative Provider
+100027,600173,11/13/2020,01/03/2021,Relative Foster Care,2,Relative Provider
+100027,600173,01/03/2021,02/24/2021,Relative Foster Care,3,Relative Provider
+100036,600174,10/28/2021,02/02/2022,Trial Home Visit,1,Trial Provider
+100036,600174,02/02/2022,,Family Foster Care,2,Family Provider
+100058,600175,05/17/2021,08/07/2021,Relative Foster Care,1,Relative Provider
+100058,600175,08/07/2021,11/09/2021,Family Foster Care,2,Family Provider
+100058,600175,11/09/2021,02/09/2022,Family Foster Care,3,Family Provider
+100058,600175,02/09/2022,05/06/2022,Pre-Adoptive Home,4,Pre-Adoptive Provider
+100058,600175,05/06/2022,07/23/2022,Family Foster Care,5,Family Provider
+100063,600176,05/01/2022,,Family Foster Care,1,Family Provider
+100071,600177,01/02/2022,05/12/2022,Pre-Adoptive Home,1,Pre-Adoptive Provider
+100071,600177,05/12/2022,09/13/2022,Relative Foster Care,2,Relative Provider
+100071,600177,09/13/2022,,Institutional Care,3,Institutional Provider
+100007,600178,04/11/2022,08/22/2022,Relative Foster Care,1,Relative Provider
+100007,600178,08/22/2022,01/20/2023,Group Home,2,Group Provider
+100029,600179,02/09/2022,05/26/2022,Family Foster Care,1,Family Provider
+100029,600179,05/26/2022,08/29/2022,Relative Foster Care,2,Relative Provider
+100029,600179,08/29/2022,11/30/2022,Institutional Care,3,Institutional Provider
+100164,600180,05/27/2021,10/19/2021,Family Foster Care,1,Family Provider
+100164,600180,10/19/2021,03/23/2022,Relative Foster Care,2,Relative Provider
+100164,600180,03/23/2022,08/25/2022,Family Foster Care,3,Family Provider

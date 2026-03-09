@@ -1,0 +1,25 @@
+# Results (generated at runtime)
+results/
+!results/.gitkeep
+
+# Task workspace (generated during runs)
+tasks/*/workspace/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+._*
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.*

@@ -1,0 +1,77 @@
+{
+  "test_id": "task-5-01",
+  "task_name": "Caseload Analysis",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_cases",
+      "type": "exact",
+      "pattern": "Total cases: (\\d+)",
+      "expected": 200,
+      "points": 0.5
+    },
+    {
+      "label": "total_workers",
+      "type": "exact",
+      "pattern": "Total workers: (\\d+)",
+      "expected": 12,
+      "points": 0.5
+    },
+    {
+      "label": "mean_caseload",
+      "type": "numeric",
+      "pattern": "Mean caseload per worker: ([\\d.]+)",
+      "expected": 16.7,
+      "tolerance": 0.1,
+      "points": 0.5
+    },
+    {
+      "label": "median_caseload",
+      "type": "numeric",
+      "pattern": "Median caseload per worker: ([\\d.]+)",
+      "expected": 18.0,
+      "tolerance": 0.5,
+      "points": 0.5
+    },
+    {
+      "label": "max_caseload",
+      "type": "exact",
+      "pattern": "Max caseload: (\\d+)",
+      "expected": 26,
+      "points": 0.5
+    },
+    {
+      "label": "overall_success_rate",
+      "type": "numeric",
+      "pattern": "Overall success rate: ([\\d.]+)%",
+      "expected": 55.9,
+      "tolerance": 0.5,
+      "points": 0.5
+    },
+    {
+      "label": "mean_days_closure",
+      "type": "numeric",
+      "pattern": "Mean days to closure: ([\\d.]+)",
+      "expected": 103.8,
+      "tolerance": 1.0,
+      "points": 0.5
+    },
+    {
+      "label": "mean_satisfaction",
+      "type": "numeric",
+      "pattern": "Mean satisfaction: ([\\d.]+)",
+      "expected": 3.65,
+      "tolerance": 0.05,
+      "points": 0.5
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}

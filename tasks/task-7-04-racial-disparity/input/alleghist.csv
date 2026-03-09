@@ -1,0 +1,389 @@
+intake_id,screeningdecision,county_name,complaint_date,allegationtypedesc,intakechildpartyid,intakeperppartyid,findingdesc,abuseneglect,child_role
+300001,Investigate,Wayne,02/09/2023,Emotional Abuse,100001,200055,No Preponderance,A,Victim
+300002,Screen Out,Wayne,12/24/2021,Neglect - Failure to Provide,100002,200041,,N,Victim
+300003,Investigate,Oakland,12/22/2022,Sexual Abuse,100003,200142,No Preponderance,A,Victim
+300004,Screen Out,Wayne,11/11/2022,Physical Abuse,100003,200030,,A,Victim
+300005,Investigate,Oakland,06/09/2021,Emotional Abuse,100004,200068,Preponderance,A,Victim
+300006,Investigate,Wayne,05/17/2023,Neglect - Failure to Protect,100004,200086,No Evidence,N,Victim
+300007,Investigate,Kent,09/26/2021,Physical Abuse,100005,200029,No Evidence,A,Victim
+300008,Investigate,Kent,12/09/2022,Sexual Abuse,100006,200011,No Preponderance,A,Victim
+300009,Screen Out,Wayne,01/09/2022,Medical Neglect,100006,200064,,N,Victim
+300010,Screen Out,Ingham,03/10/2023,Neglect - Failure to Protect,100007,200040,,N,Victim
+300011,Screen Out,Kent,03/31/2023,Neglect - Failure to Provide,100008,200086,,N,Victim
+300012,Investigate,Kent,04/02/2023,Neglect - Failure to Provide,100008,200010,No Preponderance,N,Victim
+300013,Investigate,Genesee,04/17/2023,Neglect - Failure to Provide,100009,200050,No Preponderance,N,Victim
+300014,Screen Out,Wayne,06/05/2023,Neglect - Failure to Provide,100010,200131,,N,Victim
+300015,Investigate,Ingham,05/14/2023,Emotional Abuse,100011,200067,Preponderance,A,Victim
+300015,Investigate,Ingham,05/14/2023,Sexual Abuse,100011,200046,Preponderance,A,Victim
+300016,Investigate,Oakland,01/17/2023,Neglect - Failure to Protect,100012,200148,No Preponderance,N,Victim
+300017,Investigate,Genesee,12/27/2022,Medical Neglect,100013,200018,No Preponderance,N,Victim
+300018,Investigate,Oakland,10/01/2022,Medical Neglect,100014,200130,Preponderance,N,Victim
+300018,Investigate,Oakland,10/01/2022,Neglect - Failure to Provide,100014,200080,Preponderance,N,Victim
+300019,Investigate,Oakland,12/15/2022,Medical Neglect,100014,200098,Preponderance,N,Victim
+300020,Investigate,Oakland,08/06/2022,Emotional Abuse,100015,200111,No Evidence,A,Victim
+300021,Investigate,Genesee,11/26/2021,Sexual Abuse,100016,200044,No Evidence,A,Victim
+300021,Investigate,Genesee,11/26/2021,Emotional Abuse,100016,200022,No Evidence,A,Victim
+300022,Investigate,Oakland,09/27/2022,Neglect - Failure to Protect,100017,200058,No Preponderance,N,Victim
+300023,Screen Out,Kent,02/17/2021,Neglect - Failure to Provide,100018,200019,,N,Victim
+300024,Investigate,Ingham,10/07/2022,Medical Neglect,100019,200038,No Evidence,N,Victim
+300025,Investigate,Wayne,02/08/2023,Physical Abuse,100020,200133,Preponderance,A,Victim
+300025,Investigate,Wayne,02/08/2023,Emotional Abuse,100020,200119,Preponderance,A,Victim
+300026,Investigate,Genesee,04/01/2023,Neglect - Failure to Provide,100021,200114,No Evidence,N,Victim
+300026,Investigate,Genesee,04/01/2023,Emotional Abuse,100021,200130,No Evidence,A,Victim
+300027,Investigate,Genesee,06/12/2021,Medical Neglect,100022,200134,No Evidence,N,Victim
+300027,Investigate,Genesee,06/12/2021,Neglect - Failure to Protect,100022,200125,No Evidence,N,Victim
+300028,Investigate,Oakland,03/21/2021,Neglect - Failure to Provide,100023,200060,No Preponderance,N,Victim
+300029,Investigate,Kent,12/25/2022,Neglect - Failure to Provide,100024,200053,No Evidence,N,Victim
+300030,Screen Out,Ingham,02/28/2023,Neglect - Failure to Provide,100025,200148,,N,Victim
+300031,Investigate,Oakland,12/27/2021,Emotional Abuse,100026,200140,No Evidence,A,Victim
+300032,Investigate,Kent,05/15/2022,Medical Neglect,100027,200104,No Evidence,N,Victim
+300033,Screen Out,Genesee,06/19/2021,Neglect - Failure to Provide,100027,200137,,N,Victim
+300033,Screen Out,Genesee,06/19/2021,Emotional Abuse,100027,200007,,A,Victim
+300034,Investigate,Wayne,01/28/2021,Sexual Abuse,100028,200013,Preponderance,A,Victim
+300035,Investigate,Oakland,12/01/2021,Neglect - Failure to Provide,100029,200021,No Evidence,N,Victim
+300036,Screen Out,Wayne,07/07/2022,Medical Neglect,100030,200018,,N,Victim
+300037,Investigate,Kent,02/01/2021,Neglect - Failure to Provide,100031,200033,Preponderance,N,Victim
+300038,Investigate,Genesee,08/12/2021,Neglect - Failure to Protect,100032,200030,No Preponderance,N,Victim
+300039,Investigate,Ingham,04/21/2021,Neglect - Failure to Provide,100033,200097,Preponderance,N,Victim
+300040,Investigate,Wayne,07/23/2021,Medical Neglect,100033,200078,No Preponderance,N,Victim
+300041,Investigate,Ingham,05/04/2021,Emotional Abuse,100034,200018,No Evidence,A,Victim
+300042,Screen Out,Genesee,01/13/2021,Medical Neglect,100035,200093,,N,Victim
+300043,Investigate,Kent,04/16/2022,Neglect - Failure to Provide,100036,200138,No Evidence,N,Victim
+300044,Screen Out,Genesee,04/22/2022,Neglect - Failure to Protect,100036,200083,,N,Victim
+300045,Screen Out,Oakland,03/30/2021,Emotional Abuse,100037,200119,,A,Victim
+300046,Investigate,Genesee,09/17/2022,Sexual Abuse,100037,200055,No Evidence,A,Victim
+300047,Screen Out,Oakland,12/15/2021,Emotional Abuse,100038,200071,,A,Victim
+300048,Screen Out,Ingham,01/11/2021,Neglect - Failure to Provide,100038,200105,,N,Victim
+300049,Investigate,Genesee,09/04/2021,Neglect - Failure to Provide,100039,200057,No Preponderance,N,Victim
+300050,Investigate,Ingham,11/10/2021,Sexual Abuse,100040,200141,No Evidence,A,Victim
+300051,Investigate,Oakland,04/10/2022,Physical Abuse,100041,200081,Preponderance,A,Victim
+300052,Investigate,Kent,12/08/2022,Emotional Abuse,100042,200135,No Evidence,A,Victim
+300053,Screen Out,Wayne,10/17/2021,Neglect - Failure to Protect,100042,200093,,N,Victim
+300054,Investigate,Ingham,12/27/2022,Medical Neglect,100043,200075,Preponderance,N,Victim
+300055,Investigate,Genesee,02/10/2023,Neglect - Failure to Provide,100044,200123,Preponderance,N,Victim
+300056,Investigate,Genesee,09/16/2021,Medical Neglect,100045,200148,Preponderance,N,Victim
+300057,Screen Out,Kent,06/05/2021,Physical Abuse,100045,200022,,A,Victim
+300057,Screen Out,Kent,06/05/2021,Emotional Abuse,100045,200064,,A,Victim
+300058,Investigate,Ingham,09/13/2022,Neglect - Failure to Provide,100046,200116,Preponderance,N,Victim
+300059,Investigate,Oakland,03/16/2022,Medical Neglect,100046,200026,Preponderance,N,Victim
+300059,Investigate,Oakland,03/16/2022,Neglect - Failure to Protect,100046,200054,Preponderance,N,Victim
+300060,Investigate,Ingham,06/27/2021,Sexual Abuse,100047,200121,Preponderance,A,Victim
+300061,Investigate,Genesee,12/21/2022,Neglect - Failure to Provide,100048,200051,Preponderance,N,Victim
+300062,Screen Out,Kent,10/26/2022,Neglect - Failure to Protect,100048,200019,,N,Victim
+300062,Screen Out,Kent,10/26/2022,Sexual Abuse,100048,200016,,A,Victim
+300063,Screen Out,Ingham,04/25/2023,Medical Neglect,100049,200120,,N,Victim
+300064,Investigate,Oakland,02/17/2022,Medical Neglect,100050,200111,No Preponderance,N,Victim
+300065,Investigate,Wayne,09/14/2021,Physical Abuse,100051,200069,No Preponderance,A,Victim
+300065,Investigate,Wayne,09/14/2021,Neglect - Failure to Protect,100051,200148,No Preponderance,N,Victim
+300066,Screen Out,Genesee,10/30/2022,Neglect - Failure to Provide,100052,200150,,N,Victim
+300067,Investigate,Wayne,05/19/2022,Sexual Abuse,100053,200042,No Evidence,A,Victim
+300068,Investigate,Oakland,05/23/2022,Sexual Abuse,100054,200081,No Preponderance,A,Victim
+300069,Screen Out,Genesee,03/03/2023,Neglect - Failure to Provide,100055,200001,,N,Victim
+300069,Screen Out,Genesee,03/03/2023,Neglect - Failure to Provide,100055,200139,,N,Victim
+300070,Investigate,Oakland,06/15/2022,Emotional Abuse,100056,200053,No Evidence,A,Victim
+300070,Investigate,Oakland,06/15/2022,Neglect - Failure to Protect,100056,200069,No Evidence,N,Victim
+300071,Investigate,Genesee,03/25/2022,Emotional Abuse,100057,200080,No Preponderance,A,Victim
+300072,Investigate,Ingham,01/15/2021,Physical Abuse,100057,200030,Preponderance,A,Victim
+300072,Investigate,Ingham,01/15/2021,Medical Neglect,100057,200119,Preponderance,N,Victim
+300073,Investigate,Oakland,01/04/2023,Neglect - Failure to Provide,100058,200121,Preponderance,N,Victim
+300073,Investigate,Oakland,01/04/2023,Emotional Abuse,100058,200063,Preponderance,A,Victim
+300074,Screen Out,Kent,06/05/2022,Sexual Abuse,100059,200107,,A,Victim
+300075,Investigate,Ingham,03/18/2023,Medical Neglect,100059,200149,Preponderance,N,Victim
+300076,Investigate,Genesee,07/06/2022,Neglect - Failure to Protect,100060,200083,No Evidence,N,Victim
+300077,Investigate,Ingham,09/02/2021,Medical Neglect,100061,200122,No Evidence,N,Victim
+300078,Investigate,Genesee,04/11/2023,Neglect - Failure to Protect,100061,200010,No Preponderance,N,Victim
+300079,Screen Out,Oakland,08/28/2022,Emotional Abuse,100062,200113,,A,Victim
+300079,Screen Out,Oakland,08/28/2022,Neglect - Failure to Provide,100062,200026,,N,Victim
+300080,Screen Out,Genesee,05/28/2021,Sexual Abuse,100063,200020,,A,Victim
+300080,Screen Out,Genesee,05/28/2021,Sexual Abuse,100063,200121,,A,Victim
+300081,Screen Out,Wayne,02/12/2022,Sexual Abuse,100064,200137,,A,Victim
+300081,Screen Out,Wayne,02/12/2022,Medical Neglect,100064,200098,,N,Victim
+300082,Screen Out,Genesee,02/17/2023,Neglect - Failure to Protect,100065,200018,,N,Victim
+300083,Screen Out,Oakland,10/09/2022,Physical Abuse,100065,200112,,A,Victim
+300084,Investigate,Wayne,12/22/2022,Sexual Abuse,100066,200015,No Preponderance,A,Victim
+300085,Investigate,Oakland,01/03/2022,Neglect - Failure to Protect,100066,200047,Preponderance,N,Victim
+300086,Investigate,Kent,09/27/2022,Neglect - Failure to Provide,100067,200066,No Preponderance,N,Victim
+300087,Screen Out,Wayne,09/19/2021,Medical Neglect,100067,200074,,N,Victim
+300088,Screen Out,Genesee,03/17/2021,Medical Neglect,100068,200077,,N,Victim
+300088,Screen Out,Genesee,03/17/2021,Sexual Abuse,100068,200109,,A,Victim
+300089,Screen Out,Kent,11/06/2021,Neglect - Failure to Provide,100069,200028,,N,Victim
+300089,Screen Out,Kent,11/06/2021,Emotional Abuse,100069,200061,,A,Victim
+300090,Investigate,Oakland,10/30/2021,Medical Neglect,100070,200145,No Evidence,N,Victim
+300091,Investigate,Ingham,02/20/2021,Neglect - Failure to Protect,100071,200059,No Evidence,N,Victim
+300091,Investigate,Ingham,02/20/2021,Medical Neglect,100071,200091,No Evidence,N,Victim
+300092,Investigate,Ingham,07/14/2021,Sexual Abuse,100071,200011,No Preponderance,A,Victim
+300093,Investigate,Ingham,02/04/2021,Neglect - Failure to Protect,100072,200084,Preponderance,N,Victim
+300093,Investigate,Ingham,02/04/2021,Neglect - Failure to Protect,100072,200107,Preponderance,N,Victim
+300094,Investigate,Oakland,06/17/2023,Sexual Abuse,100072,200124,No Preponderance,A,Victim
+300095,Investigate,Wayne,12/13/2021,Emotional Abuse,100073,200058,Preponderance,A,Victim
+300095,Investigate,Wayne,12/13/2021,Sexual Abuse,100073,200102,Preponderance,A,Victim
+300096,Investigate,Oakland,01/15/2021,Physical Abuse,100073,200096,No Evidence,A,Victim
+300097,Investigate,Wayne,04/28/2022,Medical Neglect,100074,200057,No Evidence,N,Victim
+300097,Investigate,Wayne,04/28/2022,Neglect - Failure to Provide,100074,200017,No Evidence,N,Victim
+300098,Investigate,Genesee,11/06/2021,Physical Abuse,100075,200127,Preponderance,A,Victim
+300099,Investigate,Genesee,05/19/2021,Neglect - Failure to Provide,100075,200040,No Evidence,N,Victim
+300100,Investigate,Genesee,05/04/2023,Neglect - Failure to Protect,100076,200095,No Evidence,N,Victim
+300101,Investigate,Oakland,08/30/2021,Neglect - Failure to Protect,100077,200071,No Evidence,N,Victim
+300102,Investigate,Genesee,05/19/2023,Physical Abuse,100078,200006,Preponderance,A,Victim
+300103,Investigate,Kent,09/07/2021,Emotional Abuse,100078,200142,Preponderance,A,Victim
+300103,Investigate,Kent,09/07/2021,Neglect - Failure to Protect,100078,200054,Preponderance,N,Victim
+300104,Investigate,Kent,03/04/2023,Emotional Abuse,100079,200038,No Evidence,A,Victim
+300104,Investigate,Kent,03/04/2023,Sexual Abuse,100079,200034,No Evidence,A,Victim
+300105,Investigate,Wayne,04/23/2021,Neglect - Failure to Protect,100080,200005,No Preponderance,N,Victim
+300106,Investigate,Wayne,09/29/2021,Neglect - Failure to Provide,100080,200122,No Preponderance,N,Victim
+300107,Investigate,Ingham,06/10/2022,Sexual Abuse,100081,200134,No Preponderance,A,Victim
+300108,Investigate,Wayne,04/15/2022,Neglect - Failure to Provide,100081,200028,No Evidence,N,Victim
+300109,Screen Out,Wayne,03/31/2022,Physical Abuse,100082,200038,,A,Victim
+300110,Investigate,Oakland,05/10/2021,Sexual Abuse,100082,200136,No Evidence,A,Victim
+300111,Investigate,Genesee,09/12/2022,Neglect - Failure to Provide,100083,200059,No Preponderance,N,Victim
+300112,Investigate,Genesee,04/10/2022,Sexual Abuse,100084,200066,Preponderance,A,Victim
+300113,Investigate,Wayne,05/01/2022,Neglect - Failure to Protect,100085,200096,Preponderance,N,Victim
+300114,Investigate,Ingham,07/30/2022,Medical Neglect,100086,200109,Preponderance,N,Victim
+300115,Investigate,Wayne,12/27/2021,Physical Abuse,100087,200058,Preponderance,A,Victim
+300116,Investigate,Oakland,04/28/2021,Physical Abuse,100088,200069,No Preponderance,A,Victim
+300117,Screen Out,Oakland,12/21/2022,Neglect - Failure to Protect,100089,200047,,N,Victim
+300118,Investigate,Wayne,02/15/2022,Neglect - Failure to Protect,100090,200136,No Preponderance,N,Victim
+300119,Investigate,Oakland,04/10/2022,Physical Abuse,100091,200146,No Evidence,A,Victim
+300119,Investigate,Oakland,04/10/2022,Neglect - Failure to Protect,100091,200022,No Evidence,N,Victim
+300120,Investigate,Wayne,09/25/2022,Emotional Abuse,100092,200125,Preponderance,A,Victim
+300121,Investigate,Wayne,06/09/2022,Emotional Abuse,100093,200125,Preponderance,A,Victim
+300122,Investigate,Ingham,02/09/2022,Sexual Abuse,100094,200036,Preponderance,A,Victim
+300122,Investigate,Ingham,02/09/2022,Sexual Abuse,100094,200066,Preponderance,A,Victim
+300123,Investigate,Kent,06/29/2021,Neglect - Failure to Provide,100095,200011,No Evidence,N,Victim
+300124,Screen Out,Genesee,01/20/2021,Emotional Abuse,100095,200148,,A,Victim
+300124,Screen Out,Genesee,01/20/2021,Neglect - Failure to Provide,100095,200110,,N,Victim
+300125,Investigate,Oakland,03/04/2022,Medical Neglect,100096,200118,Preponderance,N,Victim
+300126,Screen Out,Genesee,04/01/2021,Emotional Abuse,100096,200103,,A,Victim
+300127,Investigate,Oakland,06/11/2023,Emotional Abuse,100097,200030,No Preponderance,A,Victim
+300128,Investigate,Oakland,03/06/2023,Sexual Abuse,100098,200038,No Preponderance,A,Victim
+300129,Investigate,Kent,09/09/2022,Emotional Abuse,100099,200127,No Preponderance,A,Victim
+300129,Investigate,Kent,09/09/2022,Emotional Abuse,100099,200119,No Preponderance,A,Victim
+300130,Investigate,Ingham,08/02/2022,Neglect - Failure to Provide,100100,200018,No Evidence,N,Victim
+300131,Investigate,Oakland,11/07/2021,Physical Abuse,100101,200116,No Preponderance,A,Victim
+300132,Investigate,Oakland,05/02/2023,Neglect - Failure to Provide,100102,200130,No Preponderance,N,Victim
+300133,Investigate,Wayne,07/22/2022,Emotional Abuse,100103,200122,No Preponderance,A,Victim
+300134,Investigate,Genesee,03/05/2021,Medical Neglect,100104,200022,No Evidence,N,Victim
+300134,Investigate,Genesee,03/05/2021,Neglect - Failure to Protect,100104,200130,No Evidence,N,Victim
+300135,Screen Out,Genesee,12/26/2022,Sexual Abuse,100105,200041,,A,Victim
+300136,Investigate,Genesee,10/17/2021,Physical Abuse,100106,200086,Preponderance,A,Victim
+300137,Investigate,Oakland,10/18/2021,Medical Neglect,100107,200150,No Preponderance,N,Victim
+300138,Screen Out,Oakland,12/25/2021,Neglect - Failure to Protect,100108,200101,,N,Victim
+300139,Investigate,Oakland,03/28/2021,Medical Neglect,100109,200135,No Evidence,N,Victim
+300139,Investigate,Oakland,03/28/2021,Medical Neglect,100109,200024,No Evidence,N,Victim
+300140,Investigate,Wayne,01/06/2022,Neglect - Failure to Protect,100110,200125,Preponderance,N,Victim
+300141,Investigate,Wayne,10/30/2021,Emotional Abuse,100111,200034,No Preponderance,A,Victim
+300142,Screen Out,Kent,06/16/2021,Physical Abuse,100112,200043,,A,Victim
+300142,Screen Out,Kent,06/16/2021,Neglect - Failure to Provide,100112,200113,,N,Victim
+300143,Screen Out,Kent,01/07/2023,Neglect - Failure to Protect,100113,200115,,N,Victim
+300144,Screen Out,Genesee,11/13/2021,Neglect - Failure to Provide,100114,200147,,N,Victim
+300145,Investigate,Genesee,10/16/2021,Physical Abuse,100115,200036,No Preponderance,A,Victim
+300145,Investigate,Genesee,10/16/2021,Medical Neglect,100115,200065,No Preponderance,N,Victim
+300146,Screen Out,Ingham,01/16/2022,Physical Abuse,100116,200133,,A,Victim
+300147,Investigate,Kent,02/21/2023,Neglect - Failure to Provide,100117,200024,No Preponderance,N,Victim
+300147,Investigate,Kent,02/21/2023,Sexual Abuse,100117,200057,No Preponderance,A,Victim
+300148,Investigate,Wayne,03/01/2022,Physical Abuse,100118,200096,No Evidence,A,Victim
+300148,Investigate,Wayne,03/01/2022,Sexual Abuse,100118,200058,No Evidence,A,Victim
+300149,Investigate,Oakland,04/12/2021,Medical Neglect,100118,200121,Preponderance,N,Victim
+300150,Investigate,Genesee,04/26/2022,Emotional Abuse,100119,200039,No Preponderance,A,Victim
+300151,Investigate,Ingham,01/15/2023,Physical Abuse,100119,200078,Preponderance,A,Victim
+300152,Investigate,Genesee,09/30/2022,Medical Neglect,100120,200005,No Evidence,N,Victim
+300153,Investigate,Kent,09/05/2021,Neglect - Failure to Provide,100121,200147,Preponderance,N,Victim
+300154,Screen Out,Wayne,01/05/2022,Emotional Abuse,100122,200130,,A,Victim
+300155,Investigate,Genesee,06/14/2023,Sexual Abuse,100123,200005,No Evidence,A,Victim
+300156,Investigate,Kent,12/20/2021,Emotional Abuse,100124,200091,No Evidence,A,Victim
+300157,Screen Out,Kent,12/13/2021,Medical Neglect,100124,200123,,N,Victim
+300158,Investigate,Wayne,05/19/2021,Neglect - Failure to Protect,100125,200012,No Preponderance,N,Victim
+300159,Investigate,Oakland,11/20/2021,Sexual Abuse,100126,200049,No Evidence,A,Victim
+300160,Screen Out,Wayne,01/01/2022,Sexual Abuse,100126,200032,,A,Victim
+300161,Screen Out,Genesee,02/14/2022,Neglect - Failure to Provide,100127,200048,,N,Victim
+300162,Investigate,Ingham,01/12/2022,Emotional Abuse,100128,200111,Preponderance,A,Victim
+300163,Investigate,Oakland,10/28/2021,Neglect - Failure to Protect,100129,200110,No Evidence,N,Victim
+300164,Investigate,Genesee,12/26/2021,Sexual Abuse,100130,200112,No Evidence,A,Victim
+300165,Investigate,Wayne,03/22/2023,Physical Abuse,100131,200041,No Evidence,A,Victim
+300166,Investigate,Genesee,09/15/2022,Neglect - Failure to Provide,100132,200094,Preponderance,N,Victim
+300166,Investigate,Genesee,09/15/2022,Emotional Abuse,100132,200093,Preponderance,A,Victim
+300167,Investigate,Oakland,01/15/2022,Neglect - Failure to Provide,100133,200094,Preponderance,N,Victim
+300168,Investigate,Wayne,04/27/2021,Sexual Abuse,100134,200031,No Evidence,A,Victim
+300168,Investigate,Wayne,04/27/2021,Medical Neglect,100134,200068,No Evidence,N,Victim
+300169,Investigate,Oakland,09/19/2022,Neglect - Failure to Provide,100135,200019,No Preponderance,N,Victim
+300170,Screen Out,Genesee,01/01/2023,Medical Neglect,100136,200082,,N,Victim
+300170,Screen Out,Genesee,01/01/2023,Physical Abuse,100136,200089,,A,Victim
+300171,Screen Out,Oakland,10/25/2021,Sexual Abuse,100137,200045,,A,Victim
+300172,Investigate,Kent,05/05/2021,Emotional Abuse,100138,200093,Preponderance,A,Victim
+300173,Investigate,Kent,07/19/2022,Emotional Abuse,100139,200123,Preponderance,A,Victim
+300174,Investigate,Wayne,08/12/2022,Sexual Abuse,100140,200133,No Preponderance,A,Victim
+300175,Investigate,Ingham,04/29/2023,Physical Abuse,100141,200111,Preponderance,A,Victim
+300175,Investigate,Ingham,04/29/2023,Physical Abuse,100141,200129,Preponderance,A,Victim
+300176,Screen Out,Oakland,06/15/2021,Sexual Abuse,100142,200133,,A,Victim
+300177,Investigate,Kent,09/14/2021,Physical Abuse,100143,200137,No Preponderance,A,Victim
+300178,Investigate,Kent,05/30/2022,Emotional Abuse,100143,200087,No Preponderance,A,Victim
+300179,Investigate,Wayne,06/04/2023,Neglect - Failure to Provide,100144,200147,No Evidence,N,Victim
+300180,Screen Out,Genesee,02/01/2021,Neglect - Failure to Provide,100145,200078,,N,Victim
+300181,Investigate,Genesee,04/07/2023,Neglect - Failure to Provide,100146,200113,Preponderance,N,Victim
+300182,Investigate,Kent,09/14/2022,Emotional Abuse,100147,200034,No Evidence,A,Victim
+300182,Investigate,Kent,09/14/2022,Emotional Abuse,100147,200095,No Evidence,A,Victim
+300183,Investigate,Genesee,09/05/2021,Neglect - Failure to Provide,100148,200075,No Preponderance,N,Victim
+300184,Screen Out,Kent,03/05/2022,Medical Neglect,100149,200084,,N,Victim
+300184,Screen Out,Kent,03/05/2022,Sexual Abuse,100149,200148,,A,Victim
+300185,Investigate,Kent,07/14/2021,Physical Abuse,100149,200128,No Evidence,A,Victim
+300185,Investigate,Kent,07/14/2021,Neglect - Failure to Provide,100149,200006,No Evidence,N,Victim
+300186,Investigate,Kent,09/04/2021,Sexual Abuse,100150,200121,Preponderance,A,Victim
+300187,Screen Out,Kent,03/18/2022,Sexual Abuse,100151,200104,,A,Victim
+300188,Investigate,Genesee,02/16/2021,Neglect - Failure to Provide,100151,200019,No Evidence,N,Victim
+300189,Investigate,Ingham,02/22/2023,Neglect - Failure to Provide,100152,200025,No Preponderance,N,Victim
+300190,Screen Out,Ingham,12/14/2021,Neglect - Failure to Provide,100153,200051,,N,Victim
+300190,Screen Out,Ingham,12/14/2021,Emotional Abuse,100153,200131,,A,Victim
+300191,Investigate,Kent,02/09/2021,Neglect - Failure to Protect,100154,200132,No Evidence,N,Victim
+300192,Investigate,Oakland,09/20/2022,Emotional Abuse,100155,200130,No Evidence,A,Victim
+300193,Investigate,Ingham,12/27/2022,Neglect - Failure to Provide,100156,200029,No Evidence,N,Victim
+300194,Investigate,Wayne,03/27/2023,Neglect - Failure to Provide,100157,200150,No Preponderance,N,Victim
+300195,Investigate,Ingham,10/07/2022,Neglect - Failure to Protect,100158,200029,No Preponderance,N,Victim
+300196,Investigate,Genesee,11/18/2021,Medical Neglect,100159,200121,No Evidence,N,Victim
+300197,Investigate,Kent,12/24/2022,Neglect - Failure to Protect,100160,200081,No Evidence,N,Victim
+300198,Investigate,Ingham,04/16/2022,Neglect - Failure to Protect,100160,200050,No Evidence,N,Victim
+300199,Screen Out,Kent,11/02/2021,Medical Neglect,100161,200074,,N,Victim
+300199,Screen Out,Kent,11/02/2021,Medical Neglect,100161,200054,,N,Victim
+300200,Investigate,Oakland,05/07/2022,Medical Neglect,100162,200147,No Evidence,N,Victim
+300201,Screen Out,Oakland,02/09/2022,Sexual Abuse,100163,200075,,A,Victim
+300201,Screen Out,Oakland,02/09/2022,Medical Neglect,100163,200011,,N,Victim
+300202,Investigate,Oakland,03/29/2022,Medical Neglect,100164,200070,Preponderance,N,Victim
+300202,Investigate,Oakland,03/29/2022,Sexual Abuse,100164,200144,Preponderance,A,Victim
+300203,Investigate,Kent,09/03/2021,Physical Abuse,100165,200014,No Preponderance,A,Victim
+300204,Investigate,Oakland,02/28/2022,Neglect - Failure to Protect,100165,200002,Preponderance,N,Victim
+300204,Investigate,Oakland,02/28/2022,Neglect - Failure to Provide,100165,200141,Preponderance,N,Victim
+300205,Investigate,Genesee,05/03/2022,Physical Abuse,100166,200016,No Evidence,A,Victim
+300206,Investigate,Ingham,10/30/2022,Neglect - Failure to Protect,100166,200045,No Preponderance,N,Victim
+300206,Investigate,Ingham,10/30/2022,Physical Abuse,100166,200107,No Preponderance,A,Victim
+300207,Investigate,Genesee,02/11/2022,Emotional Abuse,100167,200003,No Evidence,A,Victim
+300207,Investigate,Genesee,02/11/2022,Emotional Abuse,100167,200077,No Evidence,A,Victim
+300208,Investigate,Oakland,04/20/2021,Neglect - Failure to Provide,100167,200035,No Evidence,N,Victim
+300208,Investigate,Oakland,04/20/2021,Sexual Abuse,100167,200130,No Evidence,A,Victim
+300209,Investigate,Oakland,04/26/2021,Medical Neglect,100168,200004,No Evidence,N,Victim
+300210,Investigate,Ingham,10/30/2021,Neglect - Failure to Provide,100169,200104,Preponderance,N,Victim
+300211,Investigate,Wayne,11/17/2022,Physical Abuse,100170,200064,Preponderance,A,Victim
+300212,Investigate,Oakland,10/01/2021,Medical Neglect,100171,200093,No Preponderance,N,Victim
+300213,Investigate,Wayne,11/15/2022,Medical Neglect,100172,200080,Preponderance,N,Victim
+300214,Screen Out,Kent,08/15/2021,Medical Neglect,100173,200117,,N,Victim
+300215,Investigate,Genesee,01/18/2022,Neglect - Failure to Provide,100174,200021,No Preponderance,N,Victim
+300215,Investigate,Genesee,01/18/2022,Emotional Abuse,100174,200135,No Preponderance,A,Victim
+300216,Investigate,Oakland,12/22/2022,Emotional Abuse,100174,200130,No Preponderance,A,Victim
+300216,Investigate,Oakland,12/22/2022,Emotional Abuse,100174,200052,No Preponderance,A,Victim
+300217,Investigate,Ingham,12/02/2021,Neglect - Failure to Provide,100175,200131,No Evidence,N,Victim
+300218,Investigate,Kent,04/10/2022,Medical Neglect,100176,200079,No Preponderance,N,Victim
+300219,Investigate,Genesee,01/23/2021,Physical Abuse,100176,200019,Preponderance,A,Victim
+300220,Screen Out,Wayne,07/09/2022,Physical Abuse,100177,200121,,A,Victim
+300221,Investigate,Genesee,10/21/2021,Sexual Abuse,100177,200108,Preponderance,A,Victim
+300222,Investigate,Genesee,06/10/2023,Physical Abuse,100178,200090,No Preponderance,A,Victim
+300223,Investigate,Genesee,07/05/2022,Neglect - Failure to Provide,100179,200006,No Preponderance,N,Victim
+300223,Investigate,Genesee,07/05/2022,Medical Neglect,100179,200077,No Preponderance,N,Victim
+300224,Investigate,Ingham,03/11/2022,Sexual Abuse,100180,200040,Preponderance,A,Victim
+300225,Investigate,Genesee,02/02/2021,Physical Abuse,100180,200018,No Preponderance,A,Victim
+300226,Investigate,Ingham,04/03/2022,Neglect - Failure to Provide,100181,200103,No Preponderance,N,Victim
+300227,Investigate,Wayne,08/11/2021,Emotional Abuse,100182,200148,No Preponderance,A,Victim
+300227,Investigate,Wayne,08/11/2021,Emotional Abuse,100182,200082,No Preponderance,A,Victim
+300228,Investigate,Oakland,04/19/2023,Physical Abuse,100183,200071,No Preponderance,A,Victim
+300229,Screen Out,Ingham,07/25/2022,Neglect - Failure to Provide,100183,200110,,N,Victim
+300229,Screen Out,Ingham,07/25/2022,Physical Abuse,100183,200143,,A,Victim
+300230,Investigate,Genesee,10/21/2022,Neglect - Failure to Provide,100184,200077,No Evidence,N,Victim
+300231,Investigate,Ingham,07/08/2021,Physical Abuse,100184,200037,No Evidence,A,Victim
+300231,Investigate,Ingham,07/08/2021,Emotional Abuse,100184,200119,No Evidence,A,Victim
+300232,Investigate,Ingham,03/03/2022,Neglect - Failure to Provide,100185,200021,No Evidence,N,Victim
+300233,Investigate,Ingham,04/05/2021,Physical Abuse,100186,200011,Preponderance,A,Victim
+300234,Investigate,Ingham,01/12/2023,Neglect - Failure to Protect,100186,200078,Preponderance,N,Victim
+300234,Investigate,Ingham,01/12/2023,Neglect - Failure to Protect,100186,200004,Preponderance,N,Victim
+300235,Screen Out,Genesee,02/12/2023,Neglect - Failure to Provide,100187,200053,,N,Victim
+300236,Investigate,Oakland,07/20/2022,Emotional Abuse,100188,200093,No Evidence,A,Victim
+300237,Investigate,Genesee,05/25/2022,Sexual Abuse,100188,200082,No Evidence,A,Victim
+300237,Investigate,Genesee,05/25/2022,Sexual Abuse,100188,200053,No Evidence,A,Victim
+300238,Investigate,Kent,07/31/2022,Emotional Abuse,100189,200150,Preponderance,A,Victim
+300239,Investigate,Oakland,07/20/2021,Sexual Abuse,100190,200087,No Preponderance,A,Victim
+300240,Investigate,Genesee,05/16/2022,Neglect - Failure to Provide,100191,200140,No Evidence,N,Victim
+300241,Screen Out,Ingham,07/08/2021,Physical Abuse,100191,200135,,A,Victim
+300241,Screen Out,Ingham,07/08/2021,Medical Neglect,100191,200009,,N,Victim
+300242,Investigate,Genesee,01/07/2021,Neglect - Failure to Protect,100192,200003,No Preponderance,N,Victim
+300243,Investigate,Wayne,01/18/2022,Physical Abuse,100193,200005,No Evidence,A,Victim
+300244,Investigate,Wayne,02/26/2022,Neglect - Failure to Protect,100194,200111,No Evidence,N,Victim
+300245,Investigate,Ingham,04/09/2021,Sexual Abuse,100195,200091,Preponderance,A,Victim
+300246,Investigate,Genesee,02/20/2022,Medical Neglect,100196,200021,No Preponderance,N,Victim
+300247,Investigate,Wayne,10/28/2022,Medical Neglect,100197,200003,No Evidence,N,Victim
+300248,Investigate,Wayne,06/25/2021,Emotional Abuse,100197,200025,No Evidence,A,Victim
+300249,Screen Out,Kent,08/24/2021,Neglect - Failure to Provide,100198,200146,,N,Victim
+300250,Screen Out,Wayne,10/05/2021,Emotional Abuse,100198,200072,,A,Victim
+300251,Screen Out,Kent,02/03/2021,Emotional Abuse,100199,200054,,A,Victim
+300252,Screen Out,Genesee,04/21/2023,Neglect - Failure to Protect,100200,200145,,N,Victim
+300253,Investigate,Genesee,05/20/2023,Emotional Abuse,100201,200036,No Evidence,A,Victim
+300253,Investigate,Genesee,05/20/2023,Medical Neglect,100201,200021,No Evidence,N,Victim
+300254,Investigate,Wayne,02/24/2021,Sexual Abuse,100202,200102,No Evidence,A,Victim
+300255,Investigate,Oakland,01/31/2021,Neglect - Failure to Provide,100202,200097,No Preponderance,N,Victim
+300256,Investigate,Genesee,08/23/2022,Sexual Abuse,100203,200022,No Preponderance,A,Victim
+300257,Investigate,Kent,12/30/2022,Neglect - Failure to Provide,100204,200079,No Preponderance,N,Victim
+300258,Investigate,Wayne,10/04/2021,Emotional Abuse,100205,200143,Preponderance,A,Victim
+300259,Investigate,Wayne,07/22/2022,Neglect - Failure to Provide,100206,200106,No Evidence,N,Victim
+300260,Screen Out,Ingham,01/13/2023,Neglect - Failure to Protect,100207,200147,,N,Victim
+300260,Screen Out,Ingham,01/13/2023,Medical Neglect,100207,200134,,N,Victim
+300261,Investigate,Kent,01/25/2022,Neglect - Failure to Protect,100207,200017,Preponderance,N,Victim
+300262,Investigate,Wayne,03/13/2023,Neglect - Failure to Provide,100208,200051,No Evidence,N,Victim
+300263,Screen Out,Wayne,11/08/2021,Sexual Abuse,100209,200098,,A,Victim
+300264,Investigate,Ingham,03/17/2022,Neglect - Failure to Provide,100210,200046,No Preponderance,N,Victim
+300265,Screen Out,Genesee,10/26/2021,Sexual Abuse,100211,200084,,A,Victim
+300265,Screen Out,Genesee,10/26/2021,Neglect - Failure to Provide,100211,200097,,N,Victim
+300266,Screen Out,Wayne,01/09/2022,Neglect - Failure to Protect,100211,200140,,N,Victim
+300267,Screen Out,Wayne,07/18/2022,Neglect - Failure to Provide,100212,200054,,N,Victim
+300268,Screen Out,Wayne,05/02/2023,Neglect - Failure to Protect,100213,200105,,N,Victim
+300268,Screen Out,Wayne,05/02/2023,Medical Neglect,100213,200128,,N,Victim
+300269,Investigate,Kent,11/07/2021,Physical Abuse,100213,200097,Preponderance,A,Victim
+300270,Investigate,Ingham,02/15/2022,Medical Neglect,100214,200093,No Evidence,N,Victim
+300271,Investigate,Ingham,07/04/2022,Medical Neglect,100215,200091,Preponderance,N,Victim
+300271,Investigate,Ingham,07/04/2022,Emotional Abuse,100215,200043,Preponderance,A,Victim
+300272,Screen Out,Oakland,02/10/2023,Physical Abuse,100215,200003,,A,Victim
+300273,Investigate,Ingham,06/07/2022,Neglect - Failure to Provide,100216,200101,No Preponderance,N,Victim
+300274,Investigate,Ingham,08/26/2022,Physical Abuse,100217,200107,No Evidence,A,Victim
+300275,Investigate,Kent,04/29/2021,Sexual Abuse,100217,200134,Preponderance,A,Victim
+300275,Investigate,Kent,04/29/2021,Neglect - Failure to Provide,100217,200124,Preponderance,N,Victim
+300276,Screen Out,Wayne,11/04/2021,Medical Neglect,100218,200088,,N,Victim
+300277,Screen Out,Kent,03/31/2023,Neglect - Failure to Protect,100219,200133,,N,Victim
+300278,Investigate,Ingham,12/05/2021,Medical Neglect,100220,200048,No Evidence,N,Victim
+300279,Investigate,Wayne,02/10/2022,Physical Abuse,100221,200100,No Evidence,A,Victim
+300280,Investigate,Oakland,07/30/2021,Neglect - Failure to Protect,100222,200138,No Preponderance,N,Victim
+300281,Investigate,Oakland,01/10/2022,Emotional Abuse,100222,200126,Preponderance,A,Victim
+300282,Investigate,Ingham,02/02/2022,Emotional Abuse,100223,200118,Preponderance,A,Victim
+300283,Investigate,Wayne,08/28/2022,Neglect - Failure to Protect,100224,200030,Preponderance,N,Victim
+300284,Investigate,Genesee,06/08/2022,Neglect - Failure to Provide,100224,200048,Preponderance,N,Victim
+300285,Investigate,Kent,10/23/2022,Emotional Abuse,100225,200116,No Preponderance,A,Victim
+300286,Investigate,Wayne,01/03/2022,Emotional Abuse,100226,200144,Preponderance,A,Victim
+300287,Investigate,Genesee,05/19/2022,Neglect - Failure to Protect,100227,200008,No Preponderance,N,Victim
+300288,Investigate,Kent,10/09/2021,Emotional Abuse,100228,200127,Preponderance,A,Victim
+300289,Screen Out,Ingham,10/02/2021,Medical Neglect,100229,200011,,N,Victim
+300290,Investigate,Genesee,08/12/2021,Neglect - Failure to Provide,100230,200009,No Preponderance,N,Victim
+300291,Investigate,Wayne,06/02/2023,Medical Neglect,100231,200090,No Preponderance,N,Victim
+300292,Investigate,Kent,03/15/2022,Emotional Abuse,100232,200146,No Preponderance,A,Victim
+300292,Investigate,Kent,03/15/2022,Sexual Abuse,100232,200090,No Preponderance,A,Victim
+300293,Screen Out,Oakland,06/22/2021,Sexual Abuse,100233,200147,,A,Victim
+300294,Investigate,Wayne,06/11/2022,Medical Neglect,100234,200071,No Evidence,N,Victim
+300294,Investigate,Wayne,06/11/2022,Neglect - Failure to Protect,100234,200033,No Evidence,N,Victim
+300295,Investigate,Kent,09/13/2021,Medical Neglect,100234,200148,No Evidence,N,Victim
+300296,Investigate,Genesee,03/01/2022,Medical Neglect,100235,200072,No Preponderance,N,Victim
+300297,Screen Out,Genesee,01/13/2022,Medical Neglect,100236,200001,,N,Victim
+300298,Investigate,Genesee,04/06/2021,Neglect - Failure to Provide,100236,200102,No Preponderance,N,Victim
+300298,Investigate,Genesee,04/06/2021,Neglect - Failure to Protect,100236,200056,No Preponderance,N,Victim
+300299,Investigate,Oakland,11/27/2021,Physical Abuse,100237,200013,No Evidence,A,Victim
+300299,Investigate,Oakland,11/27/2021,Medical Neglect,100237,200012,No Evidence,N,Victim
+300300,Investigate,Wayne,04/16/2022,Neglect - Failure to Protect,100238,200110,No Evidence,N,Victim
+300301,Screen Out,Kent,12/07/2022,Physical Abuse,100238,200071,,A,Victim
+300302,Investigate,Wayne,09/14/2021,Medical Neglect,100239,200079,No Preponderance,N,Victim
+300303,Investigate,Genesee,08/28/2021,Neglect - Failure to Protect,100240,200020,No Preponderance,N,Victim
+300304,Investigate,Genesee,06/16/2022,Neglect - Failure to Provide,100241,200109,No Preponderance,N,Victim
+300304,Investigate,Genesee,06/16/2022,Physical Abuse,100241,200034,No Preponderance,A,Victim
+300305,Investigate,Wayne,04/02/2021,Medical Neglect,100242,200035,No Evidence,N,Victim
+300306,Investigate,Wayne,05/27/2021,Sexual Abuse,100243,200113,Preponderance,A,Victim
+300307,Screen Out,Kent,10/06/2022,Neglect - Failure to Protect,100243,200114,,N,Victim
+300308,Investigate,Kent,04/13/2021,Sexual Abuse,100244,200110,No Evidence,A,Victim
+300309,Investigate,Oakland,09/11/2021,Medical Neglect,100245,200073,Preponderance,N,Victim
+300310,Investigate,Ingham,07/30/2021,Neglect - Failure to Protect,100245,200014,Preponderance,N,Victim
+300311,Investigate,Ingham,05/27/2022,Neglect - Failure to Provide,100246,200082,No Preponderance,N,Victim
+300311,Investigate,Ingham,05/27/2022,Emotional Abuse,100246,200034,No Preponderance,A,Victim
+300312,Investigate,Kent,07/14/2022,Physical Abuse,100247,200018,No Preponderance,A,Victim
+300313,Screen Out,Wayne,02/10/2021,Medical Neglect,100248,200074,,N,Victim
+300314,Investigate,Genesee,02/25/2023,Physical Abuse,100249,200080,No Preponderance,A,Victim
+300315,Screen Out,Kent,06/08/2022,Neglect - Failure to Provide,100249,200084,,N,Victim
+300316,Investigate,Wayne,02/21/2023,Neglect - Failure to Provide,100250,200023,No Preponderance,N,Victim

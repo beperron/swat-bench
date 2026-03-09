@@ -1,0 +1,67 @@
+{
+  "test_id": "task-2-02",
+  "task_name": "Wide To Long",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "wide_rows",
+      "type": "exact",
+      "pattern": "Wide format:\\s+Rows: (\\d+)",
+      "expected": 50,
+      "points": 1.0
+    },
+    {
+      "label": "long_rows",
+      "type": "exact",
+      "pattern": "Long format:\\s+Rows: (\\d+)",
+      "expected": 150,
+      "points": 1.0
+    },
+    {
+      "label": "long_columns",
+      "type": "exact",
+      "pattern": "Long format:\\s+Rows: \\d+\\s+Columns: (\\d+)",
+      "expected": 8,
+      "points": 1.0
+    },
+    {
+      "label": "unique_children",
+      "type": "exact",
+      "pattern": "Unique children: (\\d+)",
+      "expected": 50,
+      "points": 0.5
+    },
+    {
+      "label": "missing_values",
+      "type": "exact",
+      "pattern": "Missing values in long format: (\\d+)",
+      "expected": 10,
+      "points": 0.5
+    },
+    {
+      "label": "mean_wellbeing_t0",
+      "type": "numeric",
+      "pattern": "Mean wellbeing \\(baseline\\): ([\\d.]+)",
+      "expected": 48.77,
+      "tolerance": 0.1,
+      "points": 0.5
+    },
+    {
+      "label": "mean_wellbeing_t2",
+      "type": "numeric",
+      "pattern": "Mean wellbeing \\(12-month\\): ([\\d.]+)",
+      "expected": 59.72,
+      "tolerance": 0.1,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

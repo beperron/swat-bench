@@ -1,0 +1,401 @@
+client_id,regional_office,program_type,enrollment_date,completion_status,days_enrolled
+CL0001,Office_A,Counseling,2025-05-08,Completed,71
+CL0002,Office_A,Housing Support,2025-09-03,Completed,165
+CL0003,Office_A,Case Management,2025-02-07,In Progress,73
+CL0004,Office_A,Counseling,2025-12-18,Completed,121
+CL0005,Office_A,Housing Support,2025-01-25,Completed,54
+CL0006,Office_A,Housing Support,2025-06-04,Completed,37
+CL0007,Office_A,Case Management,2025-06-20,In Progress,81
+CL0008,Office_A,Job Training,2025-07-03,Completed,155
+CL0009,Office_A,Case Management,2025-06-19,Completed,63
+CL0010,Office_A,Case Management,2025-04-25,In Progress,88
+CL0011,Office_A,Job Training,2025-07-09,Not Completed,130
+CL0012,Office_A,Case Management,2025-11-09,Completed,179
+CL0013,Office_A,Housing Support,2025-12-08,Completed,55
+CL0014,Office_A,Counseling,2025-11-23,Not Completed,156
+CL0015,Office_A,Job Training,2025-01-08,Not Completed,22
+CL0016,Office_A,Counseling,2025-10-23,Completed,94
+CL0017,Office_A,Job Training,2025-11-15,Completed,50
+CL0018,Office_A,Housing Support,2025-09-09,Not Completed,163
+CL0019,Office_A,Housing Support,2025-04-05,Completed,144
+CL0020,Office_A,Counseling,2025-01-28,In Progress,42
+CL0021,Office_A,Housing Support,2025-07-20,Not Completed,30
+CL0022,Office_A,Case Management,2025-09-09,Not Completed,155
+CL0023,Office_A,Job Training,2025-09-25,Completed,82
+CL0024,Office_A,Case Management,2025-07-06,In Progress,130
+CL0025,Office_A,Case Management,2025-05-17,Not Completed,59
+CL0026,Office_A,Counseling,2025-11-17,Completed,169
+CL0027,Office_A,Case Management,2025-09-25,Not Completed,149
+CL0028,Office_A,Counseling,2025-02-12,Completed,92
+CL0029,Office_A,Housing Support,2025-10-03,In Progress,35
+CL0030,Office_A,Counseling,2025-09-25,Not Completed,46
+CL0031,Office_A,Housing Support,2025-03-09,Not Completed,149
+CL0032,Office_A,Job Training,2025-12-23,Not Completed,65
+CL0033,Office_A,Housing Support,2025-06-15,Completed,146
+CL0034,Office_A,Counseling,2025-06-01,Completed,164
+CL0035,Office_A,Counseling,2025-12-21,Completed,29
+CL0036,Office_A,Case Management,2025-01-28,In Progress,98
+CL0037,Office_A,Counseling,2025-08-07,Completed,152
+CL0038,Office_A,Housing Support,2025-10-16,Not Completed,76
+CL0039,Office_A,Job Training,2025-02-22,Completed,124
+CL0040,Office_A,Case Management,2025-12-02,Completed,179
+CL0041,Office_A,Counseling,2025-12-11,In Progress,41
+CL0042,Office_A,Job Training,2025-03-14,Completed,60
+CL0043,Office_A,Case Management,2025-02-15,Not Completed,154
+CL0044,Office_A,Case Management,2025-09-27,In Progress,17
+CL0045,Office_A,Housing Support,2025-03-14,Not Completed,138
+CL0046,Office_A,Case Management,2025-01-06,Completed,111
+CL0047,Office_A,Housing Support,2025-08-10,Completed,122
+CL0048,Office_A,Case Management,2025-01-19,Completed,152
+CL0049,Office_A,Counseling,2025-10-16,Completed,142
+CL0050,Office_A,Case Management,2025-09-03,In Progress,61
+CL0051,Office_A,Counseling,2025-04-13,Completed,44
+CL0052,Office_A,Job Training,2025-02-14,Completed,163
+CL0053,Office_A,Job Training,2025-12-11,Completed,75
+CL0054,Office_A,Case Management,2025-05-15,Completed,94
+CL0055,Office_A,Case Management,2025-10-19,In Progress,39
+CL0056,Office_A,Counseling,2025-03-12,Completed,31
+CL0057,Office_A,Case Management,2025-09-23,Completed,91
+CL0058,Office_A,Job Training,2025-11-04,Completed,48
+CL0059,Office_A,Counseling,2025-02-24,In Progress,155
+CL0060,Office_A,Job Training,2025-12-11,Completed,66
+CL0061,Office_B,Housing Support,2025-01-03,Completed,176
+CL0062,Office_B,Job Training,2025-06-25,Completed,47
+CL0063,Office_B,Case Management,2025-12-14,Completed,157
+CL0064,Office_B,Case Management,2025-12-05,Not Completed,153
+CL0065,Office_B,Case Management,2025-03-14,Not Completed,46
+CL0066,Office_B,Counseling,2025-01-12,Not Completed,67
+CL0067,Office_B,Counseling,2025-09-28,Completed,118
+CL0068,Office_B,Housing Support,2025-03-26,Completed,59
+CL0069,Office_B,Counseling,2025-12-11,In Progress,119
+CL0070,Office_B,Housing Support,2025-02-13,Not Completed,23
+CL0071,Office_B,Counseling,2025-08-12,Not Completed,92
+CL0072,Office_B,Case Management,2025-07-11,Not Completed,85
+CL0073,Office_B,Job Training,2025-11-17,Completed,116
+CL0074,Office_B,Job Training,2025-05-06,Completed,162
+CL0075,Office_B,Job Training,2025-10-14,In Progress,102
+CL0076,Office_B,Counseling,2025-02-13,Not Completed,161
+CL0077,Office_B,Counseling,2025-01-17,Not Completed,151
+CL0078,Office_B,Job Training,2025-11-11,Completed,173
+CL0079,Office_B,Housing Support,2025-05-17,Completed,93
+CL0080,Office_B,Housing Support,2025-09-05,Not Completed,63
+CL0081,Office_B,Job Training,2025-12-06,Completed,171
+CL0082,Office_B,Housing Support,2025-05-10,Not Completed,67
+CL0083,Office_B,Housing Support,2025-06-15,Not Completed,127
+CL0084,Office_B,Job Training,2025-12-06,Completed,35
+CL0085,Office_B,Job Training,2025-06-03,Not Completed,74
+CL0086,Office_B,Housing Support,2025-01-02,Completed,76
+CL0087,Office_B,Counseling,2025-08-14,Not Completed,175
+CL0088,Office_B,Case Management,2025-07-08,Completed,51
+CL0089,Office_B,Counseling,2025-02-25,Not Completed,122
+CL0090,Office_B,Counseling,2025-09-15,Not Completed,26
+CL0091,Office_B,Job Training,2025-03-26,Completed,132
+CL0092,Office_B,Housing Support,2025-10-27,Not Completed,143
+CL0093,Office_B,Housing Support,2025-03-24,Completed,135
+CL0094,Office_B,Housing Support,2025-11-09,Completed,147
+CL0095,Office_B,Counseling,2025-02-23,Completed,87
+CL0096,Office_B,Counseling,2025-09-03,Completed,49
+CL0097,Office_B,Housing Support,2025-12-07,Not Completed,30
+CL0098,Office_B,Housing Support,2025-07-02,Completed,66
+CL0099,Office_B,Housing Support,2025-12-01,Not Completed,161
+CL0100,Office_B,Housing Support,2025-05-25,Not Completed,113
+CL0101,Office_B,Counseling,2025-10-08,Not Completed,138
+CL0102,Office_B,Counseling,2025-07-11,Completed,117
+CL0103,Office_B,Housing Support,2025-10-18,Not Completed,20
+CL0104,Office_B,Counseling,2025-02-21,Not Completed,123
+CL0105,Office_B,Counseling,2025-05-13,Completed,97
+CL0106,Office_B,Job Training,2025-07-09,Completed,121
+CL0107,Office_B,Job Training,2025-12-18,Completed,27
+CL0108,Office_B,Counseling,2025-11-02,Completed,21
+CL0109,Office_B,Housing Support,2025-03-08,Completed,46
+CL0110,Office_B,Job Training,2025-04-15,Completed,79
+CL0111,Office_B,Counseling,2025-12-23,Not Completed,43
+CL0112,Office_B,Housing Support,2025-01-10,Completed,161
+CL0113,Office_B,Counseling,2025-02-19,Not Completed,174
+CL0114,Office_B,Case Management,2025-11-20,Not Completed,44
+CL0115,Office_B,Job Training,2025-06-03,Completed,143
+CL0116,Office_C,Case Management,2025-07-27,In Progress,139
+CL0117,Office_C,Housing Support,2025-08-23,Completed,53
+CL0118,Office_C,Housing Support,2025-11-09,Completed,171
+CL0119,Office_C,Counseling,2025-10-09,Not Completed,96
+CL0120,Office_C,Housing Support,2025-08-08,Completed,132
+CL0121,Office_C,Counseling,2025-06-06,Completed,138
+CL0122,Office_C,Case Management,2025-05-20,Completed,84
+CL0123,Office_C,Housing Support,2025-04-24,Completed,118
+CL0124,Office_C,Housing Support,2025-08-21,Completed,139
+CL0125,Office_C,Job Training,2025-04-13,Completed,76
+CL0126,Office_C,Housing Support,2025-09-17,Completed,102
+CL0127,Office_C,Job Training,2025-06-23,Completed,130
+CL0128,Office_C,Case Management,2025-12-07,Completed,94
+CL0129,Office_C,Counseling,2025-12-06,Not Completed,63
+CL0130,Office_C,Job Training,2025-10-25,Completed,148
+CL0131,Office_C,Counseling,2025-05-08,Not Completed,106
+CL0132,Office_C,Case Management,2025-03-09,Completed,25
+CL0133,Office_C,Case Management,2025-03-21,Completed,139
+CL0134,Office_C,Job Training,2025-08-16,Completed,126
+CL0135,Office_C,Housing Support,2025-08-04,Completed,30
+CL0136,Office_C,Counseling,2025-11-02,Completed,52
+CL0137,Office_C,Housing Support,2025-02-08,Not Completed,44
+CL0138,Office_C,Housing Support,2025-04-25,Completed,147
+CL0139,Office_C,Case Management,2025-10-14,Completed,92
+CL0140,Office_C,Job Training,2025-04-21,Completed,68
+CL0141,Office_C,Counseling,2025-03-18,Completed,33
+CL0142,Office_C,Housing Support,2025-08-23,In Progress,166
+CL0143,Office_C,Case Management,2025-12-10,Completed,130
+CL0144,Office_C,Housing Support,2025-11-19,Not Completed,64
+CL0145,Office_C,Job Training,2025-04-21,In Progress,52
+CL0146,Office_C,Job Training,2025-03-26,Completed,92
+CL0147,Office_C,Job Training,2025-05-23,Completed,117
+CL0148,Office_C,Housing Support,2025-02-20,Completed,24
+CL0149,Office_C,Case Management,2025-01-03,Completed,72
+CL0150,Office_C,Counseling,2025-05-19,Completed,24
+CL0151,Office_C,Housing Support,2025-05-06,Completed,163
+CL0152,Office_C,Housing Support,2025-02-16,Completed,103
+CL0153,Office_C,Housing Support,2025-03-11,Completed,119
+CL0154,Office_C,Case Management,2025-09-02,Not Completed,130
+CL0155,Office_C,Case Management,2025-07-28,Completed,145
+CL0156,Office_C,Job Training,2025-07-02,Completed,62
+CL0157,Office_C,Counseling,2025-08-25,Completed,27
+CL0158,Office_C,Case Management,2025-05-15,Completed,138
+CL0159,Office_C,Counseling,2025-11-20,In Progress,75
+CL0160,Office_C,Case Management,2025-07-03,Completed,71
+CL0161,Office_D,Job Training,2025-03-16,Completed,88
+CL0162,Office_D,Counseling,2025-08-08,Not Completed,130
+CL0163,Office_D,Case Management,2025-09-24,Not Completed,48
+CL0164,Office_D,Job Training,2025-07-11,Not Completed,143
+CL0165,Office_D,Housing Support,2025-05-27,Completed,164
+CL0166,Office_D,Housing Support,2025-08-12,Completed,99
+CL0167,Office_D,Housing Support,2025-04-23,Completed,75
+CL0168,Office_D,Housing Support,2025-01-11,Not Completed,135
+CL0169,Office_D,Case Management,2025-11-05,Not Completed,140
+CL0170,Office_D,Housing Support,2025-06-28,Not Completed,39
+CL0171,Office_D,Housing Support,2025-01-24,Not Completed,50
+CL0172,Office_D,Job Training,2025-02-16,Not Completed,81
+CL0173,Office_D,Housing Support,2025-02-28,Completed,98
+CL0174,Office_D,Case Management,2025-08-28,Not Completed,152
+CL0175,Office_D,Case Management,2025-11-10,Completed,72
+CL0176,Office_D,Housing Support,2025-11-23,Completed,39
+CL0177,Office_D,Case Management,2025-01-02,Completed,97
+CL0178,Office_D,Housing Support,2025-03-08,Completed,149
+CL0179,Office_D,Housing Support,2025-03-06,Not Completed,34
+CL0180,Office_D,Housing Support,2025-10-05,Completed,73
+CL0181,Office_D,Job Training,2025-11-01,Not Completed,133
+CL0182,Office_D,Job Training,2025-08-12,Completed,164
+CL0183,Office_D,Counseling,2025-05-15,Completed,91
+CL0184,Office_D,Job Training,2025-02-08,Not Completed,111
+CL0185,Office_D,Job Training,2025-05-01,Not Completed,115
+CL0186,Office_D,Housing Support,2025-11-25,In Progress,26
+CL0187,Office_D,Counseling,2025-04-20,Not Completed,104
+CL0188,Office_D,Case Management,2025-11-25,Not Completed,49
+CL0189,Office_D,Case Management,2025-05-26,Not Completed,126
+CL0190,Office_D,Housing Support,2025-02-10,Not Completed,97
+CL0191,Office_D,Job Training,2025-09-12,Completed,149
+CL0192,Office_D,Job Training,2025-08-26,Completed,89
+CL0193,Office_D,Housing Support,2025-02-05,Not Completed,71
+CL0194,Office_D,Case Management,2025-06-03,Not Completed,115
+CL0195,Office_D,Housing Support,2025-06-22,Completed,81
+CL0196,Office_D,Housing Support,2025-02-22,Not Completed,73
+CL0197,Office_D,Counseling,2025-09-11,In Progress,170
+CL0198,Office_D,Housing Support,2025-08-23,Not Completed,91
+CL0199,Office_D,Case Management,2025-01-10,Completed,140
+CL0200,Office_D,Job Training,2025-03-13,Not Completed,130
+CL0201,Office_D,Counseling,2025-09-14,Not Completed,164
+CL0202,Office_D,Job Training,2025-08-20,Not Completed,118
+CL0203,Office_D,Housing Support,2025-06-07,In Progress,127
+CL0204,Office_D,Job Training,2025-02-22,Not Completed,108
+CL0205,Office_D,Housing Support,2025-05-07,In Progress,45
+CL0206,Office_D,Case Management,2025-11-20,Completed,19
+CL0207,Office_D,Counseling,2025-03-26,Completed,158
+CL0208,Office_D,Counseling,2025-09-07,In Progress,164
+CL0209,Office_D,Case Management,2025-03-26,Completed,166
+CL0210,Office_D,Counseling,2025-03-18,Not Completed,78
+CL0211,Office_E,Job Training,2025-01-05,In Progress,17
+CL0212,Office_E,Job Training,2025-06-01,Completed,58
+CL0213,Office_E,Case Management,2025-12-14,In Progress,148
+CL0214,Office_E,Case Management,2025-06-17,Completed,165
+CL0215,Office_E,Job Training,2025-10-02,Completed,147
+CL0216,Office_E,Housing Support,2025-01-16,Not Completed,116
+CL0217,Office_E,Job Training,2025-08-03,Completed,34
+CL0218,Office_E,Job Training,2025-05-20,Completed,176
+CL0219,Office_E,Housing Support,2025-05-15,Completed,143
+CL0220,Office_E,Counseling,2025-12-04,In Progress,180
+CL0221,Office_E,Housing Support,2025-07-11,Not Completed,130
+CL0222,Office_E,Job Training,2025-07-11,Completed,79
+CL0223,Office_E,Case Management,2025-08-03,Not Completed,37
+CL0224,Office_E,Counseling,2025-02-24,In Progress,109
+CL0225,Office_E,Case Management,2025-09-18,Completed,98
+CL0226,Office_E,Job Training,2025-07-28,Not Completed,27
+CL0227,Office_E,Counseling,2025-10-17,Completed,68
+CL0228,Office_E,Job Training,2025-02-12,Completed,156
+CL0229,Office_E,Housing Support,2025-05-19,In Progress,71
+CL0230,Office_E,Case Management,2025-10-20,Not Completed,178
+CL0231,Office_E,Counseling,2025-12-09,Not Completed,21
+CL0232,Office_E,Counseling,2025-06-12,Not Completed,15
+CL0233,Office_E,Case Management,2025-07-03,Completed,50
+CL0234,Office_E,Housing Support,2025-09-07,In Progress,110
+CL0235,Office_E,Case Management,2025-05-24,Completed,97
+CL0236,Office_E,Job Training,2025-10-02,Completed,34
+CL0237,Office_E,Job Training,2025-10-15,Completed,120
+CL0238,Office_E,Job Training,2025-06-14,Completed,42
+CL0239,Office_E,Case Management,2025-09-22,Completed,92
+CL0240,Office_E,Job Training,2025-01-01,Not Completed,66
+CL0241,Office_E,Case Management,2025-05-10,Not Completed,97
+CL0242,Office_E,Counseling,2025-12-14,In Progress,58
+CL0243,Office_E,Case Management,2025-09-18,Not Completed,104
+CL0244,Office_E,Case Management,2025-07-01,Not Completed,131
+CL0245,Office_E,Housing Support,2025-10-13,Completed,177
+CL0246,Office_E,Housing Support,2025-06-06,Completed,172
+CL0247,Office_E,Counseling,2025-02-14,Not Completed,41
+CL0248,Office_E,Job Training,2025-02-13,Completed,93
+CL0249,Office_E,Case Management,2025-02-17,Not Completed,176
+CL0250,Office_E,Counseling,2025-06-12,Completed,179
+CL0251,Office_F,Counseling,2025-04-06,Completed,168
+CL0252,Office_F,Housing Support,2025-03-25,Not Completed,174
+CL0253,Office_F,Job Training,2025-10-15,Not Completed,158
+CL0254,Office_F,Housing Support,2025-03-15,Not Completed,31
+CL0255,Office_F,Job Training,2025-05-19,Completed,28
+CL0256,Office_F,Job Training,2025-08-02,Completed,28
+CL0257,Office_F,Housing Support,2025-02-20,Completed,166
+CL0258,Office_F,Counseling,2025-12-02,Not Completed,129
+CL0259,Office_F,Case Management,2025-03-02,Completed,129
+CL0260,Office_F,Counseling,2025-12-03,Not Completed,143
+CL0261,Office_F,Counseling,2025-12-15,In Progress,126
+CL0262,Office_F,Case Management,2025-07-14,Not Completed,100
+CL0263,Office_F,Housing Support,2025-02-11,Not Completed,38
+CL0264,Office_F,Job Training,2025-11-20,Not Completed,52
+CL0265,Office_F,Job Training,2025-11-05,In Progress,103
+CL0266,Office_F,Case Management,2025-07-05,Not Completed,166
+CL0267,Office_F,Case Management,2025-06-27,Completed,46
+CL0268,Office_F,Job Training,2025-06-01,Completed,106
+CL0269,Office_F,Counseling,2025-08-07,Completed,71
+CL0270,Office_F,Case Management,2025-02-17,Completed,152
+CL0271,Office_F,Housing Support,2025-10-05,Not Completed,166
+CL0272,Office_F,Counseling,2025-12-25,Completed,173
+CL0273,Office_F,Housing Support,2025-06-22,Completed,74
+CL0274,Office_F,Counseling,2025-08-08,Not Completed,150
+CL0275,Office_F,Job Training,2025-08-27,Not Completed,63
+CL0276,Office_F,Housing Support,2025-08-15,Not Completed,86
+CL0277,Office_F,Counseling,2025-03-27,Completed,65
+CL0278,Office_F,Case Management,2025-08-28,Completed,109
+CL0279,Office_F,Counseling,2025-02-10,Not Completed,35
+CL0280,Office_F,Case Management,2025-03-27,Not Completed,125
+CL0281,Office_F,Housing Support,2025-08-12,Completed,20
+CL0282,Office_F,Housing Support,2025-09-12,In Progress,74
+CL0283,Office_F,Job Training,2025-01-11,Completed,39
+CL0284,Office_F,Counseling,2025-05-27,Completed,134
+CL0285,Office_F,Case Management,2025-10-01,Completed,34
+CL0286,Office_F,Housing Support,2025-09-24,Not Completed,169
+CL0287,Office_F,Counseling,2025-05-04,Completed,26
+CL0288,Office_F,Housing Support,2025-08-03,Not Completed,42
+CL0289,Office_F,Counseling,2025-09-19,Completed,75
+CL0290,Office_F,Housing Support,2025-06-08,Completed,160
+CL0291,Office_F,Case Management,2025-09-12,Not Completed,31
+CL0292,Office_F,Job Training,2025-11-13,Completed,109
+CL0293,Office_F,Case Management,2025-02-12,Completed,75
+CL0294,Office_F,Job Training,2025-06-05,Not Completed,25
+CL0295,Office_F,Housing Support,2025-03-27,Not Completed,132
+CL0296,Office_F,Case Management,2025-02-23,Not Completed,131
+CL0297,Office_F,Job Training,2025-04-02,Completed,94
+CL0298,Office_F,Case Management,2025-09-16,Not Completed,78
+CL0299,Office_F,Job Training,2025-06-28,Completed,26
+CL0300,Office_F,Housing Support,2025-07-13,Not Completed,126
+CL0301,Office_F,Job Training,2025-12-16,Completed,108
+CL0302,Office_F,Counseling,2025-02-14,Not Completed,168
+CL0303,Office_F,Job Training,2025-02-11,Completed,89
+CL0304,Office_F,Job Training,2025-03-23,Not Completed,127
+CL0305,Office_F,Job Training,2025-06-20,Not Completed,125
+CL0306,Office_G,Housing Support,2025-01-03,Not Completed,177
+CL0307,Office_G,Counseling,2025-11-06,Not Completed,21
+CL0308,Office_G,Case Management,2025-08-02,Completed,46
+CL0309,Office_G,Case Management,2025-06-13,Completed,159
+CL0310,Office_G,Case Management,2025-06-12,Completed,127
+CL0311,Office_G,Job Training,2025-07-11,Completed,180
+CL0312,Office_G,Housing Support,2025-12-06,Completed,141
+CL0313,Office_G,Counseling,2025-05-23,Completed,128
+CL0314,Office_G,Counseling,2025-08-07,Completed,45
+CL0315,Office_G,Job Training,2025-12-15,Completed,36
+CL0316,Office_G,Job Training,2025-09-18,Not Completed,88
+CL0317,Office_G,Job Training,2025-12-21,Not Completed,58
+CL0318,Office_G,Counseling,2025-04-26,Completed,49
+CL0319,Office_G,Housing Support,2025-09-19,Completed,108
+CL0320,Office_G,Job Training,2025-10-03,Completed,30
+CL0321,Office_G,Housing Support,2025-08-17,Not Completed,119
+CL0322,Office_G,Housing Support,2025-06-21,Completed,32
+CL0323,Office_G,Counseling,2025-03-27,Completed,155
+CL0324,Office_G,Case Management,2025-09-28,Completed,28
+CL0325,Office_G,Job Training,2025-03-11,Completed,71
+CL0326,Office_G,Job Training,2025-05-28,Completed,34
+CL0327,Office_G,Job Training,2025-05-05,Not Completed,174
+CL0328,Office_G,Counseling,2025-11-06,Completed,165
+CL0329,Office_G,Case Management,2025-10-11,Completed,158
+CL0330,Office_G,Job Training,2025-01-21,Completed,161
+CL0331,Office_G,Case Management,2025-07-20,Not Completed,177
+CL0332,Office_G,Housing Support,2025-05-21,Completed,91
+CL0333,Office_G,Case Management,2025-07-10,Not Completed,130
+CL0334,Office_G,Counseling,2025-07-16,Completed,132
+CL0335,Office_G,Housing Support,2025-12-11,Completed,102
+CL0336,Office_G,Case Management,2025-06-17,In Progress,157
+CL0337,Office_G,Counseling,2025-05-15,Completed,77
+CL0338,Office_G,Housing Support,2025-05-13,In Progress,171
+CL0339,Office_G,Job Training,2025-03-27,Not Completed,97
+CL0340,Office_G,Job Training,2025-09-15,Completed,141
+CL0341,Office_G,Counseling,2025-07-17,Completed,131
+CL0342,Office_G,Housing Support,2025-01-10,Completed,140
+CL0343,Office_G,Job Training,2025-02-14,Completed,48
+CL0344,Office_G,Case Management,2025-06-02,Not Completed,116
+CL0345,Office_G,Housing Support,2025-09-10,Completed,32
+CL0346,Office_G,Case Management,2025-05-27,Not Completed,173
+CL0347,Office_G,Job Training,2025-02-13,In Progress,109
+CL0348,Office_G,Housing Support,2025-03-07,Completed,168
+CL0349,Office_G,Housing Support,2025-03-23,Completed,99
+CL0350,Office_G,Job Training,2025-09-05,Completed,97
+CL0351,Office_G,Job Training,2025-12-27,Not Completed,90
+CL0352,Office_G,Job Training,2025-08-23,Completed,158
+CL0353,Office_G,Housing Support,2025-06-22,Completed,42
+CL0354,Office_G,Case Management,2025-12-28,Not Completed,175
+CL0355,Office_G,Counseling,2025-11-26,Completed,162
+CL0356,Office_H,Housing Support,2025-03-17,Completed,175
+CL0357,Office_H,Case Management,2025-11-08,In Progress,22
+CL0358,Office_H,Counseling,2025-07-05,Completed,119
+CL0359,Office_H,Counseling,2025-08-28,Not Completed,29
+CL0360,Office_H,Housing Support,2025-11-16,Completed,148
+CL0361,Office_H,Job Training,2025-09-11,Completed,153
+CL0362,Office_H,Housing Support,2025-11-21,Not Completed,81
+CL0363,Office_H,Job Training,2025-09-10,Completed,71
+CL0364,Office_H,Job Training,2025-12-23,Completed,139
+CL0365,Office_H,Case Management,2025-12-09,Completed,87
+CL0366,Office_H,Counseling,2025-07-27,Completed,102
+CL0367,Office_H,Housing Support,2025-12-03,Completed,102
+CL0368,Office_H,Job Training,2025-04-07,Completed,151
+CL0369,Office_H,Counseling,2025-03-04,Completed,171
+CL0370,Office_H,Counseling,2025-09-08,Completed,177
+CL0371,Office_H,Case Management,2025-07-11,In Progress,134
+CL0372,Office_H,Housing Support,2025-09-06,Completed,118
+CL0373,Office_H,Case Management,2025-05-11,Completed,87
+CL0374,Office_H,Case Management,2025-10-08,Completed,150
+CL0375,Office_H,Housing Support,2025-03-02,Completed,115
+CL0376,Office_H,Job Training,2025-05-02,Completed,16
+CL0377,Office_H,Housing Support,2025-06-10,Completed,130
+CL0378,Office_H,Counseling,2025-09-15,Completed,83
+CL0379,Office_H,Job Training,2025-12-15,Completed,179
+CL0380,Office_H,Counseling,2025-06-26,Completed,89
+CL0381,Office_H,Job Training,2025-11-13,In Progress,123
+CL0382,Office_H,Counseling,2025-11-04,In Progress,61
+CL0383,Office_H,Counseling,2025-01-09,Not Completed,112
+CL0384,Office_H,Case Management,2025-06-10,Completed,163
+CL0385,Office_H,Housing Support,2025-04-02,Completed,44
+CL0386,Office_H,Case Management,2025-09-23,Completed,93
+CL0387,Office_H,Counseling,2025-06-20,Not Completed,70
+CL0388,Office_H,Job Training,2025-08-24,Completed,169
+CL0389,Office_H,Counseling,2025-08-25,Completed,151
+CL0390,Office_H,Housing Support,2025-10-28,Completed,34
+CL0391,Office_H,Counseling,2025-10-04,Completed,29
+CL0392,Office_H,Housing Support,2025-06-28,Completed,147
+CL0393,Office_H,Housing Support,2025-04-23,In Progress,163
+CL0394,Office_H,Housing Support,2025-09-15,In Progress,28
+CL0395,Office_H,Case Management,2025-07-15,In Progress,158
+CL0396,Office_H,Housing Support,2025-05-24,Completed,19
+CL0397,Office_H,Case Management,2025-04-19,Completed,32
+CL0398,Office_H,Housing Support,2025-09-02,Completed,31
+CL0399,Office_H,Housing Support,2025-07-06,In Progress,48
+CL0400,Office_H,Housing Support,2025-08-28,Not Completed,110

@@ -1,0 +1,137 @@
+{
+  "test_id": "task-7-05",
+  "task_name": "Point-in-Time Foster Care Snapshot",
+  "domain": "Multi-Step Data Analysis",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "pattern": "Total removal records:\\s*(\\d+)",
+      "expected": 200,
+      "points": 1,
+      "label": "total_removal_records"
+    },
+    {
+      "type": "exact",
+      "pattern": "Total placement records:\\s*(\\d+)",
+      "expected": 377,
+      "points": 1,
+      "label": "total_placement_records"
+    },
+    {
+      "type": "exact",
+      "pattern": "Children in care on snapshot date:\\s*(\\d+)",
+      "expected": 128,
+      "points": 1,
+      "label": "children_in_care_on_snapshot_date"
+    },
+    {
+      "type": "exact",
+      "pattern": "Children matched to demographics:\\s*(\\d+)",
+      "expected": 128,
+      "points": 1,
+      "label": "children_matched_to_demographics"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Median age:\\s*([\\d.]+)",
+      "expected": 9.0,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "median_aged"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Mean age:\\s*([\\d.]+)",
+      "expected": 9.13,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "mean_aged"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Median length of stay.*?:\\s*(\\d+)",
+      "expected": 311,
+      "tolerance": 5,
+      "points": 1,
+      "label": "median_length_of_stay"
+    },
+    {
+      "type": "exact",
+      "pattern": "Family Foster Care:\\s*(\\d+)",
+      "expected": 47,
+      "points": 1,
+      "label": "family_foster_care"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Family Foster Care:\\s*\\d+\\s*\\(([\\d.]+)%\\)",
+      "expected": 36.7,
+      "tolerance": 1.0,
+      "points": 1,
+      "label": "family_foster_cared"
+    },
+    {
+      "type": "exact",
+      "pattern": "White:\\s*(\\d+)\\s*\\(",
+      "expected": 56,
+      "points": 1,
+      "label": "white"
+    },
+    {
+      "type": "exact",
+      "pattern": "Black:\\s*(\\d+)\\s*\\(",
+      "expected": 45,
+      "points": 1,
+      "label": "black"
+    },
+    {
+      "type": "regex",
+      "pattern": "Largest county:\\s*(.+)",
+      "expected_pattern": "(?i)Kent",
+      "points": 1,
+      "label": "largest_county"
+    },
+    {
+      "type": "regex",
+      "pattern": "Smallest county:\\s*(.+)",
+      "expected_pattern": "(?i)Ingham",
+      "points": 1,
+      "label": "smallest_county"
+    },
+    {
+      "type": "regex",
+      "pattern": "County with longest median LOS:\\s*(.+)",
+      "expected_pattern": "(?i)Wayne",
+      "points": 1,
+      "label": "county_with_longest_median_los"
+    },
+    {
+      "type": "regex",
+      "pattern": "County with highest family foster rate:\\s*(.+)",
+      "expected_pattern": "(?i)Oakland",
+      "points": 1,
+      "label": "county_with_highest_family_foster_rate"
+    },
+    {
+      "type": "file_exists",
+      "filename": "snapshot_report.csv",
+      "points": 1,
+      "label": "snapshot_report_csv"
+    },
+    {
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1,
+      "label": "summary_md"
+    }
+  ],
+  "total_points": 18,
+  "auto_points": 18,
+  "human_points": 0
+}

@@ -1,0 +1,68 @@
+{
+  "test_id": "task-3-03",
+  "task_name": "Grouped Descriptives",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 160,
+      "label": "check_1",
+      "pattern": "Total clients:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 40,
+      "label": "check_2",
+      "pattern": "Inpatient - N:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 1.0,
+      "expected": 56.9,
+      "tolerance": 0.5,
+      "label": "check_3",
+      "pattern": "Overall success rate:\\s*([\\d.]+)%"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_4",
+      "pattern": "Highest success modality:\\s*(.+)",
+      "expected_pattern": "(?i)MAT"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_5",
+      "pattern": "Largest mean improvement:\\s*(.+)",
+      "expected_pattern": "(?i)MAT"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 66.81,
+      "tolerance": 0.2,
+      "label": "check_6",
+      "pattern": "Overall mean pre-score:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 51.92,
+      "tolerance": 0.2,
+      "label": "check_7",
+      "pattern": "Overall mean post-score:\\s*([\\d.]+)"
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

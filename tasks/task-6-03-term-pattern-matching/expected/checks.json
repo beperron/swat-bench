@@ -1,0 +1,86 @@
+{
+  "test_id": "task-6-03",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_keywords",
+      "type": "exact",
+      "pattern": "Total keywords loaded: (\\d+)",
+      "expected": 20,
+      "points": 1
+    },
+    {
+      "label": "papers_with_abstracts",
+      "type": "exact",
+      "pattern": "Total papers with abstracts: (\\d+)",
+      "expected": 3000,
+      "points": 1
+    },
+    {
+      "label": "papers_with_match",
+      "type": "numeric",
+      "pattern": "Papers with at least one match: (\\d+)",
+      "expected": 2530,
+      "tolerance": 5,
+      "points": 1
+    },
+    {
+      "label": "total_matches",
+      "type": "numeric",
+      "pattern": "Total matches \\(keyword-paper pairs\\): (\\d+)",
+      "expected": 5830,
+      "tolerance": 5,
+      "points": 1
+    },
+    {
+      "label": "top_keyword",
+      "type": "regex",
+      "pattern": "1\\. (.+?):",
+      "expected_pattern": "(?i)intervention",
+      "points": 1
+    },
+    {
+      "label": "second_keyword",
+      "type": "regex",
+      "pattern": "2\\. (.+?):",
+      "expected_pattern": "(?i)mental health",
+      "points": 1
+    },
+    {
+      "label": "top_keyword_count",
+      "type": "numeric",
+      "pattern": "1\\. \\S[^:]+: (\\d+) abstracts",
+      "expected": 1274,
+      "tolerance": 5,
+      "points": 1
+    },
+    {
+      "label": "match_csv_exists",
+      "type": "file_exists",
+      "filename": "keyword_matches.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "keyword_matches.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Keyword Frequency with Wildcard Matching",
+  "domain": "Text & Natural Language Processing",
+  "difficulty": "Advanced"
+}

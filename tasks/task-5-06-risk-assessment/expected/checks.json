@@ -1,0 +1,77 @@
+{
+  "test_id": "task-5-06",
+  "task_name": "Risk Assessment",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_cases",
+      "type": "exact",
+      "pattern": "Total cases: (\\d+)",
+      "expected": 200,
+      "points": 0.5
+    },
+    {
+      "label": "true_positives",
+      "type": "exact",
+      "pattern": "True positives: (\\d+)",
+      "expected": 44,
+      "points": 0.5
+    },
+    {
+      "label": "false_positives",
+      "type": "exact",
+      "pattern": "False positives: (\\d+)",
+      "expected": 65,
+      "points": 0.5
+    },
+    {
+      "label": "sensitivity",
+      "type": "numeric",
+      "pattern": "Sensitivity \\(recall\\): ([\\d.]+)",
+      "expected": 0.721,
+      "tolerance": 0.01,
+      "points": 0.5
+    },
+    {
+      "label": "specificity",
+      "type": "numeric",
+      "pattern": "Specificity: ([\\d.]+)",
+      "expected": 0.532,
+      "tolerance": 0.01,
+      "points": 1.0
+    },
+    {
+      "label": "ppv",
+      "type": "numeric",
+      "pattern": "Positive predictive value: ([\\d.]+)",
+      "expected": 0.404,
+      "tolerance": 0.01,
+      "points": 1.0
+    },
+    {
+      "label": "npv",
+      "type": "numeric",
+      "pattern": "Negative predictive value: ([\\d.]+)",
+      "expected": 0.813,
+      "tolerance": 0.01,
+      "points": 1.0
+    },
+    {
+      "label": "auc",
+      "type": "numeric",
+      "pattern": "AUC \\(trapezoidal\\): ([\\d.]+)",
+      "expected": 0.645,
+      "tolerance": 0.02,
+      "points": 1.0
+    }
+  ],
+  "total_points": 7,
+  "auto_points": 7,
+  "human_points": 0
+}

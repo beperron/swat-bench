@@ -1,0 +1,501 @@
+case_id,child_race,child_age,referral_type,screened_in,investigated,substantiated,placement,county
+CW-0446,Hispanic,7,Sexual Abuse,1,1,1,0,Franklin
+CW-0151,White,14,Neglect,1,1,1,0,Franklin
+CW-0013,White,5,Physical Abuse,1,1,0,0,Franklin
+CW-0491,Asian,11,Neglect,1,1,0,0,Franklin
+CW-0295,Black,1,Neglect,0,0,0,0,Franklin
+CW-0181,White,5,Neglect,1,1,0,0,Franklin
+CW-0274,Black,7,Substance Exposure,0,0,0,0,Franklin
+CW-0192,White,7,Neglect,1,1,0,0,Franklin
+CW-0485,Asian,3,Neglect,0,0,0,0,Franklin
+CW-0186,White,5,Emotional Abuse,0,0,0,0,Franklin
+CW-0440,Hispanic,15,Emotional Abuse,0,0,0,0,Franklin
+CW-0022,White,6,Emotional Abuse,1,1,0,0,Franklin
+CW-0239,Black,12,Physical Abuse,1,1,1,0,Franklin
+CW-0359,Black,11,Neglect,1,1,0,0,Franklin
+CW-0053,White,8,Physical Abuse,1,1,1,0,Franklin
+CW-0438,Hispanic,1,Sexual Abuse,1,1,1,1,Franklin
+CW-0385,Hispanic,3,Sexual Abuse,1,1,1,1,Franklin
+CW-0244,Black,7,Neglect,0,0,0,0,Franklin
+CW-0334,Black,4,Emotional Abuse,1,1,0,0,Franklin
+CW-0492,Other,9,Physical Abuse,0,0,0,0,Franklin
+CW-0291,Black,16,Neglect,1,1,1,0,Franklin
+CW-0429,Hispanic,7,Neglect,0,0,0,0,Franklin
+CW-0242,Black,5,Neglect,1,1,0,0,Franklin
+CW-0482,Asian,13,Physical Abuse,1,0,0,0,Franklin
+CW-0140,White,1,Neglect,1,1,0,0,Franklin
+CW-0346,Black,17,Substance Exposure,1,1,0,0,Franklin
+CW-0378,Black,6,Sexual Abuse,1,1,0,0,Franklin
+CW-0005,White,11,Physical Abuse,1,1,1,0,Franklin
+CW-0081,White,4,Neglect,1,1,0,0,Franklin
+CW-0428,Hispanic,15,Neglect,0,0,0,0,Franklin
+CW-0071,White,10,Physical Abuse,1,1,1,0,Franklin
+CW-0007,White,11,Neglect,1,1,0,0,Franklin
+CW-0256,Black,12,Neglect,0,0,0,0,Franklin
+CW-0159,White,8,Neglect,1,1,0,0,Franklin
+CW-0442,Hispanic,13,Neglect,0,0,0,0,Franklin
+CW-0328,Black,4,Neglect,1,0,0,0,Franklin
+CW-0057,White,1,Neglect,0,0,0,0,Franklin
+CW-0257,Black,2,Physical Abuse,1,1,1,1,Franklin
+CW-0434,Hispanic,7,Neglect,1,1,0,0,Franklin
+CW-0078,White,0,Substance Exposure,0,0,0,0,Franklin
+CW-0477,Asian,16,Neglect,0,0,0,0,Franklin
+CW-0415,Hispanic,6,Sexual Abuse,1,1,0,0,Franklin
+CW-0361,Black,13,Neglect,0,0,0,0,Franklin
+CW-0474,Hispanic,9,Neglect,1,1,0,0,Franklin
+CW-0119,White,2,Substance Exposure,1,1,0,0,Franklin
+CW-0455,Hispanic,1,Neglect,0,0,0,0,Franklin
+CW-0341,Black,4,Emotional Abuse,0,0,0,0,Franklin
+CW-0202,Black,2,Neglect,1,0,0,0,Franklin
+CW-0118,White,17,Physical Abuse,1,1,0,0,Franklin
+CW-0160,White,7,Neglect,1,1,0,0,Franklin
+CW-0111,White,11,Neglect,1,0,0,0,Franklin
+CW-0464,Hispanic,3,Neglect,0,0,0,0,Franklin
+CW-0188,White,0,Physical Abuse,1,1,0,0,Franklin
+CW-0080,White,4,Physical Abuse,1,1,1,0,Franklin
+CW-0205,Black,6,Physical Abuse,1,1,0,0,Franklin
+CW-0024,White,2,Neglect,1,1,0,0,Franklin
+CW-0023,White,4,Sexual Abuse,0,0,0,0,Franklin
+CW-0123,White,12,Substance Exposure,0,0,0,0,Franklin
+CW-0031,White,0,Physical Abuse,1,0,0,0,Franklin
+CW-0441,Hispanic,10,Physical Abuse,1,1,1,0,Franklin
+CW-0253,Black,11,Neglect,0,0,0,0,Franklin
+CW-0299,Black,11,Physical Abuse,0,0,0,0,Franklin
+CW-0221,Black,15,Physical Abuse,1,1,0,0,Franklin
+CW-0345,Black,17,Substance Exposure,1,0,0,0,Franklin
+CW-0130,White,4,Substance Exposure,0,0,0,0,Franklin
+CW-0317,Black,5,Neglect,1,1,1,0,Franklin
+CW-0235,Black,3,Emotional Abuse,1,1,0,0,Franklin
+CW-0354,Black,5,Neglect,0,0,0,0,Franklin
+CW-0371,Black,1,Neglect,1,1,1,0,Franklin
+CW-0096,White,4,Physical Abuse,0,0,0,0,Franklin
+CW-0098,White,15,Neglect,1,1,1,0,Franklin
+CW-0444,Hispanic,2,Sexual Abuse,1,0,0,0,Franklin
+CW-0261,Black,4,Physical Abuse,1,0,0,0,Franklin
+CW-0493,Other,0,Neglect,1,0,0,0,Franklin
+CW-0454,Hispanic,1,Physical Abuse,1,1,0,0,Franklin
+CW-0169,White,16,Neglect,0,0,0,0,Franklin
+CW-0185,White,14,Emotional Abuse,1,1,0,0,Franklin
+CW-0070,White,16,Physical Abuse,0,0,0,0,Franklin
+CW-0003,White,1,Sexual Abuse,0,0,0,0,Franklin
+CW-0298,Black,1,Emotional Abuse,1,1,0,0,Franklin
+CW-0095,White,2,Substance Exposure,1,1,0,0,Franklin
+CW-0287,Black,2,Physical Abuse,1,1,0,0,Franklin
+CW-0278,Black,2,Neglect,0,0,0,0,Franklin
+CW-0344,Black,4,Physical Abuse,1,1,0,0,Franklin
+CW-0014,White,11,Substance Exposure,0,0,0,0,Franklin
+CW-0010,White,14,Sexual Abuse,0,0,0,0,Franklin
+CW-0144,White,1,Neglect,0,0,0,0,Franklin
+CW-0356,Black,5,Neglect,0,0,0,0,Franklin
+CW-0469,Hispanic,15,Neglect,1,1,1,0,Franklin
+CW-0459,Hispanic,5,Emotional Abuse,0,0,0,0,Franklin
+CW-0457,Hispanic,11,Sexual Abuse,1,0,0,0,Franklin
+CW-0029,White,11,Physical Abuse,0,0,0,0,Franklin
+CW-0288,Black,1,Neglect,1,0,0,0,Franklin
+CW-0402,Hispanic,9,Neglect,1,1,0,0,Franklin
+CW-0243,Black,16,Substance Exposure,1,1,0,0,Franklin
+CW-0146,White,10,Physical Abuse,0,0,0,0,Franklin
+CW-0236,Black,3,Sexual Abuse,1,1,0,0,Franklin
+CW-0357,Black,5,Substance Exposure,0,0,0,0,Franklin
+CW-0165,White,3,Physical Abuse,0,0,0,0,Franklin
+CW-0170,White,13,Neglect,1,1,0,0,Franklin
+CW-0430,Hispanic,1,Neglect,1,1,0,0,Franklin
+CW-0318,Black,7,Sexual Abuse,0,0,0,0,Franklin
+CW-0135,White,2,Neglect,0,0,0,0,Franklin
+CW-0249,Black,8,Physical Abuse,1,1,0,0,Franklin
+CW-0112,White,6,Neglect,1,1,0,0,Franklin
+CW-0036,White,1,Neglect,1,1,0,0,Franklin
+CW-0033,White,0,Physical Abuse,1,0,0,0,Franklin
+CW-0094,White,3,Physical Abuse,0,0,0,0,Franklin
+CW-0241,Black,9,Neglect,1,1,1,0,Franklin
+CW-0343,Black,4,Substance Exposure,1,1,0,0,Franklin
+CW-0018,White,8,Neglect,1,1,0,0,Franklin
+CW-0082,White,0,Neglect,0,0,0,0,Franklin
+CW-0231,Black,11,Physical Abuse,1,1,0,0,Franklin
+CW-0323,Black,13,Neglect,1,1,0,0,Franklin
+CW-0306,Black,2,Physical Abuse,1,1,0,0,Franklin
+CW-0280,Black,15,Sexual Abuse,0,0,0,0,Franklin
+CW-0315,Black,13,Sexual Abuse,0,0,0,0,Franklin
+CW-0465,Hispanic,4,Neglect,1,1,0,0,Franklin
+CW-0330,Black,3,Emotional Abuse,0,0,0,0,Franklin
+CW-0193,White,11,Substance Exposure,1,1,0,0,Franklin
+CW-0177,White,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0198,White,0,Physical Abuse,0,0,0,0,Franklin
+CW-0392,Hispanic,14,Physical Abuse,1,1,0,0,Franklin
+CW-0234,Black,1,Physical Abuse,0,0,0,0,Franklin
+CW-0319,Black,14,Emotional Abuse,1,0,0,0,Franklin
+CW-0122,White,16,Neglect,1,1,0,0,Franklin
+CW-0208,Black,7,Neglect,1,1,0,0,Franklin
+CW-0103,White,4,Sexual Abuse,1,1,0,0,Franklin
+CW-0301,Black,0,Neglect,0,0,0,0,Franklin
+CW-0138,White,1,Emotional Abuse,0,0,0,0,Franklin
+CW-0187,White,0,Physical Abuse,1,1,0,0,Franklin
+CW-0362,Black,8,Neglect,0,0,0,0,Franklin
+CW-0200,White,0,Emotional Abuse,1,1,0,0,Franklin
+CW-0204,Black,10,Physical Abuse,0,0,0,0,Franklin
+CW-0019,White,0,Physical Abuse,1,0,0,0,Franklin
+CW-0350,Black,10,Sexual Abuse,1,1,0,0,Franklin
+CW-0342,Black,14,Emotional Abuse,1,1,1,1,Franklin
+CW-0233,Black,9,Substance Exposure,1,1,0,0,Franklin
+CW-0171,White,10,Neglect,1,1,0,0,Franklin
+CW-0300,Black,14,Neglect,1,1,1,0,Franklin
+CW-0077,White,15,Physical Abuse,0,0,0,0,Franklin
+CW-0349,Black,4,Substance Exposure,1,1,0,0,Franklin
+CW-0011,White,7,Physical Abuse,0,0,0,0,Franklin
+CW-0276,Black,17,Physical Abuse,1,1,1,0,Franklin
+CW-0431,Hispanic,12,Physical Abuse,0,0,0,0,Franklin
+CW-0152,White,7,Sexual Abuse,1,1,0,0,Franklin
+CW-0397,Hispanic,5,Physical Abuse,1,1,1,0,Franklin
+CW-0237,Black,14,Substance Exposure,1,1,1,0,Franklin
+CW-0217,Black,13,Neglect,0,0,0,0,Franklin
+CW-0155,White,10,Neglect,1,1,0,0,Franklin
+CW-0017,White,14,Emotional Abuse,1,1,0,0,Franklin
+CW-0352,Black,0,Physical Abuse,0,0,0,0,Franklin
+CW-0335,Black,14,Neglect,1,1,1,0,Franklin
+CW-0037,White,1,Neglect,1,1,0,0,Franklin
+CW-0088,White,0,Emotional Abuse,0,0,0,0,Franklin
+CW-0009,White,13,Emotional Abuse,1,1,0,0,Franklin
+CW-0126,White,12,Physical Abuse,1,1,0,0,Franklin
+CW-0054,White,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0421,Hispanic,9,Sexual Abuse,1,1,0,0,Franklin
+CW-0228,Black,3,Physical Abuse,0,0,0,0,Franklin
+CW-0400,Hispanic,3,Emotional Abuse,1,0,0,0,Franklin
+CW-0452,Hispanic,4,Physical Abuse,1,1,1,0,Franklin
+CW-0320,Black,3,Neglect,0,0,0,0,Franklin
+CW-0090,White,9,Physical Abuse,1,1,0,0,Franklin
+CW-0473,Hispanic,14,Emotional Abuse,1,1,0,0,Franklin
+CW-0461,Hispanic,9,Emotional Abuse,0,0,0,0,Franklin
+CW-0358,Black,12,Emotional Abuse,1,1,1,0,Franklin
+CW-0043,White,8,Sexual Abuse,1,0,0,0,Franklin
+CW-0184,White,6,Sexual Abuse,0,0,0,0,Franklin
+CW-0113,White,7,Physical Abuse,0,0,0,0,Franklin
+CW-0310,Black,0,Substance Exposure,0,0,0,0,Franklin
+CW-0049,White,15,Emotional Abuse,0,0,0,0,Franklin
+CW-0141,White,9,Emotional Abuse,0,0,0,0,Franklin
+CW-0056,White,5,Substance Exposure,1,0,0,0,Franklin
+CW-0322,Black,11,Physical Abuse,1,0,0,0,Franklin
+CW-0240,Black,0,Neglect,0,0,0,0,Franklin
+CW-0368,Black,3,Substance Exposure,1,0,0,0,Franklin
+CW-0230,Black,9,Neglect,1,1,0,0,Franklin
+CW-0099,White,11,Neglect,0,0,0,0,Franklin
+CW-0406,Hispanic,17,Neglect,0,0,0,0,Franklin
+CW-0312,Black,14,Neglect,1,1,0,0,Franklin
+CW-0106,White,9,Neglect,0,0,0,0,Franklin
+CW-0285,Black,13,Emotional Abuse,1,1,1,0,Franklin
+CW-0136,White,11,Neglect,0,0,0,0,Franklin
+CW-0027,White,14,Emotional Abuse,1,1,0,0,Franklin
+CW-0327,Black,14,Neglect,1,0,0,0,Franklin
+CW-0413,Hispanic,4,Emotional Abuse,1,1,0,0,Franklin
+CW-0061,White,16,Neglect,1,0,0,0,Franklin
+CW-0145,White,15,Neglect,1,1,0,0,Franklin
+CW-0153,White,13,Neglect,1,1,0,0,Franklin
+CW-0006,White,14,Neglect,0,0,0,0,Franklin
+CW-0166,White,5,Sexual Abuse,0,0,0,0,Franklin
+CW-0495,Other,16,Neglect,1,0,0,0,Franklin
+CW-0451,Hispanic,6,Neglect,0,0,0,0,Franklin
+CW-0437,Hispanic,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0398,Hispanic,8,Physical Abuse,0,0,0,0,Franklin
+CW-0470,Hispanic,16,Neglect,0,0,0,0,Franklin
+CW-0311,Black,10,Neglect,1,1,0,0,Franklin
+CW-0401,Hispanic,14,Substance Exposure,0,0,0,0,Franklin
+CW-0194,White,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0266,Black,7,Substance Exposure,1,1,0,0,Franklin
+CW-0332,Black,11,Neglect,1,1,1,0,Franklin
+CW-0290,Black,3,Neglect,0,0,0,0,Franklin
+CW-0394,Hispanic,2,Substance Exposure,1,1,1,0,Franklin
+CW-0435,Hispanic,6,Emotional Abuse,1,1,0,0,Franklin
+CW-0331,Black,5,Sexual Abuse,0,0,0,0,Franklin
+CW-0028,White,1,Neglect,1,1,0,0,Franklin
+CW-0490,Asian,4,Neglect,1,0,0,0,Franklin
+CW-0199,White,13,Physical Abuse,0,0,0,0,Franklin
+CW-0450,Hispanic,0,Neglect,1,1,0,0,Franklin
+CW-0132,White,16,Physical Abuse,1,1,0,0,Franklin
+CW-0179,White,13,Neglect,1,0,0,0,Franklin
+CW-0157,White,9,Neglect,0,0,0,0,Franklin
+CW-0250,Black,6,Neglect,1,1,0,0,Franklin
+CW-0309,Black,17,Neglect,1,1,0,0,Franklin
+CW-0051,White,2,Neglect,0,0,0,0,Franklin
+CW-0326,Black,2,Physical Abuse,1,1,0,0,Franklin
+CW-0296,Black,16,Physical Abuse,0,0,0,0,Franklin
+CW-0093,White,10,Emotional Abuse,0,0,0,0,Franklin
+CW-0052,White,17,Physical Abuse,1,1,0,0,Franklin
+CW-0483,Asian,9,Emotional Abuse,1,1,0,0,Franklin
+CW-0304,Black,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0105,White,5,Physical Abuse,0,0,0,0,Franklin
+CW-0015,White,13,Sexual Abuse,1,1,0,0,Franklin
+CW-0340,Black,10,Sexual Abuse,0,0,0,0,Franklin
+CW-0174,White,5,Neglect,1,0,0,0,Franklin
+CW-0229,Black,1,Neglect,1,0,0,0,Franklin
+CW-0182,White,14,Neglect,1,0,0,0,Franklin
+CW-0370,Black,14,Neglect,1,1,0,0,Franklin
+CW-0486,Asian,5,Emotional Abuse,1,1,0,0,Franklin
+CW-0175,White,11,Neglect,0,0,0,0,Franklin
+CW-0087,White,11,Neglect,0,0,0,0,Franklin
+CW-0045,White,17,Substance Exposure,0,0,0,0,Franklin
+CW-0426,Hispanic,16,Substance Exposure,0,0,0,0,Franklin
+CW-0065,White,8,Sexual Abuse,1,1,0,0,Franklin
+CW-0224,Black,11,Physical Abuse,0,0,0,0,Franklin
+CW-0373,Black,9,Substance Exposure,1,1,0,0,Franklin
+CW-0487,Asian,14,Emotional Abuse,1,0,0,0,Franklin
+CW-0209,Black,16,Physical Abuse,1,1,1,0,Franklin
+CW-0258,Black,11,Neglect,0,0,0,0,Franklin
+CW-0348,Black,7,Substance Exposure,1,1,0,0,Franklin
+CW-0414,Hispanic,14,Substance Exposure,1,1,1,0,Franklin
+CW-0383,Hispanic,17,Neglect,1,1,0,0,Franklin
+CW-0292,Black,14,Substance Exposure,0,0,0,0,Franklin
+CW-0245,Black,4,Sexual Abuse,0,0,0,0,Franklin
+CW-0355,Black,15,Emotional Abuse,1,1,1,0,Franklin
+CW-0172,White,9,Substance Exposure,1,0,0,0,Franklin
+CW-0195,White,3,Substance Exposure,0,0,0,0,Franklin
+CW-0420,Hispanic,1,Physical Abuse,1,0,0,0,Franklin
+CW-0020,White,16,Sexual Abuse,0,0,0,0,Franklin
+CW-0048,White,4,Emotional Abuse,1,1,0,0,Franklin
+CW-0069,White,14,Neglect,1,1,1,0,Franklin
+CW-0149,White,17,Neglect,1,1,1,0,Franklin
+CW-0374,Black,11,Physical Abuse,1,0,0,0,Franklin
+CW-0050,White,0,Neglect,1,1,0,0,Franklin
+CW-0445,Hispanic,11,Substance Exposure,1,1,0,0,Franklin
+CW-0064,White,1,Neglect,1,1,0,0,Franklin
+CW-0305,Black,6,Neglect,1,1,0,0,Franklin
+CW-0462,Hispanic,4,Sexual Abuse,1,1,1,0,Franklin
+CW-0062,White,0,Neglect,1,1,0,0,Franklin
+CW-0479,Asian,0,Emotional Abuse,1,1,0,0,Franklin
+CW-0183,White,6,Physical Abuse,0,0,0,0,Franklin
+CW-0255,Black,9,Emotional Abuse,1,1,0,0,Franklin
+CW-0127,White,14,Physical Abuse,1,1,0,0,Franklin
+CW-0282,Black,9,Physical Abuse,0,0,0,0,Franklin
+CW-0086,White,15,Neglect,1,1,0,0,Franklin
+CW-0329,Black,17,Emotional Abuse,1,1,0,0,Franklin
+CW-0125,White,9,Substance Exposure,0,0,0,0,Franklin
+CW-0002,White,10,Neglect,1,1,0,0,Franklin
+CW-0264,Black,13,Neglect,0,0,0,0,Franklin
+CW-0068,White,0,Physical Abuse,1,1,0,0,Franklin
+CW-0389,Hispanic,11,Neglect,1,1,0,0,Franklin
+CW-0360,Black,0,Physical Abuse,1,1,1,0,Franklin
+CW-0222,Black,14,Neglect,1,1,0,0,Franklin
+CW-0351,Black,7,Emotional Abuse,1,1,0,0,Franklin
+CW-0203,Black,1,Neglect,1,0,0,0,Franklin
+CW-0308,Black,1,Emotional Abuse,1,1,1,1,Franklin
+CW-0466,Hispanic,1,Neglect,0,0,0,0,Franklin
+CW-0161,White,1,Physical Abuse,1,1,0,0,Franklin
+CW-0439,Hispanic,17,Neglect,1,1,1,0,Franklin
+CW-0453,Hispanic,0,Neglect,1,0,0,0,Franklin
+CW-0120,White,7,Neglect,1,1,1,0,Franklin
+CW-0293,Black,2,Neglect,1,1,0,0,Franklin
+CW-0121,White,7,Neglect,1,1,0,0,Franklin
+CW-0337,Black,3,Substance Exposure,1,1,1,1,Franklin
+CW-0324,Black,11,Neglect,0,0,0,0,Franklin
+CW-0073,White,7,Sexual Abuse,0,0,0,0,Franklin
+CW-0407,Hispanic,0,Substance Exposure,1,1,0,0,Franklin
+CW-0206,Black,10,Neglect,1,1,1,0,Franklin
+CW-0173,White,0,Physical Abuse,1,1,0,0,Franklin
+CW-0484,Asian,10,Physical Abuse,0,0,0,0,Franklin
+CW-0339,Black,8,Neglect,1,1,0,0,Franklin
+CW-0424,Hispanic,3,Emotional Abuse,1,1,0,0,Franklin
+CW-0110,White,3,Neglect,0,0,0,0,Franklin
+CW-0083,White,9,Substance Exposure,0,0,0,0,Franklin
+CW-0390,Hispanic,1,Neglect,0,0,0,0,Franklin
+CW-0215,Black,7,Physical Abuse,0,0,0,0,Franklin
+CW-0481,Asian,3,Physical Abuse,1,1,1,0,Franklin
+CW-0468,Hispanic,5,Physical Abuse,0,0,0,0,Franklin
+CW-0489,Asian,17,Physical Abuse,0,0,0,0,Franklin
+CW-0388,Hispanic,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0084,White,9,Neglect,1,0,0,0,Franklin
+CW-0030,White,10,Neglect,1,1,0,0,Franklin
+CW-0147,White,7,Sexual Abuse,1,0,0,0,Franklin
+CW-0035,White,2,Neglect,1,1,0,0,Franklin
+CW-0405,Hispanic,14,Neglect,1,1,0,0,Franklin
+CW-0100,White,14,Physical Abuse,1,1,0,0,Franklin
+CW-0321,Black,2,Physical Abuse,1,1,0,0,Franklin
+CW-0038,White,10,Neglect,1,0,0,0,Franklin
+CW-0046,White,2,Physical Abuse,1,0,0,0,Franklin
+CW-0091,White,17,Sexual Abuse,1,1,0,0,Franklin
+CW-0219,Black,13,Neglect,0,0,0,0,Franklin
+CW-0251,Black,2,Neglect,1,0,0,0,Franklin
+CW-0423,Hispanic,16,Neglect,1,0,0,0,Franklin
+CW-0225,Black,11,Physical Abuse,0,0,0,0,Franklin
+CW-0115,White,0,Physical Abuse,0,0,0,0,Franklin
+CW-0443,Hispanic,11,Physical Abuse,0,0,0,0,Franklin
+CW-0207,Black,16,Neglect,0,0,0,0,Franklin
+CW-0252,Black,10,Neglect,0,0,0,0,Franklin
+CW-0039,White,4,Neglect,0,0,0,0,Franklin
+CW-0142,White,3,Neglect,0,0,0,0,Franklin
+CW-0488,Asian,13,Sexual Abuse,0,0,0,0,Franklin
+CW-0117,White,4,Neglect,0,0,0,0,Franklin
+CW-0313,Black,17,Neglect,1,1,0,0,Franklin
+CW-0384,Hispanic,6,Neglect,0,0,0,0,Franklin
+CW-0404,Hispanic,15,Physical Abuse,0,0,0,0,Franklin
+CW-0333,Black,3,Substance Exposure,1,1,0,0,Franklin
+CW-0497,Other,15,Physical Abuse,1,0,0,0,Franklin
+CW-0294,Black,14,Neglect,0,0,0,0,Franklin
+CW-0303,Black,14,Neglect,1,1,1,1,Franklin
+CW-0004,White,1,Physical Abuse,1,1,0,0,Franklin
+CW-0067,White,6,Neglect,0,0,0,0,Franklin
+CW-0191,White,4,Emotional Abuse,0,0,0,0,Franklin
+CW-0412,Hispanic,10,Neglect,0,0,0,0,Franklin
+CW-0396,Hispanic,7,Emotional Abuse,1,0,0,0,Franklin
+CW-0001,White,6,Emotional Abuse,1,1,0,0,Franklin
+CW-0124,White,17,Neglect,1,0,0,0,Franklin
+CW-0148,White,17,Neglect,1,0,0,0,Franklin
+CW-0201,Black,8,Sexual Abuse,1,1,0,0,Franklin
+CW-0448,Hispanic,17,Physical Abuse,1,0,0,0,Franklin
+CW-0367,Black,15,Neglect,0,0,0,0,Franklin
+CW-0418,Hispanic,2,Neglect,1,0,0,0,Franklin
+CW-0480,Asian,11,Physical Abuse,0,0,0,0,Franklin
+CW-0272,Black,10,Emotional Abuse,1,1,0,0,Franklin
+CW-0212,Black,6,Emotional Abuse,1,0,0,0,Franklin
+CW-0289,Black,3,Physical Abuse,0,0,0,0,Franklin
+CW-0347,Black,11,Neglect,1,1,1,0,Franklin
+CW-0271,Black,8,Emotional Abuse,0,0,0,0,Franklin
+CW-0139,White,1,Neglect,1,1,0,0,Franklin
+CW-0108,White,15,Emotional Abuse,0,0,0,0,Franklin
+CW-0449,Hispanic,12,Neglect,0,0,0,0,Franklin
+CW-0273,Black,1,Emotional Abuse,0,0,0,0,Franklin
+CW-0150,White,13,Neglect,1,1,1,0,Franklin
+CW-0422,Hispanic,17,Neglect,1,1,1,0,Franklin
+CW-0467,Hispanic,16,Neglect,1,1,0,0,Franklin
+CW-0075,White,4,Physical Abuse,1,1,0,0,Franklin
+CW-0314,Black,0,Emotional Abuse,1,1,0,0,Franklin
+CW-0338,Black,9,Neglect,0,0,0,0,Franklin
+CW-0460,Hispanic,3,Neglect,0,0,0,0,Franklin
+CW-0041,White,8,Neglect,1,1,0,0,Franklin
+CW-0034,White,8,Neglect,1,1,1,0,Franklin
+CW-0180,White,17,Emotional Abuse,1,1,0,0,Franklin
+CW-0163,White,8,Physical Abuse,1,1,0,0,Franklin
+CW-0190,White,1,Physical Abuse,1,1,0,0,Franklin
+CW-0218,Black,15,Neglect,0,0,0,0,Franklin
+CW-0478,Asian,3,Physical Abuse,1,1,0,0,Franklin
+CW-0156,White,14,Physical Abuse,0,0,0,0,Franklin
+CW-0277,Black,7,Emotional Abuse,1,0,0,0,Franklin
+CW-0286,Black,8,Neglect,1,1,0,0,Franklin
+CW-0076,White,0,Physical Abuse,1,1,0,0,Franklin
+CW-0391,Hispanic,7,Neglect,1,0,0,0,Franklin
+CW-0226,Black,13,Neglect,1,1,0,0,Franklin
+CW-0216,Black,2,Emotional Abuse,1,1,0,0,Franklin
+CW-0494,Other,10,Physical Abuse,0,0,0,0,Franklin
+CW-0496,Other,9,Physical Abuse,0,0,0,0,Franklin
+CW-0364,Black,11,Physical Abuse,1,1,0,0,Franklin
+CW-0377,Black,17,Sexual Abuse,0,0,0,0,Franklin
+CW-0060,White,13,Substance Exposure,1,1,0,0,Franklin
+CW-0211,Black,3,Physical Abuse,0,0,0,0,Franklin
+CW-0134,White,1,Neglect,1,1,0,0,Franklin
+CW-0499,Other,9,Substance Exposure,0,0,0,0,Franklin
+CW-0265,Black,1,Physical Abuse,0,0,0,0,Franklin
+CW-0189,White,14,Emotional Abuse,1,1,0,0,Franklin
+CW-0471,Hispanic,10,Sexual Abuse,1,1,0,0,Franklin
+CW-0133,White,3,Physical Abuse,0,0,0,0,Franklin
+CW-0382,Hispanic,1,Neglect,0,0,0,0,Franklin
+CW-0154,White,13,Physical Abuse,1,1,0,0,Franklin
+CW-0281,Black,15,Sexual Abuse,0,0,0,0,Franklin
+CW-0196,White,4,Sexual Abuse,1,1,0,0,Franklin
+CW-0353,Black,15,Sexual Abuse,1,1,0,0,Franklin
+CW-0131,White,4,Sexual Abuse,0,0,0,0,Franklin
+CW-0025,White,13,Neglect,1,1,1,1,Franklin
+CW-0325,Black,4,Substance Exposure,0,0,0,0,Franklin
+CW-0433,Hispanic,0,Physical Abuse,1,1,0,0,Franklin
+CW-0128,White,16,Emotional Abuse,1,1,0,0,Franklin
+CW-0247,Black,12,Sexual Abuse,1,1,0,0,Franklin
+CW-0059,White,2,Emotional Abuse,1,0,0,0,Franklin
+CW-0223,Black,11,Emotional Abuse,1,1,0,0,Franklin
+CW-0102,White,6,Physical Abuse,1,1,0,0,Franklin
+CW-0419,Hispanic,4,Neglect,0,0,0,0,Franklin
+CW-0162,White,5,Neglect,1,0,0,0,Franklin
+CW-0269,Black,16,Physical Abuse,1,1,0,0,Franklin
+CW-0158,White,11,Physical Abuse,1,1,0,0,Franklin
+CW-0021,White,4,Substance Exposure,0,0,0,0,Franklin
+CW-0410,Hispanic,11,Substance Exposure,1,1,0,0,Franklin
+CW-0109,White,16,Substance Exposure,0,0,0,0,Franklin
+CW-0063,White,2,Neglect,1,1,0,0,Franklin
+CW-0463,Hispanic,12,Physical Abuse,0,0,0,0,Franklin
+CW-0016,White,7,Emotional Abuse,0,0,0,0,Franklin
+CW-0375,Black,8,Emotional Abuse,1,1,0,0,Franklin
+CW-0302,Black,1,Physical Abuse,1,1,0,0,Franklin
+CW-0395,Hispanic,7,Emotional Abuse,1,1,1,0,Franklin
+CW-0012,White,3,Physical Abuse,0,0,0,0,Franklin
+CW-0137,White,16,Physical Abuse,1,1,0,0,Franklin
+CW-0032,White,8,Neglect,1,1,0,0,Franklin
+CW-0275,Black,1,Neglect,1,1,0,0,Franklin
+CW-0246,Black,17,Neglect,1,0,0,0,Franklin
+CW-0500,Other,16,Physical Abuse,1,1,0,0,Franklin
+CW-0260,Black,0,Physical Abuse,1,1,1,0,Franklin
+CW-0425,Hispanic,5,Neglect,0,0,0,0,Franklin
+CW-0107,White,1,Physical Abuse,1,0,0,0,Franklin
+CW-0176,White,10,Substance Exposure,1,1,0,0,Franklin
+CW-0380,Black,0,Physical Abuse,1,1,0,0,Franklin
+CW-0416,Hispanic,16,Physical Abuse,1,1,0,0,Franklin
+CW-0101,White,3,Substance Exposure,0,0,0,0,Franklin
+CW-0475,Hispanic,12,Sexual Abuse,0,0,0,0,Franklin
+CW-0129,White,15,Physical Abuse,0,0,0,0,Franklin
+CW-0220,Black,6,Neglect,0,0,0,0,Franklin
+CW-0417,Hispanic,5,Neglect,1,0,0,0,Franklin
+CW-0040,White,10,Emotional Abuse,0,0,0,0,Franklin
+CW-0363,Black,15,Emotional Abuse,0,0,0,0,Franklin
+CW-0114,White,0,Sexual Abuse,1,1,0,0,Franklin
+CW-0283,Black,6,Emotional Abuse,0,0,0,0,Franklin
+CW-0259,Black,14,Neglect,1,1,0,0,Franklin
+CW-0365,Black,10,Emotional Abuse,0,0,0,0,Franklin
+CW-0476,Asian,9,Emotional Abuse,1,1,0,0,Franklin
+CW-0336,Black,1,Emotional Abuse,1,1,0,0,Franklin
+CW-0263,Black,4,Emotional Abuse,1,1,0,0,Franklin
+CW-0386,Hispanic,0,Neglect,1,1,0,0,Franklin
+CW-0458,Hispanic,10,Emotional Abuse,0,0,0,0,Franklin
+CW-0316,Black,9,Physical Abuse,1,1,0,0,Franklin
+CW-0472,Hispanic,15,Physical Abuse,0,0,0,0,Franklin
+CW-0210,Black,14,Neglect,1,1,0,0,Franklin
+CW-0104,White,8,Emotional Abuse,0,0,0,0,Franklin
+CW-0238,Black,2,Emotional Abuse,0,0,0,0,Franklin
+CW-0432,Hispanic,0,Neglect,1,1,0,0,Franklin
+CW-0399,Hispanic,8,Neglect,0,0,0,0,Franklin
+CW-0047,White,16,Physical Abuse,1,0,0,0,Franklin
+CW-0393,Hispanic,15,Physical Abuse,1,0,0,0,Franklin
+CW-0055,White,0,Neglect,1,1,0,0,Franklin
+CW-0072,White,3,Emotional Abuse,1,1,0,0,Franklin
+CW-0085,White,4,Sexual Abuse,0,0,0,0,Franklin
+CW-0164,White,5,Neglect,0,0,0,0,Franklin
+CW-0297,Black,14,Emotional Abuse,0,0,0,0,Franklin
+CW-0408,Hispanic,2,Substance Exposure,0,0,0,0,Franklin
+CW-0008,White,8,Physical Abuse,0,0,0,0,Franklin
+CW-0074,White,9,Neglect,0,0,0,0,Franklin
+CW-0268,Black,5,Emotional Abuse,1,1,0,0,Franklin
+CW-0267,Black,9,Physical Abuse,1,1,0,0,Franklin
+CW-0307,Black,11,Physical Abuse,1,1,1,0,Franklin
+CW-0197,White,13,Substance Exposure,0,0,0,0,Franklin
+CW-0403,Hispanic,9,Emotional Abuse,0,0,0,0,Franklin
+CW-0427,Hispanic,8,Substance Exposure,0,0,0,0,Franklin
+CW-0178,White,2,Physical Abuse,0,0,0,0,Franklin
+CW-0379,Black,17,Physical Abuse,1,0,0,0,Franklin
+CW-0089,White,11,Neglect,0,0,0,0,Franklin
+CW-0279,Black,12,Neglect,0,0,0,0,Franklin
+CW-0436,Hispanic,7,Neglect,1,1,0,0,Franklin
+CW-0167,White,14,Neglect,1,0,0,0,Franklin
+CW-0262,Black,8,Physical Abuse,1,1,0,0,Franklin
+CW-0227,Black,8,Neglect,1,1,1,0,Franklin
+CW-0042,White,3,Physical Abuse,1,1,0,0,Franklin
+CW-0097,White,2,Physical Abuse,0,0,0,0,Franklin
+CW-0044,White,0,Sexual Abuse,0,0,0,0,Franklin
+CW-0456,Hispanic,3,Physical Abuse,0,0,0,0,Franklin
+CW-0387,Hispanic,6,Physical Abuse,1,1,0,0,Franklin
+CW-0254,Black,3,Emotional Abuse,1,1,0,0,Franklin
+CW-0248,Black,6,Physical Abuse,0,0,0,0,Franklin
+CW-0409,Hispanic,12,Neglect,1,1,1,0,Franklin
+CW-0066,White,2,Neglect,0,0,0,0,Franklin
+CW-0447,Hispanic,10,Neglect,1,1,1,0,Franklin
+CW-0369,Black,1,Physical Abuse,1,1,0,0,Franklin
+CW-0026,White,6,Neglect,1,1,1,0,Franklin
+CW-0284,Black,9,Physical Abuse,1,1,1,0,Franklin
+CW-0058,White,14,Neglect,1,1,0,0,Franklin
+CW-0168,White,4,Physical Abuse,1,1,0,0,Franklin
+CW-0381,Hispanic,6,Neglect,1,1,0,0,Franklin
+CW-0411,Hispanic,17,Neglect,0,0,0,0,Franklin
+CW-0270,Black,2,Emotional Abuse,1,1,0,0,Franklin
+CW-0092,White,1,Neglect,1,1,0,0,Franklin
+CW-0116,White,11,Substance Exposure,1,1,1,0,Franklin
+CW-0498,Other,6,Neglect,1,1,0,0,Franklin
+CW-0079,White,4,Neglect,1,1,0,0,Franklin
+CW-0213,Black,1,Neglect,1,1,0,0,Franklin
+CW-0232,Black,5,Sexual Abuse,1,1,0,0,Franklin
+CW-0376,Black,9,Substance Exposure,1,1,0,0,Franklin
+CW-0143,White,16,Neglect,1,0,0,0,Franklin
+CW-0214,Black,7,Physical Abuse,1,1,0,0,Franklin
+CW-0372,Black,9,Emotional Abuse,1,1,0,0,Franklin
+CW-0366,Black,17,Sexual Abuse,1,1,0,0,Franklin

@@ -1,0 +1,65 @@
+{
+  "test_id": "task-2-04",
+  "task_name": "Multi File Merge",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 80,
+      "pattern": "Demographics records: (\\d+)",
+      "label": "check_1"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 131,
+      "pattern": "Service records: (\\d+)",
+      "label": "check_2"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 65,
+      "pattern": "Outcome records: (\\d+)",
+      "label": "check_3"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 65,
+      "pattern": "Clients in all three files: (\\d+)",
+      "label": "check_4"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 10,
+      "pattern": "Clients in demographics only: (\\d+)",
+      "label": "check_5"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 5,
+      "pattern": "Orphan service records \\(no demographics match\\): (\\d+)",
+      "label": "check_6"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 126,
+      "pattern": "Merged dataset rows: (\\d+)",
+      "label": "check_7"
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

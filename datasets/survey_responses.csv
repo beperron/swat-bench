@@ -1,0 +1,81 @@
+respondent_id,q1_has_children,q2_num_children,q3_child_ages,q4_employed,q5_employer,q6_work_hours,q7_mental_health_dx,q8_dx_type,q9_in_treatment,q10_satisfaction
+R3000,Yes,3,"8,11,2",Yes,City Hospital,36,No,,,4
+R3001,Yes,2,"11,7",Yes,,,No,,,3
+R3002,No,,,No,,,Yes,Anxiety,Yes,3
+R3003,No,,,No,,,No,,,3
+R3004,Yes,1,4,Yes,Amazon,30,No,,,1
+R3005,Yes,4,"15,17,9,1",No,,,Yes,ADHD,Yes,4
+R3006,No,,,No,,,Yes,Bipolar,Yes,3
+R3007,No,,,Yes,Amazon,26,No,,,5
+R3008,No,3,"6,17,1",No,,,No,,,2
+R3009,Yes,2,"2,8",Yes,Grocery Mart,40,No,,,3
+R3010,Yes,2,"5,16",Yes,Tech Solutions,15,No,,,1
+R3011,No,,,No,,,Yes,ADHD,Yes,5
+R3012,No,,,No,,,No,,,4
+R3013,No,,,Yes,Target,20,Yes,Depression,Yes,2
+R3014,Yes,2,"3,2",Yes,Local Restaurant,12,Yes,OCD,Yes,1
+R3015,No,2,"16,8",No,,,No,,,5
+R3016,Yes,3,"14,14,15",Yes,Walmart,31,Yes,ADHD,Yes,4
+R3017,Yes,2,"7,7",No,,,No,,,1
+R3018,Yes,1,15,Yes,Walmart,30,No,PTSD,No,2
+R3019,No,,,Yes,Construction Co,38,No,Bipolar,No,2
+R3020,No,,,No,,,No,Bipolar,No,1
+R3021,No,,,No,,,Yes,PTSD,Yes,2
+R3022,Yes,1,16,Yes,Tech Solutions,39,No,,,1
+R3023,No,1,3,Yes,Construction Co,13,Yes,OCD,Yes,2
+R3024,Yes,2,"11,8",No,,,No,,,3
+R3025,No,,,Yes,,,No,,,3
+R3026,Yes,1,3,Yes,Tech Solutions,16,No,,,5
+R3027,No,,,Yes,City Hospital,21,No,,,1
+R3028,No,,,Yes,County Schools,29,No,,,5
+R3029,Yes,3,"4,4,5",No,,,Yes,PTSD,No,2
+R3030,No,4,"9,2,3,14",No,,,Yes,Depression,No,3
+R3031,Yes,4,"1,4,3,5",No,,,Yes,OCD,Yes,4
+R3032,No,,,Yes,County Schools,21,Yes,PTSD,Yes,2
+R3033,No,,,No,,,Yes,Anxiety,Yes,5
+R3034,Yes,3,"14,8,9",No,,,Yes,Anxiety,Yes,2
+R3035,No,,,Yes,City Hospital,36,No,,,2
+R3036,No,,,No,,,No,,,2
+R3037,Yes,3,"9,3,9",Yes,Local Restaurant,30,Yes,OCD,No,4
+R3038,Yes,3,"2,4,14",Yes,,,No,,,3
+R3039,No,2,"9,2",No,,,Yes,OCD,Yes,4
+R3040,No,,,No,,,Yes,OCD,No,3
+R3041,Yes,3,"13,10,5",No,,,No,,,4
+R3042,No,,,Yes,,,No,,,2
+R3043,No,,,No,,,No,,,2
+R3044,No,,,No,,,No,,,2
+R3045,No,,,Yes,Tech Solutions,31,Yes,ADHD,No,3
+R3046,No,2,"5,1",Yes,City Hospital,25,Yes,Bipolar,No,2
+R3047,No,,,Yes,Amazon,30,Yes,Depression,No,4
+R3048,Yes,2,"4,15",Yes,Amazon,35,No,,,1
+R3049,No,4,"15,6,16,15",No,,,Yes,ADHD,No,5
+R3050,No,1,10,Yes,County Schools,20,No,,,4
+R3051,Yes,4,"5,7,3,14",Yes,Construction Co,20,Yes,OCD,No,2
+R3052,No,,,Yes,Construction Co,38,Yes,OCD,Yes,4
+R3053,No,,,Yes,Law Office,17,No,PTSD,No,3
+R3054,No,,,No,,,No,,,1
+R3055,No,4,"5,1,13,1",Yes,Construction Co,14,No,,,2
+R3056,No,,,Yes,,,Yes,Bipolar,No,4
+R3057,No,3,"3,16,1",Yes,Local Restaurant,17,Yes,ADHD,Yes,4
+R3058,Yes,2,"8,5",Yes,Law Office,31,Yes,Depression,Yes,1
+R3059,Yes,2,"10,4",Yes,,,Yes,PTSD,No,2
+R3060,No,,,Yes,City Hospital,13,Yes,ADHD,No,5
+R3061,No,,,No,,,No,,,5
+R3062,No,,,Yes,,,Yes,Bipolar,No,4
+R3063,No,3,"16,15,14",No,,,No,,,2
+R3064,Yes,2,"15,13",Yes,Local Restaurant,10,No,,,4
+R3065,No,,,No,,,Yes,Anxiety,No,4
+R3066,No,,,No,,,No,,,5
+R3067,No,,,Yes,Law Office,30,No,Anxiety,No,1
+R3068,No,,,No,,,Yes,PTSD,Yes,1
+R3069,No,,,Yes,Local Restaurant,25,No,,,5
+R3070,No,,,No,,,No,ADHD,No,3
+R3071,No,,,Yes,Local Restaurant,13,Yes,ADHD,Yes,2
+R3072,No,3,"4,7,10",Yes,Local Restaurant,15,No,,,3
+R3073,Yes,1,10,Yes,Amazon,30,No,,,1
+R3074,No,,,Yes,County Schools,25,Yes,Bipolar,No,5
+R3075,No,,,Yes,Law Office,13,Yes,Depression,No,3
+R3076,Yes,3,"3,8,4",Yes,,,No,,,2
+R3077,Yes,3,"14,10,2",No,,,No,,,4
+R3078,Yes,1,6,Yes,City Hospital,15,Yes,OCD,Yes,3
+R3079,Yes,4,"10,2,8,10",Yes,County Schools,32,No,,,4

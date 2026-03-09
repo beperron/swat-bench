@@ -1,0 +1,87 @@
+{
+  "test_id": "task-4-14",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_clients",
+      "type": "exact",
+      "pattern": "Total clients: (\\d+)",
+      "expected": 100,
+      "points": 1
+    },
+    {
+      "label": "pre_mean",
+      "type": "numeric",
+      "pattern": "Pre mean: ([\\d.]+)",
+      "expected": 14.11,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "post_mean",
+      "type": "numeric",
+      "pattern": "Post mean: ([\\d.]+)",
+      "expected": 8.95,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "sem",
+      "type": "numeric",
+      "pattern": "SEM: ([\\d.]+)",
+      "expected": 1.82,
+      "tolerance": 0.2,
+      "points": 1
+    },
+    {
+      "label": "clinical_threshold",
+      "type": "numeric",
+      "pattern": "Clinical threshold: ([\\d.]+)",
+      "expected": 7.72,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "recovered_count",
+      "type": "exact",
+      "pattern": "Recovered: (\\d+)",
+      "expected": 31,
+      "points": 1
+    },
+    {
+      "label": "deteriorated_count",
+      "type": "exact",
+      "pattern": "Deteriorated: (\\d+)",
+      "expected": 1,
+      "points": 1
+    },
+    {
+      "label": "classification_csv",
+      "type": "file_exists",
+      "filename": "classification_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "classification_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Reliable Change Index",
+  "domain": "Inferential Statistics",
+  "difficulty": "Advanced"
+}

@@ -1,0 +1,66 @@
+{
+  "test_id": "task-3-06",
+  "task_name": "Confidence Intervals",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 400,
+      "label": "check_1",
+      "pattern": "Total records:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 356,
+      "label": "check_2",
+      "pattern": "Analyzed records:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 1.0,
+      "expected": 64.0,
+      "tolerance": 0.5,
+      "label": "check_3",
+      "pattern": "Overall success rate:\\s*([\\d.]+)%"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_4",
+      "pattern": "Highest success office:\\s*(.+)",
+      "expected_pattern": "(?i)Office_H"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_5",
+      "pattern": "Lowest success office:\\s*(.+)",
+      "expected_pattern": "(?i)Office_D"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_6",
+      "pattern": "Widest CI office:\\s*(.+)",
+      "expected_pattern": "(?i)Office_E"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 44,
+      "label": "check_7",
+      "pattern": "In Progress \\(excluded\\):\\s*(\\d+)"
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

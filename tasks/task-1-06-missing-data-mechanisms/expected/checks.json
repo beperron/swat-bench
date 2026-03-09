@@ -1,0 +1,86 @@
+{
+  "test_id": "task-1-06",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_rows",
+      "type": "exact",
+      "pattern": "Total rows: (\\d+)",
+      "expected": 800,
+      "points": 1
+    },
+    {
+      "label": "total_columns",
+      "type": "exact",
+      "pattern": "Total columns: (\\d+)",
+      "expected": 13,
+      "points": 1
+    },
+    {
+      "label": "num_cols_above_10",
+      "type": "exact",
+      "pattern": "Columns above 10% missing: (\\d+)",
+      "expected": 3,
+      "points": 1
+    },
+    {
+      "label": "highest_missing_col",
+      "type": "regex",
+      "pattern": "Highest missing column: (\\w+)",
+      "expected_pattern": "(?i)bdi_score",
+      "points": 1
+    },
+    {
+      "label": "highest_missing_pct",
+      "type": "numeric",
+      "pattern": "Highest missing column: \\w+ \\(([\\d.]+)%\\)",
+      "expected": 19.4,
+      "tolerance": 1.0,
+      "points": 1
+    },
+    {
+      "label": "income_missing_pct",
+      "type": "numeric",
+      "pattern": "income missing: ([\\d.]+)%",
+      "expected": 15.9,
+      "tolerance": 1.0,
+      "points": 1
+    },
+    {
+      "label": "overall_missing_pct",
+      "type": "numeric",
+      "pattern": "Overall missing: ([\\d.]+)%",
+      "expected": 3.9,
+      "tolerance": 1.0,
+      "points": 1
+    },
+    {
+      "label": "mcar_identified",
+      "type": "regex",
+      "pattern": "MCAR columns: (.+)",
+      "expected_pattern": "(?i)(?=.*income)(?=.*education)",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Missing Data Mechanisms",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Intermediate"
+}

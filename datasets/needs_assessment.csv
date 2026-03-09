@@ -1,0 +1,201 @@
+respondent_id,age,gender,zip_code,primary_concern,barrier_type,preferred_method,num_dependents,income_bracket
+R0001,58,Male,60603,Mental Health,Transportation,In-Person,5,$50K-$75K
+R0002,23,Female,60601,Mental Health,Transportation,Telehealth,0,$30K-$50K
+R0003,63,Female,60605,Substance Abuse,Cost,In-Person,0,$30K-$50K
+R0004,28,Female,60603,Substance Abuse,Transportation,Home Visit,0,Under $15K
+R0005,24,Male,60603,Housing,Language,Home Visit,3,Under $15K
+R0006,42,Male,60603,Childcare,Awareness,Group Setting,3,Under $15K
+R0007,22,Male,60602,Employment,Stigma,Group Setting,0,$15K-$30K
+R0008,47,Female,60603,Mental Health,Cost,Home Visit,5,Over $75K
+R0009,59,Male,60602,Housing,Transportation,Telehealth,1,Over $75K
+R0010,58,Female,60602,Employment,Language,Home Visit,1,$50K-$75K
+R0011,69,Male,60603,Mental Health,Stigma,Telehealth,5,$15K-$30K
+R0012,59,Female,60604,Mental Health,Transportation,Home Visit,3,$15K-$30K
+R0013,55,Female,60605,Substance Abuse,Transportation,Group Setting,3,$15K-$30K
+R0014,66,Male,60601,Mental Health,Transportation,Home Visit,3,Under $15K
+R0015,42,Female,60604,Housing,Stigma,Group Setting,0,$30K-$50K
+R0016,25,Female,60605,Employment,Language,In-Person,1,$15K-$30K
+R0017,47,Male,60603,Healthcare Access,Language,Telehealth,0,$50K-$75K
+R0018,37,Female,60605,Housing,Transportation,Home Visit,3,Over $75K
+R0019,51,Female,60605,Substance Abuse,Transportation,Group Setting,1,Under $15K
+R0020,33,Female,60601,Mental Health,Cost,In-Person,3,$30K-$50K
+R0021,26,Female,60605,Mental Health,Cost,Telehealth,1,Over $75K
+R0022,66,Female,60602,Employment,Cost,Home Visit,1,$15K-$30K
+R0023,51,Female,60602,Mental Health,Cost,Telehealth,1,$30K-$50K
+R0024,18,Male,60601,Mental Health,Stigma,Group Setting,0,$15K-$30K
+R0025,35,Female,60602,Housing,Language,Group Setting,3,$15K-$30K
+R0026,68,Female,60604,Mental Health,Transportation,Telehealth,2,$15K-$30K
+R0027,73,Female,60601,Mental Health,Language,Home Visit,0,Under $15K
+R0028,30,Female,60602,Substance Abuse,Transportation,In-Person,0,$15K-$30K
+R0029,73,Female,60601,Mental Health,Stigma,Home Visit,0,Over $75K
+R0030,72,Male,60604,Housing,Transportation,Telehealth,0,Under $15K
+R0031,18,Non-binary,60603,Healthcare Access,Language,In-Person,5,Over $75K
+R0032,68,Female,60604,Mental Health,Cost,Group Setting,3,$30K-$50K
+R0033,21,Female,60601,Mental Health,Cost,Group Setting,3,Under $15K
+R0034,50,Male,60602,Mental Health,Transportation,Group Setting,2,Under $15K
+R0035,74,Female,60605,Housing,Awareness,Telehealth,3,$30K-$50K
+R0036,38,Female,60602,Employment,Cost,In-Person,0,$30K-$50K
+R0037,37,Female,60601,Mental Health,Awareness,Telehealth,0,Under $15K
+R0038,31,Female,60602,Healthcare Access,Stigma,Group Setting,1,$15K-$30K
+R0039,46,Female,60603,Housing,Stigma,Home Visit,0,$30K-$50K
+R0040,53,Male,60601,Healthcare Access,Transportation,In-Person,0,$30K-$50K
+R0041,27,Male,60605,Mental Health,Cost,Home Visit,1,$15K-$30K
+R0042,34,Female,60601,Mental Health,Cost,In-Person,0,$15K-$30K
+R0043,26,Female,60603,Mental Health,Cost,Home Visit,3,Under $15K
+R0044,22,Non-binary,60602,Housing,Language,Telehealth,0,$15K-$30K
+R0045,20,Male,60601,Healthcare Access,Transportation,In-Person,0,$15K-$30K
+R0046,53,Female,60604,Healthcare Access,Language,Group Setting,1,$50K-$75K
+R0047,69,Female,60604,Mental Health,Language,In-Person,2,$50K-$75K
+R0048,73,Female,60602,Substance Abuse,Language,In-Person,0,$50K-$75K
+R0049,32,Male,60604,Substance Abuse,Language,Group Setting,1,Under $15K
+R0050,30,Male,60603,Childcare,Stigma,In-Person,4,$15K-$30K
+R0051,61,Non-binary,60605,Substance Abuse,Transportation,Group Setting,1,Under $15K
+R0052,34,Male,60605,Housing,Language,In-Person,3,Over $75K
+R0053,25,Male,60605,Mental Health,Transportation,Telehealth,3,Over $75K
+R0054,52,Female,60602,Substance Abuse,Transportation,Home Visit,1,$30K-$50K
+R0055,60,Female,60603,Housing,Awareness,In-Person,5,$15K-$30K
+R0056,26,Male,60604,Employment,Stigma,Telehealth,1,$15K-$30K
+R0057,71,Male,60603,Mental Health,Language,Telehealth,1,$15K-$30K
+R0058,46,Female,60605,Housing,Stigma,Home Visit,0,$30K-$50K
+R0059,36,Female,60605,Substance Abuse,Language,Home Visit,4,$15K-$30K
+R0060,69,Male,60601,Mental Health,Stigma,Telehealth,0,$15K-$30K
+R0061,74,Female,60602,Employment,Cost,Telehealth,0,$30K-$50K
+R0062,18,Female,60601,Employment,Transportation,Home Visit,5,$15K-$30K
+R0063,21,Female,60601,Housing,Language,Home Visit,3,$30K-$50K
+R0064,66,Female,60605,Childcare,Stigma,Telehealth,3,$15K-$30K
+R0065,28,Female,60604,Housing,Language,Home Visit,1,$30K-$50K
+R0066,51,Female,60602,Substance Abuse,Transportation,In-Person,1,$15K-$30K
+R0067,75,Female,60602,Mental Health,Cost,In-Person,1,Under $15K
+R0068,44,Male,60604,Substance Abuse,Transportation,Telehealth,3,Over $75K
+R0069,19,Female,60605,Substance Abuse,Transportation,Telehealth,2,$50K-$75K
+R0070,71,Male,60605,Childcare,Stigma,Telehealth,1,$15K-$30K
+R0071,19,Male,60604,Employment,Language,Group Setting,3,$15K-$30K
+R0072,43,Female,60601,Mental Health,Cost,Group Setting,0,Under $15K
+R0073,42,Male,60604,Substance Abuse,Language,Telehealth,2,$15K-$30K
+R0074,23,Female,60605,Mental Health,Stigma,In-Person,0,$50K-$75K
+R0075,59,Male,60601,Healthcare Access,Transportation,In-Person,0,Under $15K
+R0076,48,Female,60605,Healthcare Access,Cost,In-Person,1,Under $15K
+R0077,56,Non-binary,60601,Employment,Transportation,In-Person,3,Under $15K
+R0078,37,Female,60604,Substance Abuse,Language,In-Person,5,$50K-$75K
+R0079,33,Male,60603,Childcare,Awareness,In-Person,3,$50K-$75K
+R0080,40,Female,60603,Mental Health,Awareness,In-Person,2,$50K-$75K
+R0081,24,Female,60603,Employment,Language,Home Visit,2,Under $15K
+R0082,51,Non-binary,60603,Housing,Stigma,Home Visit,2,$15K-$30K
+R0083,64,Female,60603,Childcare,Language,In-Person,2,Under $15K
+R0084,47,Female,60604,Substance Abuse,Cost,In-Person,2,Under $15K
+R0085,69,Male,60603,Healthcare Access,Awareness,In-Person,0,$15K-$30K
+R0086,30,Male,60604,Housing,Language,Home Visit,4,$30K-$50K
+R0087,46,Female,60601,Substance Abuse,Cost,In-Person,4,$30K-$50K
+R0088,48,Female,60603,Substance Abuse,Language,In-Person,5,$15K-$30K
+R0089,37,Male,60601,Employment,Cost,Home Visit,5,Under $15K
+R0090,31,Female,60603,Employment,Stigma,Telehealth,1,Over $75K
+R0091,71,Male,60602,Substance Abuse,Cost,Home Visit,0,$15K-$30K
+R0092,21,Female,60602,Employment,Language,In-Person,0,$30K-$50K
+R0093,48,Female,60603,Mental Health,Transportation,Group Setting,2,Under $15K
+R0094,22,Male,60601,Housing,Awareness,In-Person,3,Over $75K
+R0095,23,Non-binary,60601,Housing,Cost,Telehealth,3,Under $15K
+R0096,51,Male,60604,Substance Abuse,Awareness,Telehealth,3,$30K-$50K
+R0097,57,Non-binary,60601,Healthcare Access,Transportation,In-Person,4,Under $15K
+R0098,33,Male,60601,Mental Health,Cost,Home Visit,2,$15K-$30K
+R0099,32,Male,60603,Employment,Cost,Home Visit,1,$50K-$75K
+R0100,58,Female,60602,Substance Abuse,Awareness,Telehealth,1,$50K-$75K
+R0101,22,Male,60603,Housing,Language,Group Setting,2,Under $15K
+R0102,62,Male,60604,Healthcare Access,Cost,Telehealth,0,$30K-$50K
+R0103,74,Female,60603,Housing,Transportation,In-Person,4,$50K-$75K
+R0104,54,Female,60601,Healthcare Access,Awareness,In-Person,0,$30K-$50K
+R0105,29,Female,60604,Healthcare Access,Transportation,Telehealth,4,$50K-$75K
+R0106,23,Female,60604,Substance Abuse,Awareness,Group Setting,1,$15K-$30K
+R0107,49,Male,60604,Childcare,Awareness,Telehealth,1,$15K-$30K
+R0108,25,Non-binary,60604,Childcare,Language,In-Person,3,$15K-$30K
+R0109,21,Male,60603,Housing,Cost,Telehealth,0,Under $15K
+R0110,53,Male,60603,Housing,Awareness,In-Person,4,$30K-$50K
+R0111,33,Female,60603,Housing,Awareness,In-Person,0,$15K-$30K
+R0112,25,Female,60602,Housing,Language,Telehealth,1,$15K-$30K
+R0113,48,Non-binary,60602,Housing,Transportation,In-Person,3,$15K-$30K
+R0114,74,Male,60601,Substance Abuse,Language,Telehealth,3,$15K-$30K
+R0115,18,Male,60603,Childcare,Awareness,Home Visit,0,$15K-$30K
+R0116,48,Male,60605,Employment,Cost,Group Setting,1,Over $75K
+R0117,33,Female,60602,Childcare,Cost,In-Person,2,$30K-$50K
+R0118,69,Male,60602,Housing,Transportation,Telehealth,3,$15K-$30K
+R0119,24,Female,60604,Mental Health,Stigma,In-Person,0,$15K-$30K
+R0120,59,Non-binary,60601,Housing,Stigma,In-Person,5,$15K-$30K
+R0121,23,Female,60605,Substance Abuse,Cost,Home Visit,2,$50K-$75K
+R0122,20,Female,60602,Employment,Stigma,Group Setting,5,Under $15K
+R0123,24,Female,60601,Housing,Awareness,Group Setting,0,$15K-$30K
+R0124,21,Male,60603,Housing,Transportation,Telehealth,4,$50K-$75K
+R0125,28,Male,60605,Childcare,Awareness,In-Person,3,Under $15K
+R0126,47,Female,60604,Substance Abuse,Transportation,Home Visit,1,$30K-$50K
+R0127,28,Male,60603,Healthcare Access,Cost,Group Setting,5,$15K-$30K
+R0128,72,Male,60604,Childcare,Transportation,Telehealth,1,$30K-$50K
+R0129,62,Male,60604,Substance Abuse,Awareness,Home Visit,5,Over $75K
+R0130,56,Female,60603,Employment,Transportation,Home Visit,1,$30K-$50K
+R0131,57,Male,60602,Housing,Stigma,Telehealth,1,$50K-$75K
+R0132,20,Female,60602,Mental Health,Cost,Home Visit,0,Under $15K
+R0133,68,Female,60603,Housing,Stigma,Home Visit,1,$50K-$75K
+R0134,48,Non-binary,60603,Employment,Cost,In-Person,0,Under $15K
+R0135,32,Female,60604,Healthcare Access,Language,Telehealth,2,Under $15K
+R0136,52,Male,60603,Employment,Awareness,Telehealth,4,Over $75K
+R0137,24,Female,60604,Mental Health,Stigma,Telehealth,3,Under $15K
+R0138,22,Female,60604,Healthcare Access,Cost,Telehealth,0,Under $15K
+R0139,20,Male,60604,Mental Health,Transportation,Telehealth,2,$15K-$30K
+R0140,60,Non-binary,60605,Substance Abuse,Language,In-Person,2,$30K-$50K
+R0141,71,Female,60604,Healthcare Access,Transportation,Home Visit,1,$15K-$30K
+R0142,33,Female,60601,Healthcare Access,Cost,Group Setting,4,$15K-$30K
+R0143,43,Male,60601,Healthcare Access,Language,In-Person,1,$30K-$50K
+R0144,56,Non-binary,60601,Childcare,Transportation,In-Person,3,Under $15K
+R0145,71,Female,60602,Housing,Language,In-Person,0,$50K-$75K
+R0146,56,Male,60602,Healthcare Access,Awareness,Home Visit,0,$30K-$50K
+R0147,19,Male,60603,Childcare,Transportation,In-Person,0,$15K-$30K
+R0148,26,Female,60605,Mental Health,Transportation,Telehealth,1,$15K-$30K
+R0149,24,Female,60602,Healthcare Access,Transportation,Home Visit,4,$15K-$30K
+R0150,47,Female,60601,Mental Health,Cost,Telehealth,4,Under $15K
+R0151,63,Female,60601,Healthcare Access,Cost,In-Person,0,$15K-$30K
+R0152,58,Female,60603,Substance Abuse,Awareness,In-Person,3,$30K-$50K
+R0153,24,Female,60601,Childcare,Awareness,Home Visit,5,$50K-$75K
+R0154,45,Female,60602,Substance Abuse,Language,Telehealth,5,Under $15K
+R0155,45,Male,60603,Substance Abuse,Transportation,Group Setting,0,Under $15K
+R0156,23,Male,60601,Employment,Cost,In-Person,0,$30K-$50K
+R0157,53,Female,60601,Substance Abuse,Stigma,Group Setting,2,$50K-$75K
+R0158,64,Male,60603,Housing,Cost,Telehealth,1,Under $15K
+R0159,48,Male,60601,Substance Abuse,Awareness,In-Person,1,$30K-$50K
+R0160,69,Female,60605,Healthcare Access,Language,Telehealth,4,$30K-$50K
+R0161,56,Female,60603,Mental Health,Transportation,Home Visit,1,$15K-$30K
+R0162,29,Female,60605,Employment,Transportation,Home Visit,0,Under $15K
+R0163,51,Male,60604,Housing,Transportation,In-Person,1,$50K-$75K
+R0164,54,Female,60601,Mental Health,Language,In-Person,0,$15K-$30K
+R0165,60,Female,60605,Housing,Transportation,Home Visit,0,$15K-$30K
+R0166,25,Male,60605,Housing,Awareness,In-Person,2,Over $75K
+R0167,21,Male,60603,Healthcare Access,Language,Home Visit,1,$15K-$30K
+R0168,18,Female,60604,Mental Health,Cost,Home Visit,3,$30K-$50K
+R0169,60,Female,60601,Substance Abuse,Language,Telehealth,2,Over $75K
+R0170,73,Male,60604,Housing,Awareness,Telehealth,0,$15K-$30K
+R0171,38,Male,60605,Housing,Awareness,Telehealth,2,$50K-$75K
+R0172,33,Female,60604,Housing,Cost,In-Person,1,Under $15K
+R0173,67,Male,60605,Employment,Awareness,In-Person,1,$15K-$30K
+R0174,70,Female,60602,Mental Health,Transportation,In-Person,3,Under $15K
+R0175,66,Female,60602,Healthcare Access,Awareness,Telehealth,3,$30K-$50K
+R0176,46,Female,60605,Employment,Stigma,In-Person,4,$15K-$30K
+R0177,46,Male,60604,Employment,Language,Telehealth,1,$15K-$30K
+R0178,37,Female,60601,Mental Health,Language,In-Person,0,$30K-$50K
+R0179,50,Male,60605,Housing,Language,Group Setting,2,$50K-$75K
+R0180,54,Female,60603,Housing,Cost,Group Setting,2,Under $15K
+R0181,75,Female,60601,Housing,Transportation,In-Person,2,Over $75K
+R0182,51,Female,60602,Substance Abuse,Stigma,Telehealth,1,$30K-$50K
+R0183,21,Female,60603,Mental Health,Transportation,Home Visit,1,$15K-$30K
+R0184,72,Female,60605,Childcare,Cost,Telehealth,0,$50K-$75K
+R0185,37,Non-binary,60604,Mental Health,Awareness,In-Person,3,$15K-$30K
+R0186,68,Male,60602,Employment,Language,Home Visit,4,$50K-$75K
+R0187,23,Female,60604,Housing,Transportation,In-Person,1,$15K-$30K
+R0188,67,Female,60602,Healthcare Access,Transportation,In-Person,0,$15K-$30K
+R0189,52,Female,60605,Mental Health,Cost,Home Visit,0,$30K-$50K
+R0190,27,Male,60605,Childcare,Transportation,Telehealth,2,$15K-$30K
+R0191,64,Male,60604,Housing,Language,Home Visit,1,$15K-$30K
+R0192,37,Non-binary,60604,Healthcare Access,Transportation,Home Visit,3,Over $75K
+R0193,47,Female,60604,Housing,Cost,In-Person,1,$50K-$75K
+R0194,26,Female,60601,Employment,Stigma,Telehealth,0,$30K-$50K
+R0195,51,Female,60603,Mental Health,Transportation,Telehealth,3,Under $15K
+R0196,45,Male,60602,Childcare,Stigma,Group Setting,2,Under $15K
+R0197,50,Male,60604,Healthcare Access,Cost,In-Person,0,$50K-$75K
+R0198,59,Male,60602,Mental Health,Cost,Home Visit,5,$50K-$75K
+R0199,66,Female,60604,Housing,Stigma,In-Person,1,$50K-$75K
+R0200,53,Non-binary,60605,Housing,Transportation,In-Person,1,Under $15K

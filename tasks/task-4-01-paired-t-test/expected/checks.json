@@ -1,0 +1,78 @@
+{
+  "test_id": "task-4-01",
+  "task_name": "Paired T Test",
+  "domain": "Inferential Statistics",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "participants",
+      "type": "exact",
+      "pattern": "Participants: (\\d+)",
+      "expected": 45,
+      "points": 1.0
+    },
+    {
+      "label": "pre_mean",
+      "type": "numeric",
+      "pattern": "Pre-treatment mean: ([\\d.]+)",
+      "expected": 14.36,
+      "tolerance": 0.1,
+      "points": 1.0
+    },
+    {
+      "label": "post_mean",
+      "type": "numeric",
+      "pattern": "Post-treatment mean: ([\\d.]+)",
+      "expected": 10.58,
+      "tolerance": 0.1,
+      "points": 0.5
+    },
+    {
+      "label": "mean_difference",
+      "type": "numeric",
+      "pattern": "Mean difference \\(pre - post\\): ([\\d.]+)",
+      "expected": 3.78,
+      "tolerance": 0.2,
+      "points": 0.5
+    },
+    {
+      "label": "t_statistic",
+      "type": "numeric",
+      "pattern": "t-statistic: ([\\d.]+)",
+      "expected": 9.77,
+      "tolerance": 0.3,
+      "points": 0.5
+    },
+    {
+      "label": "p_value",
+      "type": "numeric",
+      "pattern": "p-value: ([\\d.]+)",
+      "expected": 0.0,
+      "tolerance": 0.005,
+      "points": 0.5
+    },
+    {
+      "label": "significant",
+      "type": "regex",
+      "pattern": "Significant \\(p < 0\\.05\\): (.+)",
+      "expected_pattern": "(?i)yes",
+      "points": 0.5
+    },
+    {
+      "label": "cohens_d",
+      "type": "numeric",
+      "pattern": "Cohen's d: ([\\d.]+)",
+      "expected": 1.46,
+      "tolerance": 0.1,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

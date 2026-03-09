@@ -1,0 +1,14 @@
+{
+  "temperature": 0.3,
+  "top_k": 0,
+  "top_p": 1.0,
+  "seeds": [42, 123, 456],
+  "replications": 3,
+  "repeat_penalty": 1.1,
+  "timeout_per_test_seconds": 900,
+  "solution_execution_timeout_seconds": 300,
+  "gpu_layers": 99,
+  "server_port": 8080,
+  "rationale": "temp=0.3 balances determinism with loop avoidance; top_k/top_p disabled to let temperature alone control sampling; repeat_penalty=1.1 for quantized model stability",
+  "rationale_seeds": "Different seeds per replication ensure independent sampling paths for statistical analysis. Seed 42 (rep1) matches original single-run results."
+}

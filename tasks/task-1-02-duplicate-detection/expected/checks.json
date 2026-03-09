@@ -1,0 +1,65 @@
+{
+  "test_id": "task-1-02",
+  "task_name": "Duplicate Detection",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 120,
+      "points": 1.0
+    },
+    {
+      "label": "unique_client_ids",
+      "type": "exact",
+      "pattern": "Unique client IDs: (\\d+)",
+      "expected": 110,
+      "points": 1.0
+    },
+    {
+      "label": "duplicate_client_ids",
+      "type": "exact",
+      "pattern": "Duplicate client IDs: (\\d+)",
+      "expected": 10,
+      "points": 1.0
+    },
+    {
+      "label": "exact_duplicate_rows",
+      "type": "exact",
+      "pattern": "Exact duplicate rows: (\\d+)",
+      "expected": 6,
+      "points": 0.5
+    },
+    {
+      "label": "conflicting_records",
+      "type": "exact",
+      "pattern": "Conflicting records \\(same ID, different data\\): (\\d+)",
+      "expected": 8,
+      "points": 0.5
+    },
+    {
+      "label": "after_removing_exact",
+      "type": "exact",
+      "pattern": "Records after removing exact duplicates: (\\d+)",
+      "expected": 114,
+      "points": 0.5
+    },
+    {
+      "label": "after_keeping_first",
+      "type": "exact",
+      "pattern": "Records after keeping first per client ID: (\\d+)",
+      "expected": 110,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

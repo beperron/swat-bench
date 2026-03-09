@@ -1,0 +1,88 @@
+{
+  "test_id": "task-4-08",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_clients",
+      "type": "exact",
+      "pattern": "Total clients: (\\d+)",
+      "expected": 300,
+      "points": 1
+    },
+    {
+      "label": "cbt_mean",
+      "type": "numeric",
+      "pattern": "CBT mean: ([\\d.]+)",
+      "expected": 67.11,
+      "tolerance": 2.0,
+      "points": 1
+    },
+    {
+      "label": "tau_mean",
+      "type": "numeric",
+      "pattern": "TAU mean: ([\\d.]+)",
+      "expected": 50.22,
+      "tolerance": 2.0,
+      "points": 1
+    },
+    {
+      "label": "f_statistic",
+      "type": "numeric",
+      "pattern": "F statistic: ([\\d.]+)",
+      "expected": 26.33,
+      "tolerance": 2.0,
+      "points": 1
+    },
+    {
+      "label": "significant",
+      "type": "regex",
+      "pattern": "Significant \\(p<0\\.05\\): (\\w+)",
+      "expected_pattern": "(?i)yes",
+      "points": 1
+    },
+    {
+      "label": "eta_squared",
+      "type": "numeric",
+      "pattern": "Eta squared: ([\\d.]+)",
+      "expected": 0.2106,
+      "tolerance": 0.03,
+      "points": 1
+    },
+    {
+      "label": "significant_pairs",
+      "type": "range",
+      "pattern": "Significant pairs: (\\d+)",
+      "min": 3,
+      "max": 6,
+      "points": 1
+    },
+    {
+      "label": "posthoc_csv_exists",
+      "type": "file_exists",
+      "filename": "posthoc_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "posthoc_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "ANOVA with Post-Hoc Tests",
+  "domain": "Inferential Statistics",
+  "difficulty": "Intermediate"
+}

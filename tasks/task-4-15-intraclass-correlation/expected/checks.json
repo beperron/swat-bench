@@ -1,0 +1,88 @@
+{
+  "test_id": "task-4-15",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_vignettes",
+      "type": "exact",
+      "pattern": "Total vignettes: (\\d+)",
+      "expected": 50,
+      "points": 1
+    },
+    {
+      "label": "num_raters",
+      "type": "exact",
+      "pattern": "Number of raters: (\\d+)",
+      "expected": 4,
+      "points": 1
+    },
+    {
+      "label": "icc_value",
+      "type": "numeric",
+      "pattern": "ICC value: ([\\d.]+)",
+      "expected": 0.8087,
+      "tolerance": 0.05,
+      "points": 1
+    },
+    {
+      "label": "f_ratio",
+      "type": "numeric",
+      "pattern": "F ratio: ([\\d.]+)",
+      "expected": 19.01,
+      "tolerance": 2.0,
+      "points": 1
+    },
+    {
+      "label": "ci_lower",
+      "type": "numeric",
+      "pattern": "95% CI lower: ([\\d.-]+)",
+      "expected": 0.68,
+      "tolerance": 0.1,
+      "points": 1
+    },
+    {
+      "label": "ci_upper",
+      "type": "numeric",
+      "pattern": "95% CI upper: ([\\d.-]+)",
+      "expected": 0.89,
+      "tolerance": 0.1,
+      "points": 1
+    },
+    {
+      "label": "interpretation",
+      "type": "regex",
+      "pattern": "Interpretation: (\\w+)",
+      "expected_pattern": "(?i)(excellent|good)",
+      "points": 1
+    },
+    {
+      "label": "mean_score",
+      "type": "numeric",
+      "pattern": "Mean score across all: ([\\d.]+)",
+      "expected": 5.72,
+      "tolerance": 0.3,
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Intraclass Correlation",
+  "domain": "Inferential Statistics",
+  "difficulty": "Advanced"
+}

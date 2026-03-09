@@ -1,0 +1,82 @@
+{
+  "test_id": "task-3-07",
+  "task_name": "Inter Rater Reliability",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_rows",
+      "type": "exact",
+      "pattern": "Total rows: (\\d+)",
+      "expected": 100,
+      "points": 1.0
+    },
+    {
+      "label": "both_true",
+      "type": "exact",
+      "pattern": "Both True: (\\d+)",
+      "expected": 42,
+      "points": 1.0
+    },
+    {
+      "label": "both_false",
+      "type": "exact",
+      "pattern": "Both False: (\\d+)",
+      "expected": 41,
+      "points": 1.0
+    },
+    {
+      "label": "po",
+      "type": "numeric",
+      "pattern": "Po: ([\\d.]+)",
+      "expected": 0.83,
+      "tolerance": 0.01,
+      "points": 0.5
+    },
+    {
+      "label": "pe",
+      "type": "numeric",
+      "pattern": "Pe: ([\\d.]+)",
+      "expected": 0.5,
+      "tolerance": 0.02,
+      "points": 0.5
+    },
+    {
+      "label": "kappa",
+      "type": "numeric",
+      "pattern": "Kappa: ([\\d.]+)",
+      "expected": 0.66,
+      "tolerance": 0.02,
+      "points": 0.5
+    },
+    {
+      "label": "interpretation",
+      "type": "regex",
+      "pattern": "Interpretation: (.+)",
+      "expected_pattern": "(?i)(substantial|good|moderate)",
+      "points": 0.5
+    },
+    {
+      "label": "column_llm_relevant",
+      "type": "regex",
+      "pattern": "Rating columns: (.+)",
+      "expected_pattern": "(?i)llm_relevant",
+      "points": 0.5
+    },
+    {
+      "label": "column_human_decision",
+      "type": "regex",
+      "pattern": "Rating columns: (.+)",
+      "expected_pattern": "(?i)human_decision",
+      "points": 0.5
+    }
+  ],
+  "total_points": 7,
+  "auto_points": 7,
+  "human_points": 0
+}

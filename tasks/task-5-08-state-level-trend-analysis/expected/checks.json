@@ -1,0 +1,83 @@
+{
+  "test_id": "task-5-08",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 10430,
+      "points": 1
+    },
+    {
+      "label": "records_2020_2023",
+      "type": "exact",
+      "pattern": "Records 2020-2023: (\\d+)",
+      "expected": 4332,
+      "points": 1
+    },
+    {
+      "label": "year_2020_total",
+      "type": "exact",
+      "pattern": "Year: 2020[\\s\\S]*?Total shootings: (\\d+)",
+      "expected": 1021,
+      "points": 0.5
+    },
+    {
+      "label": "year_2021_total",
+      "type": "exact",
+      "pattern": "Year: 2021[\\s\\S]*?Total shootings: (\\d+)",
+      "expected": 1050,
+      "points": 0.5
+    },
+    {
+      "label": "year_2022_total",
+      "type": "exact",
+      "pattern": "Year: 2022[\\s\\S]*?Total shootings: (\\d+)",
+      "expected": 1097,
+      "points": 0.5
+    },
+    {
+      "label": "year_2023_total",
+      "type": "exact",
+      "pattern": "Year: 2023[\\s\\S]*?Total shootings: (\\d+)",
+      "expected": 1164,
+      "points": 0.5
+    },
+    {
+      "label": "top_state_ca",
+      "type": "regex",
+      "pattern": "Top state: (.+)",
+      "expected_pattern": "(?i)California|CA",
+      "points": 1
+    },
+    {
+      "label": "state_csv_exists",
+      "type": "file_exists",
+      "filename": "shootings_by_state.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "shootings_by_state.csv",
+    "summary.md"
+  ],
+  "total_points": 8,
+  "auto_points": 8,
+  "human_points": 0,
+  "task_name": "State-Level Trend Analysis",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Advanced"
+}

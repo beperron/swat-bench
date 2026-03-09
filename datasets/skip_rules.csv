@@ -1,0 +1,4 @@
+trigger_question,trigger_value,skip_questions
+q1_has_children,No,"q2_num_children,q3_child_ages"
+q4_employed,No,"q5_employer,q6_work_hours"
+q7_mental_health_dx,No,"q8_dx_type,q9_in_treatment"

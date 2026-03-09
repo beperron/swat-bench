@@ -1,0 +1,65 @@
+{
+  "test_id": "task-1-04",
+  "task_name": "Date Cleaning",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 100,
+      "points": 1.0
+    },
+    {
+      "label": "format_inconsistencies",
+      "type": "exact",
+      "pattern": "Format inconsistencies: (\\d+)",
+      "expected": 10,
+      "points": 1.0
+    },
+    {
+      "label": "impossible_dates",
+      "type": "exact",
+      "pattern": "Impossible dates: (\\d+)",
+      "expected": 3,
+      "points": 1.0
+    },
+    {
+      "label": "sequence_violations",
+      "type": "exact",
+      "pattern": "Sequence violations \\(exit before entry\\): (\\d+)",
+      "expected": 4,
+      "points": 0.5
+    },
+    {
+      "label": "age_mismatches",
+      "type": "exact",
+      "pattern": "Age-entry mismatches: (\\d+)",
+      "expected": 3,
+      "points": 0.5
+    },
+    {
+      "label": "total_date_issues",
+      "type": "exact",
+      "pattern": "Total date issues: (\\d+)",
+      "expected": 20,
+      "points": 0.5
+    },
+    {
+      "label": "records_no_issues",
+      "type": "exact",
+      "pattern": "Records with no date issues: (\\d+)",
+      "expected": 80,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

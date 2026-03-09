@@ -1,0 +1,77 @@
+{
+  "test_id": "task-3-02",
+  "task_name": "Percentiles Quartiles",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 100,
+      "label": "check_1",
+      "pattern": "Total students:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 55.36,
+      "tolerance": 0.2,
+      "label": "check_2",
+      "pattern": "Mean:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 46.75,
+      "tolerance": 0.5,
+      "label": "check_3",
+      "pattern": "Q1 \\(25th percentile\\):\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 54.0,
+      "tolerance": 0.5,
+      "label": "check_4",
+      "pattern": "Q2 \\(median\\):\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 64.5,
+      "tolerance": 0.5,
+      "label": "check_5",
+      "pattern": "Q3 \\(75th percentile\\):\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 17.75,
+      "tolerance": 0.5,
+      "label": "check_6",
+      "pattern": "IQR:\\s*([\\d.]+)"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 25,
+      "label": "check_7",
+      "pattern": "Students below Q1 \\(need support\\):\\s*(\\d+)"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_8",
+      "pattern": "Lowest subscale:\\s*(.+)",
+      "expected_pattern": "(?i)Social\\-Awareness"
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}

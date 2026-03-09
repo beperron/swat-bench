@@ -1,0 +1,301 @@
+client_id,gender,age,primary_diagnosis,referral_date,services_received,discharge_status,county,total_sessions,outcome_score
+CL-1000,Female,17,PTSD,2023-04-05,Peer Support,Completed,Hamilton,38,48.0
+CL-1001,Male,29,Major Depression,2022-09-07,Peer Support,Dropped Out,Stark,15,50.4
+CL-1002,Male,71,Substance Abuse,2023-12-14,Case Management,Completed,Summit,49,40.3
+CL-1003,Male,22,Major Depression,2024-10-09,Individual Therapy,Transferred,Hamilton,25,17.1
+CL-1004,Male,56,PTSD,2024-10-07,Peer Support,Completed,Summit,50,36.0
+CL-1005,Male,30,Schizophrenia,2025-05-15,Peer Support,Still Active,Cuyahoga,24,42.0
+CL-1006,Female,60,Adjustment Disorder,2022-10-21,Group Therapy,Dropped Out,Summit,11,51.6
+CL-1007,Male,75,PTSD,2023-11-11,Individual Therapy,Completed,Franklin,52,38.4
+CL-1008,Male,29,Adjustment Disorder,2024-04-21,Psychiatric Services,Completed,Butler,10,33.8
+CL-1009,Male,51,Anxiety Disorder,2025-10-13,Case Management,Completed,Cuyahoga,33,54.4
+CL-1010,Female,71,Substance Abuse,2023-11-14,Crisis Intervention,Completed,Stark,39,99.7
+CL-1011,Female,78,Anxiety Disorder,2022-11-24,Individual Therapy,Transferred,Montgomery,50,67.7
+CL-1012,Male,43,Substance Abuse,2022-12-29,Peer Support,Completed,Cuyahoga,33,92.1
+CL-1013,Female,35,Bipolar Disorder,2023-03-12,Group Therapy,Dropped Out,Franklin,39,39.2
+CL-1014,Male,75,Major Depression,2024-04-02,Group Therapy,Still Active,Hamilton,6,75.9
+CL-1015,Female,78,Bipolar Disorder,2023-03-22,Psychiatric Services,Administrative,Cuyahoga,17,57.5
+CL-1016,Female,77,Substance Abuse,2023-12-10,Psychiatric Services,Administrative,Lucas,29,91.0
+CL-1017,Female,31,Major Depression,2024-01-19,Crisis Intervention,Completed,Summit,1,16.4
+CL-1018,Female,30,Substance Abuse,2022-06-03,Crisis Intervention,Completed,Butler,14,58.5
+CL-1019,Female,72,Anxiety Disorder,2025-04-26,Psychiatric Services,Still Active,Summit,7,18.7
+CL-1020,Male,43,Major Depression,2022-11-21,Peer Support,Completed,Stark,47,40.5
+CL-1021,Female,31,Substance Abuse,2025-03-14,Group Therapy,Completed,Summit,5,49.9
+CL-1022,Female,51,Substance Abuse,2022-02-25,Group Therapy,Completed,Butler,31,29.2
+CL-1023,Male,19,Substance Abuse,2022-07-09,Psychiatric Services,Completed,Butler,10,27.1
+CL-1024,Male,19,Anxiety Disorder,2022-12-11,Individual Therapy,Completed,Butler,33,92.7
+CL-1025,Female,19,Adjustment Disorder,2022-03-03,Crisis Intervention,Completed,Summit,26,20.8
+CL-1026,Female,31,Anxiety Disorder,2022-10-03,Psychiatric Services,Transferred,Lucas,17,28.4
+CL-1027,Female,31,Major Depression,2023-11-21,Case Management,Dropped Out,Hamilton,1,51.2
+CL-1028,Non-binary,22,Substance Abuse,2023-09-09,Group Therapy,Administrative,Hamilton,16,43.3
+CL-1029,Male,69,Anxiety Disorder,2024-10-26,Peer Support,Dropped Out,Montgomery,43,19.3
+CL-1030,Female,32,Substance Abuse,2022-12-18,Group Therapy,Completed,Summit,46,40.9
+CL-1031,Female,70,Major Depression,2025-05-29,Individual Therapy,Completed,Stark,18,14.0
+CL-1032,Male,24,PTSD,2024-03-24,Psychiatric Services,Dropped Out,Stark,36,10.9
+CL-1033,Male,72,PTSD,2023-09-02,Case Management,Dropped Out,Cuyahoga,28,21.5
+CL-1034,Male,73,Adjustment Disorder,2022-06-07,Peer Support,Completed,Hamilton,23,80.2
+CL-1035,Female,42,Adjustment Disorder,2023-04-28,Group Therapy,Administrative,Cuyahoga,27,12.2
+CL-1036,Female,37,Bipolar Disorder,2025-11-28,Peer Support,Still Active,Montgomery,11,80.9
+CL-1037,Male,71,Substance Abuse,2025-04-07,Psychiatric Services,Completed,Summit,15,12.1
+CL-1038,Male,37,Major Depression,2022-05-12,Peer Support,Dropped Out,Lucas,2,20.4
+CL-1039,Non-binary,27,Anxiety Disorder,2024-01-04,Crisis Intervention,Dropped Out,Lucas,28,64.6
+CL-1040,Female,40,Schizophrenia,2023-05-02,Peer Support,Dropped Out,Summit,24,48.8
+CL-1041,Non-binary,74,Major Depression,2024-11-28,Individual Therapy,Transferred,Montgomery,33,37.8
+CL-1042,Male,41,PTSD,2023-04-14,Peer Support,Administrative,Cuyahoga,40,61.2
+CL-1043,Male,69,Substance Abuse,2024-04-14,Crisis Intervention,Dropped Out,Lucas,30,49.8
+CL-1044,Female,48,Anxiety Disorder,2023-11-03,Case Management,Dropped Out,Lucas,6,83.7
+CL-1045,Female,59,Major Depression,2023-03-01,Individual Therapy,Completed,Butler,40,86.5
+CL-1046,Male,42,Schizophrenia,2023-12-23,Psychiatric Services,Dropped Out,Summit,10,69.0
+CL-1047,Male,64,Schizophrenia,2022-07-08,Group Therapy,Still Active,Butler,4,60.2
+CL-1048,Female,23,Anxiety Disorder,2025-11-17,Crisis Intervention,Dropped Out,Butler,40,83.4
+CL-1049,Female,43,Bipolar Disorder,2025-03-24,Psychiatric Services,Dropped Out,Summit,41,35.0
+CL-1050,Female,47,PTSD,2024-08-03,Peer Support,Completed,Montgomery,22,38.8
+CL-1051,Female,24,Substance Abuse,2025-12-05,Peer Support,Completed,Stark,27,39.8
+CL-1052,Female,19,Substance Abuse,2025-07-29,Crisis Intervention,Administrative,Franklin,49,61.8
+CL-1053,Female,76,Major Depression,2025-07-18,Peer Support,Transferred,Summit,32,29.7
+CL-1054,Male,17,Major Depression,2025-12-06,Psychiatric Services,Administrative,Franklin,26,63.3
+CL-1055,Female,21,PTSD,2023-08-06,Individual Therapy,Completed,Lucas,14,50.9
+CL-1056,Male,72,Major Depression,2025-05-27,Individual Therapy,Dropped Out,Franklin,23,30.2
+CL-1057,Male,77,PTSD,2022-04-07,Individual Therapy,Dropped Out,Summit,9,52.6
+CL-1058,Male,76,Substance Abuse,2024-06-06,Crisis Intervention,Dropped Out,Hamilton,50,83.7
+CL-1059,Non-binary,22,Anxiety Disorder,2024-10-22,Psychiatric Services,Completed,Summit,5,63.3
+CL-1060,Female,31,Substance Abuse,2024-11-20,Individual Therapy,Still Active,Franklin,23,57.9
+CL-1061,Female,20,Anxiety Disorder,2024-01-28,Psychiatric Services,Still Active,Hamilton,28,96.5
+CL-1062,Female,69,Anxiety Disorder,2023-07-06,Peer Support,Dropped Out,Montgomery,40,82.7
+CL-1063,Female,46,Anxiety Disorder,2024-06-28,Group Therapy,Still Active,Hamilton,18,89.3
+CL-1064,Male,45,Anxiety Disorder,2025-06-01,Psychiatric Services,Still Active,Cuyahoga,32,29.1
+CL-1065,Female,37,Major Depression,2024-09-01,Crisis Intervention,Administrative,Hamilton,16,74.8
+CL-1066,Female,64,Major Depression,2025-11-23,Psychiatric Services,Dropped Out,Franklin,6,36.5
+CL-1067,Male,31,Major Depression,2024-08-18,Crisis Intervention,Completed,Lucas,23,73.3
+CL-1068,Male,32,Major Depression,2023-06-04,Peer Support,Dropped Out,Cuyahoga,13,29.5
+CL-1069,Female,62,Anxiety Disorder,2024-02-27,Group Therapy,Completed,Lucas,12,37.2
+CL-1070,Female,24,Major Depression,2022-09-10,Peer Support,Administrative,Butler,7,88.5
+CL-1071,Female,46,Anxiety Disorder,2024-03-31,Individual Therapy,Completed,Butler,8,84.0
+CL-1072,Male,20,Anxiety Disorder,2022-03-05,Crisis Intervention,Administrative,Hamilton,16,20.7
+CL-1073,Female,54,Anxiety Disorder,2023-09-13,Psychiatric Services,Administrative,Montgomery,38,99.1
+CL-1074,Male,55,Substance Abuse,2022-04-21,Group Therapy,Completed,Hamilton,11,31.6
+CL-1075,Female,26,Substance Abuse,2025-12-20,Psychiatric Services,Completed,Summit,19,73.6
+CL-1076,Female,45,Substance Abuse,2023-05-26,Peer Support,Dropped Out,Summit,28,20.3
+CL-1077,Male,25,Adjustment Disorder,2023-02-02,Group Therapy,Still Active,Montgomery,29,21.2
+CL-1078,Female,60,Major Depression,2024-09-18,Psychiatric Services,Dropped Out,Franklin,28,76.1
+CL-1079,Female,17,Substance Abuse,2022-11-27,Case Management,Dropped Out,Cuyahoga,31,56.7
+CL-1080,Male,33,Substance Abuse,2025-11-27,Psychiatric Services,Administrative,Butler,23,46.8
+CL-1081,Male,22,Schizophrenia,2024-07-23,Psychiatric Services,Completed,Stark,49,59.5
+CL-1082,Female,36,Major Depression,2022-07-28,Crisis Intervention,Still Active,Franklin,43,88.2
+CL-1083,Female,19,Substance Abuse,2024-10-25,Psychiatric Services,Dropped Out,Franklin,14,34.0
+CL-1084,Male,34,Anxiety Disorder,2025-02-01,Peer Support,Dropped Out,Summit,46,24.3
+CL-1085,Female,51,Major Depression,2023-02-15,Individual Therapy,Dropped Out,Cuyahoga,32,93.9
+CL-1086,Male,61,Major Depression,2025-08-08,Psychiatric Services,Dropped Out,Stark,13,93.0
+CL-1087,Female,72,Substance Abuse,2022-05-25,Psychiatric Services,Completed,Montgomery,1,35.5
+CL-1088,Male,53,Anxiety Disorder,2025-03-15,Crisis Intervention,Dropped Out,Lucas,36,78.7
+CL-1089,Male,75,Major Depression,2023-12-08,Crisis Intervention,Completed,Stark,3,38.6
+CL-1090,Female,74,Bipolar Disorder,2025-11-26,Peer Support,Administrative,Butler,3,21.4
+CL-1091,Non-binary,37,Schizophrenia,2025-02-17,Psychiatric Services,Completed,Cuyahoga,27,88.4
+CL-1092,Non-binary,20,Anxiety Disorder,2024-06-20,Peer Support,Completed,Hamilton,22,86.7
+CL-1093,Female,40,Adjustment Disorder,2025-09-02,Crisis Intervention,Completed,Montgomery,15,77.2
+CL-1094,Male,22,Bipolar Disorder,2022-08-06,Peer Support,Completed,Franklin,3,39.2
+CL-1095,Male,38,Major Depression,2023-04-17,Psychiatric Services,Dropped Out,Cuyahoga,11,25.8
+CL-1096,Female,40,PTSD,2023-08-30,Crisis Intervention,Completed,Butler,41,32.9
+CL-1097,Male,16,Schizophrenia,2025-05-22,Crisis Intervention,Completed,Butler,23,98.9
+CL-1098,Male,77,Anxiety Disorder,2024-08-28,Case Management,Completed,Stark,31,19.6
+CL-1099,Male,38,Anxiety Disorder,2024-01-27,Peer Support,Completed,Franklin,37,87.9
+CL-1100,Female,78,Substance Abuse,2025-05-25,Group Therapy,Dropped Out,Lucas,15,67.3
+CL-1101,Female,59,Bipolar Disorder,2023-11-04,Peer Support,Dropped Out,Montgomery,51,49.7
+CL-1102,Female,62,Substance Abuse,2024-06-24,Psychiatric Services,Completed,Cuyahoga,51,58.5
+CL-1103,Non-binary,49,Anxiety Disorder,2024-03-09,Psychiatric Services,Administrative,Montgomery,48,88.3
+CL-1104,Female,45,Adjustment Disorder,2023-04-28,Peer Support,Transferred,Stark,52,60.2
+CL-1105,Male,41,Substance Abuse,2022-08-12,Peer Support,Transferred,Montgomery,38,44.3
+CL-1106,Female,39,Substance Abuse,2023-08-01,Crisis Intervention,Still Active,Lucas,40,29.9
+CL-1107,Male,68,Anxiety Disorder,2024-11-14,Individual Therapy,Completed,Franklin,20,99.6
+CL-1108,Male,31,Schizophrenia,2023-07-15,Case Management,Transferred,Stark,38,76.8
+CL-1109,Male,42,PTSD,2025-10-14,Case Management,Completed,Lucas,14,49.9
+CL-1110,Non-binary,70,Major Depression,2024-09-29,Peer Support,Completed,Stark,18,27.1
+CL-1111,Male,70,Bipolar Disorder,2022-11-07,Peer Support,Dropped Out,Franklin,4,80.8
+CL-1112,Male,24,Bipolar Disorder,2023-02-27,Crisis Intervention,Completed,Summit,15,39.6
+CL-1113,Male,73,Anxiety Disorder,2024-03-05,Crisis Intervention,Completed,Cuyahoga,8,69.5
+CL-1114,Male,16,Major Depression,2023-10-11,Individual Therapy,Completed,Franklin,9,76.8
+CL-1115,Female,63,Substance Abuse,2025-06-17,Crisis Intervention,Completed,Summit,40,13.9
+CL-1116,Female,71,PTSD,2024-08-21,Individual Therapy,Completed,Butler,26,48.4
+CL-1117,Male,61,Adjustment Disorder,2022-02-11,Crisis Intervention,Completed,Cuyahoga,18,66.2
+CL-1118,Female,61,Major Depression,2024-08-17,Crisis Intervention,Dropped Out,Hamilton,42,68.6
+CL-1119,Female,62,Schizophrenia,2025-08-29,Group Therapy,Dropped Out,Butler,26,47.4
+CL-1120,Male,43,Major Depression,2024-06-05,Peer Support,Administrative,Hamilton,6,84.9
+CL-1121,Male,22,PTSD,2024-03-18,Individual Therapy,Dropped Out,Lucas,43,21.0
+CL-1122,Male,58,Adjustment Disorder,2025-12-02,Case Management,Dropped Out,Lucas,7,62.0
+CL-1123,Male,58,Anxiety Disorder,2022-06-28,Crisis Intervention,Completed,Montgomery,37,30.4
+CL-1124,Male,51,Adjustment Disorder,2022-10-30,Peer Support,Still Active,Montgomery,2,26.2
+CL-1125,Female,35,Adjustment Disorder,2024-01-06,Group Therapy,Dropped Out,Stark,5,22.8
+CL-1126,Female,17,Substance Abuse,2023-07-14,Psychiatric Services,Completed,Lucas,20,74.9
+CL-1127,Female,52,Anxiety Disorder,2022-03-06,Crisis Intervention,Completed,Hamilton,18,49.9
+CL-1128,Male,54,Anxiety Disorder,2024-04-25,Crisis Intervention,Completed,Stark,8,35.5
+CL-1129,Female,47,Anxiety Disorder,2024-01-08,Psychiatric Services,Administrative,Franklin,1,28.4
+CL-1130,Non-binary,65,Substance Abuse,2024-05-11,Individual Therapy,Completed,Stark,12,21.6
+CL-1131,Female,30,Anxiety Disorder,2024-02-13,Peer Support,Completed,Franklin,30,92.9
+CL-1132,Female,52,Anxiety Disorder,2025-12-21,Psychiatric Services,Completed,Stark,2,97.0
+CL-1133,Male,76,PTSD,2024-02-14,Individual Therapy,Completed,Stark,34,17.1
+CL-1134,Female,63,Major Depression,2024-03-03,Crisis Intervention,Dropped Out,Summit,50,41.4
+CL-1135,Female,68,PTSD,2023-04-04,Group Therapy,Completed,Cuyahoga,39,23.8
+CL-1136,Female,20,Substance Abuse,2025-08-25,Crisis Intervention,Still Active,Butler,44,93.2
+CL-1137,Female,56,Adjustment Disorder,2024-11-11,Group Therapy,Dropped Out,Butler,29,66.8
+CL-1138,Female,53,Substance Abuse,2022-05-15,Psychiatric Services,Completed,Lucas,19,16.9
+CL-1139,Female,70,Substance Abuse,2025-08-19,Crisis Intervention,Administrative,Franklin,29,91.8
+CL-1140,Female,28,Major Depression,2025-09-05,Individual Therapy,Dropped Out,Lucas,46,17.6
+CL-1141,Female,18,Major Depression,2025-08-17,Crisis Intervention,Dropped Out,Lucas,24,92.6
+CL-1142,Male,65,Major Depression,2022-11-21,Case Management,Completed,Hamilton,36,71.1
+CL-1143,Male,62,Schizophrenia,2023-06-03,Crisis Intervention,Transferred,Lucas,20,97.1
+CL-1144,Female,41,Substance Abuse,2022-05-18,Psychiatric Services,Dropped Out,Lucas,9,70.3
+CL-1145,Female,63,Adjustment Disorder,2022-11-22,Psychiatric Services,Dropped Out,Franklin,24,37.8
+CL-1146,Non-binary,37,Adjustment Disorder,2025-04-08,Group Therapy,Completed,Montgomery,51,19.1
+CL-1147,Female,69,PTSD,2022-11-11,Crisis Intervention,Completed,Stark,10,24.6
+CL-1148,Female,65,PTSD,2023-12-15,Individual Therapy,Dropped Out,Summit,29,65.0
+CL-1149,Female,66,Anxiety Disorder,2023-05-31,Psychiatric Services,Administrative,Summit,24,71.0
+CL-1150,Female,44,Anxiety Disorder,2024-07-17,Crisis Intervention,Dropped Out,Cuyahoga,13,82.1
+CL-1151,Male,32,Substance Abuse,2025-06-18,Individual Therapy,Transferred,Hamilton,19,17.5
+CL-1152,Male,44,Adjustment Disorder,2023-07-03,Group Therapy,Still Active,Lucas,2,47.3
+CL-1153,Male,39,Major Depression,2022-06-08,Individual Therapy,Completed,Hamilton,46,68.5
+CL-1154,Female,24,Substance Abuse,2025-12-27,Group Therapy,Still Active,Butler,29,65.4
+CL-1155,Female,17,Major Depression,2023-09-24,Crisis Intervention,Dropped Out,Hamilton,50,35.9
+CL-1156,Male,19,Major Depression,2025-02-04,Psychiatric Services,Dropped Out,Franklin,41,56.4
+CL-1157,Male,25,Major Depression,2022-10-12,Group Therapy,Dropped Out,Cuyahoga,43,70.1
+CL-1158,Female,39,Substance Abuse,2022-07-28,Psychiatric Services,Completed,Stark,24,32.8
+CL-1159,Male,66,Substance Abuse,2023-12-22,Peer Support,Completed,Lucas,9,14.0
+CL-1160,Female,68,PTSD,2025-12-16,Peer Support,Completed,Cuyahoga,5,74.4
+CL-1161,Non-binary,18,Major Depression,2022-04-29,Individual Therapy,Completed,Montgomery,33,45.8
+CL-1162,Female,46,Major Depression,2023-05-12,Individual Therapy,Still Active,Lucas,18,21.2
+CL-1163,Male,72,Major Depression,2025-07-11,Group Therapy,Dropped Out,Butler,24,93.2
+CL-1164,Female,67,Substance Abuse,2025-02-14,Crisis Intervention,Administrative,Cuyahoga,35,36.4
+CL-1165,Male,36,PTSD,2024-08-20,Peer Support,Dropped Out,Butler,23,50.2
+CL-1166,Female,74,Major Depression,2025-05-21,Individual Therapy,Completed,Stark,24,56.2
+CL-1167,Female,26,Adjustment Disorder,2023-10-22,Psychiatric Services,Completed,Hamilton,16,80.1
+CL-1168,Male,40,Adjustment Disorder,2022-10-05,Peer Support,Dropped Out,Lucas,24,50.0
+CL-1169,Male,24,Anxiety Disorder,2025-06-21,Case Management,Completed,Hamilton,2,76.2
+CL-1170,Female,40,Adjustment Disorder,2022-05-25,Case Management,Transferred,Summit,40,35.7
+CL-1171,Female,47,Substance Abuse,2023-02-15,Group Therapy,Still Active,Butler,6,82.9
+CL-1172,Non-binary,36,PTSD,2022-09-18,Case Management,Still Active,Cuyahoga,46,73.9
+CL-1173,Female,27,Bipolar Disorder,2023-02-07,Group Therapy,Completed,Butler,2,42.5
+CL-1174,Female,45,Bipolar Disorder,2023-10-29,Individual Therapy,Completed,Stark,46,74.7
+CL-1175,Female,65,Major Depression,2022-03-11,Peer Support,Completed,Butler,44,56.6
+CL-1176,Male,69,Bipolar Disorder,2023-03-14,Crisis Intervention,Administrative,Franklin,8,56.6
+CL-1177,Male,26,Major Depression,2023-06-17,Case Management,Still Active,Montgomery,13,67.2
+CL-1178,Female,24,PTSD,2022-09-21,Group Therapy,Dropped Out,Cuyahoga,11,69.3
+CL-1179,Female,54,Major Depression,2022-01-03,Individual Therapy,Administrative,Montgomery,42,29.0
+CL-1180,Female,55,PTSD,2025-11-18,Case Management,Dropped Out,Montgomery,31,32.0
+CL-1181,Female,41,Major Depression,2022-12-02,Group Therapy,Dropped Out,Butler,30,28.4
+CL-1182,Female,36,Schizophrenia,2024-12-28,Case Management,Administrative,Cuyahoga,49,43.3
+CL-1183,Female,36,Major Depression,2022-05-15,Group Therapy,Completed,Franklin,19,95.1
+CL-1184,Female,42,Major Depression,2023-06-30,Crisis Intervention,Transferred,Summit,49,24.3
+CL-1185,Non-binary,45,Anxiety Disorder,2024-08-01,Individual Therapy,Administrative,Butler,16,29.4
+CL-1186,Male,19,Major Depression,2025-05-18,Individual Therapy,Still Active,Stark,9,89.4
+CL-1187,Female,64,Major Depression,2022-07-02,Crisis Intervention,Dropped Out,Lucas,36,36.0
+CL-1188,Male,44,Bipolar Disorder,2024-10-22,Crisis Intervention,Completed,Hamilton,26,43.6
+CL-1189,Non-binary,51,Adjustment Disorder,2023-04-20,Crisis Intervention,Dropped Out,Franklin,3,13.5
+CL-1190,Female,67,Anxiety Disorder,2025-03-20,Crisis Intervention,Completed,Lucas,11,45.4
+CL-1191,Female,69,Major Depression,2024-09-27,Crisis Intervention,Dropped Out,Montgomery,31,83.4
+CL-1192,Male,59,Substance Abuse,2025-10-10,Peer Support,Still Active,Franklin,39,52.7
+CL-1193,Non-binary,66,Adjustment Disorder,2023-12-02,Crisis Intervention,Dropped Out,Stark,10,83.9
+CL-1194,Male,52,Adjustment Disorder,2022-04-01,Psychiatric Services,Completed,Cuyahoga,27,72.1
+CL-1195,Male,65,PTSD,2025-12-24,Individual Therapy,Transferred,Summit,36,39.3
+CL-1196,Female,49,Major Depression,2023-08-30,Crisis Intervention,Completed,Lucas,44,79.5
+CL-1197,Female,57,Bipolar Disorder,2024-10-16,Group Therapy,Administrative,Montgomery,36,36.9
+CL-1198,Non-binary,78,Major Depression,2024-12-07,Peer Support,Transferred,Lucas,31,41.4
+CL-1199,Non-binary,66,PTSD,2024-02-19,Peer Support,Dropped Out,Stark,23,95.9
+CL-1200,Female,34,Substance Abuse,2022-06-30,Psychiatric Services,Transferred,Butler,14,28.2
+CL-1201,Female,75,Anxiety Disorder,2024-03-04,Crisis Intervention,Transferred,Summit,16,14.6
+CL-1202,Female,30,PTSD,2022-02-14,Case Management,Transferred,Hamilton,44,79.4
+CL-1203,Male,51,Adjustment Disorder,2023-07-21,Psychiatric Services,Dropped Out,Summit,49,96.8
+CL-1204,Male,57,Substance Abuse,2022-11-19,Group Therapy,Dropped Out,Franklin,12,47.6
+CL-1205,Female,75,Adjustment Disorder,2025-08-06,Peer Support,Administrative,Montgomery,3,10.8
+CL-1206,Female,22,Adjustment Disorder,2024-05-15,Peer Support,Dropped Out,Butler,9,86.6
+CL-1207,Female,28,Bipolar Disorder,2024-03-24,Psychiatric Services,Dropped Out,Cuyahoga,1,76.3
+CL-1208,Female,52,PTSD,2023-03-20,Peer Support,Still Active,Stark,33,39.5
+CL-1209,Male,22,Substance Abuse,2023-08-11,Group Therapy,Completed,Stark,16,50.2
+CL-1210,Male,37,Major Depression,2022-05-21,Case Management,Transferred,Franklin,43,20.6
+CL-1211,Male,41,PTSD,2024-12-04,Peer Support,Administrative,Montgomery,24,65.3
+CL-1212,Male,24,Anxiety Disorder,2025-12-20,Case Management,Dropped Out,Butler,49,58.4
+CL-1213,Female,29,Bipolar Disorder,2022-09-15,Crisis Intervention,Transferred,Hamilton,37,20.1
+CL-1214,Female,73,Anxiety Disorder,2023-03-11,Crisis Intervention,Dropped Out,Summit,46,62.5
+CL-1215,Male,48,Anxiety Disorder,2022-08-05,Crisis Intervention,Dropped Out,Franklin,36,51.6
+CL-1216,Female,62,Substance Abuse,2024-01-24,Group Therapy,Dropped Out,Franklin,28,41.0
+CL-1217,Male,19,Adjustment Disorder,2022-08-02,Case Management,Dropped Out,Cuyahoga,50,67.7
+CL-1218,Female,77,Anxiety Disorder,2025-08-28,Psychiatric Services,Completed,Cuyahoga,42,87.4
+CL-1219,Male,50,Major Depression,2023-12-08,Individual Therapy,Still Active,Montgomery,30,70.6
+CL-1220,Female,50,Major Depression,2023-04-15,Case Management,Completed,Summit,47,78.9
+CL-1221,Male,58,Major Depression,2022-04-07,Individual Therapy,Completed,Franklin,29,63.8
+CL-1222,Female,19,Major Depression,2022-07-15,Group Therapy,Dropped Out,Franklin,9,55.4
+CL-1223,Male,68,Adjustment Disorder,2024-10-20,Peer Support,Still Active,Summit,20,88.9
+CL-1224,Non-binary,49,Major Depression,2024-05-02,Crisis Intervention,Administrative,Cuyahoga,41,71.1
+CL-1225,Female,19,Adjustment Disorder,2025-09-11,Peer Support,Dropped Out,Cuyahoga,20,43.9
+CL-1226,Female,46,Major Depression,2023-05-28,Peer Support,Completed,Butler,4,60.6
+CL-1227,Non-binary,51,Anxiety Disorder,2025-04-09,Group Therapy,Completed,Hamilton,29,86.2
+CL-1228,Male,62,Bipolar Disorder,2022-05-13,Peer Support,Dropped Out,Franklin,5,26.9
+CL-1229,Female,62,PTSD,2023-08-07,Case Management,Completed,Franklin,14,94.3
+CL-1230,Non-binary,23,PTSD,2025-04-23,Crisis Intervention,Transferred,Stark,16,59.7
+CL-1231,Female,40,Anxiety Disorder,2024-05-09,Case Management,Dropped Out,Butler,30,18.9
+CL-1232,Non-binary,46,Bipolar Disorder,2024-04-12,Case Management,Dropped Out,Summit,48,23.1
+CL-1233,Male,75,Anxiety Disorder,2025-05-05,Group Therapy,Completed,Stark,37,85.0
+CL-1234,Female,57,Adjustment Disorder,2024-05-25,Psychiatric Services,Administrative,Butler,30,25.1
+CL-1235,Female,26,Substance Abuse,2025-03-30,Crisis Intervention,Administrative,Franklin,34,13.0
+CL-1236,Female,76,Bipolar Disorder,2022-01-14,Group Therapy,Still Active,Summit,5,73.6
+CL-1237,Male,48,Anxiety Disorder,2022-10-21,Peer Support,Administrative,Butler,43,53.9
+CL-1238,Male,51,Major Depression,2022-09-24,Case Management,Dropped Out,Montgomery,2,55.2
+CL-1239,Female,43,Bipolar Disorder,2023-02-04,Crisis Intervention,Completed,Summit,40,57.4
+CL-1240,Female,33,Bipolar Disorder,2022-06-13,Psychiatric Services,Dropped Out,Summit,20,71.6
+CL-1241,Female,57,Adjustment Disorder,2022-02-13,Psychiatric Services,Completed,Butler,4,67.3
+CL-1242,Female,21,Anxiety Disorder,2025-11-26,Case Management,Dropped Out,Hamilton,34,92.7
+CL-1243,Male,73,Schizophrenia,2025-05-02,Individual Therapy,Transferred,Montgomery,35,60.7
+CL-1244,Male,75,Schizophrenia,2022-04-19,Group Therapy,Still Active,Stark,5,36.9
+CL-1245,Female,52,Bipolar Disorder,2025-11-29,Crisis Intervention,Completed,Cuyahoga,51,99.0
+CL-1246,Female,48,PTSD,2024-01-04,Psychiatric Services,Completed,Hamilton,22,64.5
+CL-1247,Female,54,Major Depression,2024-01-21,Case Management,Still Active,Butler,32,30.5
+CL-1248,Female,40,Anxiety Disorder,2025-02-25,Crisis Intervention,Completed,Summit,46,16.6
+CL-1249,Male,40,PTSD,2023-12-13,Case Management,Completed,Hamilton,1,94.9
+CL-1250,Male,64,Major Depression,2023-02-06,Psychiatric Services,Dropped Out,Stark,7,12.4
+CL-1251,Male,21,Anxiety Disorder,2024-07-01,Case Management,Dropped Out,Hamilton,47,91.1
+CL-1252,Female,78,Major Depression,2023-11-13,Group Therapy,Completed,Montgomery,18,54.4
+CL-1253,Male,43,Major Depression,2024-08-26,Individual Therapy,Completed,Summit,47,66.3
+CL-1254,Female,28,Anxiety Disorder,2023-05-01,Psychiatric Services,Completed,Stark,52,87.6
+CL-1255,Male,43,Bipolar Disorder,2023-05-11,Crisis Intervention,Administrative,Summit,31,38.3
+CL-1256,Non-binary,77,Major Depression,2025-10-26,Group Therapy,Completed,Montgomery,51,45.4
+CL-1257,Male,52,Substance Abuse,2023-11-25,Crisis Intervention,Completed,Butler,46,28.9
+CL-1258,Female,69,PTSD,2025-11-16,Group Therapy,Dropped Out,Summit,17,69.3
+CL-1259,Female,66,Major Depression,2025-10-16,Crisis Intervention,Dropped Out,Stark,35,13.3
+CL-1260,Non-binary,60,Schizophrenia,2022-02-25,Group Therapy,Transferred,Lucas,11,68.2
+CL-1261,Male,78,PTSD,2025-06-26,Psychiatric Services,Completed,Hamilton,17,30.0
+CL-1262,Female,51,Anxiety Disorder,2023-08-12,Psychiatric Services,Dropped Out,Cuyahoga,23,99.8
+CL-1263,Female,34,Major Depression,2022-02-27,Peer Support,Completed,Montgomery,22,51.0
+CL-1264,Male,46,Major Depression,2022-08-24,Peer Support,Dropped Out,Hamilton,20,14.0
+CL-1265,Female,17,Bipolar Disorder,2022-11-26,Group Therapy,Administrative,Summit,34,25.7
+CL-1266,Male,51,Anxiety Disorder,2025-04-26,Psychiatric Services,Dropped Out,Cuyahoga,41,69.2
+CL-1267,Male,63,PTSD,2023-08-19,Psychiatric Services,Completed,Summit,14,35.1
+CL-1268,Female,66,Substance Abuse,2022-09-06,Case Management,Completed,Butler,8,33.6
+CL-1269,Female,49,Adjustment Disorder,2024-10-13,Crisis Intervention,Completed,Hamilton,23,41.7
+CL-1270,Female,27,Bipolar Disorder,2024-10-19,Individual Therapy,Transferred,Lucas,8,31.5
+CL-1271,Male,39,PTSD,2025-07-20,Group Therapy,Dropped Out,Stark,12,53.8
+CL-1272,Female,74,PTSD,2023-09-06,Psychiatric Services,Completed,Cuyahoga,21,85.8
+CL-1273,Female,71,Major Depression,2022-08-05,Group Therapy,Still Active,Butler,27,71.6
+CL-1274,Male,69,Anxiety Disorder,2023-02-19,Individual Therapy,Still Active,Summit,19,12.9
+CL-1275,Male,34,Substance Abuse,2025-10-24,Psychiatric Services,Dropped Out,Hamilton,37,20.3
+CL-1276,Female,68,Adjustment Disorder,2022-12-15,Crisis Intervention,Completed,Stark,7,76.2
+CL-1277,Female,31,Major Depression,2022-08-09,Case Management,Still Active,Hamilton,29,87.9
+CL-1278,Male,67,Major Depression,2024-12-20,Peer Support,Dropped Out,Cuyahoga,51,28.6
+CL-1279,Male,19,Anxiety Disorder,2024-10-18,Group Therapy,Completed,Montgomery,19,61.5
+CL-1280,Non-binary,48,Adjustment Disorder,2022-03-31,Psychiatric Services,Administrative,Montgomery,42,21.4
+CL-1281,Female,31,Substance Abuse,2024-04-25,Peer Support,Completed,Cuyahoga,37,66.9
+CL-1282,Female,40,Anxiety Disorder,2022-07-17,Peer Support,Completed,Lucas,30,95.5
+CL-1283,Male,16,Schizophrenia,2022-12-15,Peer Support,Transferred,Lucas,5,81.6
+CL-1284,Male,77,Anxiety Disorder,2023-08-09,Case Management,Still Active,Lucas,36,62.0
+CL-1285,Female,47,Bipolar Disorder,2022-01-04,Peer Support,Still Active,Butler,2,21.2
+CL-1286,Female,44,Anxiety Disorder,2025-04-23,Group Therapy,Still Active,Montgomery,11,88.7
+CL-1287,Female,21,PTSD,2024-02-12,Peer Support,Administrative,Cuyahoga,4,45.7
+CL-1288,Male,60,Bipolar Disorder,2025-11-03,Peer Support,Completed,Summit,31,17.0
+CL-1289,Female,49,PTSD,2022-01-23,Case Management,Still Active,Stark,45,21.9
+CL-1290,Male,40,Substance Abuse,2022-02-11,Case Management,Still Active,Cuyahoga,25,79.6
+CL-1291,Female,24,PTSD,2023-02-17,Crisis Intervention,Completed,Cuyahoga,29,41.6
+CL-1292,Male,63,Substance Abuse,2025-10-22,Psychiatric Services,Still Active,Hamilton,7,22.6
+CL-1293,Male,62,Major Depression,2025-06-26,Group Therapy,Completed,Hamilton,16,59.8
+CL-1294,Female,54,Major Depression,2022-11-29,Case Management,Completed,Summit,48,45.3
+CL-1295,Female,66,Schizophrenia,2023-08-13,Individual Therapy,Completed,Hamilton,34,90.0
+CL-1296,Male,39,Adjustment Disorder,2023-07-28,Crisis Intervention,Dropped Out,Cuyahoga,49,52.4
+CL-1297,Non-binary,20,Substance Abuse,2022-01-09,Group Therapy,Completed,Franklin,51,45.8
+CL-1298,Male,61,Anxiety Disorder,2025-07-23,Psychiatric Services,Completed,Cuyahoga,18,17.5
+CL-1299,Male,74,Substance Abuse,2023-09-11,Psychiatric Services,Dropped Out,Hamilton,20,72.9

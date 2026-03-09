@@ -1,0 +1,80 @@
+{
+  "test_id": "task-4-06",
+  "task_name": "Mann Whitney U",
+  "domain": "Inferential Statistics",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 70,
+      "label": "check_1",
+      "pattern": "Total clients:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 35,
+      "label": "check_2",
+      "pattern": "Rapid Rehousing:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 35,
+      "label": "check_3",
+      "pattern": "Transitional Housing:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 68.0,
+      "tolerance": 5,
+      "label": "check_4",
+      "pattern": "Rapid Rehousing - Median days homeless:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": [
+        448.5,
+        776.5
+      ],
+      "tolerance": 20,
+      "label": "check_5",
+      "pattern": "Mann-Whitney U statistic:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 0.054,
+      "tolerance": 0.02,
+      "label": "check_6",
+      "pattern": "p-value:\\s*([\\d.]+)"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "expected_pattern": "(?i)no",
+      "label": "check_7",
+      "pattern": "Significant \\(p < 0\\.05\\):\\s*(\\w+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 0.268,
+      "tolerance": 0.05,
+      "label": "check_8",
+      "pattern": "Effect size \\(rank-biserial r\\):\\s*(-?[\\d.]+)",
+      "absolute_value": true
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

@@ -1,0 +1,67 @@
+{
+  "test_id": "task-1-05",
+  "task_name": "Recoding Standardization",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 90,
+      "points": 1.0
+    },
+    {
+      "label": "unique_gender_before",
+      "type": "exact",
+      "pattern": "Raw unique gender values: (\\d+)",
+      "expected": 9,
+      "points": 1.0
+    },
+    {
+      "label": "unique_gender_after",
+      "type": "exact",
+      "pattern": "Standardized unique gender values: (\\d+)",
+      "expected": 3,
+      "points": 1.0
+    },
+    {
+      "label": "unique_race_after",
+      "type": "exact",
+      "pattern": "Standardized unique race values: (\\d+)",
+      "expected": 5,
+      "points": 0.5
+    },
+    {
+      "label": "unique_completion_after",
+      "type": "exact",
+      "pattern": "Standardized unique completion values: (\\d+)",
+      "expected": 2,
+      "points": 0.5
+    },
+    {
+      "label": "completion_rate",
+      "type": "numeric",
+      "pattern": "Completion rate: ([\\d.]+)%",
+      "expected": 64.4,
+      "tolerance": 0.5,
+      "points": 0.5
+    },
+    {
+      "label": "mean_satisfaction",
+      "type": "numeric",
+      "pattern": "Mean satisfaction \\(standardized 1-5\\): ([\\d.]+)",
+      "expected": 2.74,
+      "tolerance": 0.05,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

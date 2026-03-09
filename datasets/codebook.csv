@@ -1,0 +1,31 @@
+variable,code,label
+q1_diagnosis,1,Major Depressive Disorder
+q1_diagnosis,2,Generalized Anxiety
+q1_diagnosis,3,PTSD
+q1_diagnosis,4,Substance Use Disorder
+q1_diagnosis,5,Adjustment Disorder
+q2_severity,1,Minimal
+q2_severity,2,Mild
+q2_severity,3,Moderate
+q2_severity,4,Moderately Severe
+q2_severity,5,Severe
+q3_housing,1,Stable Housing
+q3_housing,2,Temporary/Transitional
+q3_housing,3,Homeless/Shelter
+q3_housing,4,At Risk of Eviction
+q3_housing,5,Institutional
+q4_employment,1,Full-time
+q4_employment,2,Part-time
+q4_employment,3,Unemployed - Seeking
+q4_employment,4,Unemployed - Not Seeking
+q4_employment,5,Disabled/Unable to Work
+q5_education,1,Less than High School
+q5_education,2,High School/GED
+q5_education,3,Some College
+q5_education,4,Bachelor's Degree
+q5_education,5,Graduate Degree
+q6_insurance,1,Medicaid
+q6_insurance,2,Medicare
+q6_insurance,3,Private Insurance
+q6_insurance,4,Uninsured
+q6_insurance,5,VA/Military

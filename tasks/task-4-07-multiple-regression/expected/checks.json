@@ -1,0 +1,88 @@
+{
+  "test_id": "task-4-07",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_cases",
+      "type": "exact",
+      "pattern": "Total cases: (\\d+)",
+      "expected": 500,
+      "points": 1
+    },
+    {
+      "label": "r_squared",
+      "type": "numeric",
+      "pattern": "R-squared: ([\\d.]+)",
+      "expected": 0.7831,
+      "tolerance": 0.05,
+      "points": 1
+    },
+    {
+      "label": "f_statistic",
+      "type": "numeric",
+      "pattern": "F statistic: ([\\d.]+)",
+      "expected": 356.6,
+      "tolerance": 5.0,
+      "points": 1
+    },
+    {
+      "label": "most_significant",
+      "type": "regex",
+      "pattern": "Most significant (?:predictor|factor): (.+)",
+      "expected_pattern": "(?i)parental_substance_use|prior_placements",
+      "points": 1
+    },
+    {
+      "label": "prior_placements_coef",
+      "type": "numeric",
+      "pattern": "prior_placements coefficient: ([\\d.\\-]+)",
+      "expected": 8.33,
+      "tolerance": 1.5,
+      "points": 1
+    },
+    {
+      "label": "parental_su_coef",
+      "type": "numeric",
+      "pattern": "parental_substance_use coefficient: ([\\d.\\-]+)",
+      "expected": 12.13,
+      "tolerance": 2.0,
+      "points": 1
+    },
+    {
+      "label": "poverty_coef",
+      "type": "numeric",
+      "pattern": "poverty_index coefficient: ([\\d.\\-]+)",
+      "expected": 2.99,
+      "tolerance": 1.0,
+      "points": 1
+    },
+    {
+      "label": "regression_csv_exists",
+      "type": "file_exists",
+      "filename": "regression_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "regression_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Multiple Regression",
+  "domain": "Inferential Statistics",
+  "difficulty": "Intermediate"
+}

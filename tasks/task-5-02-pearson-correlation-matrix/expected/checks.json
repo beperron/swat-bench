@@ -1,0 +1,53 @@
+{
+  "test_id": "task-5-02",
+  "task_name": "Pearson Correlation Matrix",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_students",
+      "type": "exact",
+      "pattern": "Total students: (\\d+)",
+      "expected": 120,
+      "points": 1
+    },
+    {
+      "label": "self_efficacy_corr",
+      "type": "numeric",
+      "pattern": "(?:self_efficacy_score.*?evaluation|evaluation.*?self_efficacy_score).*?r=([\\d.]+)",
+      "expected": 0.525,
+      "tolerance": 0.05,
+      "points": 1
+    },
+    {
+      "label": "gpa_corr",
+      "type": "numeric",
+      "pattern": "(?:gpa.*?evaluation|evaluation.*?gpa).*?r=([\\d.]+)",
+      "expected": 0.466,
+      "tolerance": 0.05,
+      "points": 1
+    },
+    {
+      "label": "descriptive_stats",
+      "type": "regex",
+      "pattern": "Descriptive statistics: (.+)",
+      "expected_pattern": "(?i)mean|median|std|stdev",
+      "points": 0.5
+    },
+    {
+      "label": "correlation_matrix",
+      "type": "regex",
+      "pattern": "(?i)correlation matrix:[\\s\\S]*?(\\w+\\s+1\\.00.+)",
+      "expected_pattern": "1\\.00",
+      "points": 0.5
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}

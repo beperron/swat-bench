@@ -1,0 +1,115 @@
+{
+  "test_id": "task-7-01",
+  "task_name": "Allegation-to-Removal Funnel",
+  "domain": "Multi-Step Data Analysis",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "pattern": "Total allegation records:\\s*(\\d+)",
+      "expected": 358,
+      "points": 1,
+      "label": "total_allegation_records"
+    },
+    {
+      "type": "exact",
+      "pattern": "Unique children:\\s*(\\d+)",
+      "expected": 135,
+      "points": 1,
+      "label": "unique_children"
+    },
+    {
+      "type": "exact",
+      "pattern": "Unique child-intake pairs:\\s*(\\d+)",
+      "expected": 224,
+      "points": 1,
+      "label": "unique_childintake_pairs"
+    },
+    {
+      "type": "exact",
+      "pattern": "Screened-in child-intakes:\\s*(\\d+)",
+      "expected": 139,
+      "points": 1,
+      "label": "screenedin_childintakes"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Screening-in rate:\\s*([\\d.]+)%",
+      "expected": 62.1,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "screeningin_rated"
+    },
+    {
+      "type": "exact",
+      "pattern": "Substantiated child-intakes:\\s*(\\d+)",
+      "expected": 40,
+      "points": 1,
+      "label": "substantiated_childintakes"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Substantiation rate.*?:\\s*([\\d.]+)%",
+      "expected": 28.8,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "substantiation_rated"
+    },
+    {
+      "type": "exact",
+      "pattern": "Linked to removal:\\s*(\\d+)",
+      "expected": 18,
+      "points": 1,
+      "label": "linked_to_removal"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Removal rate.*?:\\s*([\\d.]+)%",
+      "expected": 45.0,
+      "tolerance": 1.0,
+      "points": 1,
+      "label": "removal_rated"
+    },
+    {
+      "type": "regex",
+      "pattern": "Highest screening-in rate:\\s*(.+)",
+      "expected_pattern": "(?i)Genesee",
+      "points": 1,
+      "label": "highest_screeningin_rate"
+    },
+    {
+      "type": "regex",
+      "pattern": "Highest substantiation rate:\\s*(.+)",
+      "expected_pattern": "(?i)Kent",
+      "points": 1,
+      "label": "highest_substantiation_rate"
+    },
+    {
+      "type": "regex",
+      "pattern": "Highest removal rate:\\s*(.+)",
+      "expected_pattern": "(?i)Ingham",
+      "points": 1,
+      "label": "highest_removal_rate"
+    },
+    {
+      "type": "file_exists",
+      "filename": "funnel_report.csv",
+      "points": 1,
+      "label": "funnel_report_csv"
+    },
+    {
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1,
+      "label": "summary_md"
+    }
+  ],
+  "total_points": 15,
+  "auto_points": 15,
+  "human_points": 0
+}

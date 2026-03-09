@@ -1,0 +1,76 @@
+{
+  "test_id": "task-6-01",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_comments",
+      "type": "exact",
+      "pattern": "Total comments: (\\d+)",
+      "expected": 5431,
+      "points": 1
+    },
+    {
+      "label": "sw_mentions",
+      "type": "exact",
+      "pattern": "Social work mentions: (\\d+)",
+      "expected": 1276,
+      "points": 1
+    },
+    {
+      "label": "nursing_mentions",
+      "type": "exact",
+      "pattern": "Nursing mentions: (\\d+)",
+      "expected": 2660,
+      "points": 1
+    },
+    {
+      "label": "both_mentions",
+      "type": "exact",
+      "pattern": "Both mentions: (\\d+)",
+      "expected": 277,
+      "points": 1
+    },
+    {
+      "label": "date_range_start",
+      "type": "regex",
+      "pattern": "Date range: (.+)",
+      "expected_pattern": "2026",
+      "points": 1
+    },
+    {
+      "label": "date_range_end",
+      "type": "regex",
+      "pattern": "Date range: .+to (.+)",
+      "expected_pattern": "2026",
+      "points": 1
+    },
+    {
+      "label": "daily_json_exists",
+      "type": "file_exists",
+      "filename": "daily_counts.json",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "daily_counts.json",
+    "summary.md"
+  ],
+  "total_points": 9,
+  "auto_points": 9,
+  "human_points": 0,
+  "task_name": "Keyword Frequency Analysis",
+  "domain": "Text & Natural Language Processing",
+  "difficulty": "Intermediate"
+}

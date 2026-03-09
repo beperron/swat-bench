@@ -1,0 +1,86 @@
+{
+  "test_id": "task-5-04",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "program_a_total",
+      "type": "exact",
+      "pattern": "Program A total cost: (\\d+)",
+      "expected": 230000,
+      "points": 1
+    },
+    {
+      "label": "program_b_total",
+      "type": "exact",
+      "pattern": "Program B total cost: (\\d+)",
+      "expected": 121000,
+      "points": 1
+    },
+    {
+      "label": "program_c_total",
+      "type": "exact",
+      "pattern": "Program C total cost: (\\d+)",
+      "expected": 89000,
+      "points": 1
+    },
+    {
+      "label": "a_cost_per_client",
+      "type": "numeric",
+      "pattern": "Program A cost per client: ([\\d.]+)",
+      "expected": 1916.67,
+      "tolerance": 5.0,
+      "points": 1
+    },
+    {
+      "label": "b_cost_per_client",
+      "type": "numeric",
+      "pattern": "Program B cost per client: ([\\d.]+)",
+      "expected": 605.0,
+      "tolerance": 5.0,
+      "points": 1
+    },
+    {
+      "label": "c_cost_per_client",
+      "type": "numeric",
+      "pattern": "Program C cost per client: ([\\d.]+)",
+      "expected": 593.33,
+      "tolerance": 5.0,
+      "points": 1
+    },
+    {
+      "label": "most_cost_effective",
+      "type": "regex",
+      "pattern": "Most cost-effective: (.+)",
+      "expected_pattern": "(?i)(Program\\s*B|B)",
+      "points": 1
+    },
+    {
+      "label": "cea_csv_exists",
+      "type": "file_exists",
+      "filename": "cea_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "cea_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Cost-Effectiveness Analysis",
+  "domain": "Applied Social Work Analytics",
+  "difficulty": "Intermediate"
+}

@@ -1,0 +1,125 @@
+{
+  "test_id": "task-7-04",
+  "task_name": "Racial Disparity in Substantiation",
+  "domain": "Multi-Step Data Analysis",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "pattern": "Total allegation records:\\s*(\\d+)",
+      "expected": 388,
+      "points": 1,
+      "label": "total_allegation_records"
+    },
+    {
+      "type": "exact",
+      "pattern": "Unique child-intake pairs:\\s*(\\d+)",
+      "expected": 316,
+      "points": 1,
+      "label": "unique_childintake_pairs"
+    },
+    {
+      "type": "exact",
+      "pattern": "Child-intake pairs matched to race data:\\s*(\\d+)",
+      "expected": 316,
+      "points": 1,
+      "label": "children_matched_to_race_data"
+    },
+    {
+      "type": "exact",
+      "pattern": "White:\\s*(\\d+)\\s*\\(",
+      "expected": 137,
+      "points": 1,
+      "label": "white"
+    },
+    {
+      "type": "exact",
+      "pattern": "Black:\\s*(\\d+)\\s*\\(",
+      "expected": 107,
+      "points": 1,
+      "label": "black"
+    },
+    {
+      "type": "numeric",
+      "pattern": "White:\\s*([\\d.]+)%\\s*\\(n=",
+      "expected": 30.3,
+      "tolerance": 1.0,
+      "points": 1,
+      "label": "whitedn"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Black:\\s*([\\d.]+)%\\s*\\(n=",
+      "expected": 31.2,
+      "tolerance": 1.0,
+      "points": 1,
+      "label": "blackdn"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Removal rates[\\s\\S]*?White:\\s*([\\d.]+)%",
+      "expected": 36.7,
+      "tolerance": 2.0,
+      "points": 1,
+      "label": "removal_rateswhited"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Removal rates[\\s\\S]*?Black:\\s*([\\d.]+)%",
+      "expected": 56.0,
+      "tolerance": 2.0,
+      "points": 1,
+      "label": "removal_ratesblackd"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Black substantiation RR:\\s*([\\d.]+)",
+      "expected": 1.03,
+      "tolerance": 0.1,
+      "points": 1,
+      "label": "black_substantiation_rrd"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Black removal RR:\\s*([\\d.]+)",
+      "expected": 1.53,
+      "tolerance": 0.15,
+      "points": 1,
+      "label": "black_removal_rrd"
+    },
+    {
+      "type": "regex",
+      "pattern": "Most overrepresented \\(substantiation\\):\\s*(.+)",
+      "expected_pattern": "(?i)Hispanic",
+      "points": 1,
+      "label": "most_overrepresented_substantiation"
+    },
+    {
+      "type": "regex",
+      "pattern": "Most overrepresented \\(removal\\):\\s*(.+)",
+      "expected_pattern": "(?i)Other",
+      "points": 1,
+      "label": "most_overrepresented_removal"
+    },
+    {
+      "type": "file_exists",
+      "filename": "disparity_report.csv",
+      "points": 1,
+      "label": "disparity_report_csv"
+    },
+    {
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1,
+      "label": "summary_md"
+    }
+  ],
+  "total_points": 16,
+  "auto_points": 16,
+  "human_points": 0
+}

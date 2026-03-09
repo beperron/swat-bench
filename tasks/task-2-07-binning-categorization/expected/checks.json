@@ -1,0 +1,67 @@
+{
+  "test_id": "task-2-07",
+  "task_name": "Binning Categorization",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 150,
+      "pattern": "Total participants: (\\d+)",
+      "label": "check_1"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 73,
+      "pattern": "Obese: (\\d+)",
+      "label": "check_2"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 26,
+      "pattern": "Mild: (\\d+)",
+      "label": "check_3"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 39,
+      "pattern": "Anxiety Severe: (\\d+)",
+      "label": "check_4"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 66,
+      "pattern": "High risk: (\\d+)",
+      "label": "check_5"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 48.7,
+      "tolerance": 0.5,
+      "pattern": "Obese rate: ([\\d.]+)%",
+      "label": "check_6"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 66.0,
+      "tolerance": 0.5,
+      "pattern": "Moderate\\+ depression rate: ([\\d.]+)%",
+      "label": "check_7"
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

@@ -1,0 +1,121 @@
+client_id,first_name,last_name,dob,ssn_last4,referral_source,referral_date,case_type,assigned_worker,phone,zip_code
+CW-10099,Ruth,King,2015-05-20,5526,Court Order,2023-09-07,Physical Abuse,"Patel, S.",312-937-7658,60630
+CW-10103,George,Reed,2007-01-05,3579,DHS Hotline,2023-11-03,Supervised Visitation,"Kim, J.",312-877-7947,60630
+CW-10089,Jennifer,Stewart,2012-04-27,8541,Family Member,2024-04-08,Neglect Investigation,"Patel, S.",312-608-6378,60622
+CW-10003,Shirley,Morgan,2011-06-14,2146,Community Center,2024-10-11,Physical Abuse,"O'Brien, K.",312-719-6067,60639
+CW-10122,Donna,Ramos,2018-05-19,1986,DHS Hotline,2023-04-21,Family Preservation,"O'Brien, K.",312-876-2330,60619
+CW-10023,Ashley,Thompson,2007-03-01,7693,Therapist,2024-05-02,Family Preservation,"O'Brien, K.",312-923-5632,60640
+CW-10091,Nicholas,Taylor,2005-07-19,1444,Police Department,2024-03-28,Reunification,"Williams, D.",312-251-5262,60626
+CW-10027,Larry,Bailey,2015-08-20,9270,Pediatrician,2024-03-24,Reunification,"Kim, J.",312-465-5050,60644
+CW-10090,Angela,Martinez,2014-08-15,1616,School District 204,2024-05-03,Physical Abuse,"Adams, R.",312-808-9307,60626
+CW-10009,Michael,Adams,2006-05-12,7141,Pediatrician,2023-04-17,Foster Care Placement,"Adams, R.",312-898-3950,60619
+CW-10038,Zachary,Morris,2008-04-13,6881,DHS Hotline,2024-12-10,Neglect Investigation,"Rivera, C.",312-481-1132,60636
+CW-10085,Mark,Taylor,2016-09-17,5465,Hospital ER,2024-08-26,Supervised Visitation,"Jackson, L.",312-317-8673,60616
+CW-10121,David,Clark,2018-07-25,1320,DHS Hotline,2024-08-01,Kinship Care,"O'Brien, K.",312-971-7389,60645
+CW-10026,Nicole,Miller,2015-02-11,2548,Court Order,2024-05-09,Emotional Abuse,"Jackson, L.",312-283-3317,60625
+CW-10056,Karen,Roberts,2011-10-17,3236,Police Department,2024-07-11,Voluntary Services,"O'Brien, K.",312-202-5634,60641
+CW-10045,Olivia,Peterson,2011-10-07,4817,Family Member,2023-10-01,Supervised Visitation,"Williams, D.",312-333-9850,60622
+CW-10042,Brian,Allen,2012-02-24,4155,Family Member,2023-12-18,Emotional Abuse,"Patel, S.",312-421-8933,60622
+CW-10080,Virginia,Miller,2008-01-13,6559,Police Department,2023-04-07,Voluntary Services,"Kim, J.",312-343-7912,60619
+CW-10112,Richard,Hernandez,2007-07-04,7105,Hospital ER,2023-10-18,Voluntary Services,"Jackson, L.",312-886-3002,60628
+CW-10101,Debra,Wright,2006-03-16,9502,Community Center,2024-05-06,Foster Care Placement,"Kim, J.",312-293-8700,60625
+CW-10082,Kenneth,Garcia,2006-09-10,3068,Community Center,2024-02-28,Neglect Investigation,"Adams, R.",312-491-8690,60630
+CW-10061,Amanda,Lewis,2007-11-02,1508,Self-Referral,2023-01-20,Emotional Abuse,"Patel, S.",312-329-8758,60639
+CW-10067,Donna,Ramos,2020-03-15,9824,Self-Referral,2023-05-02,Voluntary Services,"Rivera, C.",312-666-6272,60645
+CW-10123,George,Carter,2014-08-17,8048,Police Department,2023-11-21,Voluntary Services,"Patel, S.",312-640-8398,60621
+CW-10113,Joseph,Morales,2019-02-03,6277,DHS Hotline,2023-02-05,Supervised Visitation,"Adams, R.",312-848-9984,60640
+CW-10035,Daniel,Parker,2010-12-17,5425,DHS Hotline,2024-08-14,Supervised Visitation,"Jackson, L.",312-451-2419,60622
+CW-10077,Rebecca,Adams,2017-12-10,3085,Self-Referral,2024-11-13,Emotional Abuse,"Adams, R.",312-782-5930,60626
+CW-10065,Anthony,Richardson,2010-12-15,1715,Court Order,2024-05-25,Family Preservation,"Kim, J.",312-825-5668,60642
+CW-10016,Karen,Lewis,2017-09-12,2479,Pediatrician,2023-05-18,Physical Abuse,"Kim, J.",312-577-5295,60636
+CW-10083,Brenda,Martin,2013-05-20,4450,Faith Organization,2024-04-22,Supervised Visitation,"Murphy, T.",312-700-5114,60645
+CW-10067,Donna,Ramos,2020-03-15,9824,Therapist,2024-06-18,Voluntary Services,"Rivera, C.",312-666-6272,60645
+CW-10021,Samuel,Cruz,2018-05-07,9394,Police Department,2024-07-04,Supervised Visitation,"Adams, R.",312-698-9633,60639
+CW-10062,Joseph,Kim,2018-06-24,6139,Pediatrician,2023-07-19,Family Preservation,"O'Brien, K.",312-245-8144,60614
+CW-10075,Shirley,Edwards,2008-04-08,2049,Family Member,2023-10-18,Family Preservation,"Adams, R.",312-425-1117,60616
+CW-10126,Brian,Baker,2012-06-25,3754,Police Department,2023-09-17,Family Preservation,"Jackson, L.",312-559-3419,60621
+CW-10064,Richard,Green,2013-06-04,7622,Court Order,2023-11-28,Voluntary Services,"Kim, J.",312-623-1888,60620
+CW-10120,Christine,Howard,2016-08-18,9698,Family Member,2024-12-18,Kinship Care,"Jackson, L.",312-919-8434,60622
+CW-10036,Maria,Murphy,2018-03-05,7229,Court Order,2023-09-18,Kinship Care,"Chen, M.",312-606-1693,60628
+CW-10019,Virginia,Rodriguez,2013-06-21,9346,Pediatrician,2024-01-04,Supervised Visitation,"Williams, D.",312-794-5349,60615
+CW-10054,Joseph,Jackson,2013-04-06,3504,Community Center,2023-03-25,Reunification,"Kim, J.",312-972-8354,60639
+CW-10128,Virginia,Miller,2020-05-25,4770,DHS Hotline,2024-04-21,Family Preservation,"Adams, R.",312-456-3240,60638
+CW-10009,Michael,Adams,2006-05-12,7141,Pediatrician,2023-04-17,Foster Care Placement,"Adams, R.",312-898-3950,60619
+CW-10109,Betty,Thomas,2019-02-22,4475,Community Center,2023-01-26,Kinship Care,"Patel, S.",312-328-4362,60616
+CW-10017,Kenneth,Reyes,2012-02-15,2604,School District 204,2023-02-25,Family Preservation,"Williams, D.",312-616-8956,60630
+CW-10125,Shirley,Campbell,2020-11-15,1845,Self-Referral,2024-09-05,Supervised Visitation,"Kim, J.",312-915-8941,60617
+CW-10002,Virginia,Wilson,2018-04-06,9486,Therapist,2023-09-08,Physical Abuse,"Kim, J.",312-336-8612,60639
+CW-10025,Nancy,Hernandez,2017-10-22,4945,Therapist,2023-04-15,Supervised Visitation,"Kim, J.",312-461-1153,60643
+CW-10011,Susan,Watson,2006-05-26,8222,School District 204,2024-12-05,Physical Abuse,"O'Brien, K.",312-534-7807,60619
+CW-10008,Janet,Anderson,2013-11-11,2827,Neighbor Report,2024-03-15,Neglect Investigation,"O'Brien, K.",312-712-3927,60631
+CW-10092,Barbara,Cook,2010-01-08,8172,Therapist,2023-06-12,Supervised Visitation,"Rivera, C.",312-618-6543,60639
+CW-10081,Jessica,Reed,2011-08-23,5198,Family Member,2023-10-20,Physical Abuse,"Williams, D.",312-518-2771,60636
+CW-10073,Gregory,Scott,2020-11-08,5499,Therapist,2023-12-10,Family Preservation,"O'Brien, K.",312-543-6238,60632
+CW-10072,Brian,Gomez,2009-10-23,2388,Therapist,2024-03-27,Kinship Care,"Williams, D.",312-886-9624,60616
+CW-10006,Christopher,Roberts,2019-06-22,9850,Pediatrician,2023-07-21,Physical Abuse,"Kim, J.",312-830-7686,60622
+CW-10002,Virginia,Wilson,2018-04-06,9486,Therapist,2023-09-08,Physical Abuse,"Kim, J.",312-336-8612,60639
+CW-10051,Robert,Flores,2017-07-23,4249,Police Department,2023-02-23,Supervised Visitation,"Adams, R.",312-323-1672,60625
+CW-10116,Karen,Brooks,2005-02-24,9691,Self-Referral,2024-07-15,Kinship Care,"Williams, D.",312-578-6105,60641
+CW-10013,Joshua,Miller,2009-12-14,9619,Police Department,2023-08-15,Kinship Care,"Murphy, T.",312-807-2786,60629
+CW-10104,Brenda,Smith,2014-05-07,8043,DHS Hotline,2024-08-15,Reunification,"Patel, S.",312-723-8752,60643
+CW-10065,Anthony,Richardson,2010-12-15,1715,Pediatrician,2024-11-24,Family Preservation,"Kim, J.",312-825-5668,60642
+CW-10049,Angela,Lewis,2006-12-26,9543,Neighbor Report,2024-11-01,Neglect Investigation,"Kim, J.",312-611-7984,60639
+CW-10022,Janet,Kelly,2020-04-26,8749,Pediatrician,2023-02-04,Foster Care Placement,"Jackson, L.",312-633-7735,60629
+CW-10079,Justin,Jones,2007-04-21,5708,Self-Referral,2023-07-04,Physical Abuse,"Kim, J.",312-370-5906,60614
+CW-10020,Ronald,Diaz,2006-05-20,6119,Family Member,2023-10-17,Family Preservation,"Williams, D.",312-872-8900,60621
+CW-10059,Henry,Reyes,2014-11-14,2911,Hospital ER,2023-01-10,Reunification,"Chen, M.",312-299-4846,60632
+CW-10066,Cynthia,Richardson,2008-02-18,4492,Court Order,2024-03-12,Physical Abuse,"Patel, S.",312-578-5669,60619
+CW-10110,Henry,Jackson,2007-01-06,6039,DHS Hotline,2024-08-04,Reunification,"O'Brien, K.",312-916-7594,60622
+CW-10048,Melissa,Garcia,2016-04-22,5088,Community Center,2023-06-25,Voluntary Services,"Rivera, C.",312-835-3532,60621
+CW-10040,Adam,Perez,2007-05-17,6491,Police Department,2023-11-10,Family Preservation,"Patel, S.",312-350-1400,60615
+CW-10108,Barbara,Moore,2009-04-13,3503,Faith Organization,2023-02-14,Foster Care Placement,"Jackson, L.",312-755-8633,60628
+CW-10096,Joseph,Watson,2014-11-17,4258,Hospital ER,2024-03-18,Voluntary Services,"Torres, A.",312-813-6310,60630
+CW-10105,Rebecca,Baker,2019-07-14,2557,Family Member,2024-06-22,Supervised Visitation,"Jackson, L.",312-356-8770,60616
+CW-10010,Virginia,Anderson,2009-11-06,7916,DHS Hotline,2023-07-13,Reunification,"Murphy, T.",312-457-1188,60639
+CW-10072,Brian,Gomez,2009-10-23,2388,Neighbor Report,2024-11-26,Kinship Care,"Williams, D.",312-886-9624,60616
+CW-10069,Deborah,Brooks,2016-02-22,4830,Therapist,2023-10-18,Kinship Care,"Adams, R.",312-426-2035,60638
+CW-10034,Jennifer,Mitchell,2011-08-15,4868,Family Member,2023-11-12,Voluntary Services,"Jackson, L.",312-262-7523,60622
+CW-10102,Robert,Watson,2012-12-06,6091,Court Order,2023-09-14,Physical Abuse,"Patel, S.",312-316-8560,60617
+CW-10001,Brian,Garcia,2012-07-20,1897,School District 204,2023-05-07,Emotional Abuse,"O'Brien, K.",312-496-6375,60617
+CW-10068,Sarah,Taylor,2020-09-06,5342,Court Order,2024-04-18,Family Preservation,"O'Brien, K.",312-608-7118,60629
+CW-10127,Linda,Lopez,2018-05-02,1058,Family Member,2023-11-09,Emotional Abuse,"Kim, J.",312-764-8007,60632
+CW-10119,Pamela,Brooks,2015-11-11,3473,Therapist,2023-08-15,Supervised Visitation,"O'Brien, K.",312-805-1920,60625
+CW-10093,Gary,Young,2019-10-20,7209,Family Member,2023-08-28,Kinship Care,"Williams, D.",312-699-4475,60625
+CW-10086,Stephen,Hernandez,2010-02-20,2113,Community Center,2023-07-04,Family Preservation,"Adams, R.",312-808-1651,60637
+CW-10098,Anna,Diaz,2016-02-17,6590,School District 204,2024-08-04,Foster Care Placement,"Jackson, L.",312-850-8532,60640
+CW-10001,Brian,Garcia,2012-07-20,1897,School District 204,2023-05-07,Emotional Abuse,"O'Brien, K.",312-496-6375,60617
+CW-10058,George,Perez,2019-12-12,2443,Pediatrician,2023-04-14,Foster Care Placement,"Murphy, T.",312-280-7484,60645
+CW-10097,Joyce,Wilson,2016-09-12,2882,Neighbor Report,2023-07-28,Voluntary Services,"Adams, R.",312-828-1430,60637
+CW-10114,Katherine,Diaz,2016-01-12,6060,Hospital ER,2023-06-25,Reunification,"Patel, S.",312-431-3253,60618
+CW-10060,Laura,Baker,2010-01-09,8827,Police Department,2023-07-16,Physical Abuse,"Adams, R.",312-844-1878,60618
+CW-10027,Larry,Bailey,2015-08-20,9270,Pediatrician,2024-03-24,Reunification,"Kim, J.",312-465-5050,60644
+CW-10035,Daniel,Parker,2010-12-17,5425,Self-Referral,2024-11-19,Supervised Visitation,"Jackson, L.",312-451-2419,60622
+CW-10074,Betty,Walker,2017-04-28,7730,School District 204,2024-12-16,Foster Care Placement,"Rivera, C.",312-879-3492,60630
+CW-10043,Daniel,Reed,2014-02-08,2940,Court Order,2024-10-20,Family Preservation,"Murphy, T.",312-589-8381,60629
+CW-10037,Carolyn,Watson,2006-04-03,1514,Family Member,2023-09-08,Supervised Visitation,"Kim, J.",312-419-9834,60618
+CW-10063,Virginia,Collins,2007-11-08,5334,Community Center,2023-07-04,Voluntary Services,"Patel, S.",312-863-3441,60622
+CW-10052,Patricia,Anderson,2016-05-08,1949,Self-Referral,2023-02-24,Reunification,"Chen, M.",312-978-9727,60642
+CW-10039,Scott,Walker,2020-11-23,9041,Therapist,2023-02-10,Family Preservation,"Rivera, C.",312-908-4986,60623
+CW-10084,Nicholas,Howard,2006-08-26,4084,Family Member,2024-09-05,Neglect Investigation,"Kim, J.",312-305-6626,60640
+CW-10106,Andrew,Stewart,2007-08-14,4185,Faith Organization,2024-08-13,Family Preservation,"Williams, D.",312-871-1090,60642
+CW-10094,Betty,Nguyen,2011-01-19,9883,School District 204,2024-01-02,Reunification,"Murphy, T.",312-743-3579,60615
+CW-10024,Angela,Cooper,2020-08-03,1653,Pediatrician,2024-10-09,Neglect Investigation,"Chen, M.",312-434-1339,60642
+CW-10031,James,Anderson,2007-12-05,9938,School District 204,2024-10-18,Emotional Abuse,"Rivera, C.",312-330-1685,60623
+CW-10107,Jennifer,Taylor,2015-02-28,8213,Police Department,2024-01-24,Emotional Abuse,"Rivera, C.",312-870-3529,60616
+CW-10041,Rebecca,Nelson,2015-11-04,3634,Family Member,2024-12-16,Supervised Visitation,"Rivera, C.",312-978-1601,60629
+CW-10015,Olivia,Turner,2012-08-08,5471,Pediatrician,2024-01-13,Kinship Care,"Rivera, C.",312-941-3704,60644
+CW-10057,Virginia,Lee,2010-07-01,3938,Faith Organization,2024-07-26,Family Preservation,"O'Brien, K.",312-363-2771,60626
+CW-10117,Patricia,Collins,2007-06-19,8033,DHS Hotline,2024-12-21,Foster Care Placement,"O'Brien, K.",312-317-7636,60614
+CW-10053,Donald,Phillips,2006-03-13,1035,Pediatrician,2024-08-10,Foster Care Placement,"Murphy, T.",312-877-8973,60618
+CW-10050,George,Ramirez,2019-06-11,7211,Neighbor Report,2024-05-27,Physical Abuse,"Kim, J.",312-219-9837,60615
+CW-10100,Laura,Cooper,2014-10-26,9666,School District 204,2024-11-04,Emotional Abuse,"O'Brien, K.",312-318-2753,60641
+CW-10041,Rebecca,Nelson,2015-11-04,3634,Family Member,2024-12-16,Supervised Visitation,"Rivera, C.",312-978-1601,60629
+CW-10111,Kathleen,King,2015-10-23,7512,Community Center,2023-06-28,Voluntary Services,"Rivera, C.",312-524-8994,60645
+CW-10078,William,Nguyen,2008-09-25,9843,Faith Organization,2023-11-11,Emotional Abuse,"Adams, R.",312-585-3527,60619
+CW-10044,Christine,Wright,2005-03-09,6062,Family Member,2024-01-06,Emotional Abuse,"Adams, R.",312-873-7566,60616
+CW-10033,Barbara,Turner,2015-05-07,6147,Self-Referral,2024-07-05,Supervised Visitation,"Kim, J.",312-523-2188,60614
+CW-10047,Nicholas,Torres,2010-02-15,6661,DHS Hotline,2024-11-14,Supervised Visitation,"Kim, J.",312-509-4263,60626
+CW-10088,Janet,Ramos,2014-02-27,4180,Neighbor Report,2023-06-06,Supervised Visitation,"Torres, A.",312-925-9751,60618
+CW-10054,Joseph,Jackson,2013-04-06,3504,Community Center,2023-03-25,Reunification,"Kim, J.",312-972-8354,60639
+CW-10129,Katherine,Martin,2020-12-10,9337,Faith Organization,2024-07-27,Reunification,"Kim, J.",312-449-8483,60632
+CW-10046,Ruth,Thompson,2008-11-28,1422,Hospital ER,2023-06-26,Family Preservation,"Adams, R.",312-531-1258,60619

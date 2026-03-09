@@ -1,0 +1,78 @@
+{
+  "test_id": "task-4-16",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_respondents",
+      "type": "exact",
+      "pattern": "Total respondents: (\\d+)",
+      "expected": 500,
+      "points": 1
+    },
+    {
+      "label": "total_items",
+      "type": "exact",
+      "pattern": "Total items: (\\d+)",
+      "expected": 20,
+      "points": 1
+    },
+    {
+      "label": "kmo_value",
+      "type": "range",
+      "pattern": "KMO value: ([\\d.]+)",
+      "min": 0.7,
+      "max": 1.0,
+      "points": 1
+    },
+    {
+      "label": "factors_retained",
+      "type": "exact",
+      "pattern": "Factors retained: (\\d+)",
+      "expected": 4,
+      "points": 1
+    },
+    {
+      "label": "variance_explained",
+      "type": "range",
+      "pattern": "Total variance explained: ([\\d.]+)",
+      "min": 45.0,
+      "max": 80.0,
+      "points": 1
+    },
+    {
+      "label": "factor1_items",
+      "type": "regex",
+      "pattern": "Factor 1 items: (.+)",
+      "expected_pattern": "(?:item_0?1.*item_0?2.*item_0?3|item_0?3.*item_0?2.*item_0?1)",
+      "points": 1
+    },
+    {
+      "label": "factor2_items",
+      "type": "regex",
+      "pattern": "Factor 2 items: (.+)",
+      "expected_pattern": "(?:item_0?6.*item_0?7.*item_0?8|item_0?8.*item_0?7.*item_0?6)",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "summary.md"
+  ],
+  "total_points": 9,
+  "auto_points": 9,
+  "human_points": 0,
+  "task_name": "Exploratory Factor Analysis",
+  "domain": "Inferential Statistics",
+  "difficulty": "Advanced"
+}

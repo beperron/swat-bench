@@ -1,0 +1,76 @@
+{
+  "test_id": "task-4-11",
+  "task_name": "Fisher Exact Test",
+  "domain": "Inferential Statistics",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 50,
+      "label": "check_1",
+      "pattern": "Total cases:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 12,
+      "label": "check_2",
+      "pattern": "Physical Abuse \\+ Reunification:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 11,
+      "label": "check_3",
+      "pattern": "Neglect \\+ Foster Care:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 48.0,
+      "tolerance": 1.0,
+      "label": "check_4",
+      "pattern": "Reunification rate \\(Physical\\):\\s*([\\d.]+)%"
+    },
+    {
+      "type": "numeric",
+      "points": 1.0,
+      "expected": 0.73,
+      "tolerance": 0.2,
+      "label": "check_5",
+      "pattern": "Odds ratio:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 1.0,
+      "expected": 0.7775,
+      "tolerance": 0.02,
+      "label": "check_6",
+      "pattern": "Fisher's exact p-value:\\s*([\\d.]+)"
+    },
+    {
+      "type": "regex",
+      "points": 1.0,
+      "expected_pattern": "(?i)no",
+      "label": "check_7",
+      "pattern": "Significant \\(p < 0\\.05\\):\\s*(\\w+)"
+    },
+    {
+      "type": "numeric",
+      "points": 1.0,
+      "expected": 1.17,
+      "tolerance": 0.1,
+      "label": "check_8",
+      "pattern": "Relative risk:\\s*([\\d.]+)"
+    }
+  ],
+  "total_points": 7,
+  "auto_points": 7,
+  "human_points": 0
+}

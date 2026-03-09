@@ -1,0 +1,81 @@
+{
+  "test_id": "task-4-13",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_months",
+      "type": "exact",
+      "pattern": "Total months: (\\d+)",
+      "expected": 60,
+      "points": 1
+    },
+    {
+      "label": "pre_mean",
+      "type": "numeric",
+      "pattern": "Pre-period mean: ([\\d.]+)",
+      "expected": 546.84,
+      "tolerance": 5.0,
+      "points": 1
+    },
+    {
+      "label": "post_mean",
+      "type": "numeric",
+      "pattern": "Post-period mean: ([\\d.]+)",
+      "expected": 465.56,
+      "tolerance": 5.0,
+      "points": 1
+    },
+    {
+      "label": "level_change",
+      "type": "numeric",
+      "pattern": "Level change \\(beta2\\): ([\\d.\\-]+)",
+      "expected": -151.63,
+      "tolerance": 10.0,
+      "points": 1
+    },
+    {
+      "label": "slope_change",
+      "type": "numeric",
+      "pattern": "Slope change \\(beta3\\): ([\\d.\\-]+)",
+      "expected": -1.43,
+      "tolerance": 1.0,
+      "points": 1
+    },
+    {
+      "label": "pre_slope",
+      "type": "numeric",
+      "pattern": "Pre slope \\(beta1\\): ([\\d.\\-]+)",
+      "expected": 3.08,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "level_change_sig",
+      "type": "regex",
+      "pattern": "Level change significant \\(p<0\\.05\\): (\\w+)",
+      "expected_pattern": "(?i)yes",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "summary.md"
+  ],
+  "total_points": 9,
+  "auto_points": 9,
+  "human_points": 0,
+  "task_name": "Interrupted Time Series",
+  "domain": "Inferential Statistics",
+  "difficulty": "Advanced"
+}

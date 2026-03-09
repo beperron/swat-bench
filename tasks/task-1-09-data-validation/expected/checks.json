@@ -1,0 +1,85 @@
+{
+  "test_id": "task-1-09",
+  "task_name": "Data Validation",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 150,
+      "points": 1.0
+    },
+    {
+      "label": "duplicate_ids",
+      "type": "range",
+      "pattern": "Duplicate IDs: (\\d+)",
+      "min": 3,
+      "max": 6,
+      "points": 0.5
+    },
+    {
+      "label": "missing_fields",
+      "type": "range",
+      "pattern": "Missing required fields: (\\d+)",
+      "min": 8,
+      "max": 10,
+      "points": 0.5
+    },
+    {
+      "label": "invalid_zips",
+      "type": "exact",
+      "pattern": "Invalid zip codes: (\\d+)",
+      "expected": 6,
+      "points": 0.5
+    },
+    {
+      "label": "invalid_phones",
+      "type": "exact",
+      "pattern": "Invalid phone numbers: (\\d+)",
+      "expected": 5,
+      "points": 0.5
+    },
+    {
+      "label": "invalid_dates",
+      "type": "range",
+      "pattern": "Invalid dates: (\\d+)",
+      "min": 1,
+      "max": 10,
+      "points": 0.5
+    },
+    {
+      "label": "age_dob_mismatch",
+      "type": "range",
+      "pattern": "Age-DOB mismatch: (\\d+)",
+      "min": 1,
+      "max": 15,
+      "points": 0.5
+    },
+    {
+      "label": "negative_values",
+      "type": "range",
+      "pattern": "Negative values: (\\d+)",
+      "min": 1,
+      "max": 10,
+      "points": 0.5
+    },
+    {
+      "label": "inconsistent_categories",
+      "type": "range",
+      "pattern": "Inconsistent categories: (\\d+)",
+      "min": 1,
+      "max": 15,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

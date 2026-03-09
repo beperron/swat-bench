@@ -1,0 +1,139 @@
+{
+  "test_id": "task-7-02",
+  "task_name": "Placement Stability by Age & Race",
+  "domain": "Multi-Step Data Analysis",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "pattern": "childpersoninfo.*?:\\s*(\\d+)",
+      "expected": 180,
+      "points": 1,
+      "label": "childpersoninfo"
+    },
+    {
+      "type": "exact",
+      "pattern": "removals.*?:\\s*(\\d+)",
+      "expected": 180,
+      "points": 1,
+      "label": "removals"
+    },
+    {
+      "type": "exact",
+      "pattern": "placements.*?:\\s*(\\d+)",
+      "expected": 411,
+      "points": 1,
+      "label": "placements"
+    },
+    {
+      "type": "exact",
+      "pattern": "Merged removal episodes:\\s*(\\d+)",
+      "expected": 180,
+      "points": 1,
+      "label": "merged_removal_episodes"
+    },
+    {
+      "type": "exact",
+      "pattern": "0-2:\\s*(\\d+)",
+      "expected": 31,
+      "points": 1,
+      "label": "02"
+    },
+    {
+      "type": "exact",
+      "pattern": "12-17:\\s*(\\d+)",
+      "expected": 72,
+      "points": 1,
+      "label": "1217"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Mean placements per episode:\\s*([\\d.]+)",
+      "expected": 2.28,
+      "tolerance": 0.1,
+      "points": 1,
+      "label": "mean_placements_per_episoded"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Median placements per episode:\\s*([\\d.]+)",
+      "expected": 2.0,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "median_placements_per_episoded"
+    },
+    {
+      "type": "numeric",
+      "pattern": "White:\\s*mean=([\\d.]+)",
+      "expected": 2.25,
+      "tolerance": 0.1,
+      "points": 1,
+      "label": "whitemeand"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Black:\\s*mean=([\\d.]+)",
+      "expected": 2.44,
+      "tolerance": 0.1,
+      "points": 1,
+      "label": "blackmeand"
+    },
+    {
+      "type": "regex",
+      "pattern": "Most unstable group \\(age\\):\\s*(.+)",
+      "expected_pattern": "(?i)12-17",
+      "points": 1,
+      "label": "most_unstable_group_age"
+    },
+    {
+      "type": "regex",
+      "pattern": "Most unstable group \\(race\\):\\s*(.+)",
+      "expected_pattern": "(?i)Black",
+      "points": 1,
+      "label": "most_unstable_group_race"
+    },
+    {
+      "type": "exact",
+      "pattern": "Episodes with 3\\+ placements:\\s*(\\d+)",
+      "expected": 74,
+      "points": 1,
+      "label": "episodes_with_3_placements"
+    },
+    {
+      "type": "numeric",
+      "pattern": "Episodes with 3\\+ placements rate:\\s*([\\d.]+)%",
+      "expected": 41.1,
+      "tolerance": 0.5,
+      "points": 1,
+      "label": "episodes_with_3_placements_rated"
+    },
+    {
+      "type": "numeric",
+      "pattern": "0-2:\\s*mean=([\\d.]+)",
+      "expected": 1.52,
+      "tolerance": 0.1,
+      "points": 1,
+      "label": "02meand"
+    },
+    {
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1,
+      "label": "summary_md"
+    },
+    {
+      "type": "file_exists",
+      "filename": "stability_report.csv",
+      "points": 1,
+      "label": "stability_report_csv"
+    }
+  ],
+  "total_points": 18,
+  "auto_points": 18,
+  "human_points": 0
+}

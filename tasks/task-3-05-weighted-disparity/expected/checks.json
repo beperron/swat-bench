@@ -1,0 +1,87 @@
+{
+  "test_id": "task-3-05",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_respondents",
+      "type": "exact",
+      "pattern": "Total respondents: (\\d+)",
+      "expected": 2000,
+      "points": 1
+    },
+    {
+      "label": "overall_unweighted",
+      "type": "numeric",
+      "pattern": "Overall unweighted mean: ([\\d.]+)",
+      "expected": 64.04,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "overall_weighted",
+      "type": "numeric",
+      "pattern": "Overall weighted mean: ([\\d.]+)",
+      "expected": 65.77,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "white_mean",
+      "type": "numeric",
+      "pattern": "White mean.*: ([\\d.]+)",
+      "expected": 72.1,
+      "tolerance": 0.5,
+      "points": 1
+    },
+    {
+      "label": "lowest_group",
+      "type": "regex",
+      "pattern": "Lowest group: (\\w+)",
+      "expected_pattern": "(?i)Other",
+      "points": 1
+    },
+    {
+      "label": "disparity_ratio",
+      "type": "numeric",
+      "pattern": "Disparity ratio: ([\\d.]+)",
+      "expected": 1.42,
+      "tolerance": 0.05,
+      "points": 1
+    },
+    {
+      "label": "unique_races",
+      "type": "exact",
+      "pattern": "Unique races: (\\d+)",
+      "expected": 5,
+      "points": 1
+    },
+    {
+      "label": "disparity_csv_exists",
+      "type": "file_exists",
+      "filename": "disparity_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "disparity_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Weighted Disparity Analysis",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Intermediate"
+}

@@ -1,0 +1,66 @@
+{
+  "test_id": "task-1-07",
+  "task_name": "Codebook Application",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Advanced",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 100,
+      "points": 1.0
+    },
+    {
+      "label": "variables_to_recode",
+      "type": "exact",
+      "pattern": "Total variables to recode: (\\d+)",
+      "expected": 6,
+      "points": 1.0
+    },
+    {
+      "label": "unmapped_codes",
+      "type": "exact",
+      "pattern": "Unmapped codes found: (\\d+)",
+      "expected": 0,
+      "points": 1.0
+    },
+    {
+      "label": "most_common_diagnosis",
+      "type": "regex",
+      "pattern": "Most common diagnosis: (.+)",
+      "points": 0.5,
+      "expected_pattern": "PTSD"
+    },
+    {
+      "label": "most_common_housing",
+      "type": "regex",
+      "pattern": "Most common housing status: (.+)",
+      "points": 0.5,
+      "expected_pattern": "Temporary/Transitional"
+    },
+    {
+      "label": "mean_total_score",
+      "type": "numeric",
+      "pattern": "Mean total score: ([\\d.]+)",
+      "expected": 51.74,
+      "tolerance": 0.1,
+      "points": 0.5
+    },
+    {
+      "label": "records_all_mapped",
+      "type": "exact",
+      "pattern": "Records with all codes mapped: (\\d+)",
+      "expected": 100,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

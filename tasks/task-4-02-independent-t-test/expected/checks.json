@@ -1,0 +1,78 @@
+{
+  "test_id": "task-4-02",
+  "task_name": "Independent T Test",
+  "domain": "Inferential Statistics",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_participants",
+      "type": "exact",
+      "pattern": "Total participants: (\\d+)",
+      "expected": 60,
+      "points": 1.0
+    },
+    {
+      "label": "icm_mean",
+      "type": "numeric",
+      "pattern": "ICM mean: ([\\d.]+)",
+      "expected": 70.43,
+      "tolerance": 0.2,
+      "points": 1.0
+    },
+    {
+      "label": "tau_mean",
+      "type": "numeric",
+      "pattern": "TAU mean: ([\\d.]+)",
+      "expected": 56.97,
+      "tolerance": 0.2,
+      "points": 0.5
+    },
+    {
+      "label": "mean_difference",
+      "type": "numeric",
+      "pattern": "Mean difference \\(ICM - TAU\\): ([\\d.]+)",
+      "expected": 13.46,
+      "tolerance": 0.5,
+      "points": 0.5
+    },
+    {
+      "label": "t_statistic",
+      "type": "numeric",
+      "pattern": "t-statistic: ([\\d.]+)",
+      "expected": 4.18,
+      "tolerance": 0.3,
+      "points": 0.5
+    },
+    {
+      "label": "p_value",
+      "type": "numeric",
+      "pattern": "p-value: ([\\d.]+)",
+      "expected": 0.0001,
+      "tolerance": 0.01,
+      "points": 0.5
+    },
+    {
+      "label": "cohens_d",
+      "type": "numeric",
+      "pattern": "Cohen's d: ([\\d.]+)",
+      "expected": 1.08,
+      "tolerance": 0.1,
+      "points": 0.5
+    },
+    {
+      "label": "significant",
+      "type": "regex",
+      "pattern": "Significant \\(p < 0\\.05\\): (.+)",
+      "expected_pattern": "(?i)yes",
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

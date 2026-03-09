@@ -1,0 +1,69 @@
+{
+  "test_id": "task-3-04",
+  "task_name": "Rate Calculations",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 6,
+      "label": "check_1",
+      "pattern": "Districts analyzed:\\s*(\\d+)"
+    },
+    {
+      "type": "regex",
+      "points": 1.0,
+      "label": "check_2",
+      "pattern": "Highest referral rate district:\\s*(.+)",
+      "expected_pattern": "(?i)District_6"
+    },
+    {
+      "type": "regex",
+      "points": 1.0,
+      "label": "check_3",
+      "pattern": "Lowest referral rate district:\\s*(.+)",
+      "expected_pattern": "(?i)District_3"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 49.8,
+      "tolerance": 0.2,
+      "label": "check_4",
+      "pattern": "County-wide referral rate:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 109.7,
+      "tolerance": 0.2,
+      "label": "check_5",
+      "pattern": "County-wide MH rate:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 51.6,
+      "tolerance": 0.2,
+      "label": "check_6",
+      "pattern": "County-wide SA rate:\\s*([\\d.]+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 2.46,
+      "tolerance": 0.1,
+      "label": "check_7",
+      "pattern": "Rate ratio \\(highest/lowest referral\\):\\s*([\\d.]+)"
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

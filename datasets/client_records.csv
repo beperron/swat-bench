@@ -1,0 +1,151 @@
+client_id,first_name,last_name,dob,age,gender,race_ethnicity,zip_code,referral_date,case_type,caseworker_id,income,num_children,phone,status
+1001,Maria,Gonzalez,1985-03-14,41,Female,Hispanic/Latino,10452,2024-06-10,Child Welfare,CW-201,32000,3,2125559012,Active
+1002,James,Williams,1978-11-22,47,Male,Black/African American,30312,2024-01-15,Substance Abuse,CW-105,28500,2,4045558823,Active
+1003,Sarah,Thompson,1990-07-08,35,Female,White,60614,2023-11-20,Mental Health,CW-302,45000,1,7735554567,Closed
+1004,David,Chen,1982-05-30,43,Male,Asian,94102,2024-03-05,Housing Assistance,CW-410,51000,0,4155551234,Active
+1005,Latoya,Jackson,1995-01-17,31,Female,Black/African American,48201,2024-08-12,Child Welfare,CW-201,19500,4,3135559876,Pending
+1006,Robert,Martinez,1970-09-25,55,Male,Hispanic/Latino,85004,2024-02-28,Elder Care,CW-112,22000,0,6025553344,Closed
+1007,Emily,Nguyen,1988-12-03,37,Female,Asian,77001,2024-05-19,Domestic Violence,CW-305,38000,2,7135557788,Active
+1008,Michael,Brown,1965-04-11,60,Male,Black/African American,19104,2024-07-01,Housing Assistance,CW-410,15000,0,2155552233,Active
+1009,Jennifer,Davis,1992-08-20,33,Female,White,02134,2024-09-14,Mental Health,CW-302,42000,1,6175558899,Pending
+1010,Carlos,Rivera,1980-06-15,45,Male,Hispanic/Latino,33125,2024-04-22,Substance Abuse,CW-105,27000,3,3055551122,Active
+1011,Angela,White,1975-02-28,51,Female,Black/African American,30303,2023-12-08,Child Welfare,CW-201,33500,2,4045556677,Closed
+1012,Kevin,Lee,1998-10-09,27,Male,Asian,10013,2024-01-30,Mental Health,CW-302,55000,0,2125553344,Active
+1013,Patricia,Moore,1960-03-22,65,Female,White,85281,2024-06-15,Elder Care,CW-112,18000,0,4805559988,Active
+1014,,Robinson,1987-07-14,38,Female,Black/African American,60616,2024-03-11,Domestic Violence,CW-305,29000,2,7735552211,Active
+1015,Thomas,Garcia,1983-11-05,42,Male,Hispanic/Latino,77004,2024-08-25,Housing Assistance,CW-410,24000,1,7135554455,Pending
+1016,Lisa,Anderson,1991-09-18,34,Female,White,02139,2024-05-03,Child Welfare,CW-201,41000,3,6175557766,Active
+1017,Marcus,,1976-04-30,49,Male,Black/African American,48202,2024-02-14,Substance Abuse,CW-105,20000,1,3135558844,Active
+1018,Rosa,Hernandez,1984-08-12,41,Female,Hispanic/Latino,33126,2024-07-20,Mental Health,CW-302,36000,2,3055559933,Closed
+1019,Steven,Taylor,1968-01-25,58,Male,White,19103,2024-10-01,Elder Care,CW-112,16500,0,2155551144,Active
+1020,Diana,Kim,1993-06-07,32,Female,Asian,94103,2024-04-08,Domestic Violence,CW-305,48000,1,4155552266,Pending
+1021,Anthony,Clark,1979-12-19,46,Male,White,60618,2024-01-22,Housing Assistance,CW-410,31000,2,7735558800,Active
+1022,Michelle,Lewis,1986-02-14,40,Female,Black/African American,30305,2024-06-30,Child Welfare,CW-201,26000,4,4045553355,Active
+1023,Raymond,Walker,1972-10-08,53,Male,White,85003,2024-09-05,Substance Abuse,CW-105,23000,0,6025557722,Closed
+1024,Stephanie,Hall,1994-05-21,31,Female,White,10001,2024-03-18,Mental Health,CW-302,52000,0,2125556688,Active
+1025,George,Young,1961-07-30,64,Male,White,02138,2024-08-10,Elder Care,CW-112,19000,0,6175554433,Pending
+1026,Brenda,Allen,1989-11-12,36,Female,Black/African American,77002,2024-05-27,Domestic Violence,CW-305,34000,1,7135553322,Active
+1027,Frank,King,1977-03-03,48,Male,White,48203,2024-02-06,Housing Assistance,CW-410,28000,2,3135556611,Active
+1028,Cynthia,Wright,1983-09-26,42,Female,White,33127,2024-07-14,Child Welfare,CW-201,37000,3,3055558877,Closed
+1029,Daniel,Lopez,1996-01-08,30,Male,Hispanic/Latino,19107,2024-10-20,Mental Health,CW-302,44000,0,2155559966,Active
+1030,Tamika,Scott,1974-06-17,51,Female,Black/African American,94104,2024-04-02,Substance Abuse,CW-105,21000,1,4155557744,Pending
+1031,Gregory,Green,1981-08-04,44,Male,White,60620,2024-01-09,Elder Care,CW-112,17500,0,7735551133,Active
+1032,Nicole,Adams,1990-12-29,35,Female,White,30308,2024-06-22,Domestic Violence,CW-305,39000,1,4045552244,Active
+1033,Willie,Baker,1967-05-13,58,Male,Black/African American,85006,2024-09-17,Housing Assistance,CW-410,14000,0,6025558866,Closed
+1034,Karen,Nelson,1985-10-01,40,Female,White,10003,2024-03-25,Child Welfare,CW-201,46000,2,2125554477,Active
+1035,Jose,Ramirez,1992-03-19,33,Male,Hispanic/Latino,77005,2024-08-03,Mental Health,CW-302,30000,1,7135556699,Pending
+1036,Sandra,Mitchell,1971-07-22,54,Female,White,02140,2024-05-11,Substance Abuse,CW-105,25000,0,6175553388,Active
+1037,Philip,Perez,1988-04-06,38,Male,Hispanic/Latino,48204,2024-02-20,Elder Care,CW-112,20500,0,3135554477,Active
+1038,Dorothy,Roberts,1963-09-14,62,Female,Black/African American,33128,2024-07-08,Domestic Violence,CW-305,16000,0,3055556633,Closed
+1039,Jerry,Turner,1980-01-28,46,Male,White,19106,2024-10-12,Housing Assistance,CW-410,33000,3,2155558855,Active
+1040,Deborah,Phillips,1997-06-05,28,Female,White,94105,2024-04-15,Child Welfare,CW-201,50000,1,4155551177,Pending
+1041,Lawrence,Campbell,1973-11-10,52,Male,White,60622,2024-01-28,Mental Health,CW-302,29000,2,7735559922,Active
+1042,Laura,Parker,1986-08-23,39,Female,White,30310,2024-06-04,Substance Abuse,CW-105,35000,0,4045558811,Active
+1043,Ronald,Evans,1969-02-17,57,Male,White,85007,2024-09-23,Elder Care,CW-112,18500,0,6025551155,Closed
+1044,Sharon,Edwards,1993-04-12,32,Female,White,10004,2024-03-07,Domestic Violence,CW-305,43000,1,2125557733,Active
+1045,Jason,,1982-07-29,43,Male,Black/African American,77006,2024-08-18,Housing Assistance,CW-410,22500,2,7135552288,Pending
+1046,Ruth,Collins,1976-12-01,49,Female,White,02141,2024-05-20,Child Welfare,CW-201,40000,3,6175556644,Active
+1047,Jack,Stewart,1989-05-16,36,Male,White,48205,2024-02-09,Mental Health,CW-302,47000,0,3135557733,Active
+1048,Virginia,Sanchez,1964-10-24,61,Female,Hispanic/Latino,33129,2024-07-26,Substance Abuse,CW-105,13500,0,3055554411,Closed
+1049,Adam,Morris,1991-02-08,35,Male,White,19108,2024-10-05,Elder Care,CW-112,21500,0,2155553366,Active
+1050,,Rogers,1978-09-03,47,Female,White,94106,2024-04-19,Domestic Violence,CW-305,32500,1,4155558822,Pending
+1051,Ralph,Reed,1975-06-20,50,Male,White,60624,2024-01-14,Housing Assistance,CW-410,26500,2,7735554466,Active
+1052,Marilyn,Cook,1987-03-08,38,Female,White,30311,2024-06-17,Child Welfare,CW-201,38000,2,4045551199,Active
+1053,Roy,Morgan,1970-08-31,55,Male,White,85008,2024-09-10,Mental Health,CW-302,24500,0,6025553377,Closed
+1054,Teresa,Bell,1994-12-14,31,Female,White,10005,2024-03-22,Substance Abuse,CW-105,49000,0,2125558866,Active
+1055,Eugene,Murphy,1981-01-26,45,Male,White,77007,2024-08-07,Elder Care,CW-112,19500,0,7135559944,Pending
+1056,Janet,Bailey,1966-04-09,59,Female,White,02142,2024-05-14,Domestic Violence,CW-305,17000,0,6175552277,Active
+1057,Harold,Rivera,1983-10-18,42,Male,Hispanic/Latino,48206,2024-02-25,Housing Assistance,CW-410,30500,1,3135551166,Active
+1058,Catherine,Cooper,1990-06-22,35,Female,White,33130,2024-07-03,Child Welfare,CW-201,41500,3,3055557788,Closed
+1059,Carl,Richardson,1972-03-15,53,Male,White,19109,2024-10-18,Mental Health,CW-302,27500,1,2155556622,Active
+1060,Diane,Cox,1995-09-28,30,Female,White,94107,2024-04-25,Substance Abuse,CW-105,53000,0,4155554433,Pending
+1061,Henry,Howard,1979-07-07,46,Male,White,60626,2024-01-06,Elder Care,CW-112,16000,0,7735557711,Active
+1062,Frances,Ward,1984-12-20,41,Female,White,30313,2024-06-28,Domestic Violence,CW-305,35500,1,4045559922,Active
+1063,Arthur,Torres,1968-05-02,57,Male,Hispanic/Latino,85009,2024-09-15,Housing Assistance,CW-410,15500,0,6025556688,Closed
+1064,Ann,Peterson,1992-01-11,34,Female,White,10006,2024-03-14,Child Welfare,CW-201,44500,2,2125551122,Active
+1065,Albert,Gray,1977-08-25,48,Male,White,77008,2024-08-21,Mental Health,CW-302,31500,0,7135558811,Pending
+1066,Gloria,Ramirez,1962-11-06,63,Female,Hispanic/Latino,02143,2024-05-08,Substance Abuse,CW-105,14500,0,6175559933,Active
+1067,Russell,James,1985-04-14,40,Male,White,48207,2024-02-12,Elder Care,CW-112,22000,0,3135558822,Active
+1068,Marie,Watson,1991-10-30,34,Female,White,33131,2024-07-19,Domestic Violence,CW-305,40500,1,3055551166,Closed
+1069,Louis,Brooks,1974-02-22,52,Male,Black/African American,19110,2024-10-08,Housing Assistance,CW-410,25500,2,2155557744,Active
+1070,Rose,Kelly,1997-07-15,28,Female,White,94108,2024-04-12,Child Welfare,CW-201,51500,1,4155553388,Pending
+1071,Bobby,Sanders,1980-12-09,45,Male,White,60628,2024-01-19,Mental Health,CW-302,28500,0,7735556655,Active
+1072,Anna,Price,1987-06-26,38,Female,White,30314,2024-06-11,Substance Abuse,CW-105,36500,0,4045554488,Active
+1073,Howard,Bennett,1969-09-18,56,Male,White,85010,2024-09-28,Elder Care,CW-112,17500,0,6025552244,Closed
+1074,Christine,Wood,1993-03-04,32,Female,White,10007,2024-03-30,Domestic Violence,CW-305,46500,1,2125559955,Active
+1075,Victor,Barnes,1976-10-12,49,Male,White,77009,2024-08-14,Housing Assistance,CW-410,23500,1,7135551177,Pending
+1076,,Ross,1963-06-28,62,Female,White,02144,2024-05-22,Child Welfare,CW-201,13000,0,6175558844,Active
+1077,Peter,Henderson,1984-01-17,42,Male,White,48208,2024-02-03,Mental Health,CW-302,39500,2,3135552255,Active
+1078,Donna,Coleman,1990-11-21,35,Female,Black/African American,33132,2024-07-12,Substance Abuse,CW-105,33500,0,3055553344,Closed
+1079,Kenneth,Jenkins,1973-04-05,52,Male,White,19111,2024-10-22,Elder Care,CW-112,20000,0,2155554433,Active
+1080,Judith,Perry,1996-08-19,29,Female,White,94109,2024-04-06,Domestic Violence,CW-305,54000,0,4155556677,Pending
+1081,Norman,Powell,1978-03-11,48,Male,White,60630,2024-01-25,Housing Assistance,CW-410,27000,3,7735553344,Active
+1082,Beverly,Long,1986-07-04,39,Female,White,30315,2024-06-20,Child Welfare,CW-201,37500,2,4045557766,Active
+1083,Wayne,Hughes,1971-12-16,54,Male,White,85011,2024-09-03,Mental Health,CW-302,22500,0,6025559911,Closed
+1084,Evelyn,Flores,1994-02-27,31,Female,Hispanic/Latino,10008,2024-03-09,Substance Abuse,CW-105,47500,0,2125553311,Active
+1085,Philip,Washington,1981-05-19,44,Male,Black/African American,77010,2024-08-28,Elder Care,CW-112,18000,0,7135557766,Pending
+1086,Cheryl,Butler,1967-08-08,58,Female,White,02145,2024-05-16,Domestic Violence,CW-305,15500,0,6175551122,Active
+1087,Gerald,Simmons,1983-02-02,43,Male,White,48209,2024-02-17,Housing Assistance,CW-410,31000,1,3135559933,Active
+1088,Mildred,Foster,1960-10-14,65,Female,White,33133,2024-07-24,Child Welfare,CW-201,12500,0,3055558822,Closed
+1089,Leonard,Gonzales,1992-06-16,33,Male,Hispanic/Latino,19112,2024-10-15,Mental Health,CW-302,42500,0,2155551188,Active
+1090,Irene,Bryant,1975-01-29,51,Female,White,94110,2024-04-21,Substance Abuse,CW-105,24000,1,4155552299,Pending
+1091,Samuel,Alexander,1988-09-07,37,Male,White,60632,2024-01-11,Elder Care,CW-112,19500,0,7735558833,Active
+1092,Martha,Russell,1979-04-23,46,Female,White,30316,2024-06-14,Domestic Violence,CW-305,36000,1,4045556633,Active
+1093,Martin,Griffin,1970-07-10,55,Male,White,85012,2024-09-20,Housing Assistance,CW-410,21500,2,6025554488,Closed
+1094,Lori,Diaz,1993-12-08,32,Female,Hispanic/Latino,10009,2024-03-27,Child Welfare,CW-201,48500,1,2125556644,Active
+1095,Benjamin,Hayes,1982-02-15,44,Male,White,77011,2024-08-09,Mental Health,CW-302,29500,0,7135554433,Pending
+1096,Andrea,Myers,1966-05-21,59,Female,White,02146,2024-05-25,Substance Abuse,CW-105,16500,0,6175557711,Active
+1097,Edwin,Ford,1984-11-03,41,Male,White,48210,2024-02-22,Elder Care,CW-112,23000,0,3135553366,Active
+1098,Thelma,Hamilton,1991-07-18,34,Female,White,33134,2024-07-07,Domestic Violence,CW-305,39000,2,3055552255,Closed
+1099,Derek,Graham,1973-10-26,52,Male,White,19113,2024-10-03,Housing Assistance,CW-410,26000,1,2155559977,Active
+1100,Wanda,Sullivan,1996-03-14,29,Female,White,94111,2024-04-17,Child Welfare,CW-201,52000,1,4155551144,Pending
+1101,Ruben,Wallace,1980-08-22,45,Male,Hispanic/Latino,60634,2024-01-16,Mental Health,CW-302,30000,0,7735552277,Active
+1102,Kathryn,West,1987-01-09,39,Female,White,30317,2024-06-07,Substance Abuse,CW-105,34500,0,4045553322,Active
+1103,Clifford,Cole,1969-06-14,56,Male,White,85013,2024-09-12,Elder Care,CW-112,17000,0,6025557766,Closed
+1104,Alma,Owens,1994-09-01,31,Female,Black/African American,10010,2024-03-20,Domestic Violence,CW-305,45000,1,2125558833,Active
+1105,Francis,George,1977-12-27,48,Male,White,77012,2024-08-16,Housing Assistance,CW-410,25000,2,7135553322,Pending
+1106,Janice,Burns,1964-03-18,61,Female,White,02147,2024-05-30,Child Welfare,CW-201,14000,0,6175554466,Active
+1107,Curtis,Stone,1985-06-10,40,Male,Black/African American,48211,2024-02-08,Mental Health,CW-302,38500,1,3135556644,Active
+1108,Jean,Morales,1990-02-04,36,Female,Hispanic/Latino,33135,2024-07-15,Substance Abuse,CW-105,31500,0,3055559911,Closed
+1109,Walter,Chavez,1972-09-08,53,Male,Hispanic/Latino,19114,2024-10-25,Elder Care,CW-112,19000,0,2155552299,Active
+1110,Alice,Reyes,1997-11-23,28,Female,Hispanic/Latino,94112,2024-04-09,Domestic Violence,CW-305,50500,0,4155557788,Pending
+1002,Darnell,Washington,1985-04-11,40,Male,Black/African American,30318,2024-09-01,Housing Assistance,CW-410,31000,1,4045551234,Active
+1034,Karen,Nelson,1985-10-01,40,Female,White,10003,2024-07-30,Mental Health,CW-302,48000,3,2125554477,Pending
+1071,Terrence,Michaels,1979-06-15,46,Male,White,60628,2024-03-12,Substance Abuse,CW-105,26000,0,7735556655,Closed
+1111,,Patel,1989-03-22,36,Male,Asian,10453,2024-06-05,Child Welfare,CW-201,35000,2,2125553399,Active
+1112,Keisha,,1991-11-14,34,Female,Black/African American,30319,2024-01-20,Mental Health,CW-302,28000,1,4045558800,Pending
+1113,Roberto,,1976-08-09,49,Male,Hispanic/Latino,77013,2024-08-22,Housing Assistance,CW-410,23500,2,7135552244,Active
+1114,Yuki,Tanaka,1993-05-17,32,Female,Asian,94113,2024-04-28,Domestic Violence,CW-305,41000,0,4155556633,Active
+1115,Crystal,Washington,13/45/1990,35,Female,Black/African American,48212,2024-02-15,Child Welfare,CW-201,27500,3,3135554488,Active
+1116,Brandon,Fisher,2024-02-30,31,Male,White,85014,2024-09-08,Mental Health,CW-302,43000,0,6025551177,Pending
+1117,Tonya,Mills,00/12/1985,40,Female,Black/African American,33136,2024-07-21,Substance Abuse,CW-105,19000,1,3055557722,Active
+1118,Marco,Delgado,1988-15-42,37,Male,Hispanic/Latino,19115,2024-10-10,Housing Assistance,CW-410,34500,2,2155558844,Active
+1119,Heather,Fox,12-31-99,26,Female,White,60636,2024-01-30,Elder Care,CW-112,21000,0,7735559911,Closed
+1120,Derek,Mason,1985-07-14,45,Male,White,10011,2024-06-12,Child Welfare,CW-201,39500,2,2125552277,Active
+1121,Sonia,Cruz,1990-04-22,30,Female,Hispanic/Latino,77014,2024-08-05,Mental Health,CW-302,32000,1,7135556688,Active
+1122,Troy,Palmer,1978-12-08,55,Male,White,02148,2024-05-18,Substance Abuse,CW-105,26500,0,6175553355,Pending
+1123,Veronica,Reeves,1994-09-30,28,Female,White,48213,2024-02-27,Domestic Violence,CW-305,44500,1,3135558877,Active
+1124,Marcus,Dixon,1982-06-03,44,Male,Black/African American,1234,2024-09-22,Housing Assistance,CW-410,28500,2,6025554433,Active
+1125,Carla,Harper,1987-11-16,38,Female,White,999999,2024-07-09,Child Welfare,CW-201,37000,3,3055551188,Active
+1126,Duane,Chambers,1971-03-27,54,Male,White,ABC12,2024-10-14,Mental Health,CW-302,20500,0,2155557766,Closed
+1127,Felicia,Wells,1993-08-05,32,Female,Black/African American,331,2024-04-20,Substance Abuse,CW-105,42000,0,4155559944,Active
+1128,Darren,Bishop,1979-01-19,47,Male,White,8A3B2,2024-06-26,Elder Care,CW-112,18500,0,7735551188,Pending
+1129,Naomi,Vargas,1984-10-11,41,Female,Hispanic/Latino,9410,2024-08-30,Domestic Violence,CW-305,33000,1,7135553355,Active
+1130,Isaac,Fleming,1990-05-28,35,Male,White,60638,2030-03-15,Housing Assistance,CW-410,29000,2,4045552266,Active
+1131,Rhonda,Garrett,1975-12-04,50,Female,White,30320,2030-07-22,Child Welfare,CW-201,24500,1,6175556699,Pending
+1132,Calvin,Hawkins,1988-02-19,38,Male,Black/African American,85015,2030-11-08,Mental Health,CW-302,36500,0,6025558833,Active
+1133,Maureen,Lambert,1983-09-13,42,Female,White,10012,2024-03-04,Substance Abuse,CW-105,-15000,1,2125554466,Active
+1134,Dwayne,Crawford,1970-06-21,55,Male,Black/African American,77015,2024-08-19,Elder Care,CW-112,-8500,0,7135559922,Closed
+1135,Loretta,Medina,1992-01-07,34,Female,Hispanic/Latino,02149,2024-05-12,Domestic Violence,CW-305,40000,22,3135557711,Active
+1136,Terrance,Waters,1986-04-30,39,Male,White,48214,2024-02-21,Housing Assistance,CW-410,27000,-3,3055556655,Pending
+1137,Gail,Hicks,1974-07-16,51,Female,White,33137,2024-07-28,Child Welfare,CW-201,34000,18,4045559933,Active
+1138,Edwin,Black,1981-11-09,44,Male,White,19116,2024-10-06,Mental Health,CW-302,41000,0,215555,Active
+1139,Beth,Newman,1995-03-25,30,Female,White,94114,2024-04-14,Substance Abuse,CW-105,48000,0,41555588224,Pending
+1140,Clifton,Walsh,1977-08-17,48,Male,White,60640,2024-01-08,Elder Care,CW-112,22000,0,773555,Closed
+1141,Lorraine,Casey,1989-12-02,36,Female,White,30321,2024-06-23,Domestic Violence,CW-305,36000,1,40455544,Active
+1142,Seth,Love,1968-05-29,57,Male,White,85016,2024-09-18,Housing Assistance,CW-410,15500,0,60255511223,Active
+1143,Alicia,Freeman,1993-07-10,32,Female,Hispanic/Latino,10013,2024-03-16,Child Welfare,CW-201,43500,2,2125557744,active
+1144,Derrick,Harper,1982-10-24,43,Male,Black/African American,77016,2024-08-11,Mental Health,CW-302,30500,1,7135558855,ACTIVE
+1145,Monique,Carson,1987-05-06,38,Female,Black/African American,02150,2024-05-29,Substance Abuse,CW-105,25000,0,6175552233,activ
+1146,Javier,Mendoza,1975-09-15,50,Male,Hispanic/Latino,48215,2024-02-10,Elder Care,CW-112,21000,0,3135554400,Closd
+1147,Tiffany,Weaver,1991-02-18,35,Female,White,33138,2024-07-05,Domestic Violence,CW-305,38500,1,3055553377,Pending

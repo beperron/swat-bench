@@ -1,0 +1,801 @@
+client_id,age,gender,race,income,phq9_score,gad7_score,bdi_score,sessions_attended,diagnosis,insurance,marital_status,education
+MH-1001,19,Non-binary,White,,9,11,25,48,SUD,Medicaid,Widowed,< HS
+MH-1002,31,Male,White,,22,2,16,45,SUD,Uninsured,Married,Bachelor
+MH-1003,69,Non-binary,Hispanic,62683.44,6,12,,18,GAD,Medicare,Divorced,< HS
+MH-1004,24,Male,Asian,31547.02,18,9,24,30,SUD,Medicaid,Widowed,< HS
+MH-1005,71,Non-binary,Hispanic,16116.98,4,7,26,5,MDD,Medicare,Divorced,< HS
+MH-1006,42,Male,White,37527.18,22,6,29,14,Adjustment,Private,Single,Graduate
+MH-1007,52,Non-binary,Black,40593.88,10,0,42,41,Adjustment,Medicare,Divorced,< HS
+MH-1008,69,Male,White,,18,12,,46,PTSD,Medicare,Widowed,Bachelor
+MH-1009,27,Non-binary,Asian,40735.31,18,6,19,38,Bipolar,Uninsured,Divorced,HS/GED
+MH-1010,49,Male,Other,46704.56,15,15,30,51,Adjustment,Uninsured,Single,Bachelor
+MH-1011,47,Female,Other,,11,10,20,47,MDD,Private,Divorced,< HS
+MH-1012,28,Female,Asian,-765.71,18,12,16,33,GAD,Medicaid,Divorced,Graduate
+MH-1013,27,Non-binary,Black,34496.04,16,20,15,1,SUD,Private,Widowed,< HS
+MH-1014,74,Male,Hispanic,,12,10,29,37,MDD,Medicaid,Widowed,< HS
+MH-1015,26,Non-binary,Black,18576.23,1,13,,39,Bipolar,Medicare,Married,Some College
+MH-1016,46,Female,Hispanic,57931.26,10,10,25,2,SUD,Medicare,Married,< HS
+MH-1017,32,Male,White,46146.02,14,7,,18,Adjustment,Uninsured,Married,Graduate
+MH-1018,54,Male,Other,10921.74,15,11,15,7,Adjustment,Uninsured,Divorced,Bachelor
+MH-1019,73,Female,Asian,38470.11,5,12,21,26,Adjustment,Private,Single,
+MH-1020,52,Male,Black,24129.89,15,9,29,5,Bipolar,Medicaid,Single,Graduate
+MH-1021,66,Male,White,48309.22,11,6,22,26,MDD,Medicare,Widowed,< HS
+MH-1022,68,Female,Hispanic,45229.68,9,7,,51,SUD,Uninsured,Married,HS/GED
+MH-1023,21,Female,Black,,10,9,18,38,Bipolar,Medicare,Single,Graduate
+MH-1024,22,Male,Black,,8,10,27,37,GAD,Medicaid,Single,Bachelor
+MH-1025,54,Non-binary,Other,378.94,12,12,37,16,PTSD,Uninsured,Married,Some College
+MH-1026,66,Female,Hispanic,44264.61,13,5,13,7,MDD,Medicare,Divorced,HS/GED
+MH-1027,74,Female,White,42529.36,18,4,26,20,SUD,Medicaid,Divorced,< HS
+MH-1028,25,Male,Hispanic,64809.39,7,12,28,14,Adjustment,Private,Married,Some College
+MH-1029,34,Non-binary,Asian,,7,14,,18,MDD,Medicaid,Divorced,
+MH-1030,28,Non-binary,Hispanic,40744.38,6,9,22,5,Adjustment,Medicare,Single,Some College
+MH-1031,27,Non-binary,Other,,14,2,39,3,PTSD,Medicare,Married,< HS
+MH-1032,74,Female,Other,76295.82,2,,,16,GAD,Medicare,Widowed,< HS
+MH-1033,68,Male,Hispanic,71392.87,9,15,8,18,GAD,Medicaid,Widowed,< HS
+MH-1034,30,Female,Black,50122.01,7,6,38,15,GAD,Medicaid,Married,Bachelor
+MH-1035,73,Female,Hispanic,70109.05,18,6,31,44,SUD,Private,Single,< HS
+MH-1036,55,Female,Black,55749.37,12,14,28,47,PTSD,Uninsured,Single,Bachelor
+MH-1037,34,Non-binary,Black,60521.54,15,1,19,44,Adjustment,Medicare,Divorced,Bachelor
+MH-1038,57,Male,Hispanic,28342.38,24,9,13,20,Adjustment,Uninsured,Divorced,Bachelor
+MH-1039,53,Non-binary,Hispanic,55101.93,18,16,16,12,SUD,Private,Widowed,Graduate
+MH-1040,36,Male,Hispanic,49822.61,24,6,16,29,Bipolar,Medicare,Widowed,HS/GED
+MH-1041,36,Non-binary,White,16635.77,13,5,,49,GAD,Private,Married,HS/GED
+MH-1042,20,Male,White,42662.18,20,11,18,27,Adjustment,Medicare,Widowed,Bachelor
+MH-1043,27,Female,Black,40943.53,13,10,4,7,Bipolar,Medicare,Married,Graduate
+MH-1044,53,Female,White,42176.1,25,1,26,43,SUD,Private,Widowed,Graduate
+MH-1045,45,Non-binary,Other,52997.11,7,16,12,31,Bipolar,Private,Married,Some College
+MH-1046,58,Non-binary,Asian,43308.5,20,9,14,22,PTSD,Medicaid,Married,
+MH-1047,62,Male,Asian,49162.17,17,6,26,30,Bipolar,Medicaid,Married,Bachelor
+MH-1048,62,Female,Other,78835.37,15,4,16,23,PTSD,Uninsured,Widowed,Graduate
+MH-1049,69,Non-binary,Other,31875.14,11,11,32,2,Bipolar,Private,Widowed,HS/GED
+MH-1050,57,Female,Black,3673.07,11,3,13,6,Adjustment,Uninsured,Married,Bachelor
+MH-1051,34,Male,White,32998.46,16,6,36,25,PTSD,Uninsured,Divorced,< HS
+MH-1052,65,Female,White,-33228.03,7,5,33,50,Adjustment,,Single,HS/GED
+MH-1053,57,Male,White,47382.28,16,6,10,14,Bipolar,Private,Divorced,HS/GED
+MH-1054,65,Non-binary,Other,35833.75,3,,29,38,MDD,Private,Widowed,Bachelor
+MH-1055,22,Non-binary,Black,,7,10,37,20,Adjustment,Medicaid,Single,Some College
+MH-1056,60,Non-binary,Asian,,19,4,38,32,MDD,Uninsured,Divorced,Bachelor
+MH-1057,45,Non-binary,Black,51786.01,20,5,10,35,Bipolar,Uninsured,Widowed,
+MH-1058,72,Female,Hispanic,43189.8,27,9,32,49,Bipolar,Uninsured,Divorced,< HS
+MH-1059,29,Female,Hispanic,,14,9,30,39,Adjustment,Private,Single,Graduate
+MH-1060,33,Male,White,38103.6,7,10,,42,Adjustment,Uninsured,Widowed,< HS
+MH-1061,32,Male,Hispanic,30911.75,16,7,,36,SUD,Private,Widowed,Graduate
+MH-1062,62,Female,Hispanic,27241.9,15,10,37,21,MDD,Medicare,Married,HS/GED
+MH-1063,35,Non-binary,Asian,34156.07,0,,20,7,GAD,Private,Married,Some College
+MH-1064,18,Male,Hispanic,39558.29,10,11,22,19,Adjustment,Medicare,Widowed,< HS
+MH-1065,36,Male,Other,22959.94,15,10,24,31,MDD,Medicaid,Widowed,Bachelor
+MH-1066,58,Male,Other,37985.55,10,14,0,6,GAD,Medicaid,Widowed,Graduate
+MH-1067,32,Non-binary,Other,44830.81,8,13,17,38,Bipolar,Private,Single,Graduate
+MH-1068,66,Non-binary,White,45248.58,17,8,,12,SUD,Medicaid,Married,< HS
+MH-1069,62,Female,Asian,,11,10,37,45,Bipolar,Medicaid,Married,Some College
+MH-1070,60,Non-binary,Other,45970.94,10,12,26,10,PTSD,Medicare,Single,
+MH-1071,56,Male,Hispanic,41847.02,6,9,27,45,PTSD,Uninsured,Divorced,Graduate
+MH-1072,46,Non-binary,Asian,46492.14,14,5,25,17,MDD,Medicaid,Married,Graduate
+MH-1073,66,Non-binary,White,35307.55,9,18,26,31,SUD,Uninsured,Divorced,HS/GED
+MH-1074,58,Non-binary,Asian,,0,4,23,21,Adjustment,Medicaid,Married,
+MH-1075,36,Female,Asian,32494.89,8,10,,6,PTSD,Private,Divorced,< HS
+MH-1076,70,Female,Other,68282.34,13,5,19,13,SUD,Private,Widowed,Bachelor
+MH-1077,35,Male,Black,2701.75,9,2,27,8,MDD,Medicare,Married,Some College
+MH-1078,53,Non-binary,White,31244.78,16,11,17,8,Adjustment,Medicare,Widowed,Some College
+MH-1079,44,Non-binary,Hispanic,67594.53,0,10,34,25,GAD,Medicare,Single,Some College
+MH-1080,68,Female,Hispanic,8675.21,13,9,30,38,SUD,,Married,Bachelor
+MH-1081,40,Non-binary,Asian,,22,1,,13,Adjustment,Medicare,Widowed,HS/GED
+MH-1082,38,Female,White,41064.17,4,11,,43,Adjustment,Medicare,Widowed,< HS
+MH-1083,55,Male,Other,37921.12,16,11,18,30,MDD,Medicare,Widowed,HS/GED
+MH-1084,68,Male,Asian,58060.48,12,7,,22,Adjustment,Uninsured,Divorced,Bachelor
+MH-1085,57,Non-binary,White,65109.39,17,21,5,48,MDD,Uninsured,Single,< HS
+MH-1086,62,Female,Black,40665.73,15,9,25,23,PTSD,Uninsured,Married,HS/GED
+MH-1087,54,Non-binary,Asian,37287.2,10,13,34,25,SUD,Medicare,Widowed,Graduate
+MH-1088,47,Male,Black,29069.62,8,4,3,30,PTSD,Medicare,Single,Bachelor
+MH-1089,37,Female,Other,29845.56,9,9,41,13,Bipolar,Uninsured,Single,
+MH-1090,40,Female,Other,-8333.68,5,6,48,43,Bipolar,Private,Single,Graduate
+MH-1091,56,Non-binary,White,40967.39,2,17,12,15,SUD,Private,Married,HS/GED
+MH-1092,61,Non-binary,Hispanic,,3,8,,7,Adjustment,Medicaid,Divorced,Bachelor
+MH-1093,41,Male,Other,41134.63,11,7,37,12,GAD,Medicare,Divorced,Graduate
+MH-1094,71,Non-binary,Hispanic,,25,21,13,19,Adjustment,Private,Single,Bachelor
+MH-1095,66,Male,Black,76914.86,11,7,,52,SUD,Private,Single,Bachelor
+MH-1096,52,Male,Hispanic,54313.19,18,9,14,25,Adjustment,Private,Single,HS/GED
+MH-1097,57,Female,White,59261.38,8,13,18,5,Adjustment,Uninsured,Divorced,Bachelor
+MH-1098,20,Male,Black,56469.62,12,7,22,35,GAD,Uninsured,Widowed,Some College
+MH-1099,44,Non-binary,Other,17268.0,8,15,12,32,SUD,,Divorced,< HS
+MH-1100,31,Non-binary,Hispanic,622.18,19,11,,44,PTSD,,Single,
+MH-1101,25,Female,Black,73854.96,10,12,25,41,SUD,Medicaid,Single,
+MH-1102,68,Male,Black,35764.43,13,10,15,14,GAD,Private,Married,Graduate
+MH-1103,72,Male,Hispanic,95032.58,12,1,,8,Adjustment,Medicaid,Married,< HS
+MH-1104,55,Female,Black,37020.01,17,17,27,34,MDD,Medicaid,Widowed,Bachelor
+MH-1105,55,Female,Other,,18,11,,51,Adjustment,Private,Widowed,< HS
+MH-1106,72,Male,Asian,19669.54,19,0,23,5,MDD,Private,Married,< HS
+MH-1107,57,Male,Hispanic,26786.8,8,2,50,34,PTSD,Uninsured,Widowed,< HS
+MH-1108,72,Non-binary,White,21203.72,3,,15,28,Bipolar,Medicare,Widowed,Some College
+MH-1109,44,Female,Asian,40009.23,8,8,29,10,Adjustment,Uninsured,Single,< HS
+MH-1110,45,Male,White,66229.98,19,12,10,38,SUD,Private,Single,Bachelor
+MH-1111,73,Female,Asian,47051.25,13,8,,7,SUD,Medicare,Married,Bachelor
+MH-1112,40,Male,White,,9,10,,52,Bipolar,Medicaid,Divorced,< HS
+MH-1113,62,Male,Hispanic,,0,,27,10,SUD,Uninsured,Single,HS/GED
+MH-1114,23,Non-binary,White,41693.94,9,6,26,24,PTSD,Private,Single,< HS
+MH-1115,66,Male,Black,22106.2,7,8,36,32,SUD,,Widowed,Some College
+MH-1116,25,Male,Other,37086.81,16,7,9,34,Adjustment,Private,Single,HS/GED
+MH-1117,21,Female,Other,57228.22,14,10,27,17,PTSD,Private,Single,< HS
+MH-1118,29,Female,Asian,57279.31,19,10,34,43,PTSD,Medicaid,Widowed,< HS
+MH-1119,47,Female,White,73524.44,8,4,16,46,Adjustment,Uninsured,Divorced,< HS
+MH-1120,38,Female,White,62607.71,26,2,,24,MDD,Uninsured,Single,
+MH-1121,43,Female,Other,24136.23,13,8,,22,GAD,,Single,Graduate
+MH-1122,75,Non-binary,Black,44746.31,8,16,18,10,GAD,Medicaid,Married,Some College
+MH-1123,56,Male,Black,59406.55,22,20,33,41,Bipolar,Uninsured,Widowed,Graduate
+MH-1124,38,Non-binary,Other,58632.49,7,11,25,29,Adjustment,Private,Divorced,Graduate
+MH-1125,50,Male,Hispanic,59896.93,17,14,24,19,MDD,Medicaid,Widowed,Bachelor
+MH-1126,68,Non-binary,Other,41637.62,12,15,14,13,PTSD,Uninsured,Married,< HS
+MH-1127,69,Female,White,55304.84,10,8,10,12,MDD,Medicare,Widowed,Bachelor
+MH-1128,57,Non-binary,Other,51432.27,18,8,32,22,Adjustment,Medicaid,Divorced,< HS
+MH-1129,53,Female,White,35598.19,9,8,7,39,GAD,Private,Single,Graduate
+MH-1130,40,Non-binary,Black,32283.41,22,8,17,46,MDD,Private,Widowed,Some College
+MH-1131,23,Male,Other,30519.05,9,6,29,12,GAD,Private,Widowed,HS/GED
+MH-1132,27,Male,Black,72721.29,19,16,32,48,SUD,Medicaid,Divorced,Graduate
+MH-1133,42,Male,Other,,17,7,8,11,Adjustment,Uninsured,Single,Bachelor
+MH-1134,46,Female,Black,18898.17,7,10,14,16,PTSD,Uninsured,Married,Some College
+MH-1135,46,Non-binary,Other,,15,5,30,11,GAD,Medicare,Divorced,< HS
+MH-1136,73,Non-binary,Asian,13014.9,24,8,,8,PTSD,Medicaid,Married,Some College
+MH-1137,27,Female,Other,45848.98,11,17,12,23,MDD,Uninsured,Single,Bachelor
+MH-1138,33,Non-binary,Hispanic,36392.95,15,10,30,7,Adjustment,Private,Married,HS/GED
+MH-1139,71,Male,Hispanic,8559.04,15,10,10,40,MDD,,Single,Some College
+MH-1140,53,Male,Black,64944.71,10,2,30,16,PTSD,Medicaid,Single,HS/GED
+MH-1141,47,Female,Other,73633.32,18,3,22,41,SUD,Medicare,Married,Some College
+MH-1142,57,Female,White,27908.75,20,12,35,34,PTSD,Medicaid,Single,
+MH-1143,58,Female,White,28811.99,17,9,,5,PTSD,Medicare,Single,Graduate
+MH-1144,26,Non-binary,Hispanic,63749.14,16,11,16,50,Adjustment,Uninsured,Widowed,
+MH-1145,63,Male,White,45262.02,7,9,24,13,MDD,Private,Divorced,Graduate
+MH-1146,48,Female,Other,41373.02,24,11,30,50,MDD,Private,Divorced,< HS
+MH-1147,74,Female,Asian,26323.17,17,14,19,12,Bipolar,Uninsured,Divorced,Graduate
+MH-1148,64,Female,White,25006.01,16,13,,19,PTSD,Medicaid,Single,Some College
+MH-1149,37,Non-binary,Hispanic,15010.21,17,12,,29,MDD,Private,Widowed,Some College
+MH-1150,22,Non-binary,White,33266.29,8,1,20,11,MDD,Medicare,Widowed,< HS
+MH-1151,33,Male,White,45064.15,8,5,,39,GAD,Uninsured,Divorced,Some College
+MH-1152,54,Female,White,53162.56,18,8,29,8,MDD,Medicare,Widowed,Graduate
+MH-1153,25,Female,Other,40966.68,18,0,33,19,Adjustment,Uninsured,Married,< HS
+MH-1154,46,Male,White,55290.47,22,19,21,21,Adjustment,Private,Single,Graduate
+MH-1155,75,Non-binary,Hispanic,38746.16,17,8,6,12,PTSD,Medicare,Single,HS/GED
+MH-1156,68,Male,Black,24979.62,14,4,17,36,GAD,Medicaid,Single,Some College
+MH-1157,51,Female,Asian,26352.73,17,7,19,21,Adjustment,Medicaid,Widowed,Bachelor
+MH-1158,40,Non-binary,Other,,22,3,,50,GAD,Uninsured,Single,
+MH-1159,37,Non-binary,Black,50117.44,18,8,13,34,PTSD,Medicaid,Divorced,HS/GED
+MH-1160,35,Non-binary,Other,52799.19,17,4,19,11,SUD,Medicare,Married,Graduate
+MH-1161,39,Non-binary,Other,54730.4,7,10,19,3,Adjustment,Private,Married,Graduate
+MH-1162,58,Female,Other,79060.37,16,3,17,20,Bipolar,Medicare,Widowed,Some College
+MH-1163,62,Female,White,60015.32,16,6,22,39,GAD,Private,Divorced,Some College
+MH-1164,66,Female,Black,26117.68,19,7,32,18,Bipolar,Medicare,Married,< HS
+MH-1165,42,Male,Hispanic,54313.96,9,20,16,21,SUD,Private,Married,HS/GED
+MH-1166,47,Female,Other,26538.26,14,21,25,33,Bipolar,Medicare,Married,Graduate
+MH-1167,21,Female,White,37246.37,21,14,9,19,SUD,Medicaid,Single,Bachelor
+MH-1168,64,Male,Hispanic,29837.45,18,11,22,36,GAD,Private,Divorced,< HS
+MH-1169,46,Female,Other,43317.88,9,17,,8,GAD,Medicaid,Widowed,Some College
+MH-1170,41,Female,Other,42374.09,10,4,21,3,MDD,Medicare,Divorced,Bachelor
+MH-1171,27,Non-binary,Asian,24983.36,9,6,,11,Bipolar,Private,Divorced,
+MH-1172,49,Non-binary,Other,38104.38,9,11,13,44,MDD,Uninsured,Divorced,< HS
+MH-1173,34,Non-binary,Asian,72789.55,11,11,9,47,MDD,Uninsured,Married,Graduate
+MH-1174,67,Non-binary,Other,47517.24,11,9,19,45,MDD,Medicare,Single,Bachelor
+MH-1175,27,Female,Asian,31617.39,16,3,21,31,Adjustment,Medicaid,Married,Graduate
+MH-1176,38,Male,Other,62534.33,13,1,,30,SUD,Private,Divorced,
+MH-1177,30,Non-binary,Asian,,12,6,44,20,PTSD,Medicare,Widowed,Some College
+MH-1178,53,Female,Hispanic,71323.31,9,9,,44,SUD,Uninsured,Widowed,Some College
+MH-1179,20,Male,Hispanic,35327.35,23,6,30,17,Adjustment,Uninsured,Married,HS/GED
+MH-1180,53,Non-binary,Hispanic,38754.39,10,5,,16,MDD,Medicare,Married,
+MH-1181,39,Male,Asian,40312.37,11,10,20,36,GAD,Uninsured,Widowed,Bachelor
+MH-1182,66,Non-binary,Black,57438.2,12,3,4,6,Adjustment,Medicare,Single,HS/GED
+MH-1183,20,Female,Black,60101.76,13,0,22,19,MDD,Medicaid,Divorced,Graduate
+MH-1184,39,Non-binary,White,30340.99,27,4,18,9,SUD,Uninsured,Divorced,HS/GED
+MH-1185,28,Male,Hispanic,,5,9,,22,PTSD,Medicare,Married,Graduate
+MH-1186,70,Non-binary,Asian,27580.32,16,8,24,9,Bipolar,Private,Married,< HS
+MH-1187,33,Female,Asian,28600.15,15,6,33,37,MDD,Private,Divorced,HS/GED
+MH-1188,47,Male,White,,19,0,21,46,PTSD,Medicaid,Divorced,Some College
+MH-1189,32,Non-binary,Black,61797.65,12,0,30,24,Bipolar,Uninsured,Married,HS/GED
+MH-1190,73,Non-binary,Other,47113.6,6,5,20,37,MDD,Medicaid,Married,
+MH-1191,28,Non-binary,Black,31715.44,20,12,26,38,Bipolar,Medicaid,Widowed,< HS
+MH-1192,50,Female,Black,22007.88,17,3,16,20,Adjustment,Medicaid,Widowed,Some College
+MH-1193,55,Male,Black,58943.0,16,8,10,4,MDD,Uninsured,Single,Some College
+MH-1194,67,Female,Black,,20,8,0,24,Bipolar,Uninsured,Widowed,Bachelor
+MH-1195,26,Male,Other,32519.91,9,12,33,34,GAD,Medicare,Single,
+MH-1196,61,Female,Asian,38350.81,7,7,,30,PTSD,Medicare,Divorced,HS/GED
+MH-1197,20,Non-binary,White,48850.71,8,11,1,2,GAD,Medicare,Single,< HS
+MH-1198,46,Non-binary,White,19072.39,8,17,26,26,Bipolar,Medicare,Married,< HS
+MH-1199,36,Male,Other,45984.16,27,4,15,50,Adjustment,Private,Married,Some College
+MH-1200,32,Male,Other,29637.59,16,3,17,48,GAD,Uninsured,Widowed,< HS
+MH-1201,68,Female,Asian,14538.25,12,6,,12,SUD,Uninsured,Married,HS/GED
+MH-1202,69,Female,Black,35965.04,14,5,27,34,GAD,Uninsured,Married,Some College
+MH-1203,59,Male,Hispanic,59297.33,17,5,30,13,MDD,Private,Widowed,Graduate
+MH-1204,73,Non-binary,White,71186.68,18,3,14,14,Bipolar,Medicare,Divorced,Some College
+MH-1205,30,Male,Black,50738.31,13,15,,16,Adjustment,Medicare,Widowed,HS/GED
+MH-1206,67,Non-binary,Hispanic,37840.39,20,7,,24,SUD,Uninsured,Widowed,
+MH-1207,66,Non-binary,Asian,63324.52,2,6,29,37,GAD,Medicare,Single,Some College
+MH-1208,55,Non-binary,Other,39179.85,9,11,28,37,GAD,Uninsured,Divorced,Some College
+MH-1209,47,Female,Asian,57748.15,23,13,35,32,GAD,Medicaid,Single,
+MH-1210,66,Non-binary,White,51782.22,14,8,,10,MDD,Medicare,Widowed,Some College
+MH-1211,58,Male,Other,29551.14,6,4,23,1,SUD,Uninsured,Single,< HS
+MH-1212,52,Non-binary,Hispanic,45313.89,13,12,8,52,GAD,Medicaid,Single,Graduate
+MH-1213,30,Male,Black,,10,4,36,6,PTSD,Uninsured,Widowed,Graduate
+MH-1214,37,Male,Black,27934.38,3,4,,49,MDD,Medicaid,Widowed,Bachelor
+MH-1215,48,Female,Other,44327.9,14,12,32,28,Adjustment,Private,Single,Graduate
+MH-1216,31,Male,Black,64486.87,8,6,18,5,Adjustment,Private,Single,
+MH-1217,31,Female,White,16315.65,8,8,12,5,PTSD,Medicare,Married,Graduate
+MH-1218,39,Female,Other,19988.24,20,11,7,6,SUD,Private,Single,< HS
+MH-1219,71,Female,Black,63793.08,17,4,13,50,PTSD,Medicaid,Divorced,Bachelor
+MH-1220,40,Female,Black,25496.4,12,12,34,25,MDD,Private,Married,< HS
+MH-1221,27,Male,Hispanic,19032.1,21,12,,24,MDD,,Single,Some College
+MH-1222,66,Female,Hispanic,40811.09,17,12,32,36,SUD,Uninsured,Single,< HS
+MH-1223,53,Male,Hispanic,62264.49,18,7,30,19,Bipolar,Uninsured,Single,Graduate
+MH-1224,51,Male,Other,,19,12,,32,GAD,Medicaid,Married,Bachelor
+MH-1225,37,Female,Asian,34833.48,14,9,,41,Bipolar,Medicare,Widowed,< HS
+MH-1226,18,Male,Hispanic,,12,3,9,22,Bipolar,Private,Widowed,Graduate
+MH-1227,38,Male,Hispanic,19883.11,8,6,22,26,PTSD,Private,Widowed,
+MH-1228,42,Male,Hispanic,36019.9,24,2,39,13,SUD,Medicare,Single,Bachelor
+MH-1229,46,Non-binary,Black,,3,18,30,51,Bipolar,Uninsured,Married,Some College
+MH-1230,60,Male,Hispanic,,19,6,,39,Bipolar,Uninsured,Widowed,Graduate
+MH-1231,62,Male,Hispanic,,9,8,,50,GAD,Private,Married,Graduate
+MH-1232,59,Male,Other,33997.94,8,10,,28,MDD,Medicaid,Single,Some College
+MH-1233,65,Male,Other,18438.93,13,5,17,26,Bipolar,Medicare,Divorced,< HS
+MH-1234,36,Female,White,2277.7,21,18,37,10,PTSD,,Divorced,Bachelor
+MH-1235,48,Male,Other,37275.2,16,9,,5,PTSD,Medicaid,Single,< HS
+MH-1236,61,Female,White,54837.5,0,9,,36,GAD,Private,Widowed,Bachelor
+MH-1237,58,Male,Asian,,21,8,23,40,GAD,Uninsured,Widowed,Bachelor
+MH-1238,31,Male,Black,37025.9,23,11,9,52,SUD,Medicare,Divorced,Some College
+MH-1239,25,Male,Asian,,25,2,,39,Bipolar,Uninsured,Single,Some College
+MH-1240,57,Female,Asian,54599.62,21,13,0,38,MDD,Medicare,Divorced,< HS
+MH-1241,25,Male,Hispanic,53304.1,22,4,21,9,SUD,Uninsured,Widowed,HS/GED
+MH-1242,62,Female,Other,,7,11,,19,GAD,Medicare,Divorced,Bachelor
+MH-1243,73,Non-binary,White,,14,16,35,36,SUD,Uninsured,Widowed,Bachelor
+MH-1244,49,Female,Asian,53544.61,20,11,15,3,PTSD,Medicare,Divorced,
+MH-1245,65,Female,Other,44972.25,7,3,21,18,SUD,Private,Single,Bachelor
+MH-1246,45,Non-binary,Black,69111.59,20,10,13,3,Bipolar,Private,Divorced,< HS
+MH-1247,67,Female,White,46684.22,10,9,6,46,SUD,Uninsured,Married,Graduate
+MH-1248,70,Male,Black,43682.88,16,7,28,35,GAD,Private,Divorced,Some College
+MH-1249,72,Non-binary,Hispanic,,12,11,17,49,Bipolar,Medicaid,Divorced,HS/GED
+MH-1250,33,Non-binary,Black,51629.59,18,10,41,26,Bipolar,Medicare,Divorced,Bachelor
+MH-1251,22,Female,Asian,,4,,28,18,Adjustment,Private,Widowed,
+MH-1252,18,Female,Other,65707.76,5,21,36,41,Adjustment,Private,Single,Graduate
+MH-1253,45,Female,Black,51530.39,7,8,29,36,SUD,Medicare,Widowed,Some College
+MH-1254,20,Non-binary,White,,20,7,23,11,Bipolar,Uninsured,Single,Bachelor
+MH-1255,74,Male,Black,35773.97,11,13,18,42,PTSD,Private,Single,
+MH-1256,21,Non-binary,Black,29776.12,17,8,15,42,MDD,Medicaid,Single,HS/GED
+MH-1257,26,Female,White,23875.81,9,9,22,22,MDD,Uninsured,Married,Bachelor
+MH-1258,42,Male,Black,69595.01,19,13,27,20,GAD,Uninsured,Married,HS/GED
+MH-1259,54,Male,Other,68046.02,14,2,27,41,Adjustment,Medicare,Widowed,Graduate
+MH-1260,73,Non-binary,Asian,49836.17,26,11,25,47,Bipolar,Private,Widowed,Some College
+MH-1261,35,Male,Black,33641.67,10,3,12,19,Adjustment,Medicaid,Divorced,HS/GED
+MH-1262,50,Non-binary,Other,48749.15,19,4,8,51,GAD,Uninsured,Widowed,< HS
+MH-1263,58,Male,Asian,23666.87,9,21,,21,GAD,Uninsured,Widowed,Some College
+MH-1264,66,Non-binary,Black,,17,15,27,1,PTSD,Medicare,Single,< HS
+MH-1265,36,Female,Other,27331.81,8,3,29,6,Adjustment,Medicare,Divorced,
+MH-1266,50,Female,White,84822.1,6,12,29,38,Adjustment,Medicaid,Divorced,Bachelor
+MH-1267,21,Non-binary,Black,43419.37,27,15,31,4,PTSD,Medicare,Single,< HS
+MH-1268,62,Non-binary,Black,63030.22,14,6,31,47,PTSD,Medicare,Divorced,HS/GED
+MH-1269,64,Non-binary,Hispanic,65378.51,7,18,,18,SUD,Medicaid,Divorced,
+MH-1270,49,Non-binary,White,25660.1,15,3,22,24,GAD,Private,Single,Graduate
+MH-1271,32,Non-binary,White,,13,10,20,3,Bipolar,Private,Widowed,HS/GED
+MH-1272,53,Male,White,51329.76,5,8,,16,Bipolar,Private,Divorced,< HS
+MH-1273,25,Non-binary,Hispanic,3211.74,13,13,,3,Bipolar,Medicaid,Widowed,Some College
+MH-1274,23,Female,Hispanic,,13,11,34,20,Adjustment,Medicare,Widowed,
+MH-1275,67,Non-binary,Asian,46733.2,4,1,16,10,MDD,Uninsured,Single,HS/GED
+MH-1276,58,Non-binary,Hispanic,61669.5,3,10,21,43,Bipolar,Private,Single,HS/GED
+MH-1277,44,Non-binary,Black,35681.56,14,17,21,6,MDD,Medicare,Widowed,Some College
+MH-1278,55,Female,White,49950.57,15,10,18,37,MDD,Uninsured,Married,HS/GED
+MH-1279,72,Female,Hispanic,,23,7,6,21,Bipolar,Private,Married,< HS
+MH-1280,67,Male,Black,,11,14,28,21,Bipolar,Medicaid,Divorced,HS/GED
+MH-1281,47,Female,Hispanic,41143.36,17,14,34,46,Adjustment,Medicaid,Married,Some College
+MH-1282,63,Male,White,42188.9,19,2,20,17,GAD,Medicaid,Widowed,Bachelor
+MH-1283,33,Non-binary,Other,48910.54,15,10,17,4,GAD,Medicare,Married,Bachelor
+MH-1284,55,Female,White,7541.47,7,21,,13,Adjustment,Uninsured,Married,< HS
+MH-1285,20,Female,White,47425.42,13,14,17,47,Bipolar,Uninsured,Single,Bachelor
+MH-1286,29,Non-binary,Asian,18090.4,24,9,32,10,MDD,Medicare,Divorced,Bachelor
+MH-1287,48,Female,Other,55525.81,15,12,27,52,SUD,Medicare,Single,Bachelor
+MH-1288,48,Non-binary,Hispanic,22078.71,12,15,15,25,PTSD,Medicare,Single,Some College
+MH-1289,19,Non-binary,Black,66787.92,7,21,,34,PTSD,Medicare,Married,
+MH-1290,35,Male,Black,10850.06,11,9,,15,SUD,Uninsured,Divorced,HS/GED
+MH-1291,55,Male,Black,29789.6,22,5,32,46,Adjustment,Private,Married,
+MH-1292,52,Male,Asian,34421.32,20,13,25,15,MDD,Uninsured,Single,Some College
+MH-1293,69,Non-binary,Black,61512.31,20,18,12,21,MDD,Medicaid,Married,
+MH-1294,67,Non-binary,Black,58872.79,18,8,24,46,Adjustment,Uninsured,Single,Some College
+MH-1295,26,Female,Hispanic,70889.78,12,3,27,32,Adjustment,Private,Married,
+MH-1296,68,Non-binary,Other,25431.69,20,11,13,47,Adjustment,Private,Married,
+MH-1297,62,Non-binary,White,59020.37,12,21,21,3,GAD,Private,Married,Graduate
+MH-1298,27,Male,Asian,38463.24,16,7,29,41,MDD,Private,Widowed,< HS
+MH-1299,33,Female,Black,36155.67,8,11,6,4,Bipolar,Uninsured,Widowed,
+MH-1300,74,Female,Asian,25635.43,19,14,28,37,Adjustment,Medicare,Married,
+MH-1301,36,Male,White,55892.44,14,13,27,25,GAD,Medicaid,Single,Some College
+MH-1302,75,Non-binary,Other,37509.75,14,12,19,28,GAD,Medicaid,Single,Some College
+MH-1303,44,Male,Black,32618.28,4,,14,19,PTSD,Medicare,Single,< HS
+MH-1304,53,Female,Other,47561.86,11,6,30,19,Adjustment,Uninsured,Married,< HS
+MH-1305,28,Male,Black,10043.37,1,7,,51,Bipolar,Uninsured,Widowed,Some College
+MH-1306,42,Male,Other,56908.33,25,6,29,17,Bipolar,Uninsured,Divorced,HS/GED
+MH-1307,21,Female,Other,58177.69,21,16,30,52,SUD,Uninsured,Married,Graduate
+MH-1308,70,Male,Asian,-4264.57,11,5,0,37,GAD,Uninsured,Divorced,< HS
+MH-1309,50,Female,White,22427.52,10,0,9,10,MDD,Uninsured,Married,HS/GED
+MH-1310,26,Male,Black,,14,8,15,41,GAD,Private,Divorced,< HS
+MH-1311,53,Male,Asian,29219.44,17,9,,1,Adjustment,Uninsured,Single,Bachelor
+MH-1312,54,Male,Black,16175.79,8,20,13,37,MDD,Private,Divorced,Bachelor
+MH-1313,59,Female,Asian,,14,13,23,10,SUD,Uninsured,Single,
+MH-1314,21,Female,Black,40917.53,0,10,20,51,PTSD,Private,Divorced,Bachelor
+MH-1315,73,Non-binary,White,,19,9,4,21,PTSD,Uninsured,Single,HS/GED
+MH-1316,70,Female,Black,24705.51,17,5,20,4,SUD,Medicare,Single,Some College
+MH-1317,43,Non-binary,Other,65131.94,22,10,,13,GAD,Medicaid,Married,< HS
+MH-1318,41,Female,White,37949.63,9,12,11,41,MDD,Medicaid,Married,
+MH-1319,46,Female,Other,57993.6,24,6,17,11,PTSD,Medicaid,Divorced,< HS
+MH-1320,28,Female,White,,5,10,28,15,Adjustment,Medicare,Divorced,Bachelor
+MH-1321,73,Non-binary,White,47819.55,3,20,23,42,GAD,Medicaid,Married,Some College
+MH-1322,63,Non-binary,Hispanic,67273.63,12,5,26,23,Bipolar,Private,Married,Bachelor
+MH-1323,70,Female,Other,24984.29,8,21,23,24,SUD,Private,Divorced,< HS
+MH-1324,39,Female,White,67681.93,13,12,16,46,Adjustment,Private,Married,
+MH-1325,75,Non-binary,Black,75284.67,18,11,12,21,Adjustment,Medicare,Single,Bachelor
+MH-1326,44,Female,Hispanic,,19,0,5,13,PTSD,Medicare,Widowed,Some College
+MH-1327,72,Non-binary,Hispanic,,21,6,19,31,GAD,Private,Married,Some College
+MH-1328,32,Non-binary,White,23740.51,21,6,,22,PTSD,Private,Divorced,Bachelor
+MH-1329,21,Male,Asian,57912.29,8,11,20,13,SUD,Medicaid,Widowed,Graduate
+MH-1330,21,Female,Asian,49084.64,11,14,21,37,Bipolar,Medicare,Divorced,HS/GED
+MH-1331,39,Male,Asian,34366.47,11,9,21,18,GAD,Medicare,Married,Bachelor
+MH-1332,57,Male,Black,24562.29,16,4,,1,MDD,,Divorced,< HS
+MH-1333,30,Female,Other,43626.03,14,9,14,23,PTSD,Medicare,Single,Bachelor
+MH-1334,37,Non-binary,Other,,23,8,29,47,SUD,Private,Widowed,HS/GED
+MH-1335,40,Female,Asian,42007.85,10,17,11,2,GAD,Medicare,Married,HS/GED
+MH-1336,55,Non-binary,White,32775.23,13,7,4,25,Adjustment,Private,Single,
+MH-1337,59,Male,White,44915.37,12,14,29,8,SUD,Private,Widowed,HS/GED
+MH-1338,37,Male,White,34700.13,15,3,,45,GAD,Uninsured,Single,
+MH-1339,25,Non-binary,Other,35562.17,24,3,22,50,PTSD,Medicare,Divorced,Bachelor
+MH-1340,20,Female,Black,4260.83,10,7,11,16,MDD,Medicaid,Single,< HS
+MH-1341,27,Non-binary,Asian,71735.3,10,17,29,17,Adjustment,Medicare,Widowed,
+MH-1342,21,Female,Asian,51032.04,16,14,,52,Adjustment,Private,Widowed,< HS
+MH-1343,18,Male,White,57880.87,6,12,30,29,SUD,Private,Single,Some College
+MH-1344,25,Female,Black,4579.73,22,9,31,31,Bipolar,Medicare,Single,HS/GED
+MH-1345,72,Non-binary,White,52063.57,19,2,,44,Bipolar,Medicare,Widowed,Some College
+MH-1346,73,Non-binary,White,28242.06,3,12,,32,MDD,Uninsured,Widowed,< HS
+MH-1347,59,Male,Hispanic,30960.21,22,6,6,37,Adjustment,Medicare,Divorced,Graduate
+MH-1348,24,Non-binary,Other,15551.74,17,2,23,42,Bipolar,Medicare,Single,< HS
+MH-1349,50,Non-binary,Black,62469.94,4,11,,32,PTSD,Medicare,Divorced,Some College
+MH-1350,32,Male,Other,,12,10,18,29,SUD,Uninsured,Single,Bachelor
+MH-1351,25,Female,Hispanic,71548.07,12,15,23,3,SUD,Medicaid,Single,
+MH-1352,74,Non-binary,Hispanic,29762.41,13,4,0,24,MDD,Medicare,Widowed,Some College
+MH-1353,56,Non-binary,Other,16036.33,15,9,17,49,Adjustment,Medicare,Single,
+MH-1354,53,Female,Hispanic,14254.03,12,12,,9,Adjustment,Uninsured,Single,Some College
+MH-1355,30,Non-binary,Black,67544.89,22,12,40,13,Adjustment,Private,Single,Bachelor
+MH-1356,25,Male,Other,44731.92,7,3,1,9,Bipolar,Medicaid,Single,
+MH-1357,48,Female,Other,,9,16,13,12,Adjustment,Medicare,Single,Bachelor
+MH-1358,56,Non-binary,Other,57785.99,9,0,40,45,GAD,Private,Widowed,Some College
+MH-1359,69,Female,Asian,54423.92,18,7,6,20,Adjustment,Private,Married,HS/GED
+MH-1360,63,Male,Other,37821.5,19,3,0,42,GAD,Private,Single,Some College
+MH-1361,55,Non-binary,Asian,,10,2,30,35,PTSD,Uninsured,Single,Graduate
+MH-1362,42,Male,White,58390.07,21,12,37,11,PTSD,Private,Married,< HS
+MH-1363,31,Non-binary,Hispanic,42104.16,12,10,17,44,Adjustment,Medicare,Widowed,HS/GED
+MH-1364,62,Non-binary,Hispanic,20951.99,2,0,38,44,PTSD,Medicaid,Single,Some College
+MH-1365,73,Male,Other,49022.22,2,15,,46,Adjustment,Private,Married,HS/GED
+MH-1366,29,Female,Asian,49043.23,13,17,18,8,Bipolar,Medicaid,Widowed,Some College
+MH-1367,26,Non-binary,Hispanic,60484.89,23,15,,10,MDD,Medicare,Divorced,Graduate
+MH-1368,71,Male,Other,31008.85,8,5,,51,Adjustment,Private,Married,HS/GED
+MH-1369,68,Non-binary,White,23342.83,13,7,20,15,GAD,Private,Divorced,Some College
+MH-1370,66,Female,Black,26957.28,9,2,15,42,MDD,Medicaid,Divorced,Bachelor
+MH-1371,57,Male,Other,,15,13,15,51,MDD,Uninsured,Divorced,Graduate
+MH-1372,19,Non-binary,Hispanic,70391.26,8,3,34,29,Bipolar,Medicaid,Divorced,HS/GED
+MH-1373,23,Female,Other,52323.71,12,15,18,1,Adjustment,Medicaid,Married,
+MH-1374,71,Non-binary,Asian,59761.03,18,5,0,50,Bipolar,Medicaid,Married,< HS
+MH-1375,20,Female,Hispanic,47126.49,15,11,9,37,GAD,Private,Widowed,Bachelor
+MH-1376,45,Female,Asian,34753.58,19,10,22,47,SUD,Medicaid,Single,< HS
+MH-1377,24,Female,Other,35214.92,22,6,,29,Bipolar,Uninsured,Single,
+MH-1378,32,Male,Other,53737.84,18,11,9,41,GAD,Private,Divorced,< HS
+MH-1379,27,Non-binary,Other,43292.29,14,4,14,6,PTSD,Medicare,Divorced,HS/GED
+MH-1380,27,Female,Other,48748.26,17,11,16,12,Adjustment,Medicaid,Widowed,Graduate
+MH-1381,60,Male,Hispanic,49461.98,15,9,10,22,PTSD,Medicare,Married,< HS
+MH-1382,22,Female,Other,54742.24,10,3,,20,Adjustment,Medicare,Divorced,Some College
+MH-1383,18,Female,Black,29779.37,23,8,,18,PTSD,Medicare,Divorced,Bachelor
+MH-1384,40,Female,Asian,45223.2,7,15,31,6,PTSD,Medicare,Married,Some College
+MH-1385,64,Non-binary,White,,14,8,21,38,SUD,Uninsured,Married,< HS
+MH-1386,52,Non-binary,Hispanic,59628.76,9,8,17,26,GAD,Private,Married,Bachelor
+MH-1387,23,Non-binary,Other,25056.46,18,4,5,52,SUD,Medicare,Married,Bachelor
+MH-1388,54,Male,Black,67058.85,11,17,,31,PTSD,Medicaid,Married,Bachelor
+MH-1389,34,Male,White,38368.87,15,12,43,24,Bipolar,Uninsured,Widowed,< HS
+MH-1390,24,Male,Hispanic,,7,14,5,17,SUD,Medicare,Widowed,Bachelor
+MH-1391,59,Female,Other,,12,9,48,15,SUD,Uninsured,Divorced,Some College
+MH-1392,74,Female,Asian,,9,11,26,5,SUD,Private,Married,HS/GED
+MH-1393,41,Male,Black,15413.7,7,7,13,22,Adjustment,Medicaid,Widowed,Bachelor
+MH-1394,55,Female,Black,60033.06,23,11,22,37,SUD,Medicare,Married,Graduate
+MH-1395,27,Male,Other,55064.01,15,15,44,39,SUD,Medicaid,Divorced,< HS
+MH-1396,56,Male,Asian,78139.45,13,14,38,39,GAD,Medicare,Divorced,HS/GED
+MH-1397,47,Non-binary,Hispanic,36414.14,12,8,,2,GAD,Uninsured,Married,Graduate
+MH-1398,48,Male,Black,61852.09,9,14,,49,MDD,Medicaid,Widowed,HS/GED
+MH-1399,70,Non-binary,Other,84414.32,14,7,,27,PTSD,Medicaid,Widowed,HS/GED
+MH-1400,40,Female,Asian,16910.22,8,10,6,7,Bipolar,Medicare,Divorced,Bachelor
+MH-1401,36,Male,White,23616.13,9,9,,48,MDD,Medicaid,Single,
+MH-1402,62,Non-binary,Black,,8,14,28,38,PTSD,Private,Widowed,Graduate
+MH-1403,35,Female,Other,60094.21,13,11,34,36,Bipolar,Medicare,Divorced,Graduate
+MH-1404,34,Non-binary,Asian,65571.59,13,10,,9,Adjustment,Medicaid,Married,
+MH-1405,24,Non-binary,Black,46032.97,19,6,,45,Adjustment,Medicaid,Married,Bachelor
+MH-1406,69,Non-binary,White,50480.11,15,14,17,5,PTSD,Medicare,Divorced,< HS
+MH-1407,64,Non-binary,White,3183.37,25,5,,46,SUD,Medicaid,Married,Bachelor
+MH-1408,30,Female,White,66569.61,2,,,51,SUD,Medicare,Married,< HS
+MH-1409,59,Female,Black,52536.24,14,18,21,23,Adjustment,Uninsured,Widowed,Graduate
+MH-1410,18,Male,Other,,11,13,26,36,SUD,Private,Divorced,Some College
+MH-1411,30,Male,Other,24423.57,15,13,22,33,MDD,Medicaid,Divorced,Some College
+MH-1412,34,Male,Other,65475.32,6,3,15,25,SUD,Uninsured,Married,Some College
+MH-1413,75,Female,Asian,38376.22,13,11,24,41,GAD,Medicare,Divorced,Bachelor
+MH-1414,52,Female,Other,75945.08,14,10,26,44,Adjustment,Private,Single,Graduate
+MH-1415,38,Male,Asian,18888.91,24,8,46,44,GAD,Uninsured,Married,HS/GED
+MH-1416,73,Non-binary,Black,40744.76,18,14,5,23,GAD,Medicaid,Single,< HS
+MH-1417,57,Non-binary,Asian,77475.69,14,19,16,24,SUD,Private,Widowed,Graduate
+MH-1418,29,Female,Asian,81871.38,12,9,28,37,GAD,Medicaid,Widowed,Bachelor
+MH-1419,50,Non-binary,White,21499.76,23,10,11,8,Adjustment,Uninsured,Divorced,< HS
+MH-1420,42,Male,Black,28052.5,11,7,16,36,PTSD,Medicare,Divorced,Bachelor
+MH-1421,41,Non-binary,Hispanic,49626.38,19,2,,24,Bipolar,Private,Widowed,HS/GED
+MH-1422,54,Non-binary,Black,29077.42,3,8,4,36,Bipolar,Uninsured,Married,
+MH-1423,48,Non-binary,Black,45845.43,10,0,22,41,SUD,Private,Widowed,Some College
+MH-1424,72,Female,Other,25477.06,11,9,,17,Bipolar,Medicaid,Widowed,Some College
+MH-1425,41,Female,Hispanic,3244.19,8,9,23,8,PTSD,Medicare,Married,Some College
+MH-1426,61,Female,Hispanic,,13,8,23,40,PTSD,Uninsured,Married,HS/GED
+MH-1427,44,Non-binary,Hispanic,26092.43,8,11,18,11,PTSD,Medicare,Divorced,Some College
+MH-1428,63,Non-binary,Hispanic,,22,9,32,24,Adjustment,Uninsured,Widowed,HS/GED
+MH-1429,26,Male,White,38309.23,5,17,16,6,GAD,Medicare,Widowed,< HS
+MH-1430,74,Male,White,36097.07,14,10,9,6,MDD,Private,Married,< HS
+MH-1431,37,Non-binary,Asian,,23,7,23,34,GAD,Medicaid,Single,Some College
+MH-1432,47,Female,Asian,64173.45,12,9,,45,SUD,Medicare,Widowed,Graduate
+MH-1433,58,Female,Other,32087.02,10,6,32,52,MDD,Uninsured,Divorced,Some College
+MH-1434,27,Female,Hispanic,41919.2,14,13,4,23,PTSD,Uninsured,Single,Bachelor
+MH-1435,18,Female,Hispanic,45204.57,3,2,11,36,PTSD,Medicare,Widowed,Graduate
+MH-1436,33,Female,Asian,,22,6,28,17,MDD,Uninsured,Married,Graduate
+MH-1437,36,Non-binary,Hispanic,28789.73,8,9,28,5,GAD,Medicare,Divorced,< HS
+MH-1438,57,Non-binary,Asian,15271.93,16,5,22,10,MDD,Medicaid,Married,< HS
+MH-1439,26,Female,Hispanic,35706.67,4,10,27,32,GAD,Private,Widowed,Some College
+MH-1440,47,Female,Hispanic,40503.85,12,17,30,10,MDD,Private,Widowed,
+MH-1441,29,Non-binary,Asian,,24,13,4,8,Adjustment,Medicare,Widowed,
+MH-1442,30,Male,White,12025.37,16,0,18,31,Bipolar,Private,Divorced,HS/GED
+MH-1443,65,Non-binary,White,62170.8,11,9,36,13,PTSD,Medicaid,Married,< HS
+MH-1444,38,Male,Asian,73872.11,15,5,16,16,MDD,Medicaid,Widowed,Graduate
+MH-1445,67,Male,Hispanic,50922.29,15,15,,49,Adjustment,Medicaid,Single,Some College
+MH-1446,62,Non-binary,Black,33642.78,13,5,,36,Adjustment,Private,Widowed,HS/GED
+MH-1447,40,Male,Asian,,9,17,,36,PTSD,Uninsured,Married,
+MH-1448,40,Male,Other,32963.4,20,14,12,36,GAD,Medicaid,Married,Bachelor
+MH-1449,52,Female,Hispanic,41541.5,14,6,14,12,MDD,Private,Married,Some College
+MH-1450,60,Non-binary,White,74577.4,11,12,36,50,SUD,Medicare,Divorced,Some College
+MH-1451,25,Female,Hispanic,63717.09,19,21,28,12,MDD,Medicare,Single,Bachelor
+MH-1452,20,Male,White,11107.86,9,6,11,45,SUD,,Single,
+MH-1453,63,Male,Other,79484.32,19,11,33,6,Bipolar,Medicaid,Divorced,Graduate
+MH-1454,70,Non-binary,Asian,22775.28,20,11,,3,Adjustment,Medicaid,Divorced,< HS
+MH-1455,24,Male,Other,,16,7,26,43,GAD,Medicare,Widowed,< HS
+MH-1456,40,Non-binary,Other,29194.87,5,7,24,51,GAD,Uninsured,Divorced,HS/GED
+MH-1457,46,Non-binary,Other,77498.67,8,0,11,24,Bipolar,Uninsured,Divorced,Graduate
+MH-1458,52,Male,Other,48890.86,23,13,18,29,Bipolar,Uninsured,Single,< HS
+MH-1459,19,Female,Other,-14700.13,11,8,30,15,GAD,Private,Single,Some College
+MH-1460,53,Non-binary,Other,20835.01,10,14,28,10,GAD,Private,Divorced,
+MH-1461,34,Male,Black,44959.15,11,0,35,47,MDD,Private,Widowed,HS/GED
+MH-1462,70,Female,Other,,9,7,,37,Bipolar,Medicaid,Single,Some College
+MH-1463,44,Female,Asian,,12,11,5,39,MDD,Uninsured,Single,Some College
+MH-1464,38,Non-binary,White,32074.22,13,6,21,4,Adjustment,Uninsured,Widowed,
+MH-1465,23,Non-binary,Other,44598.34,18,7,25,6,Bipolar,Medicaid,Widowed,Some College
+MH-1466,50,Male,Asian,16476.55,17,10,10,13,Bipolar,,Married,Graduate
+MH-1467,33,Non-binary,Other,42683.65,18,3,28,37,MDD,Medicaid,Widowed,Bachelor
+MH-1468,30,Female,Hispanic,31610.02,21,14,23,23,SUD,Uninsured,Married,Bachelor
+MH-1469,30,Male,Black,37858.38,10,9,17,48,MDD,Medicare,Married,Some College
+MH-1470,62,Male,Hispanic,47137.12,9,5,23,48,SUD,Medicare,Married,Graduate
+MH-1471,53,Non-binary,Hispanic,13040.49,15,14,,2,Bipolar,Medicaid,Divorced,HS/GED
+MH-1472,30,Male,Hispanic,48086.55,5,16,26,1,MDD,Uninsured,Divorced,Some College
+MH-1473,36,Male,White,59528.78,7,10,31,46,MDD,Private,Widowed,
+MH-1474,29,Non-binary,White,56830.62,27,2,16,3,GAD,Private,Divorced,Bachelor
+MH-1475,19,Female,Black,,18,7,,33,PTSD,Medicaid,Divorced,Bachelor
+MH-1476,35,Male,Other,44515.74,19,7,,47,Bipolar,Medicare,Widowed,HS/GED
+MH-1477,45,Non-binary,Black,80802.66,11,7,32,14,Adjustment,Medicare,Married,
+MH-1478,26,Female,Other,6333.35,19,10,7,37,GAD,Private,Single,Graduate
+MH-1479,29,Non-binary,White,26736.71,25,8,5,27,Bipolar,Private,Widowed,Some College
+MH-1480,24,Male,Black,44809.74,15,16,20,39,SUD,Medicare,Married,HS/GED
+MH-1481,40,Non-binary,White,69491.31,18,16,,31,Adjustment,Private,Married,Bachelor
+MH-1482,26,Female,Asian,,17,0,,18,Bipolar,Medicare,Married,HS/GED
+MH-1483,46,Male,Black,,8,7,31,16,Bipolar,Uninsured,Single,Graduate
+MH-1484,64,Non-binary,Asian,32470.69,21,9,,34,Adjustment,Medicaid,Single,Bachelor
+MH-1485,74,Female,White,63760.95,13,3,31,36,Bipolar,Medicaid,Married,Some College
+MH-1486,74,Female,Asian,30655.8,24,4,24,40,MDD,Medicare,Widowed,Bachelor
+MH-1487,25,Male,Other,52201.73,21,14,14,26,Bipolar,Private,Widowed,< HS
+MH-1488,55,Male,Asian,,6,11,19,21,Adjustment,Medicare,Single,< HS
+MH-1489,58,Male,Asian,27713.27,19,3,33,33,SUD,Medicare,Widowed,Graduate
+MH-1490,67,Female,White,49756.37,18,16,,11,GAD,Medicare,Single,Bachelor
+MH-1491,64,Female,Hispanic,44285.66,7,8,,9,GAD,Medicaid,Divorced,< HS
+MH-1492,72,Female,Asian,,14,5,14,14,SUD,Uninsured,Widowed,Bachelor
+MH-1493,56,Female,White,31094.86,11,3,,36,GAD,Medicaid,Married,HS/GED
+MH-1494,20,Male,Hispanic,44824.35,15,4,15,22,MDD,Medicaid,Single,Bachelor
+MH-1495,61,Male,Black,36325.64,22,7,9,36,GAD,Uninsured,Divorced,< HS
+MH-1496,38,Male,Hispanic,30088.99,18,14,26,36,MDD,Private,Widowed,
+MH-1497,39,Male,Hispanic,20363.81,12,7,9,7,SUD,Medicaid,Widowed,Graduate
+MH-1498,45,Non-binary,Hispanic,29828.59,10,0,,23,GAD,Uninsured,Widowed,Bachelor
+MH-1499,32,Male,Other,29106.83,0,11,22,41,MDD,Medicare,Widowed,Bachelor
+MH-1500,40,Male,Hispanic,18182.68,10,13,22,19,PTSD,Medicaid,Divorced,Some College
+MH-1501,38,Non-binary,Other,,11,7,30,37,SUD,Medicaid,Married,HS/GED
+MH-1502,61,Female,Hispanic,21756.87,14,12,23,10,Adjustment,Uninsured,Divorced,Bachelor
+MH-1503,71,Female,White,18980.1,12,7,10,2,GAD,Private,Divorced,
+MH-1504,71,Male,Hispanic,,17,3,8,37,SUD,Uninsured,Married,Graduate
+MH-1505,63,Male,Hispanic,59748.58,6,9,26,16,PTSD,Uninsured,Divorced,HS/GED
+MH-1506,29,Non-binary,Hispanic,66031.17,20,11,0,29,SUD,Medicaid,Widowed,Graduate
+MH-1507,39,Male,Black,67928.6,9,1,19,10,MDD,Medicare,Married,< HS
+MH-1508,63,Female,Asian,47898.71,11,9,24,39,MDD,Private,Widowed,< HS
+MH-1509,67,Male,Other,33567.22,9,6,17,14,PTSD,Medicare,Married,Some College
+MH-1510,38,Female,Other,45830.35,5,9,27,8,MDD,Medicaid,Married,Graduate
+MH-1511,38,Female,Other,36312.71,27,12,9,11,MDD,Private,Divorced,Graduate
+MH-1512,26,Female,White,80263.41,16,14,25,6,Bipolar,Uninsured,Married,Graduate
+MH-1513,57,Non-binary,Asian,32033.54,18,12,37,52,SUD,Medicaid,Widowed,
+MH-1514,70,Male,White,51005.24,5,13,26,42,Adjustment,Uninsured,Widowed,HS/GED
+MH-1515,73,Male,Black,53026.36,11,7,26,43,PTSD,Private,Widowed,Bachelor
+MH-1516,48,Male,White,57589.49,18,12,15,23,SUD,Medicare,Single,Bachelor
+MH-1517,38,Non-binary,White,35520.9,13,8,,38,Bipolar,Medicare,Married,Graduate
+MH-1518,42,Male,Asian,53256.14,15,8,12,28,SUD,Private,Married,HS/GED
+MH-1519,65,Non-binary,White,63336.4,10,3,23,30,PTSD,Medicaid,Widowed,HS/GED
+MH-1520,22,Female,Asian,,8,2,11,21,Bipolar,Medicaid,Single,
+MH-1521,75,Male,Other,43027.79,3,10,7,29,SUD,Private,Widowed,
+MH-1522,30,Non-binary,Asian,52142.01,25,7,38,44,PTSD,Uninsured,Divorced,
+MH-1523,57,Non-binary,White,60251.78,13,12,27,24,SUD,Medicaid,Single,Graduate
+MH-1524,73,Female,White,41089.29,15,3,,41,PTSD,Uninsured,Widowed,Bachelor
+MH-1525,31,Female,Other,,8,11,31,24,Bipolar,Medicare,Divorced,HS/GED
+MH-1526,22,Male,White,36018.23,11,15,,9,MDD,Medicare,Widowed,Bachelor
+MH-1527,45,Non-binary,Other,27836.01,9,1,30,25,PTSD,Medicare,Married,Bachelor
+MH-1528,54,Non-binary,White,12836.16,14,9,14,35,SUD,Private,Single,< HS
+MH-1529,63,Non-binary,Asian,,19,11,21,47,Adjustment,Private,Widowed,Graduate
+MH-1530,74,Male,Other,31600.15,11,4,11,43,MDD,Private,Single,Some College
+MH-1531,48,Non-binary,White,4473.54,17,5,17,23,PTSD,,Married,< HS
+MH-1532,65,Non-binary,Other,,23,9,36,38,GAD,Medicaid,Divorced,Graduate
+MH-1533,49,Male,Hispanic,,17,12,15,9,SUD,Private,Divorced,Some College
+MH-1534,56,Male,White,52990.87,21,13,30,52,GAD,Private,Married,Bachelor
+MH-1535,73,Male,Other,92677.4,17,16,19,10,Bipolar,Uninsured,Widowed,HS/GED
+MH-1536,64,Non-binary,Asian,33959.35,10,9,12,42,PTSD,Medicaid,Single,HS/GED
+MH-1537,48,Female,Asian,32546.18,23,10,9,25,Adjustment,Uninsured,Widowed,Some College
+MH-1538,73,Male,Other,28371.64,15,11,12,21,SUD,Medicaid,Single,
+MH-1539,72,Non-binary,Hispanic,5380.08,19,12,14,18,MDD,Private,Widowed,Bachelor
+MH-1540,64,Non-binary,Black,27444.45,4,,20,12,PTSD,Medicaid,Single,< HS
+MH-1541,24,Male,Asian,14965.64,12,5,34,17,GAD,Medicaid,Single,Graduate
+MH-1542,56,Male,White,23065.18,4,16,,46,MDD,Medicaid,Married,Bachelor
+MH-1543,69,Non-binary,Other,79485.02,11,8,,30,Adjustment,Medicaid,Widowed,
+MH-1544,34,Female,Hispanic,45708.02,16,10,12,22,MDD,Private,Divorced,HS/GED
+MH-1545,49,Female,White,,13,4,30,7,GAD,Uninsured,Married,Graduate
+MH-1546,46,Non-binary,White,40187.14,11,15,27,17,Bipolar,Medicaid,Widowed,
+MH-1547,20,Non-binary,White,34756.91,9,6,,37,MDD,Uninsured,Widowed,Bachelor
+MH-1548,52,Female,White,44680.6,19,6,5,8,SUD,Private,Divorced,Some College
+MH-1549,58,Female,White,67974.09,13,3,36,22,MDD,Uninsured,Divorced,HS/GED
+MH-1550,20,Male,Other,67916.92,12,8,31,7,Adjustment,Private,Widowed,< HS
+MH-1551,65,Non-binary,Asian,43801.83,15,21,27,16,Bipolar,Uninsured,Single,
+MH-1552,49,Non-binary,Hispanic,8646.29,11,0,,3,PTSD,Medicaid,Divorced,
+MH-1553,31,Female,White,,5,2,25,35,GAD,Medicare,Single,
+MH-1554,49,Non-binary,Black,30455.5,8,11,20,45,Adjustment,Medicare,Single,HS/GED
+MH-1555,75,Non-binary,White,,23,7,23,38,MDD,Medicaid,Single,Bachelor
+MH-1556,32,Non-binary,Other,53173.68,15,5,38,48,Adjustment,Uninsured,Divorced,< HS
+MH-1557,52,Non-binary,Other,64272.82,22,12,5,38,GAD,Private,Single,< HS
+MH-1558,66,Female,Black,18067.23,18,4,18,38,MDD,Medicare,Single,Graduate
+MH-1559,19,Female,Black,47371.68,12,21,23,46,Adjustment,Private,Widowed,Bachelor
+MH-1560,31,Non-binary,Black,50905.91,17,6,24,12,SUD,Medicaid,Married,Bachelor
+MH-1561,58,Non-binary,White,49044.78,9,4,28,13,MDD,Medicaid,Divorced,Graduate
+MH-1562,47,Non-binary,Black,45365.3,5,9,28,51,GAD,Uninsured,Widowed,HS/GED
+MH-1563,21,Male,White,32951.88,10,5,,52,Bipolar,Medicaid,Single,< HS
+MH-1564,28,Non-binary,Black,46586.49,7,17,,47,Bipolar,Private,Widowed,HS/GED
+MH-1565,32,Non-binary,Hispanic,44895.6,8,16,,13,Bipolar,Medicare,Single,Bachelor
+MH-1566,21,Non-binary,Asian,49781.13,11,14,17,25,PTSD,Medicare,Widowed,HS/GED
+MH-1567,35,Non-binary,Hispanic,44777.28,16,9,18,9,MDD,Uninsured,Widowed,
+MH-1568,32,Male,Hispanic,60511.54,8,11,8,40,GAD,Medicare,Single,Bachelor
+MH-1569,73,Non-binary,Asian,66079.63,13,12,15,47,Bipolar,Medicare,Married,Some College
+MH-1570,32,Female,Other,60740.06,8,13,32,1,Bipolar,Medicaid,Single,Bachelor
+MH-1571,20,Non-binary,Other,25903.67,16,12,,7,Bipolar,Uninsured,Married,< HS
+MH-1572,62,Non-binary,White,36969.94,0,12,28,42,MDD,Medicaid,Widowed,Some College
+MH-1573,72,Male,Asian,20463.39,10,15,20,9,Adjustment,Uninsured,Married,Some College
+MH-1574,63,Non-binary,Asian,18111.13,5,19,31,22,SUD,Medicaid,Divorced,Bachelor
+MH-1575,52,Female,Other,31080.52,12,7,9,22,Adjustment,Medicaid,Divorced,< HS
+MH-1576,41,Male,Asian,36922.44,14,5,32,46,MDD,Medicare,Married,Some College
+MH-1577,25,Male,Other,24555.11,6,10,1,45,GAD,Medicare,Divorced,Some College
+MH-1578,61,Female,Other,36668.7,14,6,29,33,SUD,Medicaid,Widowed,Graduate
+MH-1579,75,Non-binary,Other,,22,13,,52,MDD,Medicare,Widowed,< HS
+MH-1580,75,Male,Asian,,27,12,24,8,Adjustment,Medicare,Widowed,
+MH-1581,58,Male,Other,60495.33,14,5,0,31,PTSD,Uninsured,Widowed,< HS
+MH-1582,22,Female,Black,74084.31,15,13,11,22,Bipolar,Private,Divorced,Bachelor
+MH-1583,71,Non-binary,Other,22994.33,12,0,13,20,GAD,Private,Married,Bachelor
+MH-1584,67,Female,Hispanic,47760.64,11,7,46,40,GAD,Private,Married,
+MH-1585,28,Non-binary,Black,,15,8,,17,PTSD,Medicare,Married,Graduate
+MH-1586,60,Non-binary,White,35252.82,19,5,30,11,SUD,Private,Single,< HS
+MH-1587,67,Female,Asian,54173.18,19,9,22,48,SUD,Private,Divorced,Bachelor
+MH-1588,60,Female,Other,55997.8,20,14,16,45,MDD,Uninsured,Single,HS/GED
+MH-1589,25,Non-binary,Other,35489.46,19,12,12,6,PTSD,Medicaid,Married,Graduate
+MH-1590,68,Non-binary,Black,55355.39,12,16,,29,Adjustment,Medicaid,Widowed,HS/GED
+MH-1591,56,Female,Hispanic,7926.96,5,13,16,10,Adjustment,Uninsured,Divorced,Bachelor
+MH-1592,36,Female,White,33323.11,18,3,26,14,Adjustment,Uninsured,Widowed,Bachelor
+MH-1593,69,Female,Black,36703.76,1,9,11,38,SUD,Medicaid,Married,HS/GED
+MH-1594,73,Female,Asian,25933.43,13,16,16,25,MDD,Medicaid,Widowed,
+MH-1595,53,Female,Black,19338.69,15,12,18,25,PTSD,Uninsured,Single,Some College
+MH-1596,49,Non-binary,Hispanic,23291.37,11,10,22,17,PTSD,Uninsured,Single,Some College
+MH-1597,49,Female,Black,63582.32,9,18,,32,MDD,Private,Widowed,Graduate
+MH-1598,58,Female,Hispanic,,0,,13,47,SUD,Medicaid,Divorced,HS/GED
+MH-1599,27,Non-binary,White,,25,11,26,18,PTSD,Uninsured,Divorced,< HS
+MH-1600,51,Female,Hispanic,,12,12,35,49,MDD,Medicare,Divorced,Some College
+MH-1601,35,Non-binary,Hispanic,31154.37,5,15,29,10,MDD,Medicare,Divorced,Some College
+MH-1602,39,Female,Asian,51439.83,12,11,33,13,SUD,Medicaid,Widowed,Bachelor
+MH-1603,70,Male,White,,14,5,34,9,Bipolar,Private,Married,Some College
+MH-1604,32,Male,White,,20,8,14,14,GAD,Medicaid,Widowed,< HS
+MH-1605,67,Male,White,22970.93,14,10,24,43,SUD,,Widowed,< HS
+MH-1606,22,Female,White,41175.27,14,12,24,39,GAD,Medicare,Married,
+MH-1607,27,Male,White,66324.35,2,14,,11,SUD,Medicare,Single,< HS
+MH-1608,51,Non-binary,White,44416.6,17,7,43,35,MDD,Medicaid,Married,Graduate
+MH-1609,41,Non-binary,Asian,,10,8,17,23,Bipolar,Uninsured,Married,Graduate
+MH-1610,25,Male,Asian,43119.94,8,4,24,32,PTSD,Private,Single,< HS
+MH-1611,25,Female,Asian,27097.98,18,9,6,29,GAD,Uninsured,Divorced,
+MH-1612,75,Male,White,53074.57,8,8,16,44,Bipolar,Medicaid,Widowed,Bachelor
+MH-1613,25,Non-binary,White,,18,8,19,11,MDD,Private,Married,Some College
+MH-1614,72,Male,Other,51196.81,13,14,,18,Adjustment,Private,Widowed,Some College
+MH-1615,43,Female,Other,63477.37,13,13,30,8,PTSD,Uninsured,Widowed,HS/GED
+MH-1616,19,Non-binary,Black,,15,16,28,12,Bipolar,Private,Married,
+MH-1617,24,Non-binary,Other,43691.09,5,4,20,30,GAD,Private,Widowed,Bachelor
+MH-1618,52,Non-binary,Hispanic,22206.47,23,0,,3,Bipolar,,Widowed,Bachelor
+MH-1619,46,Female,Asian,37495.65,14,0,15,20,Adjustment,Medicare,Widowed,Bachelor
+MH-1620,63,Male,Hispanic,18543.74,20,4,17,36,Adjustment,Uninsured,Widowed,Graduate
+MH-1621,21,Male,Other,,18,16,19,23,PTSD,Private,Single,< HS
+MH-1622,26,Non-binary,White,50661.64,9,9,,41,PTSD,Uninsured,Single,Bachelor
+MH-1623,44,Female,Hispanic,26262.34,21,10,36,38,MDD,Medicaid,Divorced,< HS
+MH-1624,19,Female,Black,37175.64,13,7,13,33,Bipolar,Private,Single,Bachelor
+MH-1625,38,Non-binary,White,,18,1,13,7,Adjustment,Medicare,Divorced,Bachelor
+MH-1626,28,Non-binary,Hispanic,29157.17,10,4,26,51,MDD,Medicare,Divorced,Some College
+MH-1627,54,Male,Hispanic,31483.73,16,9,17,38,MDD,Private,Divorced,< HS
+MH-1628,48,Non-binary,Other,,16,18,30,33,PTSD,Uninsured,Divorced,HS/GED
+MH-1629,34,Female,Asian,,9,10,15,2,Adjustment,Medicare,Widowed,HS/GED
+MH-1630,35,Non-binary,Asian,,11,3,10,28,SUD,Medicaid,Married,Some College
+MH-1631,33,Female,Black,58022.63,21,8,32,21,MDD,Medicare,Widowed,Some College
+MH-1632,34,Female,Black,36894.75,9,10,,2,GAD,Private,Widowed,Bachelor
+MH-1633,45,Non-binary,Asian,39017.78,12,11,26,17,PTSD,Medicare,Single,Bachelor
+MH-1634,73,Male,White,54435.85,10,9,25,27,PTSD,Medicaid,Widowed,HS/GED
+MH-1635,54,Male,White,37926.1,0,0,19,50,SUD,Private,Widowed,< HS
+MH-1636,25,Male,Other,44266.48,8,14,7,52,Adjustment,Medicare,Widowed,HS/GED
+MH-1637,29,Male,White,45224.74,18,1,32,4,Bipolar,Private,Single,Some College
+MH-1638,48,Non-binary,Asian,,0,18,5,24,Bipolar,Private,Divorced,< HS
+MH-1639,20,Non-binary,Other,56416.85,6,17,,51,Adjustment,Medicare,Divorced,Graduate
+MH-1640,58,Female,Hispanic,58512.5,12,10,17,16,Bipolar,Uninsured,Single,Bachelor
+MH-1641,23,Female,Hispanic,69872.72,10,7,40,11,Bipolar,Private,Widowed,< HS
+MH-1642,70,Female,White,,7,9,0,22,Adjustment,Uninsured,Single,HS/GED
+MH-1643,50,Non-binary,Hispanic,59201.57,16,9,,21,Bipolar,Medicaid,Single,HS/GED
+MH-1644,68,Non-binary,Asian,41106.94,13,11,30,37,MDD,Medicaid,Married,
+MH-1645,72,Non-binary,Black,26634.94,10,15,,48,GAD,Private,Married,Graduate
+MH-1646,30,Female,Hispanic,56865.15,16,6,28,37,GAD,Medicaid,Single,Graduate
+MH-1647,58,Non-binary,Other,43036.52,16,6,,11,MDD,Uninsured,Widowed,Graduate
+MH-1648,23,Female,Black,52612.66,13,9,21,34,Bipolar,Uninsured,Widowed,< HS
+MH-1649,30,Male,Black,,10,9,38,25,GAD,Uninsured,Married,Graduate
+MH-1650,64,Male,Hispanic,33723.42,8,7,25,19,PTSD,Medicare,Widowed,
+MH-1651,61,Female,Other,37413.83,11,0,25,45,Bipolar,Medicare,Widowed,Bachelor
+MH-1652,34,Non-binary,Other,62591.73,17,20,29,31,PTSD,Medicaid,Single,Some College
+MH-1653,42,Non-binary,Other,36156.9,19,0,41,36,MDD,Medicare,Divorced,HS/GED
+MH-1654,39,Non-binary,Asian,48892.37,11,7,33,10,PTSD,Medicaid,Divorced,< HS
+MH-1655,73,Male,Asian,,13,6,30,17,SUD,Private,Divorced,
+MH-1656,65,Male,Hispanic,72556.21,13,15,37,43,Adjustment,Uninsured,Single,HS/GED
+MH-1657,32,Male,White,50275.24,20,12,31,8,Bipolar,Medicaid,Widowed,Some College
+MH-1658,49,Non-binary,Other,33514.15,14,9,,23,MDD,Medicare,Divorced,HS/GED
+MH-1659,70,Male,Other,36592.63,26,4,15,1,SUD,Medicare,Widowed,< HS
+MH-1660,61,Male,Asian,,16,6,49,8,Bipolar,Private,Single,
+MH-1661,23,Male,White,14644.83,16,3,23,18,SUD,Medicaid,Divorced,
+MH-1662,46,Non-binary,Other,28760.97,22,8,0,37,GAD,Medicare,Single,Some College
+MH-1663,65,Female,White,82036.84,20,6,28,12,GAD,Uninsured,Single,< HS
+MH-1664,42,Male,Black,44716.2,9,10,,8,PTSD,Uninsured,Widowed,Some College
+MH-1665,26,Non-binary,Other,36879.52,16,7,26,29,Bipolar,Uninsured,Divorced,Graduate
+MH-1666,23,Non-binary,Asian,43339.58,3,5,15,28,MDD,Medicaid,Divorced,Bachelor
+MH-1667,59,Non-binary,Black,37924.7,10,2,22,34,MDD,Private,Widowed,Bachelor
+MH-1668,37,Male,Asian,47599.07,16,17,11,34,Bipolar,Private,Single,
+MH-1669,50,Male,White,56766.83,17,16,30,37,PTSD,Private,Divorced,Graduate
+MH-1670,19,Male,Other,,19,11,27,26,MDD,Medicaid,Widowed,Some College
+MH-1671,64,Female,Other,16251.97,16,7,,52,GAD,Medicare,Married,< HS
+MH-1672,34,Non-binary,Other,,11,9,,8,MDD,Medicare,Widowed,Bachelor
+MH-1673,73,Non-binary,Asian,,5,9,13,40,PTSD,Uninsured,Divorced,
+MH-1674,18,Male,Black,54036.39,24,8,,2,GAD,Uninsured,Married,HS/GED
+MH-1675,30,Female,Other,68443.17,19,13,30,8,GAD,Medicare,Widowed,
+MH-1676,73,Female,White,29250.03,15,7,40,26,MDD,Private,Single,< HS
+MH-1677,44,Non-binary,Asian,59086.3,6,4,14,19,MDD,Uninsured,Widowed,Bachelor
+MH-1678,64,Non-binary,Other,21264.66,8,12,,46,MDD,Medicaid,Widowed,Graduate
+MH-1679,22,Female,Other,39087.8,22,11,18,40,Adjustment,Private,Widowed,Bachelor
+MH-1680,36,Male,Black,38982.73,7,4,26,38,Adjustment,Private,Widowed,HS/GED
+MH-1681,44,Female,Asian,55421.66,6,9,,52,GAD,Medicare,Divorced,< HS
+MH-1682,26,Non-binary,Asian,46864.73,17,1,22,32,PTSD,Medicare,Married,Graduate
+MH-1683,40,Male,White,54398.19,10,15,37,33,MDD,Medicaid,Divorced,Bachelor
+MH-1684,32,Male,Other,51309.11,16,9,,23,MDD,Private,Married,Graduate
+MH-1685,63,Non-binary,White,,18,13,0,49,MDD,Medicaid,Single,Graduate
+MH-1686,24,Male,Other,,16,11,31,47,PTSD,Uninsured,Widowed,< HS
+MH-1687,39,Male,Hispanic,45882.29,11,13,47,50,MDD,Medicare,Widowed,Some College
+MH-1688,28,Female,Other,56942.85,16,10,12,43,GAD,Medicare,Widowed,HS/GED
+MH-1689,44,Male,Asian,75475.15,7,15,18,44,PTSD,Medicaid,Widowed,
+MH-1690,22,Male,Other,55483.21,16,12,,4,Bipolar,Medicaid,Married,Graduate
+MH-1691,36,Male,Other,,20,6,2,47,Adjustment,Private,Divorced,< HS
+MH-1692,57,Female,Other,66524.66,9,6,24,35,SUD,Uninsured,Divorced,Bachelor
+MH-1693,23,Male,Hispanic,57807.77,15,8,5,9,SUD,Private,Married,< HS
+MH-1694,37,Non-binary,Other,11992.22,12,10,24,51,SUD,Private,Married,
+MH-1695,50,Non-binary,Asian,46865.46,15,5,32,23,MDD,Medicaid,Single,Bachelor
+MH-1696,65,Female,Other,58369.66,14,10,38,38,SUD,Medicare,Divorced,Some College
+MH-1697,61,Female,Other,53177.03,18,9,17,34,SUD,Medicare,Divorced,Bachelor
+MH-1698,63,Male,Black,25433.86,16,14,27,9,Bipolar,Medicare,Widowed,
+MH-1699,43,Female,Other,23486.07,10,6,26,32,Adjustment,Uninsured,Widowed,Bachelor
+MH-1700,70,Non-binary,Asian,53126.83,20,4,23,46,SUD,Medicaid,Married,Bachelor
+MH-1701,65,Female,White,54725.94,20,12,19,27,MDD,Medicaid,Divorced,Graduate
+MH-1702,51,Female,White,51902.61,18,14,,32,MDD,Medicare,Married,Graduate
+MH-1703,75,Female,White,37007.2,18,13,36,1,MDD,Private,Single,< HS
+MH-1704,54,Female,Asian,34762.66,20,7,30,47,SUD,Medicare,Married,Graduate
+MH-1705,66,Non-binary,Asian,23309.92,16,12,,52,SUD,Uninsured,Widowed,HS/GED
+MH-1706,52,Female,Hispanic,67715.72,16,6,24,6,GAD,Medicaid,Divorced,Graduate
+MH-1707,59,Non-binary,White,31040.64,12,5,13,4,SUD,Medicare,Widowed,Graduate
+MH-1708,60,Male,White,,12,18,24,16,Adjustment,Uninsured,Single,Graduate
+MH-1709,43,Non-binary,Hispanic,24247.87,10,14,18,12,Bipolar,,Divorced,Bachelor
+MH-1710,25,Female,White,,13,9,28,50,MDD,Medicare,Divorced,Bachelor
+MH-1711,21,Non-binary,Black,29987.63,10,11,22,25,MDD,Private,Married,Bachelor
+MH-1712,42,Female,Hispanic,78015.06,9,13,24,39,SUD,Medicare,Widowed,Graduate
+MH-1713,25,Non-binary,Asian,40094.96,19,8,20,2,Bipolar,Medicare,Single,Some College
+MH-1714,61,Non-binary,Other,,20,8,17,37,Bipolar,Uninsured,Single,Graduate
+MH-1715,41,Male,Black,31426.97,13,10,46,36,Bipolar,Medicaid,Single,Bachelor
+MH-1716,59,Non-binary,Hispanic,,13,15,17,39,PTSD,Uninsured,Divorced,HS/GED
+MH-1717,36,Non-binary,Other,70313.56,16,6,18,26,Adjustment,Medicaid,Married,Graduate
+MH-1718,31,Female,Asian,7234.46,4,,35,22,Adjustment,,Widowed,Some College
+MH-1719,39,Male,Hispanic,53141.11,27,4,41,9,Adjustment,Medicaid,Widowed,< HS
+MH-1720,44,Male,Black,,10,5,22,6,Adjustment,Medicaid,Single,Bachelor
+MH-1721,40,Non-binary,White,59223.34,12,6,16,50,Adjustment,Medicaid,Single,Bachelor
+MH-1722,46,Female,Black,71626.73,14,10,6,46,PTSD,Medicare,Single,Graduate
+MH-1723,69,Non-binary,Hispanic,39358.13,9,5,22,18,Bipolar,Medicare,Single,
+MH-1724,25,Non-binary,Asian,57979.88,8,3,22,43,Adjustment,Medicare,Single,Graduate
+MH-1725,26,Male,White,40586.86,21,10,34,51,PTSD,Medicare,Single,Graduate
+MH-1726,61,Non-binary,Hispanic,23595.73,11,16,,42,MDD,,Widowed,Bachelor
+MH-1727,61,Female,White,21080.74,13,8,21,47,GAD,Medicaid,Divorced,Bachelor
+MH-1728,38,Non-binary,Asian,53836.26,14,15,28,2,Adjustment,Medicare,Widowed,< HS
+MH-1729,28,Male,Black,,15,9,,28,MDD,Private,Divorced,HS/GED
+MH-1730,33,Male,Asian,74894.23,11,12,11,16,MDD,Uninsured,Single,Bachelor
+MH-1731,23,Non-binary,White,81619.18,11,2,36,45,MDD,Medicare,Single,Bachelor
+MH-1732,57,Male,Hispanic,37339.4,12,7,10,19,Bipolar,Uninsured,Single,Graduate
+MH-1733,73,Female,Black,,8,14,22,51,Bipolar,Medicaid,Divorced,< HS
+MH-1734,39,Female,Other,34671.0,12,17,23,38,GAD,Medicare,Divorced,
+MH-1735,64,Female,Asian,33626.21,11,10,24,9,PTSD,Uninsured,Divorced,Some College
+MH-1736,67,Non-binary,Other,,19,6,,1,SUD,Medicare,Single,HS/GED
+MH-1737,72,Non-binary,Other,57559.99,15,17,19,13,MDD,Private,Married,Bachelor
+MH-1738,56,Non-binary,Asian,29544.74,3,5,18,20,Bipolar,Private,Married,< HS
+MH-1739,49,Female,White,,14,10,29,40,GAD,Medicare,Widowed,Some College
+MH-1740,31,Non-binary,Asian,14723.96,20,10,22,23,MDD,Medicaid,Married,Some College
+MH-1741,58,Female,Black,15679.32,8,11,,13,PTSD,Medicare,Married,Some College
+MH-1742,39,Non-binary,Black,,10,11,27,17,MDD,Medicaid,Married,Bachelor
+MH-1743,39,Non-binary,White,56136.32,11,10,40,43,GAD,Uninsured,Single,< HS
+MH-1744,68,Male,Black,50218.44,20,8,13,28,Adjustment,Medicare,Single,Graduate
+MH-1745,72,Non-binary,Black,11004.97,11,9,24,51,PTSD,Medicare,Widowed,HS/GED
+MH-1746,68,Non-binary,White,15883.44,15,15,26,49,Adjustment,Private,Widowed,Graduate
+MH-1747,38,Female,Black,36867.5,6,0,,31,PTSD,Uninsured,Single,HS/GED
+MH-1748,46,Male,Black,53794.51,9,6,,37,GAD,Private,Divorced,
+MH-1749,66,Male,Black,58860.42,17,6,32,30,SUD,Private,Widowed,Bachelor
+MH-1750,44,Female,Asian,27785.94,19,9,24,29,GAD,Private,Single,Some College
+MH-1751,71,Male,Hispanic,19360.07,13,13,25,15,MDD,Medicaid,Single,Some College
+MH-1752,30,Male,Other,28442.14,21,9,38,50,Adjustment,Private,Married,Graduate
+MH-1753,34,Male,Other,,14,13,6,26,Bipolar,Medicaid,Widowed,
+MH-1754,32,Male,Asian,46324.64,23,4,23,51,SUD,Uninsured,Widowed,Some College
+MH-1755,72,Male,Hispanic,53749.84,23,8,15,29,SUD,Medicaid,Divorced,HS/GED
+MH-1756,37,Non-binary,Black,44353.41,13,13,4,22,GAD,Uninsured,Widowed,Bachelor
+MH-1757,37,Non-binary,Other,40204.31,15,12,0,10,PTSD,Uninsured,Widowed,HS/GED
+MH-1758,52,Female,White,26556.28,18,3,44,41,PTSD,Medicaid,Married,< HS
+MH-1759,29,Non-binary,Other,68955.38,15,6,22,5,Bipolar,Private,Married,HS/GED
+MH-1760,22,Female,Other,,15,14,22,27,Bipolar,Medicare,Single,
+MH-1761,48,Non-binary,Asian,41230.43,8,12,18,14,PTSD,Uninsured,Widowed,HS/GED
+MH-1762,37,Non-binary,Other,23864.54,10,8,,1,GAD,Uninsured,Single,Bachelor
+MH-1763,51,Non-binary,Black,30888.66,20,4,22,3,Adjustment,Medicaid,Divorced,
+MH-1764,43,Female,Hispanic,17126.4,6,11,28,40,Adjustment,Uninsured,Widowed,Bachelor
+MH-1765,62,Non-binary,Black,25644.84,11,13,19,11,PTSD,Private,Single,HS/GED
+MH-1766,66,Female,Asian,-13737.29,7,12,24,50,PTSD,Uninsured,Widowed,HS/GED
+MH-1767,50,Female,Black,,14,5,10,30,Bipolar,Private,Widowed,HS/GED
+MH-1768,18,Female,White,41892.34,23,14,33,30,Bipolar,Uninsured,Single,< HS
+MH-1769,63,Non-binary,Black,51411.78,12,14,4,11,MDD,Medicaid,Married,Some College
+MH-1770,65,Male,Other,36401.47,15,10,7,10,Bipolar,Private,Married,HS/GED
+MH-1771,75,Non-binary,White,36299.67,10,6,4,52,SUD,Medicaid,Widowed,Some College
+MH-1772,56,Female,White,72957.24,14,11,0,24,GAD,Medicare,Single,< HS
+MH-1773,18,Female,White,35880.18,17,8,15,7,Adjustment,Medicare,Married,< HS
+MH-1774,24,Female,Other,48367.53,9,5,11,35,Bipolar,Uninsured,Single,
+MH-1775,40,Male,White,40608.17,14,9,20,14,Bipolar,Medicare,Single,
+MH-1776,41,Non-binary,Other,78052.46,17,2,31,32,MDD,Medicare,Divorced,< HS
+MH-1777,58,Non-binary,Hispanic,33033.04,5,17,19,22,GAD,Private,Widowed,< HS
+MH-1778,56,Female,White,58728.62,10,1,20,33,SUD,Medicaid,Married,< HS
+MH-1779,37,Non-binary,White,43625.51,20,10,26,9,PTSD,Uninsured,Divorced,HS/GED
+MH-1780,31,Male,Asian,33670.85,10,7,0,29,Adjustment,Private,Married,Some College
+MH-1781,51,Female,White,46836.16,8,13,,15,Adjustment,Private,Divorced,HS/GED
+MH-1782,21,Male,Other,,9,10,,47,GAD,Uninsured,Divorced,HS/GED
+MH-1783,22,Female,White,46689.6,12,12,,10,GAD,Medicare,Single,HS/GED
+MH-1784,71,Non-binary,Other,45412.9,10,4,21,30,PTSD,Medicare,Married,HS/GED
+MH-1785,56,Female,Black,42095.54,18,3,,18,Bipolar,Medicaid,Divorced,Bachelor
+MH-1786,48,Female,Black,22076.98,16,9,,51,Bipolar,Medicaid,Widowed,Bachelor
+MH-1787,56,Male,Hispanic,19783.38,12,12,,20,Bipolar,Private,Widowed,
+MH-1788,22,Non-binary,Asian,27757.92,22,13,,1,MDD,Private,Widowed,Bachelor
+MH-1789,65,Female,Asian,27412.34,18,5,,27,MDD,Medicaid,Widowed,Graduate
+MH-1790,66,Male,Black,29272.8,15,16,13,33,Adjustment,Uninsured,Divorced,< HS
+MH-1791,45,Non-binary,Asian,40793.68,9,18,25,41,Adjustment,Medicaid,Married,Some College
+MH-1792,61,Non-binary,Asian,50157.7,17,3,15,11,MDD,Medicaid,Single,
+MH-1793,75,Female,Other,76569.42,20,12,17,28,PTSD,Private,Widowed,Graduate
+MH-1794,66,Female,Asian,62708.33,7,16,,50,PTSD,Medicare,Divorced,HS/GED
+MH-1795,62,Non-binary,Asian,23057.38,27,10,21,5,Adjustment,Uninsured,Widowed,Some College
+MH-1796,28,Non-binary,Asian,47158.01,17,13,,33,MDD,Uninsured,Married,HS/GED
+MH-1797,65,Male,White,54459.02,23,9,43,27,Bipolar,Medicaid,Married,< HS
+MH-1798,42,Female,White,46648.25,15,13,23,32,Adjustment,Medicaid,Single,
+MH-1799,60,Female,White,-4346.64,5,14,28,1,Bipolar,Private,Widowed,Bachelor
+MH-1800,45,Female,Other,27904.92,21,7,29,16,PTSD,Uninsured,Widowed,Graduate

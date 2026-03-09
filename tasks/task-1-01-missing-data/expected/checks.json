@@ -1,0 +1,72 @@
+{
+  "test_id": "task-1-01",
+  "task_name": "Missing Data",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 100,
+      "points": 0.5
+    },
+    {
+      "label": "total_missing_cells",
+      "type": "exact",
+      "pattern": "Total missing cells: (\\d+)",
+      "expected": 81,
+      "points": 0.5
+    },
+    {
+      "label": "complete_cases",
+      "type": "exact",
+      "pattern": "Complete cases \\(no missing\\): (\\d+)",
+      "expected": 38,
+      "points": 0.5
+    },
+    {
+      "label": "records_with_missing",
+      "type": "exact",
+      "pattern": "Records with 1\\+ missing: (\\d+)",
+      "expected": 62,
+      "points": 0.5
+    },
+    {
+      "label": "missing_follow_up",
+      "type": "exact",
+      "pattern": "follow_up_score: (\\d+)",
+      "expected": 40,
+      "points": 0.5
+    },
+    {
+      "label": "missing_satisfaction",
+      "type": "exact",
+      "pattern": "satisfaction_rating: (\\d+)",
+      "expected": 15,
+      "points": 0.5
+    },
+    {
+      "label": "missing_post_score",
+      "type": "exact",
+      "pattern": "post_score: (\\d+)",
+      "expected": 10,
+      "points": 0.5
+    },
+    {
+      "label": "column_most_missing",
+      "type": "regex",
+      "pattern": "Column with most missing: (.+)",
+      "expected_pattern": "(?i)follow_up_score",
+      "points": 0.5
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}

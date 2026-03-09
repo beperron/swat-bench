@@ -1,0 +1,66 @@
+{
+  "test_id": "task-3-01",
+  "task_name": "Frequency Distributions",
+  "domain": "Descriptive Statistics & Measurement",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 200,
+      "label": "check_1",
+      "pattern": "Total respondents:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 46,
+      "label": "check_2",
+      "pattern": "Mental Health:\\s*(\\d+)"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_3",
+      "pattern": "Most common concern:\\s*(.+)",
+      "expected_pattern": "(?i)Housing"
+    },
+    {
+      "type": "regex",
+      "points": 0.5,
+      "label": "check_4",
+      "pattern": "Most common barrier:\\s*(.+)",
+      "expected_pattern": "(?i)Transportation"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 54,
+      "label": "check_5",
+      "pattern": "Transportation:\\s*(\\d+)"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 0,
+      "label": "check_6",
+      "pattern": "Mode of num_dependents:\\s*(\\d+)"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 1.0,
+      "tolerance": 0.1,
+      "label": "check_7",
+      "pattern": "Median num_dependents:\\s*([\\d.]+)"
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}

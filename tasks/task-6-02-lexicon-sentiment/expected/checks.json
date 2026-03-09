@@ -1,0 +1,84 @@
+{
+  "test_id": "task-6-02",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_feedback",
+      "type": "exact",
+      "pattern": "Total feedback: (\\d+)",
+      "expected": 1000,
+      "points": 1
+    },
+    {
+      "label": "positive_count",
+      "type": "exact",
+      "pattern": "Positive count: (\\d+)",
+      "expected": 416,
+      "points": 1
+    },
+    {
+      "label": "negative_count",
+      "type": "exact",
+      "pattern": "Negative count: (\\d+)",
+      "expected": 483,
+      "points": 1
+    },
+    {
+      "label": "neutral_count",
+      "type": "exact",
+      "pattern": "Neutral count: (\\d+)",
+      "expected": 101,
+      "points": 1
+    },
+    {
+      "label": "overall_mean",
+      "type": "numeric",
+      "pattern": "Overall mean score: ([\\d.-]+)",
+      "expected": -0.36,
+      "tolerance": 0.2,
+      "points": 1
+    },
+    {
+      "label": "top_program",
+      "type": "regex",
+      "pattern": "Top program: (.+)",
+      "expected_pattern": "(?i)Program.?A",
+      "points": 1
+    },
+    {
+      "label": "bottom_program",
+      "type": "regex",
+      "pattern": "Bottom program: (.+)",
+      "expected_pattern": "(?i)Program.?E",
+      "points": 1
+    },
+    {
+      "label": "sentiment_csv_exists",
+      "type": "file_exists",
+      "filename": "sentiment_results.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "sentiment_results.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Lexicon-Based Sentiment",
+  "domain": "Text & Natural Language Processing",
+  "difficulty": "Intermediate"
+}

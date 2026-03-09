@@ -1,0 +1,68 @@
+{
+  "test_id": "task-2-03",
+  "task_name": "Derived Variables",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 100,
+      "points": 1.0
+    },
+    {
+      "label": "age_26_35",
+      "type": "exact",
+      "pattern": "26-35: (\\d+)",
+      "expected": 17,
+      "points": 1.0
+    },
+    {
+      "label": "poverty_count",
+      "type": "exact",
+      "pattern": "Poverty level - Poverty: (\\d+)",
+      "expected": 21,
+      "points": 1.0
+    },
+    {
+      "label": "high_need",
+      "type": "exact",
+      "pattern": "Need category - High: (\\d+)",
+      "expected": 25,
+      "points": 0.5
+    },
+    {
+      "label": "mean_composite",
+      "type": "numeric",
+      "pattern": "Mean composite need score: ([\\d.]+)",
+      "expected": 0.478,
+      "tolerance": 0.01,
+      "points": 0.5
+    },
+    {
+      "label": "mean_poverty_ratio",
+      "type": "numeric",
+      "pattern": "Mean poverty ratio: ([\\d.]+)",
+      "expected": 1.531,
+      "tolerance": 0.01,
+      "points": 0.5
+    },
+    {
+      "label": "mean_service_intensity",
+      "type": "numeric",
+      "pattern": "Mean service intensity: ([\\d.]+)",
+      "expected": 8.19,
+      "tolerance": 0.1,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

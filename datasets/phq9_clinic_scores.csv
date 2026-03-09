@@ -1,0 +1,2501 @@
+client_id,phq9_score,age,gender,clinic
+PHQ-10001,13,46,Female,Downtown
+PHQ-10002,12,29,Male,Downtown
+PHQ-10003,2,21,Male,Southgate
+PHQ-10004,9,75,Male,Downtown
+PHQ-10005,18,53,Female,Westview
+PHQ-10006,3,66,Female,Westview
+PHQ-10007,13,33,Non-binary,North County
+PHQ-10008,0,55,Male,Southgate
+PHQ-10009,16,26,Female,Eastside
+PHQ-10010,18,28,Male,Downtown
+PHQ-10011,8,38,Female,Eastside
+PHQ-10012,11,27,Male,Eastside
+PHQ-10013,10,49,Female,North County
+PHQ-10014,9,46,Male,Downtown
+PHQ-10015,6,22,Male,North County
+PHQ-10016,8,58,Female,North County
+PHQ-10017,8,51,Female,Southgate
+PHQ-10018,11,72,Male,North County
+PHQ-10019,8,81,Female,Downtown
+PHQ-10020,17,37,Male,North County
+PHQ-10021,11,77,Female,Southgate
+PHQ-10022,18,19,Male,Downtown
+PHQ-10023,11,61,Female,North County
+PHQ-10024,2,18,Non-binary,Westview
+PHQ-10025,22,31,Male,Westview
+PHQ-10026,15,82,Male,Eastside
+PHQ-10027,9,85,Male,Southgate
+PHQ-10028,7,57,Female,Eastside
+PHQ-10029,18,80,Male,Southgate
+PHQ-10030,17,34,Male,Southgate
+PHQ-10031,0,45,Male,Eastside
+PHQ-10032,12,69,Non-binary,Westview
+PHQ-10033,6,46,Female,Downtown
+PHQ-10034,12,47,Male,Downtown
+PHQ-10035,1,22,Male,Downtown
+PHQ-10036,11,53,Male,Eastside
+PHQ-10037,12,78,Female,North County
+PHQ-10038,17,73,Female,North County
+PHQ-10039,13,24,Male,Downtown
+PHQ-10040,2,31,Female,Eastside
+PHQ-10041,10,35,Female,Westview
+PHQ-10042,12,30,Female,Southgate
+PHQ-10043,17,29,Male,Eastside
+PHQ-10044,1,69,Male,Eastside
+PHQ-10045,7,67,Female,North County
+PHQ-10046,6,80,Female,Westview
+PHQ-10047,5,25,Male,Southgate
+PHQ-10048,2,79,Female,Southgate
+PHQ-10049,2,83,Female,Eastside
+PHQ-10050,4,69,Female,Southgate
+PHQ-10051,8,23,Male,North County
+PHQ-10052,11,51,Female,Westview
+PHQ-10053,7,68,Female,Westview
+PHQ-10054,11,19,Female,Southgate
+PHQ-10055,23,51,Female,Westview
+PHQ-10056,17,49,Female,Eastside
+PHQ-10057,6,85,Female,Southgate
+PHQ-10058,7,31,Male,Eastside
+PHQ-10059,9,37,Female,Southgate
+PHQ-10060,6,61,Female,Westview
+PHQ-10061,12,24,Female,North County
+PHQ-10062,18,34,Male,Westview
+PHQ-10063,2,74,Male,North County
+PHQ-10064,14,37,Female,Westview
+PHQ-10065,14,36,Female,Downtown
+PHQ-10066,9,23,Male,Eastside
+PHQ-10067,11,31,Female,Southgate
+PHQ-10068,15,37,Male,Eastside
+PHQ-10069,18,40,Male,Downtown
+PHQ-10070,4,70,Male,Eastside
+PHQ-10071,6,31,Female,Downtown
+PHQ-10072,17,76,Female,Eastside
+PHQ-10073,6,53,Male,Westview
+PHQ-10074,6,83,Female,Southgate
+PHQ-10075,7,51,Female,Westview
+PHQ-10076,1,58,Female,Southgate
+PHQ-10077,1,42,Female,North County
+PHQ-10078,3,43,Female,Downtown
+PHQ-10079,21,60,Male,Downtown
+PHQ-10080,12,70,Female,Westview
+PHQ-10081,13,42,Female,North County
+PHQ-10082,13,56,Female,Downtown
+PHQ-10083,6,44,Female,Southgate
+PHQ-10084,11,45,Female,Eastside
+PHQ-10085,13,54,Female,Southgate
+PHQ-10086,8,57,Female,Eastside
+PHQ-10087,0,23,Female,North County
+PHQ-10088,12,42,Male,North County
+PHQ-10089,11,49,Female,Downtown
+PHQ-10090,19,72,Female,Southgate
+PHQ-10091,10,49,Male,Downtown
+PHQ-10092,13,58,Non-binary,North County
+PHQ-10093,10,82,Female,Southgate
+PHQ-10094,9,75,Female,Eastside
+PHQ-10095,19,53,Male,Southgate
+PHQ-10096,12,54,Female,Westview
+PHQ-10097,9,28,Female,Eastside
+PHQ-10098,8,71,Female,Southgate
+PHQ-10099,13,25,Female,North County
+PHQ-10100,7,20,Male,Southgate
+PHQ-10101,8,67,Male,North County
+PHQ-10102,12,46,Female,Westview
+PHQ-10103,8,69,Male,North County
+PHQ-10104,22,21,Male,Southgate
+PHQ-10105,14,35,Male,Eastside
+PHQ-10106,2,66,Female,North County
+PHQ-10107,7,71,Female,Downtown
+PHQ-10108,11,24,Non-binary,Westview
+PHQ-10109,8,23,Male,Eastside
+PHQ-10110,3,34,Female,Downtown
+PHQ-10111,12,45,Female,Westview
+PHQ-10112,18,32,Male,Eastside
+PHQ-10113,24,31,Male,Westview
+PHQ-10114,13,43,Female,Eastside
+PHQ-10115,1,56,Male,Southgate
+PHQ-10116,17,23,Female,North County
+PHQ-10117,10,26,Female,Westview
+PHQ-10118,1,73,Non-binary,North County
+PHQ-10119,13,73,Female,Southgate
+PHQ-10120,22,79,Female,Southgate
+PHQ-10121,9,29,Female,North County
+PHQ-10122,5,77,Male,North County
+PHQ-10123,6,80,Female,Westview
+PHQ-10124,7,53,Male,Southgate
+PHQ-10125,25,80,Male,Eastside
+PHQ-10126,13,80,Female,Downtown
+PHQ-10127,2,57,Male,Westview
+PHQ-10128,14,85,Female,Southgate
+PHQ-10129,7,50,Female,Eastside
+PHQ-10130,6,41,Female,North County
+PHQ-10131,5,54,Non-binary,Eastside
+PHQ-10132,6,64,Female,Downtown
+PHQ-10133,12,24,Male,Eastside
+PHQ-10134,12,80,Female,Downtown
+PHQ-10135,11,41,Non-binary,Westview
+PHQ-10136,22,79,Female,Downtown
+PHQ-10137,9,24,Female,Southgate
+PHQ-10138,23,28,Non-binary,Downtown
+PHQ-10139,10,46,Male,North County
+PHQ-10140,13,74,Female,Southgate
+PHQ-10141,21,30,Male,Eastside
+PHQ-10142,14,51,Male,Eastside
+PHQ-10143,6,70,Female,Southgate
+PHQ-10144,12,22,Female,Westview
+PHQ-10145,10,51,Male,Southgate
+PHQ-10146,13,43,Female,Southgate
+PHQ-10147,8,36,Female,Eastside
+PHQ-10148,18,54,Female,North County
+PHQ-10149,11,82,Female,North County
+PHQ-10150,3,59,Male,Downtown
+PHQ-10151,2,20,Non-binary,Westview
+PHQ-10152,12,84,Male,Westview
+PHQ-10153,1,73,Male,North County
+PHQ-10154,20,59,Male,Eastside
+PHQ-10155,7,81,Female,North County
+PHQ-10156,16,58,Female,Downtown
+PHQ-10157,21,69,Male,Downtown
+PHQ-10158,11,42,Female,Southgate
+PHQ-10159,17,74,Male,Eastside
+PHQ-10160,8,80,Female,Southgate
+PHQ-10161,18,38,Female,Downtown
+PHQ-10162,14,32,Female,Downtown
+PHQ-10163,14,55,Female,Westview
+PHQ-10164,5,76,Male,North County
+PHQ-10165,2,83,Male,Eastside
+PHQ-10166,17,71,Female,Southgate
+PHQ-10167,9,18,Female,Westview
+PHQ-10168,15,37,Female,North County
+PHQ-10169,6,66,Female,Westview
+PHQ-10170,18,67,Female,North County
+PHQ-10171,2,78,Male,North County
+PHQ-10172,6,37,Female,Downtown
+PHQ-10173,0,60,Male,North County
+PHQ-10174,2,36,Female,Eastside
+PHQ-10175,2,51,Female,North County
+PHQ-10176,14,66,Non-binary,North County
+PHQ-10177,15,22,Male,Eastside
+PHQ-10178,10,29,Female,Downtown
+PHQ-10179,17,39,Male,Downtown
+PHQ-10180,1,25,Female,Westview
+PHQ-10181,7,41,Female,Downtown
+PHQ-10182,13,66,Male,Eastside
+PHQ-10183,11,50,Female,Downtown
+PHQ-10184,17,77,Male,Southgate
+PHQ-10185,1,56,Male,North County
+PHQ-10186,12,76,Male,Eastside
+PHQ-10187,23,66,Male,Southgate
+PHQ-10188,6,55,Female,North County
+PHQ-10189,5,24,Male,North County
+PHQ-10190,16,54,Male,Eastside
+PHQ-10191,11,50,Male,Eastside
+PHQ-10192,13,23,Female,North County
+PHQ-10193,2,55,Female,North County
+PHQ-10194,3,34,Male,Westview
+PHQ-10195,14,50,Male,North County
+PHQ-10196,20,55,Male,Westview
+PHQ-10197,16,46,Male,North County
+PHQ-10198,22,64,Female,North County
+PHQ-10199,1,51,Male,Westview
+PHQ-10200,2,47,Female,Southgate
+PHQ-10201,16,46,Male,North County
+PHQ-10202,21,35,Female,Downtown
+PHQ-10203,8,81,Female,Eastside
+PHQ-10204,18,71,Male,Eastside
+PHQ-10205,18,30,Male,Southgate
+PHQ-10206,7,65,Female,North County
+PHQ-10207,22,64,Female,Westview
+PHQ-10208,13,68,Female,Downtown
+PHQ-10209,22,76,Female,Eastside
+PHQ-10210,12,60,Female,Eastside
+PHQ-10211,17,44,Female,Southgate
+PHQ-10212,8,60,Male,Southgate
+PHQ-10213,2,34,Female,Eastside
+PHQ-10214,1,21,Female,Westview
+PHQ-10215,17,40,Female,Eastside
+PHQ-10216,13,85,Female,Downtown
+PHQ-10217,12,31,Female,Eastside
+PHQ-10218,20,23,Male,Southgate
+PHQ-10219,7,79,Male,North County
+PHQ-10220,12,80,Male,North County
+PHQ-10221,4,26,Female,Southgate
+PHQ-10222,13,59,Female,Southgate
+PHQ-10223,10,30,Male,Downtown
+PHQ-10224,18,45,Female,Eastside
+PHQ-10225,8,30,Female,Westview
+PHQ-10226,11,65,Non-binary,North County
+PHQ-10227,2,30,Male,Westview
+PHQ-10228,16,25,Male,Southgate
+PHQ-10229,11,72,Male,Downtown
+PHQ-10230,20,57,Female,Southgate
+PHQ-10231,13,31,Female,Southgate
+PHQ-10232,8,53,Male,North County
+PHQ-10233,19,21,Male,Westview
+PHQ-10234,2,52,Male,Westview
+PHQ-10235,21,36,Male,North County
+PHQ-10236,3,21,Female,Southgate
+PHQ-10237,6,65,Female,Westview
+PHQ-10238,18,28,Male,Eastside
+PHQ-10239,1,52,Female,North County
+PHQ-10240,11,74,Female,Eastside
+PHQ-10241,18,54,Male,Southgate
+PHQ-10242,13,57,Female,North County
+PHQ-10243,23,45,Male,Westview
+PHQ-10244,7,33,Female,North County
+PHQ-10245,1,82,Male,Westview
+PHQ-10246,3,23,Female,North County
+PHQ-10247,24,69,Male,North County
+PHQ-10248,6,69,Female,Westview
+PHQ-10249,3,64,Female,Downtown
+PHQ-10250,6,69,Female,North County
+PHQ-10251,17,39,Female,Downtown
+PHQ-10252,11,42,Male,Westview
+PHQ-10253,9,36,Female,Eastside
+PHQ-10254,6,40,Male,Downtown
+PHQ-10255,2,75,Male,Southgate
+PHQ-10256,10,59,Male,Westview
+PHQ-10257,3,56,Male,Southgate
+PHQ-10258,3,82,Female,North County
+PHQ-10259,14,27,Male,Downtown
+PHQ-10260,13,82,Female,Southgate
+PHQ-10261,13,75,Male,Southgate
+PHQ-10262,11,37,Non-binary,North County
+PHQ-10263,3,61,Non-binary,Downtown
+PHQ-10264,12,74,Non-binary,Southgate
+PHQ-10265,13,38,Female,Westview
+PHQ-10266,7,24,Male,Westview
+PHQ-10267,0,30,Male,North County
+PHQ-10268,7,37,Female,Southgate
+PHQ-10269,10,62,Female,North County
+PHQ-10270,2,66,Male,Westview
+PHQ-10271,16,85,Female,North County
+PHQ-10272,13,45,Female,North County
+PHQ-10273,2,35,Female,Westview
+PHQ-10274,19,85,Female,Westview
+PHQ-10275,18,34,Male,Eastside
+PHQ-10276,3,39,Male,Downtown
+PHQ-10277,5,48,Non-binary,Southgate
+PHQ-10278,7,48,Female,North County
+PHQ-10279,20,42,Female,Southgate
+PHQ-10280,20,66,Female,North County
+PHQ-10281,22,43,Male,Eastside
+PHQ-10282,18,65,Male,Downtown
+PHQ-10283,12,84,Male,Westview
+PHQ-10284,3,83,Female,North County
+PHQ-10285,3,46,Male,Westview
+PHQ-10286,20,65,Female,Downtown
+PHQ-10287,8,21,Female,Downtown
+PHQ-10288,16,35,Female,North County
+PHQ-10289,10,35,Male,North County
+PHQ-10290,8,50,Female,Eastside
+PHQ-10291,12,85,Female,Westview
+PHQ-10292,8,76,Female,North County
+PHQ-10293,13,20,Male,Southgate
+PHQ-10294,8,63,Female,North County
+PHQ-10295,3,28,Female,Westview
+PHQ-10296,0,82,Male,North County
+PHQ-10297,17,23,Male,Westview
+PHQ-10298,9,62,Female,Downtown
+PHQ-10299,17,60,Female,Westview
+PHQ-10300,12,77,Non-binary,North County
+PHQ-10301,11,35,Female,North County
+PHQ-10302,3,23,Female,Westview
+PHQ-10303,14,78,Female,Eastside
+PHQ-10304,7,60,Female,Westview
+PHQ-10305,7,69,Male,North County
+PHQ-10306,8,65,Male,Southgate
+PHQ-10307,9,28,Male,Downtown
+PHQ-10308,8,55,Female,Downtown
+PHQ-10309,7,55,Female,Southgate
+PHQ-10310,13,75,Female,Westview
+PHQ-10311,13,73,Female,Downtown
+PHQ-10312,1,38,Non-binary,Eastside
+PHQ-10313,16,74,Female,Downtown
+PHQ-10314,6,22,Male,North County
+PHQ-10315,21,65,Female,Downtown
+PHQ-10316,11,53,Female,Downtown
+PHQ-10317,2,41,Female,North County
+PHQ-10318,25,75,Female,Southgate
+PHQ-10319,9,80,Female,Eastside
+PHQ-10320,18,74,Non-binary,Westview
+PHQ-10321,12,55,Male,Eastside
+PHQ-10322,10,40,Male,Southgate
+PHQ-10323,9,48,Male,Downtown
+PHQ-10324,7,65,Female,Southgate
+PHQ-10325,2,68,Non-binary,North County
+PHQ-10326,12,70,Male,Downtown
+PHQ-10327,2,77,Male,Westview
+PHQ-10328,2,41,Male,Eastside
+PHQ-10329,7,33,Female,Westview
+PHQ-10330,2,59,Male,Eastside
+PHQ-10331,6,28,Female,Southgate
+PHQ-10332,6,29,Female,Eastside
+PHQ-10333,11,37,Female,Southgate
+PHQ-10334,10,23,Male,Downtown
+PHQ-10335,0,51,Male,Southgate
+PHQ-10336,6,55,Male,Westview
+PHQ-10337,11,69,Female,Downtown
+PHQ-10338,13,77,Female,Southgate
+PHQ-10339,3,58,Male,Westview
+PHQ-10340,23,31,Female,North County
+PHQ-10341,3,75,Female,Downtown
+PHQ-10342,4,71,Female,Eastside
+PHQ-10343,16,58,Female,Eastside
+PHQ-10344,10,57,Female,Downtown
+PHQ-10345,22,82,Female,Eastside
+PHQ-10346,7,81,Male,North County
+PHQ-10347,7,19,Male,North County
+PHQ-10348,2,69,Female,North County
+PHQ-10349,3,42,Female,Westview
+PHQ-10350,0,53,Male,Southgate
+PHQ-10351,12,33,Female,Downtown
+PHQ-10352,7,64,Male,Eastside
+PHQ-10353,11,69,Female,Downtown
+PHQ-10354,1,84,Female,Southgate
+PHQ-10355,15,35,Female,Southgate
+PHQ-10356,5,56,Male,Southgate
+PHQ-10357,18,80,Male,Westview
+PHQ-10358,13,32,Non-binary,Southgate
+PHQ-10359,7,21,Male,Westview
+PHQ-10360,23,47,Male,Southgate
+PHQ-10361,10,85,Male,Southgate
+PHQ-10362,15,49,Female,Downtown
+PHQ-10363,4,74,Female,Eastside
+PHQ-10364,7,78,Male,Downtown
+PHQ-10365,13,84,Female,Westview
+PHQ-10366,20,40,Female,Southgate
+PHQ-10367,7,63,Male,Westview
+PHQ-10368,12,56,Female,Westview
+PHQ-10369,18,44,Male,North County
+PHQ-10370,5,53,Female,Southgate
+PHQ-10371,14,66,Male,North County
+PHQ-10372,19,55,Female,Downtown
+PHQ-10373,6,74,Male,North County
+PHQ-10374,8,52,Female,Southgate
+PHQ-10375,11,48,Female,Southgate
+PHQ-10376,7,60,Male,Downtown
+PHQ-10377,13,35,Female,Southgate
+PHQ-10378,24,78,Female,Eastside
+PHQ-10379,19,54,Female,Downtown
+PHQ-10380,24,22,Male,Eastside
+PHQ-10381,8,40,Male,Downtown
+PHQ-10382,20,55,Male,Downtown
+PHQ-10383,8,31,Male,Westview
+PHQ-10384,9,81,Male,Eastside
+PHQ-10385,17,77,Female,Downtown
+PHQ-10386,7,41,Female,Westview
+PHQ-10387,15,42,Female,North County
+PHQ-10388,16,30,Female,Eastside
+PHQ-10389,12,49,Female,North County
+PHQ-10390,7,56,Male,Southgate
+PHQ-10391,1,25,Male,North County
+PHQ-10392,5,69,Male,Westview
+PHQ-10393,10,65,Male,Eastside
+PHQ-10394,20,65,Female,Southgate
+PHQ-10395,22,45,Male,Southgate
+PHQ-10396,18,64,Female,Southgate
+PHQ-10397,3,82,Female,Southgate
+PHQ-10398,1,32,Male,Southgate
+PHQ-10399,13,83,Female,Downtown
+PHQ-10400,11,25,Male,Westview
+PHQ-10401,12,68,Female,Downtown
+PHQ-10402,12,62,Male,Southgate
+PHQ-10403,22,26,Non-binary,North County
+PHQ-10404,0,71,Female,North County
+PHQ-10405,8,66,Female,Southgate
+PHQ-10406,2,68,Female,Eastside
+PHQ-10407,16,20,Non-binary,North County
+PHQ-10408,10,47,Female,Westview
+PHQ-10409,2,42,Male,Downtown
+PHQ-10410,1,20,Female,Downtown
+PHQ-10411,0,22,Female,Downtown
+PHQ-10412,8,45,Male,Downtown
+PHQ-10413,2,55,Female,Southgate
+PHQ-10414,5,59,Female,Eastside
+PHQ-10415,20,84,Female,Westview
+PHQ-10416,5,40,Male,North County
+PHQ-10417,11,24,Non-binary,North County
+PHQ-10418,16,37,Female,Eastside
+PHQ-10419,18,78,Female,Eastside
+PHQ-10420,6,25,Male,North County
+PHQ-10421,10,35,Female,Westview
+PHQ-10422,5,65,Female,Eastside
+PHQ-10423,0,66,Male,Southgate
+PHQ-10424,4,45,Female,Westview
+PHQ-10425,8,19,Female,Eastside
+PHQ-10426,27,79,Male,Southgate
+PHQ-10427,11,59,Male,North County
+PHQ-10428,13,63,Female,Westview
+PHQ-10429,11,78,Male,Westview
+PHQ-10430,22,65,Female,Downtown
+PHQ-10431,12,51,Male,Southgate
+PHQ-10432,13,71,Female,Eastside
+PHQ-10433,5,81,Male,Westview
+PHQ-10434,9,80,Non-binary,North County
+PHQ-10435,12,35,Male,North County
+PHQ-10436,1,25,Female,Downtown
+PHQ-10437,20,70,Female,Eastside
+PHQ-10438,0,37,Female,Southgate
+PHQ-10439,14,79,Male,Downtown
+PHQ-10440,3,70,Female,Southgate
+PHQ-10441,11,82,Male,North County
+PHQ-10442,17,40,Female,Downtown
+PHQ-10443,12,50,Male,Westview
+PHQ-10444,19,28,Female,North County
+PHQ-10445,12,56,Male,Downtown
+PHQ-10446,14,22,Female,North County
+PHQ-10447,5,39,Female,North County
+PHQ-10448,12,60,Male,Downtown
+PHQ-10449,18,78,Female,Downtown
+PHQ-10450,12,53,Male,Southgate
+PHQ-10451,13,20,Non-binary,Southgate
+PHQ-10452,4,68,Male,Westview
+PHQ-10453,2,67,Male,Southgate
+PHQ-10454,7,28,Female,Westview
+PHQ-10455,1,73,Female,Downtown
+PHQ-10456,7,68,Non-binary,Westview
+PHQ-10457,1,80,Female,Southgate
+PHQ-10458,23,66,Female,Southgate
+PHQ-10459,7,52,Female,Eastside
+PHQ-10460,13,58,Female,Downtown
+PHQ-10461,2,52,Female,Downtown
+PHQ-10462,3,75,Male,Southgate
+PHQ-10463,8,29,Male,Westview
+PHQ-10464,17,19,Female,North County
+PHQ-10465,17,49,Male,Eastside
+PHQ-10466,10,39,Female,Westview
+PHQ-10467,8,53,Female,North County
+PHQ-10468,18,64,Female,Eastside
+PHQ-10469,10,76,Female,Westview
+PHQ-10470,2,68,Female,Southgate
+PHQ-10471,8,73,Male,Southgate
+PHQ-10472,1,59,Male,Eastside
+PHQ-10473,13,58,Female,North County
+PHQ-10474,24,49,Female,Westview
+PHQ-10475,16,43,Male,Southgate
+PHQ-10476,2,21,Non-binary,North County
+PHQ-10477,23,26,Male,North County
+PHQ-10478,14,35,Male,Eastside
+PHQ-10479,8,66,Female,Southgate
+PHQ-10480,13,69,Female,North County
+PHQ-10481,12,28,Female,Eastside
+PHQ-10482,11,63,Female,Southgate
+PHQ-10483,4,69,Non-binary,Westview
+PHQ-10484,22,73,Female,Downtown
+PHQ-10485,5,46,Female,North County
+PHQ-10486,12,82,Female,Downtown
+PHQ-10487,11,28,Female,Eastside
+PHQ-10488,6,84,Female,North County
+PHQ-10489,4,75,Female,Westview
+PHQ-10490,2,61,Male,Eastside
+PHQ-10491,22,49,Female,Southgate
+PHQ-10492,1,47,Male,Eastside
+PHQ-10493,1,43,Female,North County
+PHQ-10494,6,45,Female,Downtown
+PHQ-10495,12,64,Female,North County
+PHQ-10496,0,80,Female,Westview
+PHQ-10497,11,62,Female,North County
+PHQ-10498,11,56,Male,Southgate
+PHQ-10499,2,57,Female,Westview
+PHQ-10500,12,83,Female,Southgate
+PHQ-10501,1,40,Male,North County
+PHQ-10502,8,41,Female,North County
+PHQ-10503,14,80,Female,North County
+PHQ-10504,20,80,Female,North County
+PHQ-10505,12,28,Male,Eastside
+PHQ-10506,7,39,Male,Southgate
+PHQ-10507,14,81,Female,Downtown
+PHQ-10508,12,64,Female,Downtown
+PHQ-10509,19,74,Female,North County
+PHQ-10510,3,56,Male,Downtown
+PHQ-10511,5,62,Male,Downtown
+PHQ-10512,9,48,Female,Southgate
+PHQ-10513,12,72,Female,Eastside
+PHQ-10514,18,62,Female,Southgate
+PHQ-10515,10,59,Non-binary,Westview
+PHQ-10516,7,30,Female,North County
+PHQ-10517,26,53,Male,Eastside
+PHQ-10518,12,59,Male,North County
+PHQ-10519,13,52,Male,North County
+PHQ-10520,10,29,Female,Westview
+PHQ-10521,10,65,Female,North County
+PHQ-10522,9,29,Male,North County
+PHQ-10523,12,63,Male,Southgate
+PHQ-10524,6,81,Female,Westview
+PHQ-10525,5,80,Male,Downtown
+PHQ-10526,1,76,Female,Eastside
+PHQ-10527,7,43,Non-binary,Eastside
+PHQ-10528,16,53,Female,Westview
+PHQ-10529,5,39,Female,Westview
+PHQ-10530,14,47,Female,Downtown
+PHQ-10531,13,34,Male,Southgate
+PHQ-10532,12,19,Female,Westview
+PHQ-10533,18,34,Female,Eastside
+PHQ-10534,7,31,Female,Westview
+PHQ-10535,18,35,Male,Eastside
+PHQ-10536,4,19,Male,Eastside
+PHQ-10537,7,37,Male,Southgate
+PHQ-10538,10,45,Female,Downtown
+PHQ-10539,4,62,Non-binary,Westview
+PHQ-10540,18,49,Female,Downtown
+PHQ-10541,5,54,Male,Downtown
+PHQ-10542,16,56,Female,Southgate
+PHQ-10543,12,24,Male,Eastside
+PHQ-10544,11,32,Female,Southgate
+PHQ-10545,2,64,Male,Eastside
+PHQ-10546,7,71,Female,Eastside
+PHQ-10547,19,20,Male,Downtown
+PHQ-10548,6,23,Male,North County
+PHQ-10549,11,71,Female,North County
+PHQ-10550,1,37,Female,Westview
+PHQ-10551,0,37,Female,North County
+PHQ-10552,12,26,Female,North County
+PHQ-10553,10,48,Female,Downtown
+PHQ-10554,24,25,Female,Eastside
+PHQ-10555,3,35,Male,Eastside
+PHQ-10556,11,51,Female,Eastside
+PHQ-10557,13,52,Male,Downtown
+PHQ-10558,19,52,Female,Westview
+PHQ-10559,12,27,Female,Southgate
+PHQ-10560,5,65,Female,Downtown
+PHQ-10561,17,32,Female,Southgate
+PHQ-10562,2,23,Female,North County
+PHQ-10563,22,40,Male,Downtown
+PHQ-10564,14,71,Female,Eastside
+PHQ-10565,6,58,Female,Downtown
+PHQ-10566,13,24,Female,Southgate
+PHQ-10567,24,69,Female,North County
+PHQ-10568,17,29,Male,Downtown
+PHQ-10569,6,55,Male,Westview
+PHQ-10570,12,81,Non-binary,Eastside
+PHQ-10571,13,49,Female,North County
+PHQ-10572,0,19,Non-binary,Downtown
+PHQ-10573,17,66,Male,Westview
+PHQ-10574,1,80,Non-binary,Eastside
+PHQ-10575,12,29,Female,Eastside
+PHQ-10576,15,65,Female,Downtown
+PHQ-10577,12,82,Female,North County
+PHQ-10578,1,34,Female,Westview
+PHQ-10579,16,68,Male,Westview
+PHQ-10580,7,43,Female,Southgate
+PHQ-10581,3,31,Female,North County
+PHQ-10582,8,44,Female,North County
+PHQ-10583,8,33,Female,Westview
+PHQ-10584,17,59,Female,Eastside
+PHQ-10585,21,68,Female,Westview
+PHQ-10586,7,69,Male,Southgate
+PHQ-10587,12,49,Female,Downtown
+PHQ-10588,17,46,Female,North County
+PHQ-10589,7,28,Male,Westview
+PHQ-10590,25,43,Male,North County
+PHQ-10591,19,60,Female,North County
+PHQ-10592,3,73,Male,North County
+PHQ-10593,11,63,Female,Eastside
+PHQ-10594,8,75,Male,Downtown
+PHQ-10595,11,81,Female,Southgate
+PHQ-10596,11,29,Female,Eastside
+PHQ-10597,5,49,Male,Southgate
+PHQ-10598,15,66,Male,Westview
+PHQ-10599,12,82,Female,Westview
+PHQ-10600,1,58,Male,Downtown
+PHQ-10601,17,78,Female,Southgate
+PHQ-10602,21,38,Female,Eastside
+PHQ-10603,8,25,Male,Eastside
+PHQ-10604,13,40,Female,Southgate
+PHQ-10605,7,63,Male,Downtown
+PHQ-10606,11,36,Male,Eastside
+PHQ-10607,18,81,Female,Eastside
+PHQ-10608,13,46,Female,North County
+PHQ-10609,3,43,Male,Westview
+PHQ-10610,14,59,Female,Eastside
+PHQ-10611,11,36,Male,Southgate
+PHQ-10612,18,68,Male,Westview
+PHQ-10613,7,35,Non-binary,North County
+PHQ-10614,19,40,Male,Southgate
+PHQ-10615,12,63,Female,Southgate
+PHQ-10616,15,55,Female,Downtown
+PHQ-10617,24,68,Male,Southgate
+PHQ-10618,0,46,Male,Downtown
+PHQ-10619,24,48,Female,Westview
+PHQ-10620,4,29,Male,Westview
+PHQ-10621,7,26,Female,Downtown
+PHQ-10622,13,24,Female,North County
+PHQ-10623,24,66,Female,North County
+PHQ-10624,1,79,Male,Southgate
+PHQ-10625,12,27,Male,Downtown
+PHQ-10626,6,58,Female,Downtown
+PHQ-10627,3,27,Female,Downtown
+PHQ-10628,8,79,Male,North County
+PHQ-10629,24,38,Female,Westview
+PHQ-10630,8,51,Male,Westview
+PHQ-10631,9,24,Female,Southgate
+PHQ-10632,18,72,Female,Southgate
+PHQ-10633,13,30,Female,Eastside
+PHQ-10634,13,32,Female,North County
+PHQ-10635,12,51,Female,Southgate
+PHQ-10636,6,41,Female,Westview
+PHQ-10637,8,51,Female,Westview
+PHQ-10638,13,30,Female,Westview
+PHQ-10639,19,70,Non-binary,Southgate
+PHQ-10640,8,84,Female,Southgate
+PHQ-10641,12,78,Male,Eastside
+PHQ-10642,14,22,Female,Southgate
+PHQ-10643,18,36,Female,North County
+PHQ-10644,2,42,Female,North County
+PHQ-10645,2,36,Male,Westview
+PHQ-10646,6,26,Female,Southgate
+PHQ-10647,6,76,Male,Downtown
+PHQ-10648,18,84,Male,Downtown
+PHQ-10649,8,30,Male,Southgate
+PHQ-10650,18,54,Male,Westview
+PHQ-10651,17,78,Female,Westview
+PHQ-10652,9,69,Female,Westview
+PHQ-10653,13,52,Male,Downtown
+PHQ-10654,7,56,Female,North County
+PHQ-10655,16,47,Female,North County
+PHQ-10656,16,29,Female,Eastside
+PHQ-10657,25,70,Male,Southgate
+PHQ-10658,18,38,Female,Southgate
+PHQ-10659,5,85,Male,Downtown
+PHQ-10660,3,25,Female,North County
+PHQ-10661,1,64,Male,Westview
+PHQ-10662,6,33,Male,Eastside
+PHQ-10663,7,75,Female,North County
+PHQ-10664,12,51,Male,Downtown
+PHQ-10665,8,67,Female,Southgate
+PHQ-10666,17,46,Male,Westview
+PHQ-10667,13,83,Female,Downtown
+PHQ-10668,13,19,Female,Southgate
+PHQ-10669,18,57,Male,Westview
+PHQ-10670,6,50,Female,Westview
+PHQ-10671,13,68,Male,Downtown
+PHQ-10672,11,65,Male,Southgate
+PHQ-10673,10,56,Male,North County
+PHQ-10674,4,53,Female,Westview
+PHQ-10675,2,84,Male,Downtown
+PHQ-10676,18,58,Male,Downtown
+PHQ-10677,10,55,Female,North County
+PHQ-10678,7,42,Female,Eastside
+PHQ-10679,10,78,Male,Westview
+PHQ-10680,13,41,Female,North County
+PHQ-10681,0,51,Male,Southgate
+PHQ-10682,18,60,Male,Eastside
+PHQ-10683,9,57,Female,Westview
+PHQ-10684,6,33,Female,Southgate
+PHQ-10685,11,27,Female,Eastside
+PHQ-10686,13,56,Female,Eastside
+PHQ-10687,1,43,Female,Southgate
+PHQ-10688,18,41,Male,North County
+PHQ-10689,7,40,Female,Downtown
+PHQ-10690,2,39,Male,Eastside
+PHQ-10691,14,29,Female,North County
+PHQ-10692,14,67,Female,Southgate
+PHQ-10693,2,59,Male,Southgate
+PHQ-10694,2,18,Male,Eastside
+PHQ-10695,8,31,Female,Southgate
+PHQ-10696,6,26,Male,Westview
+PHQ-10697,20,85,Female,Eastside
+PHQ-10698,7,80,Female,Eastside
+PHQ-10699,4,20,Female,Eastside
+PHQ-10700,6,20,Male,Eastside
+PHQ-10701,1,66,Male,Westview
+PHQ-10702,15,24,Male,Downtown
+PHQ-10703,12,32,Female,North County
+PHQ-10704,2,50,Female,Eastside
+PHQ-10705,7,71,Male,Southgate
+PHQ-10706,7,35,Female,Downtown
+PHQ-10707,11,31,Female,Southgate
+PHQ-10708,1,51,Male,Eastside
+PHQ-10709,6,81,Male,North County
+PHQ-10710,7,18,Female,Downtown
+PHQ-10711,24,37,Male,Southgate
+PHQ-10712,0,30,Male,Eastside
+PHQ-10713,13,24,Female,Eastside
+PHQ-10714,17,55,Female,Westview
+PHQ-10715,9,23,Female,Eastside
+PHQ-10716,14,39,Female,North County
+PHQ-10717,22,65,Male,Eastside
+PHQ-10718,4,69,Non-binary,Westview
+PHQ-10719,16,71,Male,Eastside
+PHQ-10720,1,25,Non-binary,Eastside
+PHQ-10721,3,74,Female,North County
+PHQ-10722,16,21,Male,Eastside
+PHQ-10723,12,74,Female,Westview
+PHQ-10724,12,85,Male,Southgate
+PHQ-10725,13,61,Female,Southgate
+PHQ-10726,1,62,Male,North County
+PHQ-10727,1,24,Female,Eastside
+PHQ-10728,11,39,Female,North County
+PHQ-10729,7,60,Non-binary,Downtown
+PHQ-10730,11,48,Female,North County
+PHQ-10731,17,75,Female,North County
+PHQ-10732,8,20,Female,North County
+PHQ-10733,3,18,Male,Southgate
+PHQ-10734,21,76,Non-binary,Westview
+PHQ-10735,18,60,Male,Southgate
+PHQ-10736,10,64,Male,Downtown
+PHQ-10737,2,63,Male,Westview
+PHQ-10738,12,65,Male,Downtown
+PHQ-10739,15,70,Female,Southgate
+PHQ-10740,2,33,Male,North County
+PHQ-10741,7,61,Female,North County
+PHQ-10742,1,33,Male,North County
+PHQ-10743,11,81,Female,Downtown
+PHQ-10744,11,73,Male,North County
+PHQ-10745,23,40,Male,Eastside
+PHQ-10746,1,59,Female,North County
+PHQ-10747,5,49,Female,Westview
+PHQ-10748,21,70,Male,Southgate
+PHQ-10749,7,58,Male,Southgate
+PHQ-10750,13,55,Male,Eastside
+PHQ-10751,25,40,Female,Westview
+PHQ-10752,12,71,Male,Southgate
+PHQ-10753,5,72,Male,Southgate
+PHQ-10754,2,25,Female,Eastside
+PHQ-10755,22,50,Female,Downtown
+PHQ-10756,11,22,Female,North County
+PHQ-10757,4,46,Male,Southgate
+PHQ-10758,5,54,Male,Downtown
+PHQ-10759,22,67,Female,Westview
+PHQ-10760,25,43,Male,North County
+PHQ-10761,18,65,Male,Southgate
+PHQ-10762,13,42,Female,Eastside
+PHQ-10763,25,27,Female,Eastside
+PHQ-10764,12,53,Male,Eastside
+PHQ-10765,2,50,Female,North County
+PHQ-10766,12,59,Male,Southgate
+PHQ-10767,18,56,Female,Southgate
+PHQ-10768,14,85,Female,Eastside
+PHQ-10769,13,82,Female,Southgate
+PHQ-10770,13,45,Male,Westview
+PHQ-10771,8,45,Non-binary,Southgate
+PHQ-10772,14,19,Female,Westview
+PHQ-10773,7,49,Non-binary,Westview
+PHQ-10774,7,50,Female,Westview
+PHQ-10775,1,84,Male,Westview
+PHQ-10776,11,55,Male,Eastside
+PHQ-10777,7,28,Male,Eastside
+PHQ-10778,22,26,Female,Eastside
+PHQ-10779,15,72,Male,Eastside
+PHQ-10780,11,73,Male,Downtown
+PHQ-10781,13,60,Female,Downtown
+PHQ-10782,3,50,Male,Southgate
+PHQ-10783,18,75,Male,North County
+PHQ-10784,6,67,Male,Southgate
+PHQ-10785,2,23,Male,Downtown
+PHQ-10786,7,82,Female,Westview
+PHQ-10787,11,66,Female,Downtown
+PHQ-10788,11,68,Male,Southgate
+PHQ-10789,7,36,Female,Westview
+PHQ-10790,26,36,Female,Downtown
+PHQ-10791,12,68,Female,Downtown
+PHQ-10792,7,62,Female,Southgate
+PHQ-10793,3,50,Female,Eastside
+PHQ-10794,14,24,Male,Southgate
+PHQ-10795,11,26,Female,Eastside
+PHQ-10796,12,80,Non-binary,Westview
+PHQ-10797,2,26,Male,Westview
+PHQ-10798,12,60,Male,Westview
+PHQ-10799,13,58,Non-binary,Eastside
+PHQ-10800,3,49,Male,North County
+PHQ-10801,6,60,Male,North County
+PHQ-10802,9,57,Female,Downtown
+PHQ-10803,0,35,Male,Eastside
+PHQ-10804,5,27,Male,Downtown
+PHQ-10805,15,69,Male,Eastside
+PHQ-10806,20,78,Male,Eastside
+PHQ-10807,6,46,Male,Southgate
+PHQ-10808,12,83,Female,Westview
+PHQ-10809,13,48,Male,Southgate
+PHQ-10810,12,38,Female,Southgate
+PHQ-10811,11,36,Male,North County
+PHQ-10812,25,47,Female,Westview
+PHQ-10813,8,44,Female,Westview
+PHQ-10814,6,23,Non-binary,Westview
+PHQ-10815,4,53,Male,Westview
+PHQ-10816,12,40,Female,North County
+PHQ-10817,5,84,Female,Eastside
+PHQ-10818,10,63,Male,Westview
+PHQ-10819,10,82,Male,North County
+PHQ-10820,2,27,Female,Westview
+PHQ-10821,8,33,Male,North County
+PHQ-10822,18,32,Female,North County
+PHQ-10823,10,70,Female,Downtown
+PHQ-10824,1,38,Female,Southgate
+PHQ-10825,2,51,Male,Southgate
+PHQ-10826,22,20,Male,Westview
+PHQ-10827,23,78,Male,Eastside
+PHQ-10828,9,70,Male,Southgate
+PHQ-10829,18,51,Female,Westview
+PHQ-10830,25,26,Female,North County
+PHQ-10831,4,82,Male,Eastside
+PHQ-10832,12,40,Female,Southgate
+PHQ-10833,13,33,Female,Eastside
+PHQ-10834,20,18,Male,North County
+PHQ-10835,12,85,Female,North County
+PHQ-10836,17,66,Female,Southgate
+PHQ-10837,3,47,Male,Downtown
+PHQ-10838,8,70,Female,Downtown
+PHQ-10839,12,33,Female,North County
+PHQ-10840,10,58,Female,Downtown
+PHQ-10841,1,72,Male,Southgate
+PHQ-10842,6,68,Male,North County
+PHQ-10843,11,79,Female,Westview
+PHQ-10844,12,68,Male,Downtown
+PHQ-10845,10,38,Female,Southgate
+PHQ-10846,8,61,Male,Southgate
+PHQ-10847,12,18,Male,Eastside
+PHQ-10848,11,73,Female,Westview
+PHQ-10849,7,67,Male,North County
+PHQ-10850,12,84,Female,Southgate
+PHQ-10851,2,81,Female,Eastside
+PHQ-10852,16,84,Female,Downtown
+PHQ-10853,15,39,Male,Westview
+PHQ-10854,7,18,Non-binary,Downtown
+PHQ-10855,22,68,Female,Eastside
+PHQ-10856,11,26,Male,Southgate
+PHQ-10857,8,62,Female,Westview
+PHQ-10858,9,69,Male,Westview
+PHQ-10859,2,82,Female,Downtown
+PHQ-10860,12,83,Non-binary,Southgate
+PHQ-10861,18,50,Male,North County
+PHQ-10862,12,76,Male,Southgate
+PHQ-10863,15,79,Female,Downtown
+PHQ-10864,7,47,Male,North County
+PHQ-10865,21,84,Female,Westview
+PHQ-10866,9,61,Female,Eastside
+PHQ-10867,13,63,Female,Southgate
+PHQ-10868,9,42,Female,Eastside
+PHQ-10869,6,48,Male,Eastside
+PHQ-10870,8,63,Female,Downtown
+PHQ-10871,0,28,Male,North County
+PHQ-10872,12,23,Male,Westview
+PHQ-10873,10,81,Male,Southgate
+PHQ-10874,17,83,Female,Eastside
+PHQ-10875,18,72,Female,Southgate
+PHQ-10876,3,62,Female,Eastside
+PHQ-10877,13,58,Male,Downtown
+PHQ-10878,13,66,Male,Westview
+PHQ-10879,8,51,Female,North County
+PHQ-10880,21,61,Female,North County
+PHQ-10881,5,64,Male,Westview
+PHQ-10882,13,34,Non-binary,Eastside
+PHQ-10883,17,73,Male,Eastside
+PHQ-10884,0,37,Female,Downtown
+PHQ-10885,2,84,Female,Westview
+PHQ-10886,16,24,Female,Eastside
+PHQ-10887,4,50,Female,Downtown
+PHQ-10888,6,50,Female,North County
+PHQ-10889,3,43,Male,Southgate
+PHQ-10890,2,83,Female,North County
+PHQ-10891,16,66,Male,North County
+PHQ-10892,12,61,Female,Southgate
+PHQ-10893,13,27,Female,Westview
+PHQ-10894,7,52,Male,North County
+PHQ-10895,8,74,Male,Westview
+PHQ-10896,11,39,Female,Downtown
+PHQ-10897,2,48,Male,Downtown
+PHQ-10898,6,78,Female,Downtown
+PHQ-10899,17,85,Male,Downtown
+PHQ-10900,2,67,Female,Eastside
+PHQ-10901,12,74,Male,Eastside
+PHQ-10902,12,63,Male,Westview
+PHQ-10903,17,77,Non-binary,Southgate
+PHQ-10904,21,40,Male,North County
+PHQ-10905,12,73,Female,Southgate
+PHQ-10906,6,29,Female,Westview
+PHQ-10907,8,37,Female,Downtown
+PHQ-10908,12,54,Female,Downtown
+PHQ-10909,11,80,Male,North County
+PHQ-10910,7,47,Male,Southgate
+PHQ-10911,5,70,Male,North County
+PHQ-10912,8,67,Male,Eastside
+PHQ-10913,9,72,Male,Southgate
+PHQ-10914,19,52,Female,Southgate
+PHQ-10915,16,70,Female,Downtown
+PHQ-10916,2,75,Female,Southgate
+PHQ-10917,14,59,Female,Downtown
+PHQ-10918,27,54,Female,North County
+PHQ-10919,12,47,Female,Downtown
+PHQ-10920,11,81,Non-binary,North County
+PHQ-10921,13,22,Female,Eastside
+PHQ-10922,2,78,Female,Westview
+PHQ-10923,17,19,Female,Eastside
+PHQ-10924,8,22,Female,Downtown
+PHQ-10925,12,44,Female,Westview
+PHQ-10926,24,84,Female,North County
+PHQ-10927,14,43,Female,Downtown
+PHQ-10928,17,73,Female,Eastside
+PHQ-10929,18,33,Female,Eastside
+PHQ-10930,4,78,Male,Eastside
+PHQ-10931,8,29,Female,North County
+PHQ-10932,0,25,Female,Eastside
+PHQ-10933,10,31,Female,Eastside
+PHQ-10934,5,62,Male,North County
+PHQ-10935,11,20,Male,Westview
+PHQ-10936,12,74,Male,Southgate
+PHQ-10937,12,42,Male,Southgate
+PHQ-10938,7,38,Female,Eastside
+PHQ-10939,6,51,Female,North County
+PHQ-10940,1,41,Male,Southgate
+PHQ-10941,16,48,Female,Downtown
+PHQ-10942,11,85,Male,Southgate
+PHQ-10943,2,54,Female,Westview
+PHQ-10944,2,34,Female,Downtown
+PHQ-10945,7,80,Female,Downtown
+PHQ-10946,13,85,Male,Southgate
+PHQ-10947,5,64,Female,Downtown
+PHQ-10948,4,28,Female,Downtown
+PHQ-10949,6,71,Male,Downtown
+PHQ-10950,17,27,Male,Downtown
+PHQ-10951,23,84,Female,Eastside
+PHQ-10952,13,49,Male,Eastside
+PHQ-10953,13,71,Male,Southgate
+PHQ-10954,5,31,Female,Eastside
+PHQ-10955,12,82,Female,Eastside
+PHQ-10956,10,58,Male,Westview
+PHQ-10957,15,70,Male,North County
+PHQ-10958,17,45,Female,Southgate
+PHQ-10959,23,50,Female,North County
+PHQ-10960,5,54,Male,Southgate
+PHQ-10961,3,56,Female,Eastside
+PHQ-10962,6,53,Male,Southgate
+PHQ-10963,14,37,Female,North County
+PHQ-10964,8,49,Female,Westview
+PHQ-10965,3,69,Male,Eastside
+PHQ-10966,12,40,Female,Southgate
+PHQ-10967,15,30,Male,Westview
+PHQ-10968,2,25,Male,Westview
+PHQ-10969,6,73,Female,Downtown
+PHQ-10970,17,19,Male,North County
+PHQ-10971,4,85,Female,Southgate
+PHQ-10972,11,37,Female,North County
+PHQ-10973,25,82,Female,North County
+PHQ-10974,6,28,Female,Downtown
+PHQ-10975,12,51,Female,Southgate
+PHQ-10976,6,79,Male,North County
+PHQ-10977,5,43,Male,Southgate
+PHQ-10978,9,59,Male,Southgate
+PHQ-10979,3,70,Female,Westview
+PHQ-10980,1,57,Female,Westview
+PHQ-10981,14,74,Male,North County
+PHQ-10982,2,65,Female,Downtown
+PHQ-10983,1,24,Female,Southgate
+PHQ-10984,25,19,Female,Downtown
+PHQ-10985,5,78,Female,Eastside
+PHQ-10986,12,51,Female,Southgate
+PHQ-10987,14,36,Male,Downtown
+PHQ-10988,8,50,Female,Westview
+PHQ-10989,6,52,Female,Downtown
+PHQ-10990,1,64,Male,Downtown
+PHQ-10991,5,67,Female,North County
+PHQ-10992,11,80,Male,Southgate
+PHQ-10993,3,20,Female,Southgate
+PHQ-10994,5,20,Female,Westview
+PHQ-10995,7,56,Female,Southgate
+PHQ-10996,8,67,Male,Downtown
+PHQ-10997,23,53,Female,Westview
+PHQ-10998,17,66,Female,Southgate
+PHQ-10999,17,47,Female,Southgate
+PHQ-11000,1,60,Female,Eastside
+PHQ-11001,8,43,Male,Westview
+PHQ-11002,13,85,Male,North County
+PHQ-11003,23,38,Female,Southgate
+PHQ-11004,12,33,Female,Eastside
+PHQ-11005,12,70,Non-binary,Westview
+PHQ-11006,6,53,Female,Eastside
+PHQ-11007,3,52,Male,Southgate
+PHQ-11008,9,47,Female,Downtown
+PHQ-11009,6,82,Male,North County
+PHQ-11010,11,65,Female,North County
+PHQ-11011,13,22,Female,Downtown
+PHQ-11012,23,70,Female,Eastside
+PHQ-11013,18,74,Male,North County
+PHQ-11014,14,72,Female,Downtown
+PHQ-11015,10,66,Male,North County
+PHQ-11016,12,85,Male,Downtown
+PHQ-11017,10,75,Female,Downtown
+PHQ-11018,17,23,Male,Southgate
+PHQ-11019,19,24,Female,North County
+PHQ-11020,6,77,Female,Westview
+PHQ-11021,14,24,Male,Eastside
+PHQ-11022,12,82,Female,Southgate
+PHQ-11023,21,35,Female,Westview
+PHQ-11024,13,43,Male,Downtown
+PHQ-11025,9,38,Male,Downtown
+PHQ-11026,1,28,Female,North County
+PHQ-11027,10,83,Male,Eastside
+PHQ-11028,5,60,Male,Eastside
+PHQ-11029,4,36,Female,Downtown
+PHQ-11030,6,75,Female,Eastside
+PHQ-11031,4,34,Non-binary,Downtown
+PHQ-11032,12,81,Female,Downtown
+PHQ-11033,13,81,Female,Southgate
+PHQ-11034,11,18,Female,Southgate
+PHQ-11035,7,44,Female,Eastside
+PHQ-11036,2,22,Male,Southgate
+PHQ-11037,8,29,Female,North County
+PHQ-11038,23,40,Non-binary,Southgate
+PHQ-11039,8,22,Female,Westview
+PHQ-11040,9,72,Male,Downtown
+PHQ-11041,5,35,Female,Westview
+PHQ-11042,6,44,Male,Downtown
+PHQ-11043,12,85,Non-binary,North County
+PHQ-11044,10,54,Female,Westview
+PHQ-11045,5,63,Male,Southgate
+PHQ-11046,10,81,Male,Southgate
+PHQ-11047,7,55,Non-binary,Downtown
+PHQ-11048,0,44,Male,North County
+PHQ-11049,8,60,Female,Eastside
+PHQ-11050,2,26,Female,Southgate
+PHQ-11051,13,18,Female,Westview
+PHQ-11052,7,21,Male,Eastside
+PHQ-11053,5,61,Male,North County
+PHQ-11054,23,79,Female,North County
+PHQ-11055,15,60,Female,North County
+PHQ-11056,24,58,Male,Downtown
+PHQ-11057,8,60,Male,Westview
+PHQ-11058,3,61,Non-binary,Southgate
+PHQ-11059,19,67,Female,Downtown
+PHQ-11060,17,58,Male,Westview
+PHQ-11061,5,81,Male,Westview
+PHQ-11062,13,56,Female,Westview
+PHQ-11063,17,43,Male,North County
+PHQ-11064,13,37,Female,North County
+PHQ-11065,10,36,Male,Downtown
+PHQ-11066,17,84,Male,Eastside
+PHQ-11067,8,84,Female,Westview
+PHQ-11068,22,29,Female,Downtown
+PHQ-11069,2,20,Male,Westview
+PHQ-11070,10,44,Female,Eastside
+PHQ-11071,5,33,Female,Eastside
+PHQ-11072,7,19,Non-binary,Southgate
+PHQ-11073,12,58,Female,Westview
+PHQ-11074,13,39,Female,Southgate
+PHQ-11075,17,21,Female,Downtown
+PHQ-11076,2,24,Female,North County
+PHQ-11077,1,75,Male,Westview
+PHQ-11078,6,43,Male,Southgate
+PHQ-11079,4,34,Female,North County
+PHQ-11080,1,57,Male,North County
+PHQ-11081,13,51,Male,North County
+PHQ-11082,2,60,Male,Westview
+PHQ-11083,13,62,Female,Eastside
+PHQ-11084,7,62,Male,Eastside
+PHQ-11085,10,31,Female,Downtown
+PHQ-11086,18,77,Female,North County
+PHQ-11087,7,79,Female,Westview
+PHQ-11088,8,73,Male,North County
+PHQ-11089,11,40,Male,Downtown
+PHQ-11090,14,80,Female,Southgate
+PHQ-11091,10,40,Female,North County
+PHQ-11092,1,31,Male,Southgate
+PHQ-11093,16,25,Female,Eastside
+PHQ-11094,18,18,Male,Eastside
+PHQ-11095,12,75,Female,Westview
+PHQ-11096,9,56,Male,North County
+PHQ-11097,10,19,Male,Southgate
+PHQ-11098,8,65,Male,Downtown
+PHQ-11099,3,63,Female,Westview
+PHQ-11100,17,68,Male,North County
+PHQ-11101,9,73,Female,Eastside
+PHQ-11102,12,64,Male,Eastside
+PHQ-11103,8,34,Female,Downtown
+PHQ-11104,14,73,Non-binary,Eastside
+PHQ-11105,4,71,Male,Southgate
+PHQ-11106,20,72,Male,North County
+PHQ-11107,6,46,Female,Southgate
+PHQ-11108,0,82,Female,Southgate
+PHQ-11109,12,22,Non-binary,Southgate
+PHQ-11110,11,28,Female,Southgate
+PHQ-11111,24,53,Female,Downtown
+PHQ-11112,11,27,Male,Southgate
+PHQ-11113,16,57,Male,Westview
+PHQ-11114,13,78,Male,Westview
+PHQ-11115,7,55,Female,Downtown
+PHQ-11116,11,51,Female,North County
+PHQ-11117,11,24,Male,Westview
+PHQ-11118,16,28,Female,Downtown
+PHQ-11119,16,53,Female,Southgate
+PHQ-11120,7,32,Male,Southgate
+PHQ-11121,12,75,Female,Eastside
+PHQ-11122,7,85,Male,Westview
+PHQ-11123,20,36,Male,Eastside
+PHQ-11124,17,67,Female,North County
+PHQ-11125,11,39,Female,Westview
+PHQ-11126,2,24,Female,North County
+PHQ-11127,14,78,Male,Southgate
+PHQ-11128,6,51,Female,North County
+PHQ-11129,1,75,Female,Westview
+PHQ-11130,22,63,Non-binary,North County
+PHQ-11131,12,52,Female,Westview
+PHQ-11132,17,77,Male,Eastside
+PHQ-11133,14,42,Female,Eastside
+PHQ-11134,7,26,Female,Downtown
+PHQ-11135,12,75,Female,Westview
+PHQ-11136,9,25,Male,Eastside
+PHQ-11137,23,33,Male,Downtown
+PHQ-11138,1,41,Male,Eastside
+PHQ-11139,6,77,Male,Downtown
+PHQ-11140,13,72,Male,Westview
+PHQ-11141,6,27,Female,Downtown
+PHQ-11142,7,51,Female,Downtown
+PHQ-11143,12,43,Male,Eastside
+PHQ-11144,13,73,Female,Downtown
+PHQ-11145,24,51,Female,Downtown
+PHQ-11146,2,20,Male,Eastside
+PHQ-11147,10,18,Male,North County
+PHQ-11148,6,18,Female,North County
+PHQ-11149,10,26,Female,Downtown
+PHQ-11150,8,79,Female,Southgate
+PHQ-11151,20,69,Female,Downtown
+PHQ-11152,9,61,Female,North County
+PHQ-11153,17,23,Non-binary,Eastside
+PHQ-11154,8,67,Male,Westview
+PHQ-11155,13,42,Female,Eastside
+PHQ-11156,1,48,Female,Downtown
+PHQ-11157,16,75,Non-binary,Downtown
+PHQ-11158,1,25,Female,Downtown
+PHQ-11159,7,84,Female,Southgate
+PHQ-11160,4,47,Male,Downtown
+PHQ-11161,12,23,Female,Eastside
+PHQ-11162,2,24,Male,Downtown
+PHQ-11163,13,31,Female,Southgate
+PHQ-11164,19,46,Female,Eastside
+PHQ-11165,8,69,Female,Southgate
+PHQ-11166,11,45,Male,Southgate
+PHQ-11167,3,71,Female,Westview
+PHQ-11168,12,74,Female,Southgate
+PHQ-11169,4,66,Male,Downtown
+PHQ-11170,18,28,Female,Eastside
+PHQ-11171,21,54,Female,North County
+PHQ-11172,10,44,Female,Westview
+PHQ-11173,14,22,Male,North County
+PHQ-11174,14,56,Female,Downtown
+PHQ-11175,13,42,Female,Southgate
+PHQ-11176,24,77,Male,Eastside
+PHQ-11177,7,42,Female,Eastside
+PHQ-11178,13,40,Female,Downtown
+PHQ-11179,2,64,Female,North County
+PHQ-11180,5,76,Female,Downtown
+PHQ-11181,24,80,Female,Downtown
+PHQ-11182,19,74,Male,Westview
+PHQ-11183,7,47,Male,Westview
+PHQ-11184,7,43,Female,Eastside
+PHQ-11185,3,80,Female,North County
+PHQ-11186,3,67,Female,North County
+PHQ-11187,11,63,Non-binary,Eastside
+PHQ-11188,9,53,Female,North County
+PHQ-11189,12,39,Male,Eastside
+PHQ-11190,15,39,Male,Southgate
+PHQ-11191,16,29,Female,Southgate
+PHQ-11192,14,77,Female,North County
+PHQ-11193,12,49,Female,North County
+PHQ-11194,13,37,Male,Downtown
+PHQ-11195,6,23,Female,North County
+PHQ-11196,11,68,Female,Downtown
+PHQ-11197,12,48,Female,Downtown
+PHQ-11198,11,63,Female,Downtown
+PHQ-11199,3,57,Female,North County
+PHQ-11200,17,76,Female,Eastside
+PHQ-11201,17,69,Female,Westview
+PHQ-11202,12,27,Female,Westview
+PHQ-11203,12,55,Female,Westview
+PHQ-11204,11,44,Male,Downtown
+PHQ-11205,11,60,Male,Downtown
+PHQ-11206,13,24,Female,Westview
+PHQ-11207,11,23,Female,Eastside
+PHQ-11208,12,44,Female,Westview
+PHQ-11209,5,32,Male,Southgate
+PHQ-11210,16,46,Female,Westview
+PHQ-11211,10,72,Female,Downtown
+PHQ-11212,5,33,Female,Southgate
+PHQ-11213,12,55,Female,Westview
+PHQ-11214,19,26,Female,North County
+PHQ-11215,1,68,Male,Westview
+PHQ-11216,23,32,Male,North County
+PHQ-11217,2,44,Female,Downtown
+PHQ-11218,9,34,Female,North County
+PHQ-11219,7,20,Female,Downtown
+PHQ-11220,3,84,Male,North County
+PHQ-11221,10,59,Female,Southgate
+PHQ-11222,16,34,Male,Westview
+PHQ-11223,2,51,Female,Westview
+PHQ-11224,22,63,Female,Eastside
+PHQ-11225,12,38,Male,Westview
+PHQ-11226,3,37,Female,Downtown
+PHQ-11227,4,58,Male,North County
+PHQ-11228,8,22,Male,Westview
+PHQ-11229,4,75,Female,Eastside
+PHQ-11230,12,81,Male,North County
+PHQ-11231,22,37,Female,Southgate
+PHQ-11232,20,78,Male,Southgate
+PHQ-11233,14,74,Female,Downtown
+PHQ-11234,13,32,Female,North County
+PHQ-11235,12,46,Female,Downtown
+PHQ-11236,6,85,Female,Westview
+PHQ-11237,1,28,Female,North County
+PHQ-11238,11,68,Female,Westview
+PHQ-11239,12,64,Female,North County
+PHQ-11240,7,65,Female,Westview
+PHQ-11241,7,29,Female,North County
+PHQ-11242,11,38,Male,North County
+PHQ-11243,13,71,Female,Southgate
+PHQ-11244,13,85,Non-binary,Downtown
+PHQ-11245,23,66,Female,North County
+PHQ-11246,12,77,Male,Eastside
+PHQ-11247,3,66,Female,North County
+PHQ-11248,3,56,Female,North County
+PHQ-11249,5,18,Female,Westview
+PHQ-11250,23,54,Female,North County
+PHQ-11251,20,49,Female,Westview
+PHQ-11252,14,64,Male,Southgate
+PHQ-11253,7,51,Male,North County
+PHQ-11254,23,20,Male,Eastside
+PHQ-11255,11,36,Female,Eastside
+PHQ-11256,8,63,Female,Westview
+PHQ-11257,12,27,Female,Eastside
+PHQ-11258,16,59,Male,Westview
+PHQ-11259,7,64,Female,Southgate
+PHQ-11260,7,54,Female,North County
+PHQ-11261,8,38,Female,Eastside
+PHQ-11262,13,85,Male,Southgate
+PHQ-11263,10,32,Female,Downtown
+PHQ-11264,2,62,Female,Westview
+PHQ-11265,2,74,Male,Southgate
+PHQ-11266,13,56,Female,Downtown
+PHQ-11267,7,36,Male,Westview
+PHQ-11268,2,32,Female,North County
+PHQ-11269,17,23,Female,Downtown
+PHQ-11270,17,33,Male,Downtown
+PHQ-11271,2,19,Male,Downtown
+PHQ-11272,23,41,Male,Downtown
+PHQ-11273,4,62,Female,Southgate
+PHQ-11274,16,26,Female,Southgate
+PHQ-11275,16,85,Female,Eastside
+PHQ-11276,24,18,Non-binary,Downtown
+PHQ-11277,25,82,Male,North County
+PHQ-11278,6,31,Female,Westview
+PHQ-11279,21,72,Female,Eastside
+PHQ-11280,7,77,Female,Eastside
+PHQ-11281,11,64,Male,Southgate
+PHQ-11282,13,67,Female,Southgate
+PHQ-11283,13,74,Female,North County
+PHQ-11284,8,26,Male,North County
+PHQ-11285,21,65,Female,North County
+PHQ-11286,11,28,Female,North County
+PHQ-11287,8,31,Male,Eastside
+PHQ-11288,3,69,Female,North County
+PHQ-11289,12,53,Male,Southgate
+PHQ-11290,12,69,Female,Southgate
+PHQ-11291,24,36,Male,Downtown
+PHQ-11292,2,80,Female,Eastside
+PHQ-11293,2,81,Male,Eastside
+PHQ-11294,7,30,Male,Southgate
+PHQ-11295,16,77,Female,North County
+PHQ-11296,12,20,Non-binary,Downtown
+PHQ-11297,24,33,Female,Westview
+PHQ-11298,17,40,Male,Westview
+PHQ-11299,17,39,Female,Eastside
+PHQ-11300,5,80,Male,Southgate
+PHQ-11301,13,78,Male,Eastside
+PHQ-11302,11,66,Male,Westview
+PHQ-11303,18,54,Female,Downtown
+PHQ-11304,13,21,Male,Westview
+PHQ-11305,8,72,Female,Westview
+PHQ-11306,8,48,Male,Southgate
+PHQ-11307,2,26,Male,Downtown
+PHQ-11308,8,76,Male,North County
+PHQ-11309,12,71,Female,North County
+PHQ-11310,13,67,Female,Downtown
+PHQ-11311,17,30,Male,Eastside
+PHQ-11312,5,61,Female,Westview
+PHQ-11313,7,73,Female,Downtown
+PHQ-11314,16,24,Female,Southgate
+PHQ-11315,7,46,Male,Downtown
+PHQ-11316,10,52,Female,Southgate
+PHQ-11317,11,44,Female,Downtown
+PHQ-11318,11,73,Male,Westview
+PHQ-11319,9,69,Female,Southgate
+PHQ-11320,12,20,Male,Southgate
+PHQ-11321,16,81,Female,North County
+PHQ-11322,5,73,Male,Downtown
+PHQ-11323,10,64,Female,Eastside
+PHQ-11324,2,73,Female,Downtown
+PHQ-11325,11,70,Female,Westview
+PHQ-11326,12,69,Female,Eastside
+PHQ-11327,4,49,Male,Westview
+PHQ-11328,11,22,Female,Westview
+PHQ-11329,1,51,Male,Westview
+PHQ-11330,13,80,Male,Downtown
+PHQ-11331,19,28,Female,Westview
+PHQ-11332,18,64,Male,Downtown
+PHQ-11333,6,35,Female,Southgate
+PHQ-11334,13,85,Female,Downtown
+PHQ-11335,6,33,Male,Westview
+PHQ-11336,6,48,Male,Eastside
+PHQ-11337,1,40,Female,Westview
+PHQ-11338,7,80,Female,Downtown
+PHQ-11339,9,72,Female,Eastside
+PHQ-11340,25,64,Female,Westview
+PHQ-11341,15,20,Male,Southgate
+PHQ-11342,2,24,Male,Eastside
+PHQ-11343,6,64,Male,Downtown
+PHQ-11344,13,48,Male,North County
+PHQ-11345,1,50,Female,Eastside
+PHQ-11346,8,74,Male,North County
+PHQ-11347,16,53,Male,North County
+PHQ-11348,10,72,Male,Downtown
+PHQ-11349,18,51,Female,Westview
+PHQ-11350,7,59,Female,Downtown
+PHQ-11351,15,41,Male,Eastside
+PHQ-11352,2,28,Female,Eastside
+PHQ-11353,13,34,Male,North County
+PHQ-11354,16,35,Female,Southgate
+PHQ-11355,18,54,Female,North County
+PHQ-11356,6,46,Female,Downtown
+PHQ-11357,23,47,Male,North County
+PHQ-11358,2,69,Male,Southgate
+PHQ-11359,6,29,Non-binary,Eastside
+PHQ-11360,24,73,Male,North County
+PHQ-11361,18,81,Female,Eastside
+PHQ-11362,3,54,Male,North County
+PHQ-11363,0,44,Male,Westview
+PHQ-11364,12,36,Female,Westview
+PHQ-11365,8,75,Male,Westview
+PHQ-11366,12,78,Female,Westview
+PHQ-11367,21,68,Male,North County
+PHQ-11368,12,30,Male,Downtown
+PHQ-11369,6,48,Female,Westview
+PHQ-11370,27,23,Female,Southgate
+PHQ-11371,11,56,Non-binary,Westview
+PHQ-11372,2,40,Female,Southgate
+PHQ-11373,12,61,Male,Eastside
+PHQ-11374,2,51,Female,Downtown
+PHQ-11375,20,81,Male,Westview
+PHQ-11376,13,51,Male,Westview
+PHQ-11377,12,73,Male,Westview
+PHQ-11378,12,74,Female,Eastside
+PHQ-11379,3,38,Male,North County
+PHQ-11380,3,81,Female,Westview
+PHQ-11381,20,32,Male,Eastside
+PHQ-11382,1,29,Female,Westview
+PHQ-11383,3,52,Male,Southgate
+PHQ-11384,8,18,Female,Southgate
+PHQ-11385,3,81,Male,Westview
+PHQ-11386,2,33,Female,Southgate
+PHQ-11387,23,21,Female,North County
+PHQ-11388,13,52,Male,Downtown
+PHQ-11389,9,75,Female,Southgate
+PHQ-11390,2,24,Male,Westview
+PHQ-11391,8,66,Female,Westview
+PHQ-11392,2,69,Female,Eastside
+PHQ-11393,2,37,Female,North County
+PHQ-11394,16,57,Male,Southgate
+PHQ-11395,1,83,Female,North County
+PHQ-11396,15,78,Female,Southgate
+PHQ-11397,7,41,Female,North County
+PHQ-11398,0,83,Female,North County
+PHQ-11399,11,81,Female,Southgate
+PHQ-11400,0,77,Female,North County
+PHQ-11401,9,56,Male,Southgate
+PHQ-11402,7,24,Male,Downtown
+PHQ-11403,11,77,Male,Southgate
+PHQ-11404,17,63,Female,Downtown
+PHQ-11405,19,77,Female,Eastside
+PHQ-11406,17,23,Female,Westview
+PHQ-11407,7,75,Male,Westview
+PHQ-11408,5,41,Female,Downtown
+PHQ-11409,10,31,Female,Downtown
+PHQ-11410,0,32,Female,North County
+PHQ-11411,10,80,Female,Southgate
+PHQ-11412,8,68,Male,Downtown
+PHQ-11413,3,20,Male,Eastside
+PHQ-11414,17,44,Female,Eastside
+PHQ-11415,10,42,Female,North County
+PHQ-11416,3,72,Female,Eastside
+PHQ-11417,22,80,Female,North County
+PHQ-11418,11,43,Female,North County
+PHQ-11419,4,73,Non-binary,North County
+PHQ-11420,12,55,Female,North County
+PHQ-11421,10,80,Female,Downtown
+PHQ-11422,11,72,Male,Southgate
+PHQ-11423,3,78,Female,Southgate
+PHQ-11424,21,62,Female,North County
+PHQ-11425,2,62,Female,Southgate
+PHQ-11426,8,61,Male,North County
+PHQ-11427,1,71,Male,Westview
+PHQ-11428,19,38,Male,Westview
+PHQ-11429,13,40,Female,Southgate
+PHQ-11430,13,71,Male,North County
+PHQ-11431,7,20,Female,Westview
+PHQ-11432,7,38,Female,Southgate
+PHQ-11433,3,47,Female,Eastside
+PHQ-11434,13,61,Male,Downtown
+PHQ-11435,16,83,Male,Downtown
+PHQ-11436,13,76,Non-binary,Downtown
+PHQ-11437,21,31,Male,Downtown
+PHQ-11438,12,44,Male,Eastside
+PHQ-11439,13,74,Male,North County
+PHQ-11440,14,60,Male,Downtown
+PHQ-11441,18,74,Non-binary,Downtown
+PHQ-11442,7,82,Female,Westview
+PHQ-11443,6,71,Female,Eastside
+PHQ-11444,2,47,Female,North County
+PHQ-11445,6,70,Male,Southgate
+PHQ-11446,17,36,Male,Southgate
+PHQ-11447,22,28,Female,North County
+PHQ-11448,22,22,Male,Eastside
+PHQ-11449,23,25,Non-binary,Southgate
+PHQ-11450,24,56,Male,Westview
+PHQ-11451,24,85,Male,Eastside
+PHQ-11452,12,75,Male,Southgate
+PHQ-11453,11,62,Male,North County
+PHQ-11454,16,56,Female,Southgate
+PHQ-11455,7,34,Female,Southgate
+PHQ-11456,5,29,Female,Westview
+PHQ-11457,12,21,Male,Southgate
+PHQ-11458,11,48,Male,Westview
+PHQ-11459,13,25,Male,Westview
+PHQ-11460,12,63,Female,Downtown
+PHQ-11461,7,61,Non-binary,Southgate
+PHQ-11462,12,47,Female,Westview
+PHQ-11463,13,35,Male,Southgate
+PHQ-11464,10,31,Female,Southgate
+PHQ-11465,2,36,Male,North County
+PHQ-11466,1,25,Female,Eastside
+PHQ-11467,11,85,Female,Southgate
+PHQ-11468,12,68,Male,Southgate
+PHQ-11469,11,80,Male,North County
+PHQ-11470,18,36,Female,North County
+PHQ-11471,13,85,Female,Eastside
+PHQ-11472,13,22,Male,Southgate
+PHQ-11473,9,70,Female,Westview
+PHQ-11474,11,23,Female,Downtown
+PHQ-11475,8,80,Female,Eastside
+PHQ-11476,2,71,Female,Westview
+PHQ-11477,18,80,Female,Southgate
+PHQ-11478,8,57,Male,Westview
+PHQ-11479,16,78,Male,Southgate
+PHQ-11480,3,75,Male,Eastside
+PHQ-11481,18,59,Female,Southgate
+PHQ-11482,11,68,Female,Downtown
+PHQ-11483,23,74,Male,Downtown
+PHQ-11484,17,57,Male,Downtown
+PHQ-11485,10,28,Female,Southgate
+PHQ-11486,12,84,Female,North County
+PHQ-11487,14,41,Non-binary,Westview
+PHQ-11488,17,49,Male,Southgate
+PHQ-11489,8,69,Male,North County
+PHQ-11490,15,20,Female,Eastside
+PHQ-11491,8,50,Female,Downtown
+PHQ-11492,11,54,Female,Westview
+PHQ-11493,19,39,Female,Westview
+PHQ-11494,2,30,Female,North County
+PHQ-11495,16,51,Female,Downtown
+PHQ-11496,2,48,Female,Southgate
+PHQ-11497,9,32,Female,Westview
+PHQ-11498,11,70,Male,Downtown
+PHQ-11499,8,30,Female,Southgate
+PHQ-11500,13,75,Female,Southgate
+PHQ-11501,8,36,Female,Eastside
+PHQ-11502,16,75,Female,North County
+PHQ-11503,22,55,Male,Eastside
+PHQ-11504,3,50,Male,North County
+PHQ-11505,21,45,Male,Southgate
+PHQ-11506,8,26,Female,North County
+PHQ-11507,13,35,Male,Westview
+PHQ-11508,17,58,Male,Westview
+PHQ-11509,13,75,Female,Westview
+PHQ-11510,5,20,Male,Eastside
+PHQ-11511,12,18,Male,Downtown
+PHQ-11512,21,80,Male,Southgate
+PHQ-11513,1,27,Female,North County
+PHQ-11514,11,63,Female,Downtown
+PHQ-11515,4,65,Male,North County
+PHQ-11516,2,63,Female,Southgate
+PHQ-11517,10,46,Female,North County
+PHQ-11518,24,44,Female,North County
+PHQ-11519,2,53,Male,North County
+PHQ-11520,3,40,Female,Eastside
+PHQ-11521,14,34,Female,Southgate
+PHQ-11522,19,53,Female,Downtown
+PHQ-11523,20,50,Male,North County
+PHQ-11524,0,24,Male,Westview
+PHQ-11525,8,70,Female,Southgate
+PHQ-11526,11,46,Female,North County
+PHQ-11527,14,58,Female,Eastside
+PHQ-11528,9,46,Non-binary,North County
+PHQ-11529,20,49,Female,Westview
+PHQ-11530,7,79,Female,Downtown
+PHQ-11531,12,60,Male,Eastside
+PHQ-11532,2,24,Male,Southgate
+PHQ-11533,18,27,Male,Southgate
+PHQ-11534,8,33,Female,Downtown
+PHQ-11535,23,66,Female,Downtown
+PHQ-11536,19,25,Female,North County
+PHQ-11537,3,25,Male,Westview
+PHQ-11538,16,70,Female,Southgate
+PHQ-11539,18,19,Female,North County
+PHQ-11540,18,61,Male,Downtown
+PHQ-11541,11,60,Male,Downtown
+PHQ-11542,2,42,Male,Eastside
+PHQ-11543,12,50,Female,North County
+PHQ-11544,11,23,Female,Westview
+PHQ-11545,12,83,Non-binary,Westview
+PHQ-11546,9,36,Female,Southgate
+PHQ-11547,5,65,Non-binary,Southgate
+PHQ-11548,12,82,Male,Southgate
+PHQ-11549,17,72,Female,Eastside
+PHQ-11550,12,42,Male,North County
+PHQ-11551,12,60,Male,Southgate
+PHQ-11552,20,38,Female,Downtown
+PHQ-11553,11,18,Male,Eastside
+PHQ-11554,12,60,Male,North County
+PHQ-11555,9,41,Male,Downtown
+PHQ-11556,7,32,Female,North County
+PHQ-11557,2,64,Female,Downtown
+PHQ-11558,2,51,Male,Westview
+PHQ-11559,18,49,Female,Downtown
+PHQ-11560,2,35,Female,Downtown
+PHQ-11561,8,44,Female,Eastside
+PHQ-11562,6,85,Non-binary,Southgate
+PHQ-11563,18,26,Female,Eastside
+PHQ-11564,17,65,Female,North County
+PHQ-11565,24,49,Male,Southgate
+PHQ-11566,13,37,Female,Downtown
+PHQ-11567,11,53,Male,Southgate
+PHQ-11568,23,28,Male,Southgate
+PHQ-11569,1,83,Female,Southgate
+PHQ-11570,6,65,Female,North County
+PHQ-11571,12,81,Female,Southgate
+PHQ-11572,9,22,Female,Eastside
+PHQ-11573,11,48,Female,Westview
+PHQ-11574,6,65,Female,Downtown
+PHQ-11575,3,28,Female,Southgate
+PHQ-11576,6,61,Female,North County
+PHQ-11577,6,65,Male,Westview
+PHQ-11578,8,51,Male,Westview
+PHQ-11579,22,55,Male,Southgate
+PHQ-11580,13,47,Female,Downtown
+PHQ-11581,8,43,Female,Westview
+PHQ-11582,7,53,Female,Southgate
+PHQ-11583,25,51,Female,Westview
+PHQ-11584,7,62,Male,North County
+PHQ-11585,23,19,Female,Southgate
+PHQ-11586,26,47,Female,Eastside
+PHQ-11587,11,84,Male,Southgate
+PHQ-11588,17,28,Female,Eastside
+PHQ-11589,5,71,Female,North County
+PHQ-11590,18,34,Female,Downtown
+PHQ-11591,12,63,Female,North County
+PHQ-11592,7,56,Female,Downtown
+PHQ-11593,10,22,Male,Eastside
+PHQ-11594,25,68,Non-binary,Eastside
+PHQ-11595,22,26,Female,Eastside
+PHQ-11596,10,56,Female,Downtown
+PHQ-11597,13,80,Female,Eastside
+PHQ-11598,4,67,Female,Eastside
+PHQ-11599,5,65,Female,Eastside
+PHQ-11600,7,70,Female,Downtown
+PHQ-11601,0,67,Non-binary,Eastside
+PHQ-11602,3,44,Female,North County
+PHQ-11603,1,43,Female,North County
+PHQ-11604,6,18,Non-binary,North County
+PHQ-11605,0,85,Female,Southgate
+PHQ-11606,18,76,Female,Downtown
+PHQ-11607,11,76,Female,Westview
+PHQ-11608,8,71,Female,Southgate
+PHQ-11609,10,76,Female,Eastside
+PHQ-11610,14,23,Female,Eastside
+PHQ-11611,8,55,Male,Downtown
+PHQ-11612,12,81,Female,Southgate
+PHQ-11613,1,65,Female,Downtown
+PHQ-11614,12,39,Female,Southgate
+PHQ-11615,1,21,Female,North County
+PHQ-11616,7,68,Female,Westview
+PHQ-11617,3,77,Female,Downtown
+PHQ-11618,1,49,Male,North County
+PHQ-11619,3,39,Male,Southgate
+PHQ-11620,0,55,Female,North County
+PHQ-11621,2,52,Female,Westview
+PHQ-11622,2,22,Male,Southgate
+PHQ-11623,6,84,Male,Downtown
+PHQ-11624,7,18,Female,North County
+PHQ-11625,17,49,Female,Eastside
+PHQ-11626,2,19,Female,Eastside
+PHQ-11627,12,26,Female,Downtown
+PHQ-11628,17,39,Female,Southgate
+PHQ-11629,1,59,Female,Eastside
+PHQ-11630,13,72,Female,Eastside
+PHQ-11631,1,59,Female,North County
+PHQ-11632,13,46,Female,Westview
+PHQ-11633,12,65,Female,Eastside
+PHQ-11634,7,31,Male,Southgate
+PHQ-11635,0,30,Male,North County
+PHQ-11636,14,60,Female,Westview
+PHQ-11637,21,79,Female,Downtown
+PHQ-11638,11,47,Female,Downtown
+PHQ-11639,6,33,Female,North County
+PHQ-11640,17,65,Female,Eastside
+PHQ-11641,2,44,Male,Eastside
+PHQ-11642,22,53,Female,Downtown
+PHQ-11643,11,71,Male,Westview
+PHQ-11644,17,61,Female,Southgate
+PHQ-11645,4,49,Male,Eastside
+PHQ-11646,11,74,Male,Downtown
+PHQ-11647,18,26,Non-binary,Downtown
+PHQ-11648,13,29,Female,Southgate
+PHQ-11649,18,44,Female,Downtown
+PHQ-11650,6,43,Female,Eastside
+PHQ-11651,12,56,Female,North County
+PHQ-11652,23,79,Female,Westview
+PHQ-11653,8,82,Male,North County
+PHQ-11654,18,79,Female,North County
+PHQ-11655,9,56,Male,Eastside
+PHQ-11656,13,57,Female,North County
+PHQ-11657,13,79,Female,Eastside
+PHQ-11658,13,18,Female,Southgate
+PHQ-11659,11,71,Male,Westview
+PHQ-11660,8,57,Male,Southgate
+PHQ-11661,4,38,Female,North County
+PHQ-11662,25,62,Female,North County
+PHQ-11663,12,67,Male,Eastside
+PHQ-11664,7,22,Male,Westview
+PHQ-11665,11,36,Female,North County
+PHQ-11666,23,38,Female,Downtown
+PHQ-11667,13,67,Female,Southgate
+PHQ-11668,26,72,Female,North County
+PHQ-11669,8,56,Female,Southgate
+PHQ-11670,11,70,Male,Downtown
+PHQ-11671,3,62,Male,Westview
+PHQ-11672,13,57,Female,Eastside
+PHQ-11673,16,18,Female,North County
+PHQ-11674,11,39,Female,Eastside
+PHQ-11675,10,43,Female,Southgate
+PHQ-11676,23,41,Female,Eastside
+PHQ-11677,18,70,Female,Southgate
+PHQ-11678,2,28,Female,Westview
+PHQ-11679,2,21,Male,North County
+PHQ-11680,12,52,Male,Downtown
+PHQ-11681,12,23,Female,Southgate
+PHQ-11682,16,52,Male,North County
+PHQ-11683,18,72,Female,Westview
+PHQ-11684,24,69,Female,Downtown
+PHQ-11685,25,18,Female,North County
+PHQ-11686,10,35,Female,Downtown
+PHQ-11687,17,49,Female,Southgate
+PHQ-11688,14,78,Female,Eastside
+PHQ-11689,0,59,Female,Westview
+PHQ-11690,15,59,Male,Eastside
+PHQ-11691,11,28,Female,North County
+PHQ-11692,24,30,Male,Westview
+PHQ-11693,11,82,Female,North County
+PHQ-11694,16,77,Female,North County
+PHQ-11695,25,79,Male,Eastside
+PHQ-11696,9,29,Female,Downtown
+PHQ-11697,1,53,Female,Westview
+PHQ-11698,14,35,Male,North County
+PHQ-11699,1,60,Male,Southgate
+PHQ-11700,15,66,Male,North County
+PHQ-11701,11,73,Male,Eastside
+PHQ-11702,7,61,Male,Eastside
+PHQ-11703,13,32,Male,Eastside
+PHQ-11704,19,18,Female,Southgate
+PHQ-11705,12,67,Non-binary,Westview
+PHQ-11706,18,34,Female,Southgate
+PHQ-11707,12,76,Female,Westview
+PHQ-11708,17,81,Male,Eastside
+PHQ-11709,13,22,Male,Westview
+PHQ-11710,14,33,Female,Southgate
+PHQ-11711,13,66,Female,Westview
+PHQ-11712,1,44,Male,Eastside
+PHQ-11713,14,40,Male,North County
+PHQ-11714,8,38,Non-binary,Southgate
+PHQ-11715,6,62,Male,North County
+PHQ-11716,3,54,Female,Eastside
+PHQ-11717,11,59,Male,Southgate
+PHQ-11718,17,24,Male,Westview
+PHQ-11719,12,79,Female,Eastside
+PHQ-11720,8,43,Male,Downtown
+PHQ-11721,7,36,Female,North County
+PHQ-11722,12,39,Male,Downtown
+PHQ-11723,8,33,Non-binary,Westview
+PHQ-11724,14,69,Female,Downtown
+PHQ-11725,7,80,Female,Southgate
+PHQ-11726,21,29,Male,North County
+PHQ-11727,6,74,Female,Downtown
+PHQ-11728,3,83,Female,Southgate
+PHQ-11729,13,79,Female,Downtown
+PHQ-11730,18,73,Female,Eastside
+PHQ-11731,3,26,Male,Southgate
+PHQ-11732,2,85,Female,Southgate
+PHQ-11733,17,33,Male,Eastside
+PHQ-11734,23,41,Female,North County
+PHQ-11735,17,33,Female,Southgate
+PHQ-11736,8,22,Female,Downtown
+PHQ-11737,13,64,Non-binary,Eastside
+PHQ-11738,7,56,Female,Southgate
+PHQ-11739,22,55,Male,North County
+PHQ-11740,1,63,Male,Southgate
+PHQ-11741,7,30,Male,Downtown
+PHQ-11742,7,45,Non-binary,Southgate
+PHQ-11743,13,63,Female,Southgate
+PHQ-11744,6,38,Female,Downtown
+PHQ-11745,22,72,Male,Eastside
+PHQ-11746,14,42,Male,Southgate
+PHQ-11747,13,83,Male,North County
+PHQ-11748,16,66,Female,Southgate
+PHQ-11749,9,52,Female,Downtown
+PHQ-11750,11,29,Female,Westview
+PHQ-11751,18,36,Male,Eastside
+PHQ-11752,9,46,Female,Downtown
+PHQ-11753,18,57,Male,North County
+PHQ-11754,3,62,Male,Westview
+PHQ-11755,10,39,Female,North County
+PHQ-11756,0,69,Female,Eastside
+PHQ-11757,6,34,Female,Southgate
+PHQ-11758,10,24,Male,Westview
+PHQ-11759,12,76,Female,Westview
+PHQ-11760,19,82,Female,North County
+PHQ-11761,11,47,Female,Downtown
+PHQ-11762,21,29,Male,Downtown
+PHQ-11763,13,29,Female,Downtown
+PHQ-11764,1,19,Non-binary,North County
+PHQ-11765,13,81,Female,Southgate
+PHQ-11766,12,69,Female,Eastside
+PHQ-11767,22,62,Female,Southgate
+PHQ-11768,10,23,Male,Eastside
+PHQ-11769,13,46,Female,Westview
+PHQ-11770,16,83,Female,Downtown
+PHQ-11771,6,32,Female,Eastside
+PHQ-11772,18,33,Female,North County
+PHQ-11773,8,68,Female,Westview
+PHQ-11774,25,83,Male,Downtown
+PHQ-11775,25,25,Female,Southgate
+PHQ-11776,10,56,Female,Downtown
+PHQ-11777,7,19,Female,North County
+PHQ-11778,1,85,Female,Eastside
+PHQ-11779,7,50,Female,North County
+PHQ-11780,7,64,Female,Eastside
+PHQ-11781,12,74,Female,Westview
+PHQ-11782,12,43,Female,Westview
+PHQ-11783,0,22,Female,Eastside
+PHQ-11784,24,52,Female,North County
+PHQ-11785,13,59,Male,North County
+PHQ-11786,10,67,Female,Downtown
+PHQ-11787,18,19,Male,Eastside
+PHQ-11788,3,61,Female,Southgate
+PHQ-11789,11,80,Female,North County
+PHQ-11790,7,37,Male,Eastside
+PHQ-11791,7,49,Male,North County
+PHQ-11792,1,82,Male,Eastside
+PHQ-11793,20,47,Female,North County
+PHQ-11794,1,42,Male,North County
+PHQ-11795,3,66,Female,Westview
+PHQ-11796,14,47,Female,North County
+PHQ-11797,10,56,Female,Westview
+PHQ-11798,7,62,Male,Eastside
+PHQ-11799,7,24,Male,Westview
+PHQ-11800,7,78,Female,Southgate
+PHQ-11801,3,64,Female,Downtown
+PHQ-11802,4,34,Female,Westview
+PHQ-11803,12,85,Male,Eastside
+PHQ-11804,12,31,Female,Southgate
+PHQ-11805,3,42,Female,North County
+PHQ-11806,24,61,Female,North County
+PHQ-11807,23,43,Female,Eastside
+PHQ-11808,3,50,Male,Southgate
+PHQ-11809,24,64,Female,Downtown
+PHQ-11810,24,82,Male,Eastside
+PHQ-11811,13,34,Female,Southgate
+PHQ-11812,3,68,Female,Southgate
+PHQ-11813,17,27,Female,Southgate
+PHQ-11814,7,52,Female,Downtown
+PHQ-11815,1,45,Male,Downtown
+PHQ-11816,17,85,Female,Eastside
+PHQ-11817,6,52,Male,Eastside
+PHQ-11818,6,36,Male,Westview
+PHQ-11819,22,52,Male,Downtown
+PHQ-11820,12,32,Female,Westview
+PHQ-11821,14,65,Female,Southgate
+PHQ-11822,9,55,Female,Downtown
+PHQ-11823,14,19,Male,Eastside
+PHQ-11824,12,20,Female,Southgate
+PHQ-11825,3,66,Male,Westview
+PHQ-11826,16,74,Female,Westview
+PHQ-11827,6,68,Female,Eastside
+PHQ-11828,11,79,Female,Eastside
+PHQ-11829,12,40,Female,North County
+PHQ-11830,23,57,Female,Eastside
+PHQ-11831,18,42,Female,Downtown
+PHQ-11832,5,69,Female,Southgate
+PHQ-11833,3,19,Male,North County
+PHQ-11834,7,23,Female,Downtown
+PHQ-11835,7,19,Male,Downtown
+PHQ-11836,25,61,Male,Downtown
+PHQ-11837,8,79,Male,North County
+PHQ-11838,16,49,Female,Westview
+PHQ-11839,13,33,Female,Downtown
+PHQ-11840,2,71,Female,Eastside
+PHQ-11841,3,72,Female,Westview
+PHQ-11842,12,67,Male,Downtown
+PHQ-11843,13,54,Female,Southgate
+PHQ-11844,7,64,Male,Downtown
+PHQ-11845,16,85,Female,Eastside
+PHQ-11846,12,37,Male,Westview
+PHQ-11847,11,52,Male,Westview
+PHQ-11848,26,27,Male,Eastside
+PHQ-11849,17,75,Male,North County
+PHQ-11850,18,32,Male,Westview
+PHQ-11851,2,67,Female,North County
+PHQ-11852,8,70,Male,Westview
+PHQ-11853,1,67,Female,North County
+PHQ-11854,10,47,Female,Southgate
+PHQ-11855,12,85,Male,Eastside
+PHQ-11856,12,20,Female,North County
+PHQ-11857,22,32,Female,Westview
+PHQ-11858,8,35,Female,Eastside
+PHQ-11859,15,71,Female,Eastside
+PHQ-11860,4,36,Female,Downtown
+PHQ-11861,12,31,Male,Downtown
+PHQ-11862,12,38,Female,Westview
+PHQ-11863,2,71,Female,Eastside
+PHQ-11864,12,35,Male,Westview
+PHQ-11865,12,19,Female,Eastside
+PHQ-11866,1,22,Male,Eastside
+PHQ-11867,14,76,Male,Westview
+PHQ-11868,22,82,Female,Eastside
+PHQ-11869,9,84,Female,Eastside
+PHQ-11870,12,68,Female,Southgate
+PHQ-11871,12,27,Male,North County
+PHQ-11872,11,66,Female,Westview
+PHQ-11873,11,42,Female,Downtown
+PHQ-11874,0,21,Female,Eastside
+PHQ-11875,10,26,Female,Downtown
+PHQ-11876,16,22,Female,Downtown
+PHQ-11877,24,23,Male,North County
+PHQ-11878,1,19,Non-binary,Westview
+PHQ-11879,26,82,Female,North County
+PHQ-11880,14,30,Female,Southgate
+PHQ-11881,2,37,Female,North County
+PHQ-11882,12,38,Female,North County
+PHQ-11883,2,29,Non-binary,Eastside
+PHQ-11884,18,38,Non-binary,Southgate
+PHQ-11885,10,84,Male,Westview
+PHQ-11886,8,73,Female,North County
+PHQ-11887,8,27,Non-binary,Southgate
+PHQ-11888,10,36,Male,Westview
+PHQ-11889,12,29,Female,North County
+PHQ-11890,8,53,Male,Westview
+PHQ-11891,2,40,Male,North County
+PHQ-11892,6,74,Male,Eastside
+PHQ-11893,22,80,Female,Westview
+PHQ-11894,9,34,Female,Southgate
+PHQ-11895,15,58,Female,North County
+PHQ-11896,12,23,Male,Downtown
+PHQ-11897,12,19,Female,Downtown
+PHQ-11898,8,27,Female,North County
+PHQ-11899,13,62,Female,Southgate
+PHQ-11900,21,31,Male,North County
+PHQ-11901,17,43,Female,Downtown
+PHQ-11902,9,78,Female,North County
+PHQ-11903,2,37,Male,Eastside
+PHQ-11904,12,66,Female,Westview
+PHQ-11905,17,78,Female,Eastside
+PHQ-11906,19,52,Female,Eastside
+PHQ-11907,1,26,Female,Downtown
+PHQ-11908,6,85,Female,Westview
+PHQ-11909,3,72,Female,Westview
+PHQ-11910,1,78,Female,Eastside
+PHQ-11911,24,73,Female,Southgate
+PHQ-11912,9,43,Female,Southgate
+PHQ-11913,12,59,Male,Westview
+PHQ-11914,4,81,Male,Downtown
+PHQ-11915,15,70,Female,Downtown
+PHQ-11916,26,75,Male,Southgate
+PHQ-11917,1,45,Male,Eastside
+PHQ-11918,6,66,Female,Eastside
+PHQ-11919,22,19,Female,Westview
+PHQ-11920,3,33,Male,North County
+PHQ-11921,6,63,Female,Southgate
+PHQ-11922,8,40,Female,Westview
+PHQ-11923,2,38,Female,North County
+PHQ-11924,6,54,Male,Downtown
+PHQ-11925,22,20,Male,North County
+PHQ-11926,1,30,Male,Southgate
+PHQ-11927,13,71,Female,North County
+PHQ-11928,12,32,Female,North County
+PHQ-11929,20,77,Female,North County
+PHQ-11930,4,65,Male,Southgate
+PHQ-11931,8,71,Male,Downtown
+PHQ-11932,21,71,Female,Downtown
+PHQ-11933,0,58,Female,Southgate
+PHQ-11934,25,48,Male,North County
+PHQ-11935,0,72,Female,North County
+PHQ-11936,24,84,Female,Eastside
+PHQ-11937,4,34,Female,Southgate
+PHQ-11938,18,51,Male,Eastside
+PHQ-11939,20,44,Female,Downtown
+PHQ-11940,6,21,Male,Southgate
+PHQ-11941,20,28,Male,Downtown
+PHQ-11942,13,63,Female,Eastside
+PHQ-11943,8,49,Male,North County
+PHQ-11944,16,36,Male,Southgate
+PHQ-11945,16,32,Female,Southgate
+PHQ-11946,3,41,Female,North County
+PHQ-11947,18,44,Female,North County
+PHQ-11948,16,27,Female,North County
+PHQ-11949,8,58,Male,North County
+PHQ-11950,17,40,Male,Southgate
+PHQ-11951,17,33,Non-binary,Westview
+PHQ-11952,11,38,Female,Westview
+PHQ-11953,20,42,Male,Southgate
+PHQ-11954,1,64,Female,Eastside
+PHQ-11955,2,35,Female,Eastside
+PHQ-11956,7,62,Male,Westview
+PHQ-11957,13,69,Male,Westview
+PHQ-11958,1,53,Non-binary,Downtown
+PHQ-11959,12,44,Non-binary,North County
+PHQ-11960,6,75,Female,Westview
+PHQ-11961,16,72,Female,Westview
+PHQ-11962,6,26,Female,Downtown
+PHQ-11963,22,85,Female,Downtown
+PHQ-11964,3,59,Female,Eastside
+PHQ-11965,9,65,Female,Westview
+PHQ-11966,3,58,Male,Westview
+PHQ-11967,6,47,Male,North County
+PHQ-11968,6,45,Female,Downtown
+PHQ-11969,11,27,Male,North County
+PHQ-11970,10,43,Female,North County
+PHQ-11971,13,53,Female,Downtown
+PHQ-11972,11,48,Male,Westview
+PHQ-11973,1,18,Male,Westview
+PHQ-11974,2,85,Female,Downtown
+PHQ-11975,2,30,Male,North County
+PHQ-11976,12,69,Female,Westview
+PHQ-11977,14,24,Female,North County
+PHQ-11978,10,65,Male,Downtown
+PHQ-11979,0,24,Male,Eastside
+PHQ-11980,1,73,Female,Downtown
+PHQ-11981,4,65,Male,Southgate
+PHQ-11982,26,51,Male,Downtown
+PHQ-11983,1,56,Female,Westview
+PHQ-11984,12,39,Male,Southgate
+PHQ-11985,11,34,Female,Eastside
+PHQ-11986,15,70,Male,Downtown
+PHQ-11987,12,80,Non-binary,Westview
+PHQ-11988,18,79,Female,Westview
+PHQ-11989,17,49,Male,Eastside
+PHQ-11990,11,27,Non-binary,Downtown
+PHQ-11991,6,67,Female,Downtown
+PHQ-11992,6,85,Female,Westview
+PHQ-11993,16,37,Male,Downtown
+PHQ-11994,24,46,Male,North County
+PHQ-11995,24,69,Female,Westview
+PHQ-11996,6,57,Non-binary,Southgate
+PHQ-11997,14,32,Female,North County
+PHQ-11998,4,21,Female,Southgate
+PHQ-11999,12,28,Female,Eastside
+PHQ-12000,0,24,Female,Westview
+PHQ-12001,2,66,Male,North County
+PHQ-12002,2,53,Female,North County
+PHQ-12003,13,31,Male,Eastside
+PHQ-12004,22,22,Male,Eastside
+PHQ-12005,2,30,Female,Southgate
+PHQ-12006,11,46,Male,Westview
+PHQ-12007,13,39,Male,Westview
+PHQ-12008,12,18,Female,Southgate
+PHQ-12009,20,79,Male,Eastside
+PHQ-12010,2,60,Male,Eastside
+PHQ-12011,21,78,Female,Downtown
+PHQ-12012,2,19,Male,North County
+PHQ-12013,13,80,Male,North County
+PHQ-12014,3,55,Male,Southgate
+PHQ-12015,10,36,Male,Downtown
+PHQ-12016,7,62,Non-binary,Westview
+PHQ-12017,11,50,Female,Downtown
+PHQ-12018,17,84,Male,Southgate
+PHQ-12019,13,52,Male,Downtown
+PHQ-12020,1,36,Female,Downtown
+PHQ-12021,8,73,Female,Downtown
+PHQ-12022,4,53,Male,Southgate
+PHQ-12023,16,75,Non-binary,Southgate
+PHQ-12024,3,60,Female,North County
+PHQ-12025,21,53,Female,Downtown
+PHQ-12026,11,33,Female,North County
+PHQ-12027,10,62,Female,Downtown
+PHQ-12028,11,37,Female,Westview
+PHQ-12029,11,38,Female,Westview
+PHQ-12030,2,45,Female,Southgate
+PHQ-12031,3,80,Female,North County
+PHQ-12032,7,35,Female,Westview
+PHQ-12033,17,82,Male,Southgate
+PHQ-12034,3,43,Female,Downtown
+PHQ-12035,8,22,Female,Westview
+PHQ-12036,6,69,Non-binary,Downtown
+PHQ-12037,16,56,Male,Eastside
+PHQ-12038,12,35,Male,Eastside
+PHQ-12039,6,71,Male,Westview
+PHQ-12040,6,77,Female,North County
+PHQ-12041,17,85,Female,Westview
+PHQ-12042,11,63,Female,North County
+PHQ-12043,13,21,Non-binary,North County
+PHQ-12044,2,35,Male,Westview
+PHQ-12045,16,55,Female,North County
+PHQ-12046,1,18,Female,Southgate
+PHQ-12047,12,31,Female,Downtown
+PHQ-12048,17,79,Male,Downtown
+PHQ-12049,1,24,Male,Southgate
+PHQ-12050,1,81,Female,Eastside
+PHQ-12051,5,18,Male,Southgate
+PHQ-12052,12,33,Female,Eastside
+PHQ-12053,7,78,Female,Southgate
+PHQ-12054,8,69,Female,Eastside
+PHQ-12055,17,51,Male,North County
+PHQ-12056,16,20,Female,Eastside
+PHQ-12057,1,43,Female,Westview
+PHQ-12058,9,65,Male,North County
+PHQ-12059,8,31,Female,North County
+PHQ-12060,2,67,Female,Westview
+PHQ-12061,3,74,Female,Westview
+PHQ-12062,23,53,Female,Eastside
+PHQ-12063,8,62,Male,Southgate
+PHQ-12064,6,26,Female,Eastside
+PHQ-12065,7,35,Female,Westview
+PHQ-12066,20,26,Male,North County
+PHQ-12067,5,82,Male,Southgate
+PHQ-12068,7,59,Male,Southgate
+PHQ-12069,6,23,Female,Eastside
+PHQ-12070,6,31,Female,North County
+PHQ-12071,7,48,Female,Eastside
+PHQ-12072,14,67,Male,North County
+PHQ-12073,23,22,Male,Downtown
+PHQ-12074,7,65,Male,Downtown
+PHQ-12075,21,66,Female,Southgate
+PHQ-12076,14,43,Female,North County
+PHQ-12077,12,73,Male,Eastside
+PHQ-12078,4,21,Male,Downtown
+PHQ-12079,8,64,Male,Southgate
+PHQ-12080,13,85,Female,Eastside
+PHQ-12081,12,78,Female,Westview
+PHQ-12082,11,26,Female,North County
+PHQ-12083,17,28,Female,Southgate
+PHQ-12084,8,60,Female,Westview
+PHQ-12085,23,50,Female,Westview
+PHQ-12086,4,27,Female,Eastside
+PHQ-12087,15,82,Female,Southgate
+PHQ-12088,2,78,Male,Westview
+PHQ-12089,11,22,Female,Westview
+PHQ-12090,7,44,Female,Westview
+PHQ-12091,22,25,Female,Downtown
+PHQ-12092,15,22,Female,Downtown
+PHQ-12093,21,28,Male,North County
+PHQ-12094,22,22,Female,Eastside
+PHQ-12095,12,73,Female,Eastside
+PHQ-12096,4,43,Female,North County
+PHQ-12097,13,20,Male,Downtown
+PHQ-12098,6,72,Female,Downtown
+PHQ-12099,8,65,Female,Westview
+PHQ-12100,8,19,Female,Southgate
+PHQ-12101,12,19,Male,Eastside
+PHQ-12102,18,41,Female,Westview
+PHQ-12103,7,49,Non-binary,Eastside
+PHQ-12104,11,27,Female,Southgate
+PHQ-12105,7,63,Male,Eastside
+PHQ-12106,7,55,Male,Eastside
+PHQ-12107,13,52,Female,Southgate
+PHQ-12108,13,80,Female,Eastside
+PHQ-12109,23,57,Male,Eastside
+PHQ-12110,1,36,Female,Eastside
+PHQ-12111,11,32,Female,Downtown
+PHQ-12112,6,67,Female,Downtown
+PHQ-12113,3,20,Male,North County
+PHQ-12114,6,46,Female,Eastside
+PHQ-12115,10,22,Female,Westview
+PHQ-12116,21,61,Male,Westview
+PHQ-12117,15,61,Male,Southgate
+PHQ-12118,6,72,Male,Downtown
+PHQ-12119,16,54,Male,Southgate
+PHQ-12120,10,84,Female,North County
+PHQ-12121,11,48,Female,Downtown
+PHQ-12122,7,49,Male,Westview
+PHQ-12123,6,68,Female,Westview
+PHQ-12124,6,19,Female,Southgate
+PHQ-12125,10,51,Male,North County
+PHQ-12126,11,63,Female,Southgate
+PHQ-12127,8,25,Male,Downtown
+PHQ-12128,6,26,Female,Westview
+PHQ-12129,16,53,Female,North County
+PHQ-12130,1,24,Female,Downtown
+PHQ-12131,1,82,Male,Southgate
+PHQ-12132,6,51,Non-binary,Downtown
+PHQ-12133,12,63,Female,Downtown
+PHQ-12134,12,74,Female,Downtown
+PHQ-12135,7,59,Male,North County
+PHQ-12136,1,21,Female,Westview
+PHQ-12137,8,70,Male,Westview
+PHQ-12138,14,38,Female,Westview
+PHQ-12139,22,21,Female,Eastside
+PHQ-12140,15,83,Male,Westview
+PHQ-12141,22,66,Male,Downtown
+PHQ-12142,13,28,Non-binary,Eastside
+PHQ-12143,14,71,Female,Downtown
+PHQ-12144,17,78,Male,Southgate
+PHQ-12145,7,52,Female,Southgate
+PHQ-12146,7,64,Female,Westview
+PHQ-12147,13,32,Male,North County
+PHQ-12148,13,63,Male,Downtown
+PHQ-12149,21,79,Male,North County
+PHQ-12150,17,34,Male,Eastside
+PHQ-12151,19,70,Male,Eastside
+PHQ-12152,12,33,Female,North County
+PHQ-12153,11,36,Male,Eastside
+PHQ-12154,17,33,Female,Southgate
+PHQ-12155,12,78,Male,Eastside
+PHQ-12156,17,39,Non-binary,Eastside
+PHQ-12157,12,85,Male,North County
+PHQ-12158,6,55,Female,Westview
+PHQ-12159,13,31,Non-binary,Downtown
+PHQ-12160,0,70,Male,North County
+PHQ-12161,6,41,Male,Southgate
+PHQ-12162,22,83,Female,Downtown
+PHQ-12163,11,66,Female,Eastside
+PHQ-12164,13,53,Male,Downtown
+PHQ-12165,7,84,Male,Southgate
+PHQ-12166,12,72,Female,North County
+PHQ-12167,7,44,Female,Westview
+PHQ-12168,13,58,Female,Westview
+PHQ-12169,2,46,Male,Westview
+PHQ-12170,24,51,Non-binary,Downtown
+PHQ-12171,21,44,Male,Southgate
+PHQ-12172,16,21,Male,Downtown
+PHQ-12173,21,18,Female,Downtown
+PHQ-12174,6,72,Male,Southgate
+PHQ-12175,3,33,Female,North County
+PHQ-12176,13,53,Male,Downtown
+PHQ-12177,23,28,Male,Eastside
+PHQ-12178,11,53,Female,Southgate
+PHQ-12179,13,27,Male,Westview
+PHQ-12180,18,84,Female,Southgate
+PHQ-12181,12,22,Male,Downtown
+PHQ-12182,5,46,Male,Westview
+PHQ-12183,11,80,Male,North County
+PHQ-12184,8,84,Male,Eastside
+PHQ-12185,4,44,Male,Downtown
+PHQ-12186,8,51,Male,Southgate
+PHQ-12187,6,41,Male,Eastside
+PHQ-12188,18,80,Female,North County
+PHQ-12189,11,46,Female,Westview
+PHQ-12190,7,75,Female,North County
+PHQ-12191,1,32,Female,North County
+PHQ-12192,12,79,Male,North County
+PHQ-12193,12,52,Female,North County
+PHQ-12194,2,59,Female,Westview
+PHQ-12195,8,51,Male,Westview
+PHQ-12196,11,46,Female,Downtown
+PHQ-12197,5,39,Female,Downtown
+PHQ-12198,23,60,Female,Southgate
+PHQ-12199,2,29,Male,Westview
+PHQ-12200,22,24,Female,Westview
+PHQ-12201,10,38,Male,North County
+PHQ-12202,17,65,Female,Eastside
+PHQ-12203,14,49,Male,Downtown
+PHQ-12204,17,82,Female,North County
+PHQ-12205,0,54,Female,Eastside
+PHQ-12206,12,33,Male,North County
+PHQ-12207,12,34,Male,Westview
+PHQ-12208,18,71,Female,Southgate
+PHQ-12209,13,37,Female,Southgate
+PHQ-12210,18,57,Male,North County
+PHQ-12211,14,20,Female,North County
+PHQ-12212,7,78,Female,North County
+PHQ-12213,4,70,Male,North County
+PHQ-12214,7,66,Female,North County
+PHQ-12215,11,65,Male,Downtown
+PHQ-12216,12,47,Female,North County
+PHQ-12217,12,57,Female,Downtown
+PHQ-12218,3,80,Male,Downtown
+PHQ-12219,4,78,Female,Southgate
+PHQ-12220,18,70,Female,Westview
+PHQ-12221,18,22,Female,Southgate
+PHQ-12222,13,44,Male,North County
+PHQ-12223,11,58,Non-binary,Eastside
+PHQ-12224,7,28,Male,North County
+PHQ-12225,10,66,Female,Downtown
+PHQ-12226,2,74,Male,Downtown
+PHQ-12227,1,72,Female,Southgate
+PHQ-12228,12,69,Female,Downtown
+PHQ-12229,5,55,Male,Westview
+PHQ-12230,11,39,Female,Southgate
+PHQ-12231,11,65,Female,Westview
+PHQ-12232,12,35,Female,North County
+PHQ-12233,3,71,Female,North County
+PHQ-12234,3,42,Female,Downtown
+PHQ-12235,12,60,Female,Southgate
+PHQ-12236,13,46,Female,Downtown
+PHQ-12237,24,53,Female,North County
+PHQ-12238,11,69,Male,Southgate
+PHQ-12239,14,43,Female,Eastside
+PHQ-12240,2,31,Female,Southgate
+PHQ-12241,13,67,Female,Southgate
+PHQ-12242,14,78,Female,Downtown
+PHQ-12243,17,45,Female,Southgate
+PHQ-12244,3,59,Female,Downtown
+PHQ-12245,4,74,Female,North County
+PHQ-12246,6,68,Female,North County
+PHQ-12247,12,63,Female,Southgate
+PHQ-12248,9,45,Non-binary,Westview
+PHQ-12249,13,73,Male,North County
+PHQ-12250,12,73,Male,Eastside
+PHQ-12251,3,64,Male,Westview
+PHQ-12252,12,42,Female,Eastside
+PHQ-12253,24,19,Female,Westview
+PHQ-12254,13,30,Male,Westview
+PHQ-12255,12,19,Male,Downtown
+PHQ-12256,11,50,Female,Downtown
+PHQ-12257,20,21,Male,North County
+PHQ-12258,20,78,Male,Southgate
+PHQ-12259,16,22,Female,Southgate
+PHQ-12260,18,34,Female,Downtown
+PHQ-12261,4,25,Female,Southgate
+PHQ-12262,8,20,Female,Westview
+PHQ-12263,15,39,Male,Southgate
+PHQ-12264,12,69,Female,Downtown
+PHQ-12265,2,82,Female,Westview
+PHQ-12266,1,43,Male,North County
+PHQ-12267,2,18,Female,Southgate
+PHQ-12268,6,29,Male,North County
+PHQ-12269,3,29,Female,Downtown
+PHQ-12270,0,39,Male,Eastside
+PHQ-12271,13,49,Female,Eastside
+PHQ-12272,12,66,Male,Eastside
+PHQ-12273,6,58,Female,Eastside
+PHQ-12274,8,51,Male,Westview
+PHQ-12275,1,84,Female,Eastside
+PHQ-12276,3,67,Female,Southgate
+PHQ-12277,7,54,Female,Southgate
+PHQ-12278,11,52,Female,Eastside
+PHQ-12279,7,32,Female,Eastside
+PHQ-12280,12,77,Male,Westview
+PHQ-12281,10,59,Male,Westview
+PHQ-12282,15,19,Female,North County
+PHQ-12283,7,63,Female,North County
+PHQ-12284,12,20,Female,Southgate
+PHQ-12285,11,69,Female,Eastside
+PHQ-12286,6,65,Male,North County
+PHQ-12287,11,47,Male,Southgate
+PHQ-12288,1,69,Male,Eastside
+PHQ-12289,12,56,Male,Southgate
+PHQ-12290,4,34,Male,Downtown
+PHQ-12291,21,57,Male,Eastside
+PHQ-12292,16,18,Male,Eastside
+PHQ-12293,17,56,Female,Eastside
+PHQ-12294,7,49,Female,Southgate
+PHQ-12295,18,65,Female,Eastside
+PHQ-12296,5,45,Male,North County
+PHQ-12297,17,49,Male,Downtown
+PHQ-12298,6,69,Male,Westview
+PHQ-12299,17,68,Female,Westview
+PHQ-12300,11,21,Female,Southgate
+PHQ-12301,2,82,Male,Southgate
+PHQ-12302,13,68,Male,Eastside
+PHQ-12303,2,73,Female,North County
+PHQ-12304,13,72,Female,Westview
+PHQ-12305,7,71,Female,North County
+PHQ-12306,12,31,Female,Downtown
+PHQ-12307,7,69,Male,Downtown
+PHQ-12308,0,34,Male,North County
+PHQ-12309,14,69,Female,Downtown
+PHQ-12310,7,51,Male,Downtown
+PHQ-12311,12,65,Male,Westview
+PHQ-12312,16,64,Female,Eastside
+PHQ-12313,20,28,Female,Westview
+PHQ-12314,22,51,Female,Southgate
+PHQ-12315,12,54,Female,North County
+PHQ-12316,12,24,Male,Westview
+PHQ-12317,6,21,Female,Eastside
+PHQ-12318,8,71,Female,Westview
+PHQ-12319,8,22,Female,North County
+PHQ-12320,7,28,Female,Eastside
+PHQ-12321,11,53,Female,North County
+PHQ-12322,11,49,Male,Southgate
+PHQ-12323,13,22,Female,Downtown
+PHQ-12324,7,28,Female,Westview
+PHQ-12325,7,50,Male,Downtown
+PHQ-12326,16,42,Male,Westview
+PHQ-12327,12,49,Male,Downtown
+PHQ-12328,5,73,Female,Eastside
+PHQ-12329,7,23,Male,Eastside
+PHQ-12330,12,20,Male,Eastside
+PHQ-12331,8,77,Male,Westview
+PHQ-12332,2,46,Female,Westview
+PHQ-12333,14,76,Male,Southgate
+PHQ-12334,5,19,Female,Westview
+PHQ-12335,9,74,Female,North County
+PHQ-12336,6,50,Female,Southgate
+PHQ-12337,20,62,Female,Southgate
+PHQ-12338,6,55,Male,North County
+PHQ-12339,14,39,Male,Southgate
+PHQ-12340,7,20,Male,Westview
+PHQ-12341,11,34,Female,Downtown
+PHQ-12342,2,45,Female,Downtown
+PHQ-12343,12,69,Male,Westview
+PHQ-12344,18,71,Male,Westview
+PHQ-12345,7,58,Female,Southgate
+PHQ-12346,8,69,Female,North County
+PHQ-12347,8,40,Female,Downtown
+PHQ-12348,12,60,Male,Eastside
+PHQ-12349,13,71,Non-binary,North County
+PHQ-12350,3,21,Male,Eastside
+PHQ-12351,11,70,Male,Westview
+PHQ-12352,12,39,Male,North County
+PHQ-12353,12,67,Male,Eastside
+PHQ-12354,17,38,Female,Eastside
+PHQ-12355,1,59,Female,Downtown
+PHQ-12356,17,49,Male,North County
+PHQ-12357,24,40,Non-binary,Southgate
+PHQ-12358,13,38,Female,Downtown
+PHQ-12359,0,22,Male,North County
+PHQ-12360,17,27,Male,Westview
+PHQ-12361,15,21,Female,Downtown
+PHQ-12362,6,68,Male,Downtown
+PHQ-12363,7,74,Female,Downtown
+PHQ-12364,0,51,Male,Southgate
+PHQ-12365,18,70,Male,Eastside
+PHQ-12366,23,79,Female,Downtown
+PHQ-12367,6,80,Male,Westview
+PHQ-12368,6,74,Female,North County
+PHQ-12369,10,35,Female,Westview
+PHQ-12370,1,65,Male,Westview
+PHQ-12371,7,57,Female,North County
+PHQ-12372,10,37,Male,Eastside
+PHQ-12373,2,47,Female,Eastside
+PHQ-12374,13,36,Male,Westview
+PHQ-12375,7,84,Female,Southgate
+PHQ-12376,25,82,Female,Westview
+PHQ-12377,7,80,Male,Southgate
+PHQ-12378,11,26,Female,Westview
+PHQ-12379,7,37,Female,Downtown
+PHQ-12380,11,19,Male,Southgate
+PHQ-12381,18,43,Female,Downtown
+PHQ-12382,8,26,Female,Southgate
+PHQ-12383,18,28,Non-binary,Downtown
+PHQ-12384,6,41,Male,Eastside
+PHQ-12385,7,76,Female,Southgate
+PHQ-12386,7,26,Male,Eastside
+PHQ-12387,14,25,Female,Eastside
+PHQ-12388,11,24,Female,Downtown
+PHQ-12389,1,32,Female,North County
+PHQ-12390,1,80,Female,Downtown
+PHQ-12391,12,32,Male,North County
+PHQ-12392,18,76,Non-binary,Westview
+PHQ-12393,19,52,Female,Eastside
+PHQ-12394,6,56,Female,Southgate
+PHQ-12395,7,53,Male,Southgate
+PHQ-12396,8,41,Female,Westview
+PHQ-12397,15,40,Female,North County
+PHQ-12398,12,30,Male,North County
+PHQ-12399,6,42,Male,Eastside
+PHQ-12400,5,82,Female,Southgate
+PHQ-12401,11,44,Male,Eastside
+PHQ-12402,8,39,Male,Southgate
+PHQ-12403,13,59,Non-binary,North County
+PHQ-12404,13,52,Female,Westview
+PHQ-12405,10,56,Female,Westview
+PHQ-12406,6,75,Female,Southgate
+PHQ-12407,9,71,Female,North County
+PHQ-12408,0,35,Non-binary,Westview
+PHQ-12409,3,43,Female,Westview
+PHQ-12410,6,66,Female,Southgate
+PHQ-12411,13,45,Male,North County
+PHQ-12412,18,59,Male,Southgate
+PHQ-12413,13,23,Male,North County
+PHQ-12414,13,53,Non-binary,Southgate
+PHQ-12415,6,30,Female,Westview
+PHQ-12416,5,32,Female,Downtown
+PHQ-12417,9,70,Male,Eastside
+PHQ-12418,11,74,Female,Southgate
+PHQ-12419,11,51,Male,Westview
+PHQ-12420,13,58,Non-binary,Westview
+PHQ-12421,25,75,Male,Eastside
+PHQ-12422,1,60,Female,Westview
+PHQ-12423,7,20,Female,North County
+PHQ-12424,8,85,Female,Southgate
+PHQ-12425,5,73,Non-binary,Southgate
+PHQ-12426,16,54,Male,Downtown
+PHQ-12427,13,29,Non-binary,Downtown
+PHQ-12428,13,29,Male,North County
+PHQ-12429,10,42,Male,North County
+PHQ-12430,18,37,Male,Downtown
+PHQ-12431,1,73,Male,North County
+PHQ-12432,11,18,Male,North County
+PHQ-12433,2,51,Male,Southgate
+PHQ-12434,13,59,Female,Eastside
+PHQ-12435,16,37,Female,Eastside
+PHQ-12436,6,41,Female,Southgate
+PHQ-12437,13,62,Non-binary,Westview
+PHQ-12438,15,47,Male,Eastside
+PHQ-12439,6,45,Male,Downtown
+PHQ-12440,2,74,Female,North County
+PHQ-12441,4,44,Female,North County
+PHQ-12442,5,43,Female,North County
+PHQ-12443,14,82,Male,Southgate
+PHQ-12444,4,44,Female,North County
+PHQ-12445,11,29,Male,Westview
+PHQ-12446,12,83,Female,North County
+PHQ-12447,1,30,Female,Westview
+PHQ-12448,18,73,Male,Westview
+PHQ-12449,6,67,Male,Downtown
+PHQ-12450,22,59,Female,Eastside
+PHQ-12451,4,19,Female,Eastside
+PHQ-12452,2,44,Male,Westview
+PHQ-12453,7,71,Male,North County
+PHQ-12454,1,41,Female,Downtown
+PHQ-12455,18,69,Male,Westview
+PHQ-12456,12,21,Male,Westview
+PHQ-12457,0,36,Male,Downtown
+PHQ-12458,12,85,Female,Downtown
+PHQ-12459,2,26,Female,North County
+PHQ-12460,12,71,Male,Southgate
+PHQ-12461,9,18,Female,North County
+PHQ-12462,15,50,Female,Southgate
+PHQ-12463,5,79,Female,Southgate
+PHQ-12464,1,46,Female,Eastside
+PHQ-12465,8,69,Female,Southgate
+PHQ-12466,2,46,Female,Westview
+PHQ-12467,9,84,Female,Westview
+PHQ-12468,17,34,Female,Westview
+PHQ-12469,11,22,Male,North County
+PHQ-12470,13,19,Female,Downtown
+PHQ-12471,17,19,Male,North County
+PHQ-12472,18,42,Male,Southgate
+PHQ-12473,9,51,Female,Downtown
+PHQ-12474,12,83,Male,Westview
+PHQ-12475,23,80,Male,North County
+PHQ-12476,13,61,Male,Westview
+PHQ-12477,1,34,Female,North County
+PHQ-12478,18,33,Male,Westview
+PHQ-12479,1,28,Non-binary,Southgate
+PHQ-12480,3,83,Female,Eastside
+PHQ-12481,18,85,Male,Eastside
+PHQ-12482,14,85,Female,Southgate
+PHQ-12483,7,85,Female,Eastside
+PHQ-12484,3,46,Male,Eastside
+PHQ-12485,14,72,Male,Westview
+PHQ-12486,3,67,Male,North County
+PHQ-12487,17,77,Female,Westview
+PHQ-12488,2,57,Female,Southgate
+PHQ-12489,14,26,Female,North County
+PHQ-12490,1,49,Female,Eastside
+PHQ-12491,12,68,Male,Eastside
+PHQ-12492,18,53,Female,North County
+PHQ-12493,2,37,Female,Eastside
+PHQ-12494,12,33,Female,Southgate
+PHQ-12495,2,78,Female,North County
+PHQ-12496,9,76,Female,Westview
+PHQ-12497,19,23,Female,Westview
+PHQ-12498,0,80,Male,Eastside
+PHQ-12499,12,29,Non-binary,Southgate
+PHQ-12500,23,81,Male,North County

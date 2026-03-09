@@ -1,0 +1,91 @@
+client_id,agency,income_amount,income_period,hours_per_week,household_size,benefits_received
+INC5064,Agency A,35147.35,Annual,39,6,Section 8
+INC5027,Agency C,1937.2,Biweekly,25,5,Section 8
+INC5085,Agency C,22.83,Hourly,30,1,"SNAP,Medicaid"
+INC5034,Agency B,23247.94,Annual,33,2,SNAP
+INC5041,Agency A,788.44,Weekly,15,5,WIC
+INC5077,Agency C,550.49,Biweekly,37,1,Medicaid
+INC5038,Agency C,3794.39,Monthly,27,6,WIC
+INC5082,Agency C,2251.53,Biweekly,22,6,TANF
+INC5088,Agency B,4860.93,Monthly,23,3,Medicaid
+INC5001,Agency A,876.7,Weekly,32,2,Medicaid
+INC5017,Agency A,2010.09,Biweekly,27,2,SNAP
+INC5028,Agency A,1464.26,Monthly,15,3,"SNAP,Medicaid"
+INC5030,Agency A,22.8,Hourly,24,5,Medicaid
+INC5029,Agency C,63453.85,Annual,39,6,Section 8
+INC5073,Agency C,2922.72,Monthly,23,6,Section 8
+INC5009,Agency A,40362.23,Annual,35,4,Medicaid
+INC5002,Agency A,463.57,Biweekly,17,5,"SNAP,Medicaid"
+INC5070,Agency B,23.96,Hourly,19,6,Medicaid
+INC5015,Agency C,10.78,Hourly,27,6,WIC
+INC5016,Agency B,884.61,Weekly,39,6,WIC
+INC5006,Agency B,1157.21,Weekly,25,2,WIC
+INC5059,Agency A,56823.84,Annual,17,1,Medicaid
+INC5023,Agency C,3974.29,Monthly,18,4,Medicaid
+INC5062,Agency C,2269.41,Biweekly,21,5,None
+INC5084,Agency B,24674.31,Annual,40,4,WIC
+INC5010,Agency C,19.98,Hourly,16,3,WIC
+INC5047,Agency B,1334.05,Biweekly,38,4,"SNAP,Medicaid"
+INC5083,Agency A,904.1,Monthly,38,2,"SNAP,Medicaid"
+INC5051,Agency A,1008.02,Weekly,32,1,"TANF,SNAP"
+INC5043,Agency B,1969.6,Monthly,30,1,WIC
+INC5031,Agency C,352.84,Weekly,39,5,WIC
+INC5081,Agency C,980.12,Weekly,28,1,None
+INC5045,Agency C,21.34,Hourly,40,4,WIC
+INC5037,Agency A,2328.73,Biweekly,32,3,"SNAP,Medicaid"
+INC5068,Agency B,3369.05,Monthly,40,5,Section 8
+INC5053,Agency A,2839.69,Monthly,21,2,"SNAP,Medicaid"
+INC5050,Agency B,11.12,Hourly,29,2,"SNAP,Medicaid"
+INC5036,Agency C,859.75,Weekly,32,2,TANF
+INC5011,Agency C,1185.22,Weekly,22,2,Section 8
+INC5072,Agency B,1835.22,Biweekly,21,3,WIC
+INC5048,Agency A,1054.57,Monthly,38,6,Medicaid
+INC5012,Agency A,1306.82,Biweekly,26,4,Section 8
+INC5063,Agency C,1802.48,Monthly,27,6,None
+INC5035,Agency A,21.87,Hourly,39,1,"TANF,SNAP"
+INC5018,Agency B,4635.17,Monthly,33,1,WIC
+INC5078,Agency A,4305.3,Monthly,33,5,SNAP
+INC5067,Agency B,1139.05,Biweekly,20,1,WIC
+INC5057,Agency A,1895.95,Biweekly,16,1,SNAP
+INC5026,Agency C,880.28,Weekly,18,3,SNAP
+INC5056,Agency C,354.8,Weekly,24,6,"TANF,SNAP"
+INC5052,Agency A,2337.99,Biweekly,39,1,SNAP
+INC5071,Agency B,942.42,Weekly,19,1,Medicaid
+INC5019,Agency C,46049.13,Annual,27,3,WIC
+INC5075,Agency A,18.83,Hourly,23,3,TANF
+INC5007,Agency A,593.43,Biweekly,26,1,"SNAP,Medicaid"
+INC5054,Agency B,30843.52,Annual,27,1,TANF
+INC5061,Agency A,819.38,Weekly,28,5,SNAP
+INC5020,Agency C,12.5,Hourly,22,4,TANF
+INC5039,Agency C,34095.5,Annual,31,6,None
+INC5021,Agency C,947.01,Weekly,28,5,Section 8
+INC5058,Agency A,2911.97,Monthly,31,5,"TANF,SNAP"
+INC5089,Agency B,47373.5,Annual,32,6,"SNAP,Medicaid"
+INC5060,Agency C,14.86,Hourly,33,1,WIC
+INC5008,Agency C,3864.87,Monthly,32,3,SNAP
+INC5069,Agency C,46732.48,Annual,32,5,SNAP
+INC5046,Agency B,296.93,Weekly,28,2,Medicaid
+INC5025,Agency C,14.49,Hourly,29,1,"SNAP,Medicaid"
+INC5066,Agency A,705.88,Weekly,19,1,WIC
+INC5000,Agency C,20.61,Hourly,22,1,SNAP
+INC5080,Agency B,11.57,Hourly,22,1,None
+INC5005,Agency B,19.87,Hourly,25,1,TANF
+INC5032,Agency A,1597.89,Biweekly,30,5,SNAP
+INC5024,Agency A,53564.37,Annual,28,6,TANF
+INC5049,Agency B,20537.45,Annual,32,1,WIC
+INC5087,Agency A,1720.07,Biweekly,27,2,SNAP
+INC5065,Agency A,18.56,Hourly,33,1,"TANF,SNAP"
+INC5079,Agency C,17009.5,Annual,24,2,"SNAP,Medicaid"
+INC5040,Agency B,11.82,Hourly,25,1,WIC
+INC5044,Agency A,49784.39,Annual,33,5,TANF
+INC5055,Agency B,15.19,Hourly,38,4,Section 8
+INC5076,Agency A,751.68,Weekly,28,6,"TANF,SNAP"
+INC5013,Agency A,1679.93,Monthly,23,3,None
+INC5004,Agency C,22124.23,Annual,33,6,"SNAP,Medicaid"
+INC5086,Agency A,549.66,Weekly,40,2,"TANF,SNAP"
+INC5074,Agency A,55614.14,Annual,16,1,"SNAP,Medicaid"
+INC5022,Agency C,838.64,Biweekly,19,4,None
+INC5033,Agency A,4490.63,Monthly,40,1,None
+INC5014,Agency C,43502.21,Annual,20,6,Medicaid
+INC5003,Agency A,3157.23,Monthly,37,2,SNAP
+INC5042,Agency A,857.88,Biweekly,16,6,SNAP

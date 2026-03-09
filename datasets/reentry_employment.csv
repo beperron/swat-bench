@@ -1,0 +1,81 @@
+client_id,age,gender,offense_type,pre_employed,post_employed,program_hours,housing_status
+RE-001,45,Male,Drug Offense,0,1,138,Transitional
+RE-002,26,Female,Property Crime,1,1,75,Stable Housing
+RE-003,55,Male,Drug Offense,1,1,135,Transitional
+RE-004,27,Male,Drug Offense,0,0,191,Stable Housing
+RE-005,43,Male,Other,0,0,190,Stable Housing
+RE-006,32,Male,DUI,0,0,76,Stable Housing
+RE-007,37,Female,Violent Offense,0,1,51,Unstable
+RE-008,54,Male,Property Crime,1,1,152,Unstable
+RE-009,30,Male,Drug Offense,0,1,52,Transitional
+RE-010,27,Male,Drug Offense,1,1,62,Homeless
+RE-011,37,Male,Drug Offense,0,0,138,Transitional
+RE-012,50,Female,Property Crime,1,1,144,Stable Housing
+RE-013,24,Non-binary,Violent Offense,1,1,69,Homeless
+RE-014,41,Female,Violent Offense,0,0,56,Stable Housing
+RE-015,57,Male,Drug Offense,0,1,152,Homeless
+RE-016,40,Male,Other,0,0,101,Stable Housing
+RE-017,47,Female,Violent Offense,0,0,123,Homeless
+RE-018,24,Male,Violent Offense,0,0,151,Stable Housing
+RE-019,40,Non-binary,Violent Offense,0,0,125,Homeless
+RE-020,41,Non-binary,Property Crime,0,0,180,Transitional
+RE-021,53,Female,Drug Offense,0,0,58,Homeless
+RE-022,28,Male,Property Crime,0,0,139,Stable Housing
+RE-023,54,Male,DUI,0,0,179,Transitional
+RE-024,39,Female,Drug Offense,0,0,186,Homeless
+RE-025,22,Male,Drug Offense,0,1,115,Transitional
+RE-026,32,Male,Drug Offense,1,1,48,Unstable
+RE-027,49,Male,Drug Offense,0,0,67,Unstable
+RE-028,46,Female,DUI,0,1,167,Transitional
+RE-029,44,Male,Violent Offense,0,0,91,Unstable
+RE-030,52,Male,Property Crime,0,0,122,Transitional
+RE-031,51,Male,Drug Offense,0,0,150,Homeless
+RE-032,56,Male,Property Crime,0,0,183,Stable Housing
+RE-033,28,Non-binary,Property Crime,0,1,156,Stable Housing
+RE-034,37,Male,Drug Offense,1,0,108,Homeless
+RE-035,47,Male,Property Crime,1,1,138,Homeless
+RE-036,23,Female,Property Crime,1,0,179,Transitional
+RE-037,22,Female,Violent Offense,0,1,64,Unstable
+RE-038,33,Male,Violent Offense,0,0,162,Stable Housing
+RE-039,26,Female,Drug Offense,0,1,92,Stable Housing
+RE-040,53,Male,Property Crime,0,0,190,Transitional
+RE-041,30,Male,Violent Offense,0,1,183,Transitional
+RE-042,56,Female,Property Crime,0,1,96,Transitional
+RE-043,40,Female,DUI,0,0,78,Stable Housing
+RE-044,37,Female,Violent Offense,1,1,148,Homeless
+RE-045,24,Female,Drug Offense,0,0,81,Homeless
+RE-046,41,Male,Drug Offense,0,0,181,Unstable
+RE-047,45,Male,Violent Offense,0,1,161,Transitional
+RE-048,54,Female,Drug Offense,0,1,172,Transitional
+RE-049,45,Male,Violent Offense,0,0,114,Unstable
+RE-050,32,Female,Other,0,0,185,Unstable
+RE-051,29,Female,Violent Offense,1,1,115,Stable Housing
+RE-052,57,Female,Property Crime,1,1,48,Homeless
+RE-053,41,Male,Violent Offense,1,1,113,Unstable
+RE-054,56,Male,Property Crime,1,1,184,Homeless
+RE-055,46,Male,Property Crime,0,1,46,Unstable
+RE-056,56,Male,Other,1,1,180,Unstable
+RE-057,46,Male,Property Crime,0,0,176,Transitional
+RE-058,50,Male,Other,0,1,66,Homeless
+RE-059,39,Male,Other,0,0,161,Homeless
+RE-060,39,Male,Drug Offense,0,1,44,Stable Housing
+RE-061,23,Male,Drug Offense,0,1,68,Stable Housing
+RE-062,56,Male,Drug Offense,0,0,122,Transitional
+RE-063,37,Male,Drug Offense,1,1,175,Unstable
+RE-064,57,Female,Drug Offense,0,0,148,Homeless
+RE-065,54,Male,Violent Offense,0,0,104,Stable Housing
+RE-066,25,Male,Drug Offense,0,0,125,Transitional
+RE-067,54,Male,Property Crime,0,0,184,Transitional
+RE-068,35,Female,DUI,1,1,110,Homeless
+RE-069,42,Male,Drug Offense,0,0,84,Unstable
+RE-070,41,Male,DUI,1,1,171,Unstable
+RE-071,29,Male,Drug Offense,1,0,75,Transitional
+RE-072,28,Male,Drug Offense,0,0,109,Transitional
+RE-073,24,Male,Violent Offense,0,0,198,Stable Housing
+RE-074,38,Male,Violent Offense,1,1,58,Stable Housing
+RE-075,54,Male,DUI,1,0,147,Homeless
+RE-076,33,Female,Violent Offense,1,1,130,Unstable
+RE-077,43,Non-binary,DUI,1,1,129,Homeless
+RE-078,43,Male,Drug Offense,0,1,58,Homeless
+RE-079,51,Male,Drug Offense,0,0,78,Transitional
+RE-080,29,Female,DUI,0,1,165,Unstable

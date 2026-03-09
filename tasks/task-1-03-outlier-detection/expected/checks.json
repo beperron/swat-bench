@@ -1,0 +1,75 @@
+{
+  "test_id": "task-1-03",
+  "task_name": "Outlier Detection",
+  "domain": "Data Cleaning & Validation",
+  "difficulty": "Intermediate",
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 80,
+      "points": 1.0
+    },
+    {
+      "label": "clean_records",
+      "type": "exact",
+      "pattern": "Clean records: (\\d+)",
+      "expected": 68,
+      "points": 1.0
+    },
+    {
+      "label": "impossible_totals",
+      "type": "exact",
+      "pattern": "Impossible total scores \\(outside 0-27\\): (\\d+)",
+      "expected": 3,
+      "points": 0.5
+    },
+    {
+      "label": "invalid_items",
+      "type": "exact",
+      "pattern": "Invalid item scores \\(outside 0-3\\): (\\d+)",
+      "expected": 4,
+      "points": 0.5
+    },
+    {
+      "label": "sum_mismatches",
+      "type": "exact",
+      "pattern": "Sum mismatches \\(total != sum of items\\): (\\d+)",
+      "expected": 6,
+      "points": 0.5
+    },
+    {
+      "label": "category_mismatches",
+      "type": "range",
+      "pattern": "Category mismatches: (\\d+)",
+      "min": 2,
+      "max": 5,
+      "points": 0.5
+    },
+    {
+      "label": "cleaned_mean",
+      "type": "numeric",
+      "pattern": "Mean total score: ([\\d.]+)",
+      "expected": 10.53,
+      "tolerance": 0.1,
+      "points": 0.5
+    },
+    {
+      "label": "cleaned_median",
+      "type": "numeric",
+      "pattern": "Median total score: ([\\d.]+)",
+      "expected": 9.0,
+      "tolerance": 0.5,
+      "points": 0.5
+    }
+  ],
+  "total_points": 6,
+  "auto_points": 6,
+  "human_points": 0
+}

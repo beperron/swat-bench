@@ -1,0 +1,13 @@
+program,program_label,cost_category,amount,clients_served
+Program A,Intensive Case Management,staff,180000,120
+Program A,Intensive Case Management,training,15000,120
+Program A,Intensive Case Management,supplies,5000,120
+Program A,Intensive Case Management,overhead,30000,120
+Program B,Group Therapy,staff,95000,200
+Program B,Group Therapy,training,8000,200
+Program B,Group Therapy,supplies,3000,200
+Program B,Group Therapy,overhead,15000,200
+Program C,Peer Support,staff,65000,150
+Program C,Peer Support,training,12000,150
+Program C,Peer Support,supplies,2000,150
+Program C,Peer Support,overhead,10000,150

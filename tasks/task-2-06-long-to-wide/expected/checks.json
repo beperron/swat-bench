@@ -1,0 +1,83 @@
+{
+  "test_id": "task-2-06",
+  "tier": 1,
+  "checks": [
+    {
+      "label": "code_runs",
+      "type": "execution",
+      "points": 1
+    },
+    {
+      "label": "total_records",
+      "type": "exact",
+      "pattern": "Total records: (\\d+)",
+      "expected": 293,
+      "points": 1
+    },
+    {
+      "label": "unique_students",
+      "type": "exact",
+      "pattern": "Unique students: (\\d+)",
+      "expected": 30,
+      "points": 1
+    },
+    {
+      "label": "complete_students",
+      "type": "exact",
+      "pattern": "Students with complete data: (\\d+)",
+      "expected": 24,
+      "points": 1
+    },
+    {
+      "label": "below_threshold_count",
+      "type": "exact",
+      "pattern": "Students below threshold: (\\d+)",
+      "expected": 23,
+      "points": 1
+    },
+    {
+      "label": "num_competencies",
+      "type": "exact",
+      "pattern": "Competencies: (\\d+)",
+      "expected": 5,
+      "points": 1
+    },
+    {
+      "label": "semesters",
+      "type": "regex",
+      "pattern": "Semesters: (.+)",
+      "expected_pattern": "(?i)Fall.*Spring|Spring.*Fall",
+      "points": 1
+    },
+    {
+      "label": "wide_csv_exists",
+      "type": "file_exists",
+      "filename": "wide_format.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_csv_exists",
+      "type": "file_exists",
+      "filename": "competency_summary.csv",
+      "points": 1
+    },
+    {
+      "label": "summary_exists",
+      "type": "file_exists",
+      "filename": "summary.md",
+      "points": 1
+    }
+  ],
+  "files_expected": [
+    "solution.py",
+    "wide_format.csv",
+    "competency_summary.csv",
+    "summary.md"
+  ],
+  "total_points": 10,
+  "auto_points": 10,
+  "human_points": 0,
+  "task_name": "Long-to-Wide Reshape",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Intermediate"
+}

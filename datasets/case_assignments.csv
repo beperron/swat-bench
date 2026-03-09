@@ -1,0 +1,201 @@
+case_id,worker_id,worker_name,case_type,open_date,close_date,status,days_open,successful_closure,client_satisfaction
+CS-0001,W04,James Wilson,Housing,2023-04-17,2023-07-17,Closed,91,1,3
+CS-0002,W03,Maria Garcia,Child Welfare,2023-05-11,,Open,600,0,3
+CS-0003,W12,Daniel Anderson,Substance Abuse,2023-10-21,,Open,437,0,4
+CS-0004,W04,James Wilson,Child Welfare,2023-07-07,2023-09-09,Closed,64,0,3
+CS-0005,W02,David Chen,Mental Health,2023-11-16,2024-05-20,Closed,186,0,3
+CS-0006,W11,Patricia Martinez,Mental Health,2023-09-22,,Open,466,0,3
+CS-0007,W02,David Chen,Child Welfare,2023-09-21,,Open,467,0,3
+CS-0008,W07,Amanda Davis,Child Welfare,2023-02-23,2023-03-23,Closed,28,0,4
+CS-0009,W09,Jennifer Lee,Housing,2023-09-27,2023-11-11,Closed,45,0,4
+CS-0010,W10,Christopher Taylor,Substance Abuse,2023-02-22,2023-12-31,Closed,312,1,4
+CS-0011,W03,Maria Garcia,Child Welfare,2023-10-28,,Open,430,0,4
+CS-0012,W08,Michael Brown,Substance Abuse,2023-09-18,2023-11-25,Transferred,68,0,4
+CS-0013,W11,Patricia Martinez,Housing,2023-09-25,2023-10-10,Closed,15,1,4
+CS-0014,W07,Amanda Davis,Housing,2023-08-15,,Open,504,0,3
+CS-0015,W08,Michael Brown,Substance Abuse,2023-08-06,,Open,513,0,3
+CS-0016,W05,Lisa Thompson,Child Welfare,2023-12-18,2024-01-30,Closed,43,1,4
+CS-0017,W11,Patricia Martinez,Child Welfare,2023-08-25,2023-09-24,Closed,30,0,5
+CS-0018,W10,Christopher Taylor,Mental Health,2023-03-03,2023-09-13,Closed,194,0,4
+CS-0019,W02,David Chen,Housing,2023-11-27,2023-12-18,Closed,21,1,3
+CS-0020,W07,Amanda Davis,Child Welfare,2023-08-21,2023-09-16,Closed,26,1,4
+CS-0021,W05,Lisa Thompson,Substance Abuse,2023-08-22,2024-05-15,Closed,267,1,5
+CS-0022,W04,James Wilson,Housing,2023-02-21,,Open,679,0,4
+CS-0023,W08,Michael Brown,Substance Abuse,2023-04-11,2023-04-24,Closed,13,1,3
+CS-0024,W03,Maria Garcia,Housing,2023-05-06,,Open,605,0,4
+CS-0025,W05,Lisa Thompson,Housing,2023-09-04,2024-01-21,Closed,139,1,3
+CS-0026,W07,Amanda Davis,Mental Health,2023-08-28,2023-09-21,Closed,24,1,5
+CS-0027,W08,Michael Brown,Housing,2023-09-09,2023-09-20,Closed,11,1,4
+CS-0028,W02,David Chen,Substance Abuse,2023-05-08,2023-10-28,Closed,173,0,3
+CS-0029,W08,Michael Brown,Child Welfare,2023-10-25,2024-02-09,Closed,107,0,5
+CS-0030,W03,Maria Garcia,Child Welfare,2023-05-20,2023-12-08,Closed,202,1,5
+CS-0031,W03,Maria Garcia,Substance Abuse,2023-07-27,2023-12-09,Transferred,135,0,4
+CS-0032,W01,Sarah Mitchell,Child Welfare,2023-04-14,2023-04-24,Closed,10,1,4
+CS-0033,W07,Amanda Davis,Child Welfare,2023-12-04,2024-02-05,Closed,63,0,2
+CS-0034,W04,James Wilson,Substance Abuse,2023-07-14,2023-10-07,Closed,85,1,3
+CS-0035,W04,James Wilson,Child Welfare,2023-08-26,2024-08-17,Closed,357,1,3
+CS-0036,W04,James Wilson,Mental Health,2023-11-13,2024-02-07,Closed,86,0,4
+CS-0037,W01,Sarah Mitchell,Housing,2023-06-07,2023-11-06,Transferred,152,0,3
+CS-0038,W12,Daniel Anderson,Housing,2023-04-26,2023-06-18,Closed,53,0,4
+CS-0039,W03,Maria Garcia,Child Welfare,2023-10-08,2024-04-02,Closed,177,0,3
+CS-0040,W03,Maria Garcia,Child Welfare,2023-09-30,2023-10-23,Closed,23,0,5
+CS-0041,W06,Robert Johnson,Child Welfare,2023-01-26,2023-08-05,Closed,191,0,4
+CS-0042,W09,Jennifer Lee,Mental Health,2023-05-22,2023-06-20,Transferred,29,0,5
+CS-0043,W04,James Wilson,Child Welfare,2023-08-03,2023-09-17,Closed,45,1,3
+CS-0044,W01,Sarah Mitchell,Child Welfare,2023-04-11,2023-08-31,Closed,142,1,4
+CS-0045,W07,Amanda Davis,Child Welfare,2023-12-31,,Open,366,0,5
+CS-0046,W02,David Chen,Child Welfare,2023-05-04,2023-05-17,Closed,13,1,3
+CS-0047,W05,Lisa Thompson,Substance Abuse,2023-12-12,,Open,385,0,3
+CS-0048,W02,David Chen,Child Welfare,2023-10-17,,Open,441,0,5
+CS-0049,W01,Sarah Mitchell,Child Welfare,2023-08-25,2024-06-08,Closed,288,0,5
+CS-0050,W04,James Wilson,Child Welfare,2023-05-24,,Open,587,0,4
+CS-0051,W01,Sarah Mitchell,Child Welfare,2023-08-08,,Open,511,0,3
+CS-0052,W01,Sarah Mitchell,Mental Health,2023-02-08,2023-04-15,Closed,66,0,5
+CS-0053,W01,Sarah Mitchell,Housing,2023-04-10,,Open,631,0,5
+CS-0054,W05,Lisa Thompson,Housing,2023-11-21,2024-02-25,Closed,96,0,2
+CS-0055,W11,Patricia Martinez,Housing,2023-06-09,2023-08-04,Transferred,56,0,5
+CS-0056,W05,Lisa Thompson,Mental Health,2023-04-11,2023-09-22,Closed,164,0,3
+CS-0057,W02,David Chen,Child Welfare,2023-01-12,,Open,719,0,3
+CS-0058,W03,Maria Garcia,Substance Abuse,2023-03-31,2023-05-07,Closed,37,1,4
+CS-0059,W08,Michael Brown,Child Welfare,2023-03-16,2023-06-08,Transferred,84,0,3
+CS-0060,W02,David Chen,Substance Abuse,2023-07-11,2023-11-16,Closed,128,1,4
+CS-0061,W03,Maria Garcia,Mental Health,2023-05-31,2023-09-30,Transferred,122,0,5
+CS-0062,W09,Jennifer Lee,Child Welfare,2023-09-30,2023-12-10,Closed,71,1,3
+CS-0063,W03,Maria Garcia,Child Welfare,2023-04-10,,Open,631,0,4
+CS-0064,W12,Daniel Anderson,Mental Health,2023-05-24,2023-07-04,Closed,41,1,3
+CS-0065,W07,Amanda Davis,Substance Abuse,2023-05-31,2023-06-20,Closed,20,0,5
+CS-0066,W12,Daniel Anderson,Substance Abuse,2023-09-10,2023-11-08,Closed,59,1,4
+CS-0067,W04,James Wilson,Housing,2023-07-13,,Open,537,0,2
+CS-0068,W09,Jennifer Lee,Housing,2023-08-05,2023-09-22,Closed,48,0,2
+CS-0069,W05,Lisa Thompson,Child Welfare,2023-06-16,2024-01-25,Closed,223,1,3
+CS-0070,W05,Lisa Thompson,Child Welfare,2023-11-13,2024-03-24,Closed,132,0,3
+CS-0071,W03,Maria Garcia,Mental Health,2023-11-08,2024-01-08,Closed,61,0,4
+CS-0072,W03,Maria Garcia,Child Welfare,2023-08-01,2023-08-10,Transferred,9,0,4
+CS-0073,W06,Robert Johnson,Housing,2023-02-16,2023-06-13,Closed,117,1,4
+CS-0074,W11,Patricia Martinez,Child Welfare,2023-01-12,2023-01-20,Transferred,8,0,5
+CS-0075,W04,James Wilson,Child Welfare,2023-01-08,,Open,723,0,3
+CS-0076,W02,David Chen,Child Welfare,2023-12-23,2024-09-10,Transferred,262,0,5
+CS-0077,W08,Michael Brown,Mental Health,2023-07-31,2023-09-07,Closed,38,1,5
+CS-0078,W11,Patricia Martinez,Child Welfare,2023-10-13,2023-10-20,Transferred,7,0,2
+CS-0079,W01,Sarah Mitchell,Child Welfare,2023-03-06,2024-03-29,Closed,389,1,3
+CS-0080,W10,Christopher Taylor,Mental Health,2023-04-08,,Open,633,0,5
+CS-0081,W02,David Chen,Child Welfare,2023-11-07,2024-02-20,Transferred,105,0,5
+CS-0082,W11,Patricia Martinez,Substance Abuse,2023-05-25,,Open,586,0,4
+CS-0083,W02,David Chen,Child Welfare,2023-06-22,2023-07-25,Closed,33,0,2
+CS-0084,W01,Sarah Mitchell,Substance Abuse,2023-06-11,2023-11-28,Closed,170,1,5
+CS-0085,W10,Christopher Taylor,Housing,2023-08-10,2023-11-08,Closed,90,1,5
+CS-0086,W07,Amanda Davis,Substance Abuse,2023-04-13,,Open,628,0,3
+CS-0087,W01,Sarah Mitchell,Child Welfare,2023-04-08,2023-06-29,Closed,82,1,4
+CS-0088,W05,Lisa Thompson,Housing,2023-01-30,2023-08-06,Closed,188,0,5
+CS-0089,W02,David Chen,Housing,2023-11-26,2023-12-12,Closed,16,1,2
+CS-0090,W02,David Chen,Mental Health,2023-04-21,,Open,620,0,4
+CS-0091,W02,David Chen,Child Welfare,2023-01-08,,Open,723,0,3
+CS-0092,W10,Christopher Taylor,Mental Health,2023-06-09,,Open,571,0,5
+CS-0093,W02,David Chen,Child Welfare,2023-01-05,2023-02-22,Closed,48,1,5
+CS-0094,W04,James Wilson,Housing,2023-03-19,2023-05-02,Closed,44,1,5
+CS-0095,W05,Lisa Thompson,Substance Abuse,2023-02-25,2023-08-01,Transferred,157,0,3
+CS-0096,W09,Jennifer Lee,Substance Abuse,2023-09-10,2023-10-31,Transferred,51,0,3
+CS-0097,W11,Patricia Martinez,Child Welfare,2023-01-28,2023-04-03,Closed,65,0,4
+CS-0098,W05,Lisa Thompson,Mental Health,2023-10-01,2023-12-18,Closed,78,1,4
+CS-0099,W03,Maria Garcia,Child Welfare,2023-07-21,2024-01-12,Closed,175,1,2
+CS-0100,W04,James Wilson,Mental Health,2023-03-08,2023-05-15,Closed,68,1,4
+CS-0101,W08,Michael Brown,Mental Health,2023-08-24,,Open,495,0,3
+CS-0102,W07,Amanda Davis,Mental Health,2023-11-11,2024-01-10,Transferred,60,0,2
+CS-0103,W03,Maria Garcia,Child Welfare,2023-07-17,2023-09-25,Closed,70,0,4
+CS-0104,W11,Patricia Martinez,Child Welfare,2023-04-28,2023-05-24,Closed,26,0,4
+CS-0105,W11,Patricia Martinez,Mental Health,2023-01-26,2023-06-17,Closed,142,1,3
+CS-0106,W05,Lisa Thompson,Child Welfare,2023-02-16,2023-07-07,Closed,141,1,2
+CS-0107,W05,Lisa Thompson,Housing,2023-11-29,2023-12-13,Closed,14,1,3
+CS-0108,W08,Michael Brown,Substance Abuse,2023-02-07,2023-03-27,Closed,48,0,4
+CS-0109,W10,Christopher Taylor,Housing,2023-11-30,2024-09-12,Transferred,287,0,3
+CS-0110,W11,Patricia Martinez,Substance Abuse,2023-03-01,2023-03-24,Closed,23,0,3
+CS-0111,W02,David Chen,Child Welfare,2023-08-01,,Open,518,0,4
+CS-0112,W11,Patricia Martinez,Child Welfare,2023-02-11,2023-07-23,Closed,162,1,2
+CS-0113,W04,James Wilson,Mental Health,2023-12-19,2024-02-29,Closed,72,1,3
+CS-0114,W06,Robert Johnson,Housing,2023-02-08,,Open,692,0,4
+CS-0115,W11,Patricia Martinez,Mental Health,2023-02-11,,Open,689,0,4
+CS-0116,W06,Robert Johnson,Housing,2023-06-06,,Open,574,0,4
+CS-0117,W03,Maria Garcia,Child Welfare,2023-10-16,,Open,442,0,5
+CS-0118,W10,Christopher Taylor,Child Welfare,2023-10-21,2023-12-12,Closed,52,1,4
+CS-0119,W07,Amanda Davis,Mental Health,2023-05-16,,Open,595,0,4
+CS-0120,W08,Michael Brown,Mental Health,2023-08-31,2024-01-01,Closed,123,1,3
+CS-0121,W10,Christopher Taylor,Housing,2023-12-26,2024-02-20,Closed,56,1,4
+CS-0122,W07,Amanda Davis,Child Welfare,2023-11-12,2023-12-01,Closed,19,0,5
+CS-0123,W09,Jennifer Lee,Child Welfare,2023-05-07,,Open,604,0,5
+CS-0124,W04,James Wilson,Substance Abuse,2023-10-23,2024-06-06,Closed,227,1,5
+CS-0125,W03,Maria Garcia,Child Welfare,2023-07-01,2023-08-16,Closed,46,1,4
+CS-0126,W04,James Wilson,Substance Abuse,2023-07-21,2023-07-31,Closed,10,1,2
+CS-0127,W04,James Wilson,Mental Health,2023-03-16,2023-04-27,Transferred,42,0,4
+CS-0128,W06,Robert Johnson,Child Welfare,2023-09-08,,Open,480,0,3
+CS-0129,W02,David Chen,Mental Health,2023-07-17,,Open,533,0,4
+CS-0130,W03,Maria Garcia,Child Welfare,2023-02-18,,Open,682,0,3
+CS-0131,W12,Daniel Anderson,Child Welfare,2023-04-28,2023-06-17,Transferred,50,0,3
+CS-0132,W03,Maria Garcia,Child Welfare,2023-07-30,2023-10-04,Closed,66,0,3
+CS-0133,W04,James Wilson,Substance Abuse,2023-01-19,,Open,712,0,3
+CS-0134,W06,Robert Johnson,Mental Health,2023-04-24,2023-09-11,Closed,140,1,5
+CS-0135,W03,Maria Garcia,Child Welfare,2023-05-11,2023-06-18,Closed,38,0,3
+CS-0136,W02,David Chen,Substance Abuse,2023-12-15,2024-03-06,Closed,82,1,3
+CS-0137,W02,David Chen,Mental Health,2023-11-24,,Open,403,0,3
+CS-0138,W07,Amanda Davis,Child Welfare,2023-10-18,,Open,440,0,4
+CS-0139,W08,Michael Brown,Housing,2023-06-14,,Open,566,0,2
+CS-0140,W01,Sarah Mitchell,Mental Health,2023-06-10,,Open,570,0,3
+CS-0141,W01,Sarah Mitchell,Child Welfare,2023-02-05,2023-06-04,Closed,119,0,2
+CS-0142,W10,Christopher Taylor,Child Welfare,2023-04-29,2023-08-05,Closed,98,1,4
+CS-0143,W06,Robert Johnson,Mental Health,2023-12-21,2024-03-21,Transferred,91,0,4
+CS-0144,W09,Jennifer Lee,Mental Health,2023-04-25,2023-09-03,Closed,131,0,3
+CS-0145,W04,James Wilson,Child Welfare,2023-10-05,2024-10-23,Closed,384,1,3
+CS-0146,W01,Sarah Mitchell,Housing,2023-12-07,2024-02-17,Closed,72,1,3
+CS-0147,W04,James Wilson,Mental Health,2023-03-17,,Open,655,0,5
+CS-0148,W07,Amanda Davis,Child Welfare,2023-06-22,2023-08-17,Closed,56,0,5
+CS-0149,W04,James Wilson,Child Welfare,2023-11-06,2023-11-23,Closed,17,0,3
+CS-0150,W03,Maria Garcia,Child Welfare,2023-04-23,2023-07-26,Closed,94,0,2
+CS-0151,W04,James Wilson,Housing,2023-03-10,2023-04-17,Closed,38,0,4
+CS-0152,W10,Christopher Taylor,Housing,2023-07-20,2023-08-09,Closed,20,1,3
+CS-0153,W08,Michael Brown,Mental Health,2023-04-14,2023-05-19,Closed,35,0,4
+CS-0154,W03,Maria Garcia,Mental Health,2023-10-02,2024-03-08,Closed,158,0,4
+CS-0155,W09,Jennifer Lee,Substance Abuse,2023-10-30,,Open,428,0,5
+CS-0156,W08,Michael Brown,Mental Health,2023-07-19,,Open,531,0,4
+CS-0157,W05,Lisa Thompson,Child Welfare,2023-12-31,2024-01-14,Closed,14,1,2
+CS-0158,W01,Sarah Mitchell,Substance Abuse,2023-06-25,,Open,555,0,3
+CS-0159,W04,James Wilson,Substance Abuse,2023-08-11,2023-12-05,Transferred,116,0,4
+CS-0160,W01,Sarah Mitchell,Mental Health,2023-04-18,,Open,623,0,3
+CS-0161,W01,Sarah Mitchell,Substance Abuse,2023-07-02,2023-09-26,Closed,86,0,5
+CS-0162,W08,Michael Brown,Mental Health,2023-04-18,,Open,623,0,4
+CS-0163,W01,Sarah Mitchell,Housing,2023-09-08,2023-10-28,Transferred,50,0,3
+CS-0164,W05,Lisa Thompson,Mental Health,2023-08-24,2023-11-24,Transferred,92,0,5
+CS-0165,W04,James Wilson,Mental Health,2023-03-06,,Open,666,0,3
+CS-0166,W03,Maria Garcia,Child Welfare,2023-10-20,,Open,438,0,3
+CS-0167,W01,Sarah Mitchell,Housing,2023-03-14,,Open,658,0,3
+CS-0168,W12,Daniel Anderson,Substance Abuse,2023-07-17,2023-11-28,Transferred,134,0,3
+CS-0169,W07,Amanda Davis,Housing,2023-08-14,,Open,505,0,4
+CS-0170,W07,Amanda Davis,Mental Health,2023-11-26,,Open,401,0,4
+CS-0171,W04,James Wilson,Child Welfare,2023-09-16,2024-02-18,Closed,155,0,4
+CS-0172,W07,Amanda Davis,Mental Health,2023-06-27,2024-11-08,Closed,500,0,2
+CS-0173,W05,Lisa Thompson,Mental Health,2023-03-30,2023-06-26,Closed,88,1,3
+CS-0174,W02,David Chen,Housing,2023-08-14,2023-11-26,Transferred,104,0,4
+CS-0175,W07,Amanda Davis,Mental Health,2023-08-14,2023-10-04,Closed,51,1,3
+CS-0176,W01,Sarah Mitchell,Child Welfare,2023-10-11,,Open,447,0,5
+CS-0177,W10,Christopher Taylor,Mental Health,2023-08-12,2024-03-22,Closed,223,1,4
+CS-0178,W10,Christopher Taylor,Substance Abuse,2023-08-04,2023-11-18,Closed,106,0,5
+CS-0179,W10,Christopher Taylor,Substance Abuse,2023-12-29,,Open,368,0,3
+CS-0180,W10,Christopher Taylor,Housing,2023-09-06,,Open,482,0,4
+CS-0181,W10,Christopher Taylor,Child Welfare,2023-12-29,,Open,368,0,5
+CS-0182,W03,Maria Garcia,Child Welfare,2023-01-13,2024-01-15,Closed,367,0,4
+CS-0183,W03,Maria Garcia,Mental Health,2023-12-10,2024-01-01,Closed,22,1,3
+CS-0184,W10,Christopher Taylor,Child Welfare,2023-12-01,2023-12-12,Transferred,11,0,3
+CS-0185,W11,Patricia Martinez,Substance Abuse,2023-08-30,2023-09-14,Transferred,15,0,4
+CS-0186,W05,Lisa Thompson,Child Welfare,2023-04-30,,Open,611,0,4
+CS-0187,W10,Christopher Taylor,Housing,2023-10-12,2024-01-23,Closed,103,0,3
+CS-0188,W10,Christopher Taylor,Child Welfare,2023-02-27,,Open,673,0,3
+CS-0189,W02,David Chen,Mental Health,2023-01-04,2023-03-09,Closed,64,1,4
+CS-0190,W02,David Chen,Child Welfare,2023-03-25,2023-05-02,Closed,38,0,4
+CS-0191,W02,David Chen,Mental Health,2023-01-21,2023-05-22,Transferred,121,0,2
+CS-0192,W03,Maria Garcia,Substance Abuse,2023-06-11,,Open,569,0,3
+CS-0193,W01,Sarah Mitchell,Substance Abuse,2023-01-12,2023-03-20,Closed,67,1,3
+CS-0194,W01,Sarah Mitchell,Child Welfare,2023-01-27,2023-06-14,Closed,138,0,3
+CS-0195,W02,David Chen,Child Welfare,2023-11-12,2023-11-29,Transferred,17,0,5
+CS-0196,W03,Maria Garcia,Mental Health,2023-11-15,2023-12-30,Closed,45,1,5
+CS-0197,W05,Lisa Thompson,Housing,2023-07-28,,Open,522,0,3
+CS-0198,W05,Lisa Thompson,Mental Health,2023-02-01,2023-06-18,Closed,137,0,3
+CS-0199,W11,Patricia Martinez,Substance Abuse,2023-06-28,,Open,552,0,3
+CS-0200,W07,Amanda Davis,Substance Abuse,2023-07-21,2024-04-11,Closed,265,1,3

@@ -1,0 +1,69 @@
+{
+  "test_id": "task-2-01",
+  "task_name": "Data Filtering",
+  "domain": "Data Preparation & Transformation",
+  "difficulty": "Foundational",
+  "checks": [
+    {
+      "type": "execution",
+      "points": 1,
+      "label": "code_runs"
+    },
+    {
+      "type": "exact",
+      "points": 1.0,
+      "expected": 300,
+      "pattern": "Total records in database: (\\d+)",
+      "label": "check_1"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 3,
+      "pattern": "Final subset size: (\\d+)",
+      "label": "check_2"
+    },
+    {
+      "type": "exact",
+      "points": 0.5,
+      "expected": 155,
+      "pattern": "After filter \\(Female\\): (\\d+)",
+      "label": "check_3"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 27.0,
+      "tolerance": 0.2,
+      "pattern": "Subset mean age: ([\\d.]+)",
+      "label": "check_4"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 24.7,
+      "tolerance": 0.2,
+      "pattern": "Subset mean sessions: ([\\d.]+)",
+      "label": "check_5"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 52.93,
+      "tolerance": 0.1,
+      "pattern": "Subset mean outcome score: ([\\d.]+)",
+      "label": "check_6"
+    },
+    {
+      "type": "numeric",
+      "points": 0.5,
+      "expected": 33.3,
+      "tolerance": 1.0,
+      "pattern": "Subset discharge rate \\(Completed\\): ([\\d.]+)%",
+      "label": "check_7"
+    }
+  ],
+  "total_points": 5,
+  "auto_points": 5,
+  "human_points": 0
+}
