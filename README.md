@@ -18,6 +18,8 @@ Social work agencies, researchers, and doctoral students increasingly rely on da
 
 Locally-hosted LLMs offer a compelling solution: an AI coding assistant that runs entirely on institutional hardware, never transmitting sensitive client data to external servers. But before recommending these tools to practitioners, we need rigorous evidence of their capabilities and limitations on the specific types of data tasks social workers actually perform.
 
+**Important design note:** While every task is framed within a social work context (child welfare, mental health, substance use treatment, housing, criminal justice, health equity), the benchmark deliberately avoids requiring domain expertise to produce correct answers. The analytical tasks — data cleaning, statistical tests, rate calculations, multi-file merges — are domain-general skills that could be formulated in any applied research setting. Social work provides the contextual scaffolding and realistic data structures, but the computational requirements are entirely self-contained in the prompt. This makes SWAT-Bench's task designs readily adaptable to other fields.
+
 ### What We Test
 
 | # | Capability | Description |
